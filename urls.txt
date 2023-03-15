@@ -31,3 +31,7 @@ pages/2014.html	https://en.wikipedia.org/w/index.php?action=edit&title=2014_NCAA
 pages/2015.html	https://en.wikipedia.org/w/index.php?action=edit&title=2015_NCAA_Division_I_Men%27s_Basketball_Tournament
 pages/2016.html	https://en.wikipedia.org/w/index.php?action=edit&title=2016_NCAA_Division_I_Men%27s_Basketball_Tournament
 pages/2017.html	https://en.wikipedia.org/w/index.php?action=edit&title=2017_NCAA_Division_I_Men%27s_Basketball_Tournament
+pages/2018.html	https://en.wikipedia.org/w/index.php?action=edit&title=2018_NCAA_Division_I_Men%27s_Basketball_Tournament
+pages/2019.html	https://en.wikipedia.org/w/index.php?action=edit&title=2019_NCAA_Division_I_Men%27s_Basketball_Tournament
+pages/2021.html	https://en.wikipedia.org/w/index.php?action=edit&title=2021_NCAA_Division_I_Men%27s_Basketball_Tournament
+pages/2022.html	https://en.wikipedia.org/w/index.php?action=edit&title=2022_NCAA_Division_I_Men%27s_Basketball_Tournament

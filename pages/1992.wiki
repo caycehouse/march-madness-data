@@ -33,11 +33,11 @@ The '''1992 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schoo
 
 [[Duke Blue Devils men's basketball|Duke]], coached by [[Mike Krzyzewski]], defeated the Michigan Wolverines, coached by [[Steve Fisher]], 71–51 to claim their second consecutive national championship.<ref>{{YouTube|rBQ4-zr22Nc|1992 NCAA Basketball National Championship Game}}</ref> [[Bobby Hurley]] of Duke was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]]. Michigan subsequently vacated its final two tournament games as part of the [[University of Michigan basketball scandal]].
 
-This tournament is best remembered for the East regional final pitting Duke and [[University of Kentucky|Kentucky]] at [[Spectrum (arena)|The Spectrum]] in Philadelphia. With 2.1 seconds remaining in overtime, Duke trailed 103–102. [[Grant Hill]] threw a pass the length of the court to [[Christian Laettner]], who dribbled once, turned, and hit a jumper as time expired for the 104–103 win. ''[[Sports Illustrated]]'' deemed it the greatest college basketball game of all time,<ref>Matthew Waxman = [http://sportsillustrated.cnn.com/2004/sioncampus/03/10/greatest_games0311/ 16 Greatest Games] Sports Illustrated (On Campus), March 10, 2004</ref> and ESPN included it as number 17 on its list of top 100 sports moments of the past 25 years (see [[ESPN25]]). It is number one on the USA Today list of the greatest NCAA tournament games of all time.<ref>Mike Douchant – [https://www.usatoday.com/sports/college/basketball/men/02tourney/greatest-games.htm Greatest 63 games in NCAA Tournament history]. The Sports Xchange, published in USA Today, March 25, 2002</ref> This tournament also saw darkhorse [[Cincinnati Bearcats men's basketball|Cincinnati]] crash the Final Four en route to returning to national prominence. 
+This tournament is best remembered for the East regional final pitting Duke and [[University of Kentucky|Kentucky]] at [[Spectrum (arena)|The Spectrum]] in Philadelphia. With 2.1 seconds remaining in overtime, Duke trailed 103–102. [[Grant Hill]] threw a pass the length of the court to [[Christian Laettner]], who dribbled once, turned, and hit a jumper as time expired for the 104–103 win. ''[[Sports Illustrated]]'' deemed it the greatest college basketball game of all time,<ref>Matthew Waxman = [http://sportsillustrated.cnn.com/2004/sioncampus/03/10/greatest_games0311/ 16 Greatest Games] Sports Illustrated (On Campus), March 10, 2004</ref> and ESPN included it as number 17 on its list of top 100 sports moments of the past 25 years (see [[ESPN25]]). It is number one on the USA Today list of the greatest NCAA tournament games of all time.<ref>Mike Douchant – [https://www.usatoday.com/sports/college/basketball/men/02tourney/greatest-games.htm Greatest 63 games in NCAA Tournament history]. The Sports Xchange, published in USA Today, March 25, 2002</ref> This tournament also saw darkhorse [[Cincinnati Bearcats men's basketball|Cincinnati]] crash the Final Four en route to returning to national prominence.
 
 ==Locations==
 
-{{Location map+|USA|width=450|float=right|caption=1992 first and second rounds|places= 
+{{Location map+|USA|width=450|float=right|caption=1992 first and second rounds|places=
 {{Location map~|USA|mark=green pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=bottom|background=#FFFFFF|label=Atlanta|link=Omni Coliseum}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=43.618710|lon_deg=-116.214607|position=bottom|background=#FFFFFF|label=Boise|link=Taco Bell Arena|BSU Pavilion}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=39.103118|lon_deg=-84.512020|position=bottom|background=#FFFFFF|label=Cincinnati|link=US Bank Arena|Riverfront Coliseum}}
@@ -93,7 +93,7 @@ This tournament is best remembered for the East regional final pitting Duke and 
 {| class="wikitable"
 ! Region !! Site !! Venue
 |-
-| '''East''' 
+| '''East'''
 |[[Philadelphia|Philadelphia, Pennsylvania]]
 |[[Spectrum (arena)|Spectrum]]
 |-
@@ -222,7 +222,7 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
 |-
 | Southeast || 16|| [[Mississippi Valley State Delta Devils basketball|Mississippi Valley State]] || [[Lafayette Stribling]] || Round of 64||1 [[1991–92 Ohio State Buckeyes men's basketball team|Ohio State]]||L 83–56
 |-
-! colspan=7 | West 
+! colspan=7 | West
 |-
 | West || 1|| [[1991–92 UCLA Bruins men's basketball team|UCLA]] || [[Jim Harrick]] || Regional Runner-up||2 [[1991–92 Indiana Hoosiers men's basketball team|Indiana]]||L 106–79
 |-
@@ -262,7 +262,7 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
 <nowiki>*</nowiki> – Denotes overtime period
 
 ===East Regional – Philadelphia, Pennsylvania===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals 
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals
  | subgroup1= '''[[Greensboro Coliseum|Greensboro]]'''
  | subgroup2= '''[[Greensboro Coliseum|Greensboro]]'''
  | subgroup3= '''[[Worcester Centrum|Worcester]]'''
@@ -659,7 +659,7 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
  | RD1-team2=Indiana
  | RD1-score2=78
  | RD1-seed3=S6
- | RD1-team3='''Michigan'''#
+ | RD1-team3='''Michigan'''
  | RD1-score3='''76'''
  | RD1-seed4=M4
  | RD1-team4=Cincinnati
@@ -668,7 +668,7 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
  | RD2-team1='''Duke'''
  | RD2-score1='''71'''
  | RD2-seed2=S6
- | RD2-team2=Michigan#
+ | RD2-team2=Michigan
  | RD2-score2=51
 }}
 
