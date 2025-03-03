@@ -1,6 +1,6 @@
 # March Madness Data
 
-This repo contains JSON files for all the NCAA brackets from 1985–2017.
+This repo contains JSON files for all the NCAA brackets from 1985–2024.
 
 ## Results
 
