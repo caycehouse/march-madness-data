@@ -3,6 +3,10 @@
 
 import sys
 
+# Fix BS4 issue with Python 3.10+
+import collections
+collections.Callable = collections.abc.Callable
+
 from bs4 import BeautifulSoup
 
 
