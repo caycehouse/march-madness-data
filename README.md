@@ -245,5 +245,5 @@ use the URLs in `urls.txt` as a template.
 cat urls.txt | xargs -n 2 curl -o
 ```
 
-[2008]: https://en.wikipedia.org/wiki/2008_NCAA_Division_I_Men%27s_Basketball_Tournament
-[2011]: https://en.wikipedia.org/wiki/2011_NCAA_Division_I_Men%27s_Basketball_Tournament
+[2008]: https://en.wikipedia.org/wiki/2008_NCAA_Division_I_men%27s_basketball_tournament
+[2011]: https://en.wikipedia.org/wiki/2011_NCAA_Division_I_men%27s_basketball_tournament
