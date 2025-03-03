@@ -1,59 +1,66 @@
-{{Infobox NCAA Basketball Tournament |
+{{Short description|Edition of USA college basketball tournament}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox NCAA basketball tournament
 | Year=1996
 | Image=1996FinalFour.png
 | ImageSize=150px
-| Caption=1996 Final Four logo
+| Caption=
 | Teams=64
 | FinalFourArena=[[Continental Airlines Arena]]
 | FinalFourCity=[[East Rutherford, New Jersey]]
-| Champions=[[1995–96 Kentucky Wildcats men's basketball team|Kentucky]]
+| Champions=[[1995–96 Kentucky Wildcats men's basketball team|Kentucky Wildcats]]
 | TitleCount=6th
 | ChampGameCount=8th
 | ChampFFCount=11th
-| RunnerUp=[[1995–96 Syracuse Orangemen basketball team|Syracuse]]
+| RunnerUp=[[1995–96 Syracuse Orangemen basketball team|Syracuse Orangemen]]
 | GameCount=2nd
 | RunnerFFCount=3rd
-| Semifinal1=[[1995–96 UMass Minutemen basketball team|Massachusetts]] (Vacated)
+| Semifinal1=[[1995–96 UMass Minutemen basketball team|UMass Minutemen]] (Vacated)
 | FinalFourCount=1st
-| Semifinal2=[[Mississippi State Bulldogs men's basketball|Mississippi State]]
+| Semifinal2=[[1995–96 Mississippi State Bulldogs men's basketball team|Mississippi State Bulldogs]]
 | FinalFourCount2=1st
 | Coach=[[Rick Pitino]]
 | CoachCount=1st
 | MOP=[[Tony Delk]]
 | MOPTeam=Kentucky
 | Attendance=631,834
-| OneTopScorer=*
-| TwoTopScorpoopy=
 | TopScorer=[[John Wallace (basketball)|John Wallace]]
 | TopScorerTeam=Syracuse
-| Points=131
+| Points= 29
 }}
-The '''1996 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 14, 1996, and ended with the championship game on April 1 at [[Continental Airlines Arena]] (now known as Izod Center) in the [[Meadowlands Sports Complex]] in [[East Rutherford, New Jersey]]. A total of 63 games were played.
+
+The '''1996 [[NCAA Division I men's basketball tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 14, 1996, and ended with the [[1996 NCAA Division I Men's Basketball Championship Game|championship game]] on April 1 at [[Continental Airlines Arena]] (now known as Meadowlands Arena) in the [[Meadowlands Sports Complex]] in [[East Rutherford, New Jersey]]. A total of 63 games were played.<ref>{{Cite web |title=1996 NCAA tournament: Bracket, scores, stats, records {{!}} NCAA.com |url=https://www.ncaa.com/news/basketball-men/article/2020-05-11/1996-ncaa-tournament-bracket-scores-stats-records?amp |access-date=2024-12-09 |website=www.ncaa.com |language=en}}</ref>
 
 The Final Four venue was notable for several reasons:
-*This marked the first time that the NCAA finals had been held in [[New York metropolitan area|Greater New York]] since [[1950 NCAA Men's Division I Basketball Tournament|1950]].
+*This marked the first time that the NCAA finals had been held in [[New York metropolitan area|Greater New York]] since [[1950 NCAA Basketball Tournament|1950]].
 *This was also the last (men's) Final Four to be held in a basketball/hockey-specific facility. Every Final Four since has been held in a domed stadium (usually built for football) because of NCAA venue capacity requirements. Therefore, this was also the ''last'' time the NCAA finals have been held in the Greater New York area and the [[Northeastern United States]] (for the time being).
-The Final Four consisted of [[1995–96 Kentucky Wildcats men's basketball team|Kentucky]], making their first appearance in the Final Four since 1993 and eleventh overall, [[1995–96 UMass Minutemen basketball team|Massachusetts]], making their first ever appearance in the Final Four, [[1995–96 Syracuse Orangemen basketball team|Syracuse]], making their third appearance in the Final Four and first since 1987, and [[Mississippi State Bulldogs men's basketball|Mississippi State]], also making their first appearance.
+The Final Four consisted of [[1995–96 Kentucky Wildcats men's basketball team|Kentucky]], making its first appearance in the Final Four since 1993 and eleventh overall, [[1995–96 UMass Minutemen basketball team|Massachusetts]], making its first ever appearance in the Final Four, [[1995–96 Syracuse Orangemen basketball team|Syracuse]], making its third appearance in the Final Four and first since 1987, and [[Mississippi State Bulldogs men's basketball|Mississippi State]], also making its first appearance.
 
-Kentucky won their sixth national championship by defeating Syracuse in the final game 76–67.
+Kentucky, coached by [[Rick Pitino]], won its sixth national championship by defeating Syracuse in the final game 76–67. It was the Orangemen's second championship game loss under coach [[Jim Boeheim]], joining a 74-73 defeat vs. [[1986-87 Indiana Hoosiers men's basketball team|Indiana]] in [[1987 NCAA Division I men's basketball tournament|1987]] (Boeheim and Syracuse finally won the championship in [[2003 NCAA Division I men's basketball tournament|2003]]). 
 
-[[Tony Delk]] of Kentucky was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]]. Kentucky's run to the championship was one of the most dominant in NCAA tournament history, as the Wildcats won each of their first four games by at least 20 points and won every game by at least 7 points.
+The championship game the second Final Four meeting between Pitino and Boeheim. Boeheim's Orangemen defeated Pitino's [[1986-87 Providence Friars men's basketball team|Providence Friars]] in the 1987 semifinals. 
 
-The committee that put together the bracket in 1996 was criticized for placing what seemed to be the best two teams in college basketball – [[1995–96 UMass Minutemen basketball team|Massachusetts]] and Kentucky – on the same side of the bracket so that they faced each other in the national semifinal – not the final game itself.{{Citation needed|date=March 2011}}  Note that there are guidelines that the selection committee follows. In 2004 the procedure would be changed so that the regional sites would first be assigned their #1 seeds, then would be placed in the bracket so that the #1 overall seed would face the fourth #1 seed while the second #1 seed would face the third #1 seed, barring any upsets.  However, it must also be noted that although Kentucky was the tourney favorite, Connecticut was the presumed #1 overall seed that season, after compiling a 30–2 record during the season in a strong Big East Conference, including a conference tournament victory.{{Citation needed|date=December 2016}}  Meanwhile, Kentucky was apparently dropped to #3 overall seed following their defeat to Mississippi State in the SEC conference tournament final.{{Citation needed|date=December 2016}} Kentucky also could not be placed in the Southeast region since the Sweet 16 and Elite 8 games were being played in Kentucky's home arena, Rupp Arena.
+[[Tony Delk]] of Kentucky was named the tournament's [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]]. Kentucky's run to the championship was one of the most dominant in NCAA tournament history, as the Wildcats won each of their first four games by at least 20 points and won every game by at least 7 points.
 
-Massachusetts, coached by [[John Calipari]], was later stripped of their wins, including the UMass Minutemen's Final Four appearance, by the NCAA because  UMass star [[Marcus Camby]] had accepted illegal gifts from agents. Connecticut, coached by [[Jim Calhoun]], was additionally punished monetarily due to players accepting illegal gifts from agents.<ref>https://www.nytimes.com/1997/05/09/sports/umass-and-uconn-lose-96-honors.html</ref>
+Massachusetts, coached by [[John Calipari]], was later stripped of its wins, including the UMass Minutemen's Final Four appearance, by the NCAA because UMass star [[Marcus Camby]] had accepted illegal gifts from agents. Connecticut, coached by [[Jim Calhoun]], was additionally punished monetarily due to players accepting illegal gifts from agents.<ref>{{Cite news|url=https://www.nytimes.com/1997/05/09/sports/umass-and-uconn-lose-96-honors.html|title = UMass and UConn Lose '96 Honors|newspaper = The New York Times|date = 9 May 1997|last1 = Cavanaugh|first1 = Jack}}</ref>
 
-==Locations==
+The 1996 tournament was the last to feature teams from the Big Eight and Southwest Conferences; later that year the two would form the [[Big 12 Conference]]. As of 2022, they were the last Division I conferences to disband and/or merge after sending teams to the NCAA tournament.
+
+As of 2024, this is the earliest tournament from which all four Final Four coaches (Pitino, Boeheim, Calipari and Mississippi State's Richard Williams) are still living. 
+
+This was the last NCAA tournament in which officials wore collared shirts. A v-neck shirt, already worn in several conferences during the regular season, was adopted association-wide during the 1996-97 season. 
+
+==Schedule and venues==
 
 {{Location map+|USA|width=450|float=right|caption=1996 first and second rounds|places= 
 {{Location map~|USA|mark=green pog.svg|lat_deg=41.823989|lon_deg=-71.412834|position=left|background=#FFFFFF|label=Providence|link=Dunkin' Donuts Center|Providence Civic Center}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=37.540725|lon_deg=-77.436048|position=bottom|background=#FFFFFF|label=Richmond|link=Richmond Coliseum}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=39.768403|lon_deg=-86.158068|position=bottom|background=#FFFFFF|label=Indianapolis|link=RCA Dome}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.768403|lon_deg=-86.158068|position=left|background=#FFFFFF|label=Indianapolis|link=RCA Dome}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=28.538335|lon_deg=-81.379236|position=top|background=#FFFFFF|label=Orlando|link=Amway Arena|Orlando Arena}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=43.038902|lon_deg=-87.906474|position=left|background=#FFFFFF|label=Milwaukee|link=Bradley Center}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=32.780262|lon_deg=-96.800978|position=left|background=#FFFFFF|label=Dallas|link=Reunion Arena}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=35.110703|lon_deg=-106.609991|position=top|background=#FFFFFF|label=Albuquerque|link=The Pit (arena)|University Arena}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=33.425510|lon_deg=-111.940005|position=bottom|background=#FFFFFF|label=Tempe|link=McKale Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.425510|lon_deg=-111.940005|position=bottom|background=#FFFFFF|label=Tempe|link=Arizona State University Activity Center}}
 }}
 
 {{Location map+|USA|width=450|float=right|caption=1996 Regionals (blue) and Final Four (red)|places=
@@ -61,573 +68,648 @@ Massachusetts, coached by [[John Calipari]], was later stripped of their wins, i
 {{Location map~|USA|mark=blue pog.svg|lat_deg=44.983334|lon_deg=-93.266670|position=top|background=#FFFFFF|label=Minneapolis|link=Hubert H. Humphrey Metrodome}}
 {{Location map~|USA|mark=blue pog.svg|lat_deg=38.040584|lon_deg=-84.503716|position=top|background=#FFFFFF|label=Lexington|link=Rupp Arena}}
 {{Location map~|USA|mark=blue pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=left|background=#FFFFFF|label=Atlanta|link=Georgia Dome}}
-{{Location map~|USA|mark=red pog.svg|lat_deg=40.833989|lon_deg=-74.097086|position=bottom|background=#FFFFFF|label=E. Rutherford|link=Izod Center|Continental Airlines Arena}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=40.833989|lon_deg=-74.097086|position=top|background=#FFFFFF|label=E. Rutherford|link=Izod Center|Continental Airlines Arena}}
 }}
 
-===First & Second Rounds===
-{| class="wikitable"
-! Region !! Site !! Venue 
-|-
-! rowspan="2" | East
-|[[Providence, Rhode Island]]
-|[[Dunkin' Donuts Center|Providence Civic Center]]
-|-
-|[[Richmond, Virginia]]
-|[[Richmond Coliseum]]
-|-
-! rowspan="2" | Midwest
-|[[Dallas|Dallas, Texas]]
-|[[Reunion Arena]]
-|-
-|[[Milwaukee|Milwaukee, Wisconsin]]
-|[[Bradley Center]]
-|-
-! rowspan="2" | Southeast
-|[[Indianapolis|Indianapolis, Indiana]]
-|[[RCA Dome]]
-|-
-|[[Orlando, Florida]]
-|[[Amway Arena|Orlando Arena]]
-|-
-! rowspan="2" | West
-|[[Albuquerque, New Mexico]]
-|[[The Pit (arena)|University Arena ("The Pit")]]
-|-
-|[[Tempe, Arizona]]
-|[[Wells Fargo Arena (Tempe, Arizona)|ASU Activity Center]]
-|}
+The following are the sites that were selected to host each round of the 1996 tournament:
 
-===Regional Sites and Final Four===
-{| class="wikitable"
-! Region !! Site !! Venue 
-|-
-| '''East''' 
-|[[Atlanta|Atlanta, Georgia]]
-|[[Georgia Dome]]
-|-
-| '''Midwest'''
-|[[Minneapolis|Minneapolis, Minnesota]]
-|[[Hubert H. Humphrey Metrodome]]
-|-
-| '''Southeast'''
-|[[Lexington, Kentucky]]
-|[[Rupp Arena]]
-|-
-| '''West'''
-|[[Denver|Denver, Colorado]]
-|[[McNichols Sports Arena]]
-|-
-| '''Final Four'''
-|[[East Rutherford, New Jersey]]
-|[[Meadowlands Arena|Continental Airlines Arena]]
-|}
+'''First and Second Rounds'''
+*March 14 and 16
+**'''East Region'''
+*** [[Dunkin' Donuts Center|Providence Civic Center]], [[Providence, Rhode Island]] (Host: [[Providence College]])
+**'''Midwest Region'''
+*** [[Reunion Arena]], [[Dallas|Dallas, Texas]] (Host: [[Southwest Conference]])
+**'''Southeast Region'''
+*** [[RCA Dome]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Butler University]], [[Horizon League|Midwestern Collegiate Conference]])
+**'''West Region'''
+*** [[The Pit (arena)|University Arena ("The Pit")]], [[Albuquerque, New Mexico]] (Host: [[University of New Mexico]])
+*March 15 and 17
+**'''East Region'''
+*** [[Richmond Coliseum]], [[Richmond, Virginia]] (Hosts: [[University of Richmond]], [[Virginia Commonwealth University]])
+**'''Midwest Region'''
+*** [[BMO Harris Bradley Center|Bradley Center]], [[Milwaukee|Milwaukee, Wisconsin]] (Host: [[Marquette University]])
+**'''Southeast Region'''
+*** [[Amway Arena|Orlando Arena]], [[Orlando, Florida]] (Host: [[Stetson University]])
+**'''West Region'''
+*** [[Wells Fargo Arena (Tempe)|ASU Activity Center]], [[Tempe, Arizona]] (Host: [[Arizona State University]])
 
-East Rutherford became the 25th different host city, and the Continental Airlines Arena the 30th host venue, to host the final four. While the New York metropolitan area is the largest metropolitan area to host the Final Four, and had previously at the old [[Madison Square Garden (1925)|Madison Square Garden]], the town of East Rutherford itself is the smallest town to host a Final Four. Once more, all four regional sites were former and future Final Four sites. The only new venue of the tournament was the Georgia Dome, which would host five regional rounds and three Final Fours before closing in 2017.
+'''Regional semifinals and finals''' (Sweet Sixteen and Elite Eight)
+*March 21 and 23
+**'''East Regional''', [[Georgia Dome]], [[Atlanta|Atlanta, Georgia]] (Host: [[Georgia Tech]])
+**'''Midwest Regional''', [[Hubert H. Humphrey Metrodome]], [[Minneapolis|Minneapolis, Minnesota]] (Host: [[University of Minnesota]])
+*March 22 and 24
+**'''Southeast Regional''', [[Rupp Arena]], [[Lexington, Kentucky]] (Host: [[University of Kentucky]])
+**'''West Regional''', [[McNichols Sports Arena]], [[Denver|Denver, Colorado]] (Host: [[University of Colorado]])
+
+'''National semifinals and championship''' (Final Four and championship)
+*March 30 and April 1
+**[[Meadowlands Arena|Continental Airlines Arena]], [[East Rutherford, New Jersey]] (Hosts: [[Seton Hall University]], [[Big East Conference]])
 
 ==Teams==
-{| class="wikitable"
+There were 30 automatic bids awarded to the tournament - of these, 27 were given to the winners of their conference's tournament, while three were awarded to the team with the best regular-season record in their conference ([[Big Ten Conference|Big Ten]], [[Ivy League]] and [[Pac-12 Conference|Pac-10]]).
+
+Two conferences, the [[American West Conference]] and [[Conference USA]], did not receive automatic bids to the tournament.<ref>{{cite web |title=NCAA to give 30 leagues automatic bids |url=https://greensboro.com/ncaa-to-give-leagues-automatic-bids/article_497d5f64-2377-5f4f-b4fc-6787da7bf59e.html |work=[[Greensboro News & Record]] |date=September 7, 1995 |access-date=May 20, 2023}}</ref>
+
+Four conference champions made their first NCAA tournament appearances: [[1995–96 Monmouth Hawks men's basketball team|Monmouth]] ([[Northeast Conference|NEC]]), [[1995–96 UNC Greensboro Spartans men's basketball team|UNC Greensboro]] ([[Big South Conference|Big South]]), [[1995–96 Valparaiso Crusaders men's basketball team|Valparaiso]] ([[Summit League|Mid-Continent]]), and [[1995–96 Western Carolina Catamounts men's basketball team|Western Carolina]] ([[Southern Conference|Southern]]).
+
+===Automatic qualifiers===
+{|class="wikitable sortable plainrowheaders"
+|+Automatic qualifiers
 |-
-! colspan="6" style="background:#ffdead;" | East Regional – [[Atlanta]]
+!scope="col"|Conference
+!scope="col"|Team
+!scope="col" data-sort-type="number"|Appearance
+!scope="col"|Last bid
 |-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Bid Type
+|[[1996 ACC men's basketball tournament|ACC]]
+!scope="row" style="text-align:left"|[[1995–96 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
+|align=center|14th
+|align=center|1995
 |-
-|#1
-| [[1995–96 UMass Minutemen basketball team|Massachusetts]] (vacated)
-| [[John Calipari]]
-| [[Atlantic 10 Conference|Atlantic 10]]
-| 31–1
-| Automatic
+|[[1996 Atlantic 10 men's basketball tournament|Atlantic 10]]
+!scope="row" style="text-align:left"|[[1995–96 UMass Minutemen basketball team|UMass]] <small>(vacated)</small>
+|align=center|–
+|align=center|1995
 |-
-|#2
-| [[1995–96 Georgetown Hoyas men's basketball team|Georgetown]]
-| [[John Thompson (basketball)|John Thompson]]
-| [[Big East Conference (1979–2013)|Big East]]
-| 26–7
-| At-Large
+|[[1996 Big East men's basketball tournament|Big East]]
+!scope="row" style="text-align:left"|[[1995–96 Connecticut Huskies men's basketball team|Connecticut]] <small>(vacated)</small>
+|align=center|–
+|align=center|1995
 |-
-|#3
-| [[1995–96 Texas Tech Red Raiders basketball team|Texas Tech]]
-| [[James Dickey]]
-| [[Southwestern Conference|SWC]]
-| 28–1
-| Automatic
+|[[1996 Big Eight Conference men's basketball tournament|Big Eight]]
+!scope="row" style="text-align:left"|[[1995–96 Iowa State Cyclones men's basketball team|Iowa State]]
+|align=center|9th
+|align=center|1995
 |-
-|#4
-| {{cbb link|1995|team=Marquette Golden Eagles|school=Marquette University|title=Marquette}}
-| [[Mike Deane]]
-| [[Conference USA]]
-| 22–7
-| At-Large
+|[[1996 Big Sky Conference men's basketball tournament|Big Sky]]
+!scope="row" style="text-align:left"|[[1995–96 Montana State Bobcats men's basketball team|Montana State]]
+|align=center|3rd
+|align=center|1986
 |-
-|#5
-| {{cbb link|1995|team=Penn State Nittany Lions|school=Pennsylvania State University|title=Penn State}}
-| [[Jerry Dunn]]
-| [[Big Ten Conference|Big Ten]]
-| 21–6
-| At-Large
+|[[1996 Big South Conference men's basketball tournament|Big South]]
+!scope="row" style="text-align:left"|[[1995–96 UNC Greensboro Spartans men's basketball team|UNC Greensboro]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
 |-
-|#6
-| {{cbb link|1995|team=North Carolina Tar Heels|school=University of North Carolina at Chapel Hill|title=North Carolina}}
-| [[Dean Smith]]
-| [[Atlantic Coast Conference|ACC]]
-| 20–10
-| At-Large
+|[[List of Big Ten Conference men's basketball regular season champions|Big Ten]]
+!scope="row" style="text-align:left"|[[1995–96 Purdue Boilermakers men's basketball team|Purdue]] <small>(vacated)</small>
+|align=center|–
+|align=center|1995
 |-
-|#7
-| {{cbb link|1995|team=New Mexico Lobos|school=University of New Mexico|title=New Mexico}}
-| [[Dave Bliss]]
-| [[Western Athletic Conference|WAC]]
-| 27–4
-| Automatic
+|[[1996 Big West Conference men's basketball tournament|Big West]]
+!scope="row" style="text-align:left"|[[1995–96 San Jose State Spartans men's basketball team|San Jose State]]
+|align=center|3rd
+|align=center|1980
 |-
-|#8
-| {{cbb link|1995|team=Bradley Braves|school=Bradley University|title=Bradley}}
-| [[Jim Molinari]]
-| [[Missouri Valley Conference|Missouri Valley]]
-| 22–7
-| At-Large
+|[[1996 CAA men's basketball tournament|CAA]]
+!scope="row" style="text-align:left"|[[1995–96 VCU Rams men's basketball team|VCU]]
+|align=center|6th
+|align=center|1985
 |-
-|#9
-| {{cbb link|1995|team=Stanford Cardinal|school=Stanford University|title=Stanford}}
-| [[Mike Montgomery]]
-| [[Pac-12 Conference|Pac-10]]
-| 19–8
-| At-Large
+|[[Ivy League men's basketball|Ivy League]]
+!scope="row" style="text-align:left"|[[1995–96 Princeton Tigers men's basketball team|Princeton]]
+|align=center|19th
+|align=center|1992
 |-
-|#10
-| {{cbb link|1995|team=Kansas State Wildcats|school=Kansas State University|title=Kansas State}}
-| [[Tom Asbury]]
-| [[Big Eight Conference|Big Eight]]
-| 17–11
-| At-Large
+|[[1996 MAAC men's basketball tournament|MAAC]]
+!scope="row" style="text-align:left"|[[1995–96 Canisius Golden Griffins men's basketball team|Canisius]]
+|align=center|4th
+|align=center|1957
 |-
-|#11
-| {{cbb link|1995|team=New Orleans Privateers|school=University of New Orleans|title=New Orleans}}
-| [[Tic Price]]
-| [[Sun Belt Conference|Sun Belt]]
-| 21–8
-| Automatic
+|[[1996 MAC men's basketball tournament|MAC]]
+!scope="row" style="text-align:left"|[[1995–96 Eastern Michigan Eagles men's basketball team|Eastern Michigan]]
+|align=center|3rd
+|align=center|1991
 |-
-|#12
-| [[1995–96 Arkansas Razorbacks men's basketball team|Arkansas]]
-| [[Nolan Richardson]]
-| [[Southeastern Conference|SEC]]
-| 18–12
-| At-Large
+|[[1996 Midwestern Collegiate Conference men's basketball tournament|MCC]]
+!scope="row" style="text-align:left"|[[1995–96 Northern Illinois Huskies men's basketball team|Northern Illinois]]
+|align=center|3rd
+|align=center|1991
 |-
-|#13
-| {{cbb link|1995|team=Monmouth Hawks|school=Monmouth University|title=Monmouth}}
-| [[Wayne Szoke]]
-| [[Northeast Conference|NEC]]
-| 20–9
-| Automatic
+|[[1996 MEAC men's basketball tournament|MEAC]]
+!scope="row" style="text-align:left"|[[1995–96 South Carolina State Bulldogs basketball team|South Carolina State]]
+|align=center|2nd
+|align=center|1989
 |-
-|#14
-| [[1995–96 Northern Illinois Huskies men's basketball team|Northern Illinois]]
-| [[Brian Hammel]]
-| [[Horizon League|MCC]]
-| 20–9
-| Automatic
+|[[1996 Mid-Continent Conference men's basketball tournament|Mid-Continent]]
+!scope="row" style="text-align:left"|[[1995–96 Valparaiso Crusaders men's basketball team|Valparaiso]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
 |-
-|#15
-| {{cbb link|1995|team=Mississippi Valley State Delta Devils|school=Mississippi Valley State University|title=Mississippi Valley State}}
-| [[Lafayette Stribling]]
-| [[Southwestern Athletic Conference|SWAC]]
-| 22–6
-| Automatic
+|[[1996 Missouri Valley Conference men's basketball tournament|Missouri Valley]]
+!scope="row" style="text-align:left"|[[1995–96 Tulsa Golden Hurricane men's basketball team|Tulsa]]
+|align=center|9th
+|align=center|1995
 |-
-|#16
-| {{cbb link|1995|team=UCF Knights|school=University of Central Florida|title=UCF}}
-| [[Kirk Speraw]]
-| [[Atlantic Sun Conference|TAAC]]
-| 11–18
-| Automatic
+|[[1996 North Atlantic Conference men's basketball tournament|NAC]]
+!scope="row" style="text-align:left"|[[1995–96 Drexel Dragons men's basketball team|Drexel]]
+|align=center|4th
+|align=center|1995
+|-
+|[[1996 Northeast Conference men's basketball tournament|NEC]]
+!scope="row" style="text-align:left"|[[1995–96 Monmouth Hawks men's basketball team|Monmouth]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|-
+|[[1996 Ohio Valley Conference men's basketball tournament|Ohio Valley]]
+!scope="row" style="text-align:left"|[[1995–96 Austin Peay Governors basketball team|Austin Peay]]
+|align=center|4th
+|align=center|1987
+|-
+|[[Pac-12 Conference men's basketball|Pac-10]]
+!scope="row" style="text-align:left"|[[1995–96 UCLA Bruins men's basketball team|UCLA]]
+|align=center|31st
+|align=center|1995
+|-
+|[[1996 Patriot League men's basketball tournament|Patriot]]
+!scope="row" style="text-align:left"|[[1995–96 Colgate Red Raiders men's basketball team|Colgate]]
+|align=center|2nd
+|align=center|1995
+|-
+|[[1996 SEC men's basketball tournament|SEC]]
+!scope="row" style="text-align:left"|[[1995–96 Mississippi State Bulldogs men's basketball team|Mississippi State]]
+|align=center|4th
+|align=center|1995
+|-
+|[[1996 Southern Conference men's basketball tournament|Southern]]
+!scope="row" style="text-align:left"|[[1995–96 Western Carolina Catamounts men's basketball team|Western Carolina]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|-
+|[[1996 Southland Conference men's basketball tournament|Southland]]
+!scope="row" style="text-align:left"|[[1995–96 Northeast Louisiana Indians men's basketball team|Northeast Louisiana]]
+|align=center|7th
+|align=center|1993
+|-
+|[[1996 Sun Belt Conference men's basketball tournament|Sun Belt]]
+!scope="row" style="text-align:left"|[[1995–96 New Orleans Privateers men's basketball team|New Orleans]]
+|align=center|4th
+|align=center|1993
+|-
+|[[1996 SWAC men's basketball tournament|SWAC]]
+!scope="row" style="text-align:left"|[[1995–96 Mississippi Valley State Delta Devils basketball team|Mississippi Valley State]]
+|align=center|3rd
+|align=center|1992
+|-
+|[[1996 Southwest Conference men's basketball tournament|SWC]]
+!scope="row" style="text-align:left"|[[1995–96 Texas Tech Red Raiders basketball team|Texas Tech]] <small>(vacated)</small>
+|align=center|–
+|align=center|1993
+|-
+|[[1996 TAAC men's basketball tournament|TAAC]]
+!scope="row" style="text-align:left"|[[1995–96 UCF Golden Knights men's basketball team|UCF]]
+|align=center|2nd
+|align=center|1994
+|-
+|[[1996 WAC men's basketball tournament|WAC]]
+!scope="row" style="text-align:left"|[[1995–96 New Mexico Lobos men's basketball team|New Mexico]]
+|align=center|7th
+|align=center|1994
+|-
+|[[1996 West Coast Conference men's basketball tournament|West Coast]]
+!scope="row" style="text-align:left"|[[1995–96 Portland Pilots men's basketball team|Portland]]
+|align=center|2nd
+|align=center|1959
 |}
-{| class="wikitable"
+
+===Tournament seeds===
+{|
 |-
-! colspan="6" style="background:#ffdead;" | Midwest Regional – [[Minneapolis]]
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+East Regional – [[Georgia Dome]], [[Atlanta|Atlanta, Georgia]]
 |-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Bid Type
+!scope="col"|Seed
+!scope="col" style="width: 160px;"|School
+!scope="col" style="width: 85px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
 |-
-|#1
-| [[1995–96 Kentucky Wildcats men's basketball team|Kentucky]]
-| [[Rick Pitino]]
-| [[Southeastern Conference|SEC]]
-| 28–2
-| At-Large
+|align=center|1
+!scope="row" style="text-align:left"|[[1995–96 UMass Minutemen basketball team|UMass]] <small>(vacated)</small>
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|31–1
+|align=center|Automatic
 |-
-|#2
-| {{cbb link|1995|team=Wake Forest Demon Deacons|school=Wake Forest University|title=Wake Forest}}
-| [[Dave Odom]]
-| [[Atlantic Coast Conference|ACC]]
-| 23–5
-| Automatic
+|align=center|2
+!scope="row" style="text-align:left"|[[1995–96 Georgetown Hoyas men's basketball team|Georgetown]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|26–7
+|align=center|At-Large
 |-
-|#3
-| {{cbb link|1995|team=Villanova Wildcats|school=Villanova University|title=Villanova}}
-| [[Steve Lappas]]
-| [[Big East Conference (1979–2013)|Big East]]
-| 25–6
-| At-Large
+|align=center|3
+!scope="row" style="text-align:left"|[[1995–96 Texas Tech Red Raiders basketball team|Texas Tech]] <small>(vacated)</small>
+|[[Southwest Conference|SWC]]
+|align=center|28–1
+|align=center|Automatic
 |-
-|#4
-| {{cbb link|1995|team=Utah Utes|school=University of Utah|title=Utah}}
-| [[Rick Majerus]]
-| [[Western Athletic Conference|WAC]]
-| 25–6
-| At-Large
+|align=center|4
+!scope="row" style="text-align:left"|[[1995–96 Marquette Golden Eagles men's basketball team|Marquette]]
+|[[Conference USA]]
+|align=center|22–7
+|align=center|At-Large
 |-
-|#5
-| {{cbb link|1995|team=Iowa State Cyclones|school=Iowa State University|title=Iowa State}}
-| [[Tim Floyd]]
-| [[Big Eight Conference|Big Eight]]
-| 23–8
-| Automatic
+|align=center|5
+!scope="row" style="text-align:left"|[[1995–96 Penn State Nittany Lions basketball team|Penn State]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|21–6
+|align=center|At-Large
 |-
-|#6
-| [[1995–96 Louisville Cardinals men's basketball team|Louisville]]
-| [[Denny Crum]]
-| [[Conference USA]]
-| 20–11
-| At-Large
+|align=center|6
+!scope="row" style="text-align:left"|[[1995–96 North Carolina Tar Heels men's basketball team|North Carolina]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|20–10
+|align=center|At-Large
 |-
-|#7
-| [[1995–96 Michigan Wolverines men's basketball team|Michigan]] (vacated)
-| [[Steve Fisher]]
-| [[Big Ten Conference|Big Ten]]
-| 20-11
-| At-Large
+|align=center|7
+!scope="row" style="text-align:left"|[[1995–96 New Mexico Lobos men's basketball team|New Mexico]]
+|[[Western Athletic Conference|WAC]]
+|align=center|28–5
+|align=center|Automatic
 |-
-|#8
-| {{cbb link|1995|team=Green Bay Phoenix|school=University of Wisconsin at Green Bay|title=UW–Green Bay}}
-| [[Mike Heideman]]
-| [[Horizon League|MCC]]
-| 25–3
-| At-Large
+|align=center|8
+!scope="row" style="text-align:left"|[[1995–96 Bradley Braves men's basketball team|Bradley]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|align=center|22–7
+|align=center|At-Large
 |-
-|#9
-| {{cbb link|1995|team=Virginia Tech Hokies|school=Virginia Polytechnic Institute and State University|title=Virginia Tech}}
-| [[Bill Foster (basketball, born 1936)|Bill Foster]]
-| [[Atlantic 10 Conference|Atlantic 10]]
-| 22–5
-| At-Large
+|align=center|9
+!scope="row" style="text-align:left"|[[1995–96 Stanford Cardinal men's basketball team|Stanford]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|19–8
+|align=center|At-Large
 |-
-|#10
-| {{cbb link|1995|team=Texas Longhorns|school=University of Texas at Austin|title=Texas}}
-| [[Tom Penders]]
-| [[Southwestern Conference|SWC]]
-| 20–9
-| At-Large
+|align=center|10
+!scope="row" style="text-align:left"|[[1995–96 Kansas State Wildcats men's basketball team|Kansas State]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|17–11
+|align=center|At-Large
 |-
-|#11
-| {{cbb link|1995|team=Tulsa Golden Hurricane|school=University of Tulsa|title=Tulsa}}
-| [[Steve Robinson (basketball coach)|Steve Robinson]]
-| [[Missouri Valley Conference|Missouri Valley]]
-| 22–7
-| Automatic
+|align=center|11
+!scope="row" style="text-align:left"|[[1995–96 New Orleans Privateers men's basketball team|New Orleans]]
+|[[Sun Belt Conference|Sun Belt]]
+|align=center|21–8
+|align=center|Automatic
 |-
-|#12
-| {{cbb link|1995|team=California Golden Bears|school=University of California, Berkeley|title=California}}
-| [[Todd Bozeman]]
-| [[Pac-12 Conference|Pac-10]]
-| 17–10
-| At-Large
+|align=center|12
+!scope="row" style="text-align:left"|[[1995–96 Arkansas Razorbacks men's basketball team|Arkansas]]
+|[[Southeastern Conference|SEC]]
+|align=center|18–12
+|align=center|At-Large
 |-
-|#13
-| {{cbb link|1995|team=Canisius Golden Griffins|school=Canisius College|title=Canisius}}
-| [[John Beilein]]
-| [[Metro Atlantic Athletic Conference|MAAC]]
-| 19–10
-| Automatic
+|align=center|13
+!scope="row" style="text-align:left"|[[1995–96 Monmouth Hawks men's basketball team|Monmouth]]
+|[[Northeast Conference|NEC]]
+|align=center|20–9
+|align=center|Automatic
 |-
-|#14
-| {{cbb link|1995|team=Portland Pilots|school=University of Portland|title=Portland}}
-| [[Rob Chavez]]
-| [[West Coast Conference|West Coast]]
-| 19–10
-| Automatic
+|align=center|14
+!scope="row" style="text-align:left"|[[1995–96 Northern Illinois Huskies men's basketball team|Northern Illinois]]
+|[[Horizon League|MCC]]
+|align=center|20–9
+|align=center|Automatic
 |-
-|#15
-| {{cbb link|1995|team=Louisiana–Monroe Warhawks|school=University of Louisiana at Monroe|title=Northeast Louisiana}}
-| [[Mike Vining]]
-| [[Southland Conference|Southland]]
-| 16–13
-| Automatic
+|align=center|15
+!scope="row" style="text-align:left"|[[1995–96 Mississippi Valley State Delta Devils basketball team|Mississippi Valley State]]
+|[[Southwestern Athletic Conference|SWAC]]
+|align=center|22–6
+|align=center|Automatic
 |-
-|#16
-| [[1995–96 San Jose State Spartans men's basketball team|San Jose State]]
-| [[Stan Morrison]]
-| [[Big West Conference|Big West]]
-| 13–16
-| Automatic
+|align=center|16
+!scope="row" style="text-align:left"|[[1995–96 UCF Golden Knights men's basketball team|UCF]]
+|[[ASUN Conference|TAAC]]
+|align=center|11–18
+|align=center|Automatic
 |}
-{| class="wikitable"
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+Southeast Regional – [[Rupp Arena]], [[Lexington, Kentucky]]
 |-
-! colspan="6" style="background:#ffdead;" | Southeast Regional – [[Lexington, Kentucky|Lexington]]
+!scope="col"|Seed
+!scope="col" style="width: 160px;"|School
+!scope="col" style="width: 85px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
 |-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Bid Type
+|align=center|1
+!scope="row" style="text-align:left"|[[1995–96 Connecticut Huskies men's basketball team|Connecticut]] <small>(vacated)</small>
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|30–2
+|align=center|Automatic
 |-
-|#1
-| [[1995–96 Connecticut Huskies men's basketball team|Connecticut]]
-| [[Jim Calhoun]]
-| [[Big East Conference (1979–2013)|Big East]]
-| 30–2
-| Automatic
+|align=center|2
+!scope="row" style="text-align:left"|[[1995–96 Cincinnati Bearcats men's basketball team|Cincinnati]]
+|[[Conference USA]]
+|align=center|25–4
+|align=center|At-Large
 |-
-|#2
-| {{cbb link|1995|team=Cincinnati Bearcats|school=University of Cincinnati|title=Cincinnati}}
-| [[Bob Huggins]]
-| [[Conference USA]]
-| 25–4
-| At-Large
+|align=center|3
+!scope="row" style="text-align:left"|[[1995–96 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|22–11
+|align=center|At-Large
 |-
-|#3
-| {{cbb link|1995|team=Georgia Tech Yellow Jackets|school=Georgia Institute of Technology|title=Georgia Tech}}
-| [[Bobby Cremins]]
-| [[Atlantic Coast Conference|ACC]]
-| 22–11
-| At-Large
+|align=center|4
+!scope="row" style="text-align:left"|[[1995–96 UCLA Bruins men's basketball team|UCLA]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|23–7
+|align=center|Automatic
 |-
-|#4
-| [[1995–96 UCLA Bruins men's basketball team|UCLA]]
-| [[Jim Harrick]]
-| [[Pac-12 Conference|Pac-10]]
-| 23–7
-| Automatic
+|align=center|5
+!scope="row" style="text-align:left"|[[1995–96 Mississippi State Bulldogs men's basketball team|Mississippi State]]
+|[[Southeastern Conference|SEC]]
+|align=center|22–7
+|align=center|Automatic
 |-
-|#5
-| {{cbb link|1995|team=Mississippi State Bulldogs|school=Mississippi State University|title=Mississippi State}}
-| [[Richard Williams (basketball coach)|Richard Williams]]
-| [[Southeastern Conference|SEC]]
-| 22–7
-| Automatic
+|align=center|6
+!scope="row" style="text-align:left"|[[1995–96 Indiana Hoosiers men's basketball team|Indiana]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|19–11
+|align=center|At-Large
 |-
-|#6
-| [[1995–96 Indiana Hoosiers men's basketball team|Indiana]]
-| [[Bob Knight]]
-| [[Big Ten Conference|Big Ten]]
-| 19–11
-| At-Large
+|align=center|7
+!scope="row" style="text-align:left"|[[1995–96 Temple Owls men's basketball team|Temple]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|19–12
+|align=center|At-Large
 |-
-|#7
-| {{cbb link|1995|team=Temple Owls|school=Temple University|title=Temple}}
-| [[John Chaney (basketball, born 1932)|John Chaney]]
-| [[Atlantic 10 Conference|Atlantic 10]]
-| 19–12
-| At-Large
+|align=center|8
+!scope="row" style="text-align:left"|[[1995–96 Duke Blue Devils men's basketball team|Duke]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|18–12
+|align=center|At-Large
 |-
-|#8
-| [[1995–96 Duke Blue Devils men's basketball team|Duke]]
-| [[Mike Krzyzewski]]
-| [[Atlantic Coast Conference|ACC]]
-| 18–12
-| At-Large
+|align=center|9
+!scope="row" style="text-align:left"|[[1995–96 Eastern Michigan Eagles men's basketball team|Eastern Michigan]]
+|[[Mid-American Conference|MAC]]
+|align=center|24–5
+|align=center|Automatic
 |-
-|#9
-| {{cbb link|1995|team=Eastern Michigan Eagles|school=Eastern Michigan University|title=Eastern Michigan}}
-| [[Ben Braun]]
-| [[Mid-American Conference|Mid-American]]
-| 24–5
-| Automatic
+|align=center|10
+!scope="row" style="text-align:left"|[[1995–96 Oklahoma Sooners men's basketball team|Oklahoma]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|17–12
+|align=center|At-Large
 |-
-|#10
-| {{cbb link|1995|team=Oklahoma Sooners|school=University of Oklahoma|title=Oklahoma}}
-| [[Kelvin Sampson]]
-| [[Big Eight Conference|Big Eight]]
-| 17–12
-| At-Large
+|align=center|11
+!scope="row" style="text-align:left"|[[1995–96 Boston College Eagles men's basketball team|Boston College]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|18–10
+|align=center|At-Large
 |-
-|#11
-| {{cbb link|1995|team=Boston College Eagles|school=Boston College|title=Boston College}}
-| [[Jim O'Brien (basketball, born 1952)|Jim O'Brien]]
-| [[Big East Conference (1979–2013)|Big East]]
-| 18–10
-| At-Large
+|align=center|12
+!scope="row" style="text-align:left"|[[1995–96 VCU Rams men's basketball team|VCU]]
+|[[Colonial Athletic Association|CAA]]
+|align=center|17–10
+|align=center|Automatic
 |-
-|#12
-| [[1995–96 VCU Rams men's basketball team|VCU]]
-| [[Sonny Smith]]
-| [[Colonial Athletic Association|CAA]]
-| 17–10
-| Automatic
+|align=center|13
+!scope="row" style="text-align:left"|[[1995–96 Princeton Tigers men's basketball team|Princeton]]
+|[[Ivy League]]
+|align=center|21–6
+|align=center|Automatic
 |-
-|#13
-| [[1995–96 Princeton Tigers men's basketball team|Princeton]]
-| [[Pete Carril]]
-| [[Ivy League]]
-| 21–6
-| Automatic
+|align=center|14
+!scope="row" style="text-align:left"|[[1995–96 Austin Peay Governors basketball team|Austin Peay]]
+|[[Ohio Valley Conference|Ohio Valley]]
+|align=center|19–10
+|align=center|Automatic
 |-
-|#14
-| {{cbb link|1995|team=Austin Peay Governors|school=Austin Peay State University|title=Austin Peay}}
-| [[Dave Loos]]
-| [[Ohio Valley Conference|Ohio Valley]]
-| 19–10
-| Automatic
+|align=center|15
+!scope="row" style="text-align:left"|[[1995–96 UNC Greensboro Spartans men's basketball team|UNC Greensboro]]
+|[[Big South Conference|Big South]]
+|align=center|20–9
+|align=center|Automatic
 |-
-|#15
-| {{cbb link|1995|team=UNC Greensboro Spartans|school=University of North Carolina at Greensboro|title=UNC Greensboro}}
-| [[Randy Peele]]
-| [[Big South Conference|Big South]]
-| 20-–9
-| Automatic
-|-
-|#16
-| {{cbb link|1995|team=Colgate Raiders|school=Colgate University|title=Colgate}}
-| [[Jack Bruen]]
-| [[Patriot League]]
-| 15–14
-| Automatic
+|align=center|16
+!scope="row" style="text-align:left"|[[1995–96 Colgate Red Raiders men's basketball team|Colgate]]
+|[[Patriot League]]
+|align=center|15–14
+|align=center|Automatic
 |}
-{| class="wikitable"
 |-
-! colspan="6" style="background:#ffdead;" | West Regional – [[Denver]]
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+Midwest Regional – [[Hubert H. Humphrey Metrodome]], [[Minneapolis|Minneapolis, Minnesota]]
 |-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Bid Type
+!scope="col"|Seed
+!scope="col" style="width: 160px;"|School
+!scope="col" style="width: 85px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
 |-
-|#1
-| {{cbb link|1995|team=Purdue Boilermakers|school=Purdue University|title=Purdue}}
-| [[Gene Keady]]
-| [[Big Ten Conference|Big Ten]]
-| 25–5
-| Automatic
+|align=center|1
+!scope="row" style="text-align:left"|[[1995–96 Kentucky Wildcats men's basketball team|Kentucky]]
+|[[Southeastern Conference|SEC]]
+|align=center|28–2
+|align=center|At-Large
 |-
-|#2
-| [[1995–96 Kansas Jayhawks men's basketball team|Kansas]]
-| [[Roy Williams (coach)|Roy Williams]]
-| [[Big Eight Conference|Big Eight]]
-| 26–4
-| At-Large
+|align=center|2
+!scope="row" style="text-align:left"|[[1995–96 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|26–6
+|align=center|Automatic
 |-
-|#3
-| {{cbb link|1995|team=Arizona Wildcats|school=University of Arizona|title=Arizona}}
-| [[Lute Olson]]
-| [[Pac-12 Conference|Pac-10]]
-| 24–6
-| At-Large
+|align=center|3
+!scope="row" style="text-align:left"|[[1995–96 Villanova Wildcats men's basketball team|Villanova]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|25–6
+|align=center|At-Large
 |-
-|#4
-| [[1995–96 Syracuse Orangemen basketball team|Syracuse]]
-| [[Jim Boeheim]]
-| [[Big East Conference (1979–2013)|Big East]]
-| 24–8
-| At-Large
+|align=center|4
+!scope="row" style="text-align:left"|[[1995–96 Utah Utes men's basketball team|Utah]]
+|[[Western Athletic Conference|WAC]]
+|align=center|25–6
+|align=center|At-Large
 |-
-|#5
-| {{cbb link|1995|team=Memphis Tigers|school=University of Memphis|title=Memphis}}
-| [[Larry Finch]]
-| [[Conference USA]]
-| 22–7
-| At-Large
+|align=center|5
+!scope="row" style="text-align:left"|[[1995–96 Iowa State Cyclones men's basketball team|Iowa State]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|23–8
+|align=center|Automatic
 |-
-|#6
-| [[1995–96 Iowa Hawkeyes men's basketball team|Iowa]]
-| [[Tom Davis (basketball, born 1938)|Tom Davis]]
-| [[Big Ten Conference|Big Ten]]
-| 22–8
-| At-Large
+|align=center|6
+!scope="row" style="text-align:left"|[[1995–96 Louisville Cardinals men's basketball team|Louisville]]
+|[[Conference USA]]
+|align=center|20–11
+|align=center|At-Large
 |-
-|#7
-| {{cbb link|1995|team=Maryland Terrapins|school=University of Maryland, College Park|title=Maryland}}
-| [[Gary Williams (basketball)|Gary Williams]]
-| [[Atlantic Coast Conference|ACC]]
-| 17–12
-| At-Large
+|align=center|7
+!scope="row" style="text-align:left"|[[1995–96 Michigan Wolverines men's basketball team|Michigan]] <small>(vacated)</small>
+|[[Big Ten Conference|Big Ten]]
+|align=center|20–11
+|align=center|At-Large
 |-
-|#8
-| {{cbb link|1995|team=Georgia Bulldogs|school=University of Georgia|title=Georgia}}
-| [[Tubby Smith]]
-| [[Southeastern Conference|SEC]]
-| 19–9
-| At-Large
+|align=center|8
+!scope="row" style="text-align:left"|[[1995–96 Green Bay Phoenix men's basketball team|Green Bay]]
+|[[Horizon League|MCC]]
+|align=center|25–3
+|align=center|At-Large
 |-
-|#9
-| [[1995–96 Clemson Tigers men's basketball team|Clemson]]
-| [[Rick Barnes]]
-| [[Atlantic Coast Conference|ACC]]
-| 18–10
-| At-Large
+|align=center|9
+!scope="row" style="text-align:left"|[[1995–96 Virginia Tech Hokies men's basketball team|Virginia Tech]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|22–5
+|align=center|At-Large
 |-
-|#10
-| {{cbb link|1995|team=Santa Clara Broncos|school=Santa Clara University|title=Santa Clara}}
-| [[Dick Davey]]
-| [[West Coast Conference|West Coast]]
-| 19–8
-| At-Large
+|align=center|10
+!scope="row" style="text-align:left"|[[1995–96 Texas Longhorns men's basketball team|Texas]]
+|[[Southwest Conference|SWC]]
+|align=center|20–9
+|align=center|At-Large
 |-
-|#11
-| {{cbb link|1995|team=George Washington Colonials|school=George Washington University|title=George Washington}}
-| [[Mike Jarvis]]
-| [[Atlantic 10 Conference|Atlantic 10]]
-| 21–7
-| At-Large
+|align=center|11
+!scope="row" style="text-align:left"|[[1995–96 Tulsa Golden Hurricane men's basketball team|Tulsa]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|align=center|22–7
+|align=center|Automatic
 |-
-|#12
-| [[1995–96 Drexel Dragons men's basketball team|Drexel]]
-| [[Bill Herrion]]
-| [[America East Conference|NAC]]
-| 26–3
-| Automatic
+|align=center|12
+!scope="row" style="text-align:left"|[[1995–96 California Golden Bears men's basketball team|California]] <small>(vacated)</small>
+|[[Pac-12 Conference|Pac-10]]
+|align=center|17–10
+|align=center|At-Large
 |-
-|#13
-| {{cbb link|1995|team=Montana State Bobcats|school=Montana State University|title=Montana State}}
-| [[Mick Durham]]
-| [[Big Sky Conference|Big Sky]]
-| 21–8
-| Automatic
+|align=center|13
+!scope="row" style="text-align:left"|[[1995–96 Canisius Golden Griffins men's basketball team|Canisius]]
+|[[Metro Atlantic Athletic Conference|MAAC]]
+|align=center|19–10
+|align=center|Automatic
 |-
-|#14
-| {{cbb link|1995|team=Valparaiso Crusaders|school=Valparaiso University|title=Valparaiso}}
-| [[Homer Drew]]
-| [[The Summit League|Mid-Continent]]
-| 21–10
-| Automatic
+|align=center|14
+!scope="row" style="text-align:left"|[[1995–96 Portland Pilots men's basketball team|Portland]]
+|[[West Coast Conference|West Coast]]
+|align=center|19–10
+|align=center|Automatic
 |-
-|#15
-| {{cbb link|1995|team=South Carolina State Bulldogs|school=South Carolina State University|title=South Carolina State}}
-| [[Cy Alexander]]
-| [[Mid-Eastern Athletic Conference|MEAC]]
-| 22–7
-| Automatic
+|align=center|15
+!scope="row" style="text-align:left"|[[1995–96 Northeast Louisiana Indians men's basketball team|Northeast Louisiana]]
+|[[Southland Conference|Southland]]
+|align=center|16–13
+|align=center|Automatic
 |-
-|#16
-| {{cbb link|1995|team=Western Carolina Catamounts|school=Western Carolina University|title=Western Carolina}}
-| [[Phil Hopkins]]
-| [[Southern Conference|Southern]]
-| 17–12
-| Automatic
+|align=center|16
+!scope="row" style="text-align:left"|[[1995–96 San Jose State Spartans men's basketball team|San Jose State]]
+|[[Big West Conference|Big West]]
+|align=center|13–16
+|align=center|Automatic
+|}
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+West Regional – [[McNichols Sports Arena]], [[Denver|Denver, Colorado]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 160px;"|School
+!scope="col" style="width: 85px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[1995–96 Purdue Boilermakers men's basketball team|Purdue]] <small>(vacated)</small>
+|[[Big Ten Conference|Big Ten]]
+|align=center|26–4
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[1995–96 Kansas Jayhawks men's basketball team|Kansas]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|25–5
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[1995–96 Arizona Wildcats men's basketball team|Arizona]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|24–6
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[1995–96 Syracuse Orangemen basketball team|Syracuse]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|24–8
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[1995–96 Memphis Tigers men's basketball team|Memphis]]
+|[[Conference USA]]
+|align=center|22–7
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[1995–96 Iowa Hawkeyes men's basketball team|Iowa]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|22–8
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[1995–96 Maryland Terrapins men's basketball team|Maryland]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|17–12
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[1995–96 Georgia Bulldogs basketball team|Georgia]]
+|[[Southeastern Conference|SEC]]
+|align=center|19–9
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[1995–96 Clemson Tigers men's basketball team|Clemson]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|18–10
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[1995–96 Santa Clara Broncos men's basketball team|Santa Clara]]
+|[[West Coast Conference|West Coast]]
+|align=center|19–8
+|align=center|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[1995–96 George Washington Colonials men's basketball team|George Washington]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|21–7
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[1995–96 Drexel Dragons men's basketball team|Drexel]]
+|[[America East Conference|NAC]]
+|align=center|26–3
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[1995–96 Montana State Bobcats men's basketball team|Montana State]]
+|[[Big Sky Conference|Big Sky]]
+|align=center|21–8
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[1995–96 Valparaiso Crusaders men's basketball team|Valparaiso]]
+|[[Summit League|Mid-Continent]]
+|align=center|23–7
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[1995–96 South Carolina State Bulldogs basketball team|South Carolina State]]
+|[[Mid-Eastern Athletic Conference|MEAC]]
+|align=center|22–7
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[1995–96 Western Carolina Catamounts men's basketball team|Western Carolina]]
+|[[Southern Conference|Southern]]
+|align=center|17–12
+|align=center|Automatic
+|}
 |}
 
 ==Bracket==
-(* – Denotes overtime)
-
 ===East Regional – Atlanta===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
- | subgroup1= '''[[Providence Civic Center|Providence]]'''
- | subgroup2= '''[[Providence Civic Center|Providence]]'''
- | subgroup3= '''[[Richmond Coliseum|Richmond]]'''
- | subgroup4= '''[[Richmond Coliseum|Richmond]]'''
-| RD1-team01='''Massachusetts'''
+{{16TeamBracket | RD1=First round<br />March 14–15 | RD2=Second round<br />March 16–17 | RD3=Regional semifinals<br />March 21 | RD4=Regional Finals<br />March 23 | RD1-seed01=1
+ | subgroup1= '''[[Providence Civic Center|Providence]]''' – Thu/Sat
+ | subgroup2= '''[[Providence Civic Center|Providence]]''' – Thu/Sat
+ | subgroup3= '''[[Richmond Coliseum|Richmond]]''' – Fri/Sun
+ | subgroup4= '''[[Richmond Coliseum|Richmond]]''' – Fri/Sun
+| RD1-team01='''{{strikethrough|Massachusetts}}'''
  | RD1-score01='''92'''
  | RD1-seed02=16
  | RD1-team02=UCF
@@ -675,7 +757,7 @@ East Rutherford became the 25th different host city, and the Continental Airline
  | RD1-team16=Mississippi Valley State
  | RD1-score16=56
  | RD2-seed01=1
- | RD2-team01='''Massachusetts'''
+ | RD2-team01='''{{strikethrough|Massachusetts}}'''
  | RD2-score01='''79'''
  | RD2-seed02=9
  | RD2-team02=Stanford
@@ -699,7 +781,7 @@ East Rutherford became the 25th different host city, and the Continental Airline
  | RD2-team08='''Georgetown'''
  | RD2-score08='''75'''
  | RD3-seed01=1
- | RD3-team01='''Massachusetts'''
+ | RD3-team01='''{{strikethrough|Massachusetts}}'''
  | RD3-score01='''79'''
  | RD3-seed02=12
  | RD3-team02=Arkansas
@@ -711,7 +793,7 @@ East Rutherford became the 25th different host city, and the Continental Airline
  | RD3-team04='''Georgetown'''
  | RD3-score04='''98'''
  | RD4-seed01=1
- | RD4-team01='''Massachusetts'''
+ | RD4-team01='''{{strikethrough|Massachusetts}}'''
  | RD4-score01='''86'''
  | RD4-seed02=2
  | RD4-team02=Georgetown
@@ -723,31 +805,38 @@ East Rutherford became the 25th different host city, and the Continental Airline
  | bg = #e3e3e3
  | date = Saturday, March 23
  | time = 
- | report = [http://www.sports-reference.com/cbb/boxscores/1996-03-23-georgetown.html box score]
- | team1 = '''#1 Massachusetts Minutemen'''
+ | report = [https://www.sports-reference.com/cbb/boxscores/1996-03-23-georgetown.html box score]
+ | team1 = '''#1 {{strikethrough|Massachusetts Minutemen}}'''
  | score1 =  '''86'''
- | team2 = #2 Georgetown Hoyas 
+ | team2 = #2 Georgetown Hoyas
  | score2 = 62
- | points1 = [[Marcus Camby|M.Camby]] – 22
- | rebounds1 = D. Bright, [[Marcus Camby|M. Camby]] – 7
- | assist1 = C. Travieso – 6
- | otherstat1 = 
- | points2 = [[Allen Iverson|A. Iverson]] – 23
- | rebounds2 = [[Jerome Williams (basketball)|J. Williams]] – 8
- | assist2 = J. Touomou, [[Jerome Williams (basketball)|J. Williams]], [[Othella Harrington|O. Harrington]] – 2
- | otherstat2 = '''Halftime Score:''' Massachusetts, 38-34
- | place = Georgia Dome – Atlanta
+ | points1 = [[Marcus Camby|M.Camby]]{{Snd}} 22
+ | rebounds1 = D. Bright, [[Marcus Camby|M. Camby]]{{Snd}} 7
+ | assist1 = C. Travieso{{Snd}} 6
+ | points2 = [[Allen Iverson|A. Iverson]]{{Snd}} 23
+ | rebounds2 = [[Jerome Williams (basketball)|J. Williams]]{{Snd}} 8
+ | assist2 = J. Touomou, [[Jerome Williams (basketball)|J. Williams]], [[Othella Harrington|O. Harrington]]{{Snd}} 2
+ | H1 = 38–34
+ | H2 = 48–28
+ | place = Georgia Dome{{Snd}} Atlanta, GA
  | attendance = 
  | referee = 
  | TV = CBS
 }}
 
+====East Regional all-tournament team====
+* [[Marcus Camby]] – [[UMass Minutemen basketball|Massachusetts]] (MOP)
+* [[Allen Iverson]] – [[Georgetown Hoyas men's basketball|Georgetown]]
+* Donta Bright – Massachusetts
+* [[Carmelo Travieso]] – Massachusetts
+* [[Jason Sasser]] – [[Texas Tech Red Raiders basketball|Texas Tech]]
+
 ===Midwest Regional – Minneapolis===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
-| subgroup1= '''[[Reunion Arena|Dallas]]'''
- | subgroup2= '''[[Reunion Arena|Dallas]]'''
- | subgroup3= '''[[Bradley Center|Milwaukee]]'''
- | subgroup4= '''[[Bradley Center|Milwaukee]]''' 
+{{16TeamBracket | RD1=First round<br />March 14–15 | RD2=Second round<br />March 16–17 | RD3=Regional semifinals<br />March 21 | RD4=Regional Finals<br />March 23 | RD1-seed01=1
+| subgroup1= '''[[Reunion Arena|Dallas]]''' – Thu/Sat
+ | subgroup2= '''[[Reunion Arena|Dallas]]''' – Thu/Sat
+ | subgroup3= '''[[Bradley Center|Milwaukee]]''' – Fri/Sun
+ | subgroup4= '''[[Bradley Center|Milwaukee]]''' – Fri/Sun
 | RD1-team01='''Kentucky'''
  | RD1-score01='''110'''
  | RD1-seed02=16
@@ -773,10 +862,10 @@ East Rutherford became the 25th different host city, and the Continental Airline
  | RD1-score08=43
  | RD1-seed09=6
  | RD1-team09='''Louisville'''
- | RD1-score09='''82'''
+ | RD1-score09='''82<sup>OT</sup>'''
  | RD1-seed10=11
  | RD1-team10=Tulsa
- | RD1-score10=80*
+ | RD1-score10=80
  | RD1-seed11=3
  | RD1-team11='''Villanova'''
  | RD1-score11='''92'''
@@ -784,7 +873,7 @@ East Rutherford became the 25th different host city, and the Continental Airline
  | RD1-team12=Portland
  | RD1-score12=58
  | RD1-seed13=7
- | RD1-team13=Michigan
+ | RD1-team13={{strikethrough|Michigan}}
  | RD1-score13=76
  | RD1-seed14=10
  | RD1-team14='''Texas'''
@@ -836,39 +925,48 @@ East Rutherford became the 25th different host city, and the Continental Airline
  | RD4-score01='''83'''
  | RD4-seed02=2
  | RD4-team02=Wake Forest
- | RD4-score02=64
+ | RD4-score02=63
 }}
+
+Michigan's appearance in the 1996 NCAA tournament along with 20 regular season wins were vacated on November 7, 2002, as part of the settlement of the [[University of Michigan basketball scandal]].  Unlike forfeiture, a vacated game does not result in the other school being credited with a win, only with the removal of any Michigan wins from all records.
 
 ====Regional Final summary====
 {{basketballbox
  | bg = #e3e3e3
  | date = Saturday, March 23
  | time = 
- | report = [http://www.sports-reference.com/cbb/boxscores/1996-03-23-kentucky.html box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/1996-03-23-kentucky.html box score]
  | team1 = '''#1 Kentucky Wildcats'''
  | score1 =  '''83'''
- | team2 = #2 Wake Forest Demon Deacons 
- | score2 = 64
- | points1 = [[Tony Delk|T. Delk]] – 25
- | rebounds1 = [[Antoine Walker|A. Walker]] – 6
- | assist1 = A. Epps – 6
- | otherstat1 = 
- | points2 = S. Goolsby, [[Tim Duncan|T. Duncan]] – 14
- | rebounds2 = [[Tim Duncan|T. Duncan]] – 16
- | assist2 = [[Tim Duncan|T. Duncan]] – 6
- | otherstat2 = '''Halftime Score:''' Kentucky, 38-19
- | place = Hubert H. Humphrey Metrodome – Minneapolis
+ | team2 = #2 Wake Forest Demon Deacons
+ | score2 = 63
+ | points1 = [[Tony Delk|T. Delk]]{{Snd}} 25
+ | rebounds1 = [[Antoine Walker|A. Walker]]{{Snd}} 6
+ | assist1 = A. Epps{{Snd}} 6
+ | points2 = S. Goolsby, [[Tim Duncan|T. Duncan]]{{Snd}} 14
+ | rebounds2 = [[Tim Duncan|T. Duncan]]{{Snd}} 16
+ | assist2 = [[Tim Duncan|T. Duncan]]{{Snd}} 6
+ | H1 = 38–19
+ | H2 = 45–44
+ | place = Hubert H. Humphrey Metrodome{{Snd}} Minneapolis, MN
  | attendance = 
  | referee = 
  | TV = CBS
 }}
 
+====Midwest Regional all-tournament team====
+* [[Tony Delk]] – [[Kentucky Wildcats men's basketball|Kentucky]] (MOP)
+* [[Derek Anderson (basketball)|Derek Anderson]] – Kentucky
+* Anthony Epps – Kentucky
+* [[Antoine Walker]] – Kentucky
+* [[Tim Duncan]] – [[Wake Forest Demon Deacons men's basketball|Wake Forest]]
+
 ===Southeast Regional – Lexington, Kentucky===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
- | subgroup1= '''[[RCA Dome|Indianapolis]]'''
- | subgroup2= '''[[RCA Dome|Indianapolis]]'''
- | subgroup3= '''[[Orlando Arena|Orlando]]'''
- | subgroup4= '''[[Orlando Arena|Orlando]]'''
+{{16TeamBracket | RD1=First round<br />March 14–15 | RD2=Second round<br />March 16–17 | RD3=Regional semifinals<br />March 22 | RD4=Regional Finals<br />March 24 | RD1-seed01=1
+ | subgroup1= '''[[RCA Dome|Indianapolis]]''' – Thu/Sat
+ | subgroup2= '''[[RCA Dome|Indianapolis]]''' – Thu/Sat
+ | subgroup3= '''[[Orlando Arena|Orlando]]''' – Fri/Sun
+ | subgroup4= '''[[Orlando Arena|Orlando]]''' – Fri/Sun
 | RD1-team01='''Connecticut'''
  | RD1-score01='''68'''
  | RD1-seed02=16
@@ -965,32 +1063,39 @@ East Rutherford became the 25th different host city, and the Continental Airline
  | bg = #e3e3e3
  | date = Sunday, March 24
  | time = 
- | report = [http://www.sports-reference.com/cbb/boxscores/1996-03-24-cincinnati.html box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/1996-03-24-cincinnati.html box score]
  | team1 = '''#5 Mississippi State Bulldogs'''
  | score1 =  '''73'''
- | team2 = #2 Cincinnati Bearcats 
+ | team2 = #2 Cincinnati Bearcats
  | score2 = 63
- | points1 = [[Dontae' Jones|D. Jones]] – 23
- | rebounds1 = [[Dontae' Jones|D. Jones]] – 13
- | assist1 = D. Wilson – 6
- | otherstat1 = 
- | points2 = [[Danny Fortson|D. Fortson]] – 24
- | rebounds2 = [[Danny Fortson|D. Fortson]] – 13
- | assist2 = K. Legree – 4
- | otherstat2 = '''Halftime Score:''' Mississippi State, 37-29
- | place = Rupp Arena – Lexington, Kentucky
+ | points1 = [[Dontae' Jones|D. Jones]]{{Snd}} 23
+ | rebounds1 = [[Dontae' Jones|D. Jones]]{{Snd}} 13
+ | assist1 = [[Darryl Wilson|D. Wilson]]{{Snd}} 6
+ | points2 = [[Danny Fortson|D. Fortson]]{{Snd}} 24
+ | rebounds2 = [[Danny Fortson|D. Fortson]]{{Snd}} 13
+ | assist2 = K. Legree{{Snd}} 4
+ | H1 = 37–29
+ | H2 = 36–34
+ | place = Rupp Arena{{Snd}} Lexington, KY
  | attendance = 
  | referee = 
  | TV = CBS
 }}
 
+====Southeast Regional all-tournament team====
+* [[Dontae' Jones]] – [[Mississippi State Bulldogs men's basketball|Mississippi State]] (MOP)
+* Darnell Burton – [[Cincinnati Bearcats men's basketball|Cincinnati]]
+* [[Danny Fortson]] – Cincinnati
+* [[Erick Dampier]] – Mississippi State
+* [[Darryl Wilson]] – Mississippi State
+
 ===West Regional – Denver, Colorado===
 
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
- | subgroup1= '''[[The Pit (arena)|Albuquerque]]'''
- | subgroup2= '''[[The Pit (arena)|Albuquerque]]'''
- | subgroup3= '''[[Arizona State University Activity Center|Tempe]]'''
- | subgroup4= '''[[Arizona State University Activity Center|Tempe]]'''
+{{16TeamBracket | RD1=First round<br />March 14–15 | RD2=Second round<br />March 16–17 | RD3=Regional semifinals<br />March 22 | RD4=Regional Finals<br />March 24 | RD1-seed01=1
+ | subgroup1= '''[[The Pit (arena)|Albuquerque]]''' – Thu/Sat
+ | subgroup2= '''[[The Pit (arena)|Albuquerque]]''' – Thu/Sat
+ | subgroup3= '''[[Arizona State University Activity Center|Tempe]]''' – Fri/Sun
+ | subgroup4= '''[[Arizona State University Activity Center|Tempe]]''' – Fri/Sun
 | RD1-team01='''Purdue'''
  | RD1-score01='''73'''
  | RD1-seed02=16
@@ -1067,7 +1172,7 @@ East Rutherford became the 25th different host city, and the Continental Airline
  | RD3-score01=81
  | RD3-seed02=4
  | RD3-team02='''Syracuse'''
- | RD3-score02='''83*'''
+ | RD3-score02='''83<sup>OT</sup>'''
  | RD3-seed03=3
  | RD3-team03=Arizona
  | RD3-score03=80
@@ -1087,30 +1192,37 @@ East Rutherford became the 25th different host city, and the Continental Airline
  | bg = #e3e3e3
  | date = Sunday, March 24
  | time = 
- | report = [http://www.sports-reference.com/cbb/boxscores/1996-03-24-kansas.html box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/1996-03-24-kansas.html box score]
  | team1 = '''#4 Syracuse Orangemen'''
  | score1 =  '''60'''
- | team2 = #2 Kansas Jayhawks 
+ | team2 = #2 Kansas Jayhawks
  | score2 = 57
- | points1 = [[John Wallace (basketball)|J. Wallace]], [[Otis Hill|O. Hill]] – 15
- | rebounds1 = [[John Wallace (basketball)|J. Wallace]] – 9
- | assist1 = L. Sims – 4
- | otherstat1 = 
- | points2 = [[Jacque Vaughn|J. Vaughn]] – 21
- | rebounds2 = [[Raef LaFrentz|R. LaFrentz]] – 9
- | assist2 = [[Jerod Haase|J. Haase]] – 6
- | otherstat2 = '''Halftime Score:''' Syracuse, 35-26
- | place = McNichols Sports Arena – Denver, Colorado
+ | points1 = [[John Wallace (basketball)|J. Wallace]], [[Otis Hill|O. Hill]]{{Snd}} 15
+ | rebounds1 = [[John Wallace (basketball)|J. Wallace]]{{Snd}} 9
+ | assist1 = L. Sims{{Snd}} 4
+ | points2 = [[Jacque Vaughn|J. Vaughn]]{{Snd}} 21
+ | rebounds2 = [[Raef LaFrentz|R. LaFrentz]]{{Snd}} 9
+ | assist2 = [[Jerod Haase|J. Haase]]{{Snd}} 6
+ | H1 = 35–26
+ | H2 = 25–31
+ | place = McNichols Sports Arena{{Snd}} Denver, CO
  | attendance = 
  | referee = 
  | TV = CBS
 }}
 
+====West Regional all-tournament team====
+* [[John Wallace (basketball)|John Wallace]] – [[Syracuse Orange men's basketball|Syracuse]] (MOP)
+* Pertha Robinson – [[Georgia Bulldogs basketball|Georgia]]
+* [[Shandon Anderson]] – Georgia
+* [[Jacque Vaughn]] – [[Kansas Jayhawks men's basketball|Kansas]]
+* [[Otis Hill]] – [[Syracuse Orange men's basketball|Syracuse]]
+
 ===Final Four at East Rutherford, New Jersey===
-{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game | RD1-seed1=E1
- | RD1-team1=Massachusetts
+{{4TeamBracket | RD1=National semifinals<br />March 30 | RD2=National Championship Game<br />April 1 | RD1-seed1=E1
+ | RD1-team1={{strikethrough|Massachusetts}}
  | RD1-score1=74
- | RD1-seed2=M1
+ | RD1-seed2=MW1
  | RD1-team2='''Kentucky'''
  | RD1-score2='''81'''
  | RD1-seed3=SE5
@@ -1119,7 +1231,7 @@ East Rutherford became the 25th different host city, and the Continental Airline
  | RD1-seed4=W4
  | RD1-team4='''Syracuse'''
  | RD1-score4='''77'''
- | RD2-seed1=M1
+ | RD2-seed1=MW1
  | RD2-team1='''Kentucky'''
  | RD2-score1='''76'''
  | RD2-seed2=W4
@@ -1127,25 +1239,27 @@ East Rutherford became the 25th different host city, and the Continental Airline
  | RD2-score2=67
 }}
 
-===Game summaries===
+On May 8, 1997, the NCAA Executive Committee voted to negate the Minutemen's 1996 NCAA Tournament record, for [[Marcus Camby]]'s acceptance of agents' improper gifts. The team's 35–2 season record was reduced to 31–1, and the UMass slot in the Final Four is officially marked as "vacated". The Final Four trophy, banner, and 45% of tournament revenue were returned to the NCAA. Camby reimbursed the school for the lost revenue. Unlike forfeiture, a vacated game does not result in the other school being credited with a win, only with UMass removing the wins from its own record.
+
+====National semifinals====
 {{basketballbox
  | bg = #e3e3e3
  | date = Saturday, March 30
  | time = 
- | report = [http://www.sports-reference.com/cbb/boxscores/1996-03-30-kentucky.html box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/1996-03-30-kentucky.html box score]
  | team1 = '''#1 Kentucky Wildcats'''
  | score1 =  '''81'''
- | team2 = #1 Massachusetts Minutemen
+ | team2 = #1 {{strikethrough|Massachusetts Minutemen}}
  | score2 = 74
- | points1 = [[Tony Delk|T. Delk]] – 20
- | rebounds1 = [[Walter McCarty|W. McCarty]] – 10 <ref>http://www.bigbluehistory.net/bb/statistics/Games/19960330Massachusetts.html</ref>
- | assist1 = A. Epps, [[Antoine Walker|A. Walker]], [[Derek Anderson (basketball)|D. Anderson]], [[Walter McCarty|W. McCarty]]-4
- | otherstat1 =  
- | points2 = [[Marcus Camby|M. Camby]] – 25
- | rebounds2 = D. Bright – 9
- | assist2 = E. Padilla – 12
- | otherstat2 = '''Halftime Score:''' 36-28
- | place = Continental Airlines Arena – East Rutherford, New Jersey
+ | points1 = [[Tony Delk|T. Delk]]{{Snd}} 20
+ | rebounds1 = [[Walter McCarty|W. McCarty]]{{Snd}} 10 <ref>{{Cite web|url=http://www.bigbluehistory.net/bb/statistics/Games/19960330Massachusetts.html|title = Kentucky vs. Massachusetts (March 30, 1996)}}</ref>
+ | assist1 = A. Epps, [[Antoine Walker|A. Walker]], [[Derek Anderson (basketball)|D. Anderson]], [[Walter McCarty|W. McCarty]]{{Snd}} 4
+ | points2 = [[Marcus Camby|M. Camby]]{{Snd}} 25
+ | rebounds2 = D. Bright{{Snd}} 9
+ | assist2 = E. Padilla{{Snd}} 12
+ | H1 = '''36'''–28
+ | H2 = 45–'''46'''
+ | place = Continental Airlines Arena{{Snd}} {{Nowrap|East Rutherford}}, NJ
  | attendance = 
  | referee = 
  | TV = CBS
@@ -1154,79 +1268,92 @@ East Rutherford became the 25th different host city, and the Continental Airline
  | bg = #ffdead
  | date = Saturday, March 30
  | time = 
- | report = [http://www.sports-reference.com/cbb/boxscores/1996-03-30-mississippi-state.html box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/1996-03-30-mississippi-state.html box score]
  | team1 = '''#4 Syracuse Orangemen'''
  | score1 =  '''77'''
  | team2 = #5 Mississippi State Bulldogs
  | score2 = 69
- | points1 = [[John Wallace (basketball)|J. Wallace]] – 21
- | rebounds1 = T. Burgan – 7
- | assist1 = L. Siims – 9
- | otherstat1 = 
- | points2 = D. Wilson – 20
- | rebounds2 = [[Erick Dampier|E. Dampier]] – 14
- | assist2 = M. Bullard – 8
- | otherstat2 = '''Halftime Score:''' 36-36
- | place = Continental Airlines Arena – East Rutherford, New Jersey
+ | points1 = [[John Wallace (basketball)|J. Wallace]]{{Snd}} 21
+ | rebounds1 = T. Burgan{{Snd}} 7
+ | assist1 = L. Siims{{Snd}} 9
+ | points2 = [[Darryl Wilson|D. Wilson]]{{Snd}} 20
+ | rebounds2 = [[Erick Dampier|E. Dampier]]{{Snd}} 14
+ | assist2 = M. Bullard{{Snd}} 8
+ | H1 = 36–36
+ | H2 = '''41'''–33
+ | place = Continental Airlines Arena{{Snd}} {{Nowrap|East Rutherford}}, NJ
  | attendance = 
  | referee = 
  | TV = CBS
 }}
 
-===National Championship===
-{{main article|1996 NCAA Men's Division I Basketball Championship Game}}
+====National Championship====
+{{main|1996 NCAA Division I Men's Basketball Championship Game}}
 {{basketballbox
  | bg = #e3e3e3
- | date = Monday, April, 1
+ | date = Monday, April 1
  | time = 
- | report = [http://www.sports-reference.com/cbb/boxscores/1996-04-01-kentucky.html Box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/1996-04-01-kentucky.html Box score]
  | team1 = '''#1 Kentucky Wildcats'''
  | score1 =  '''76'''
  | team2 = #4 Syracuse Orangemen
  | score2 = 67
- | points1 = [[Tony Delk|T. Delk]] – 24
- | rebounds1 = [[Antoine Walker|A. Walker]] – 9
- | assist1 = A. Epps – 7
- | otherstat1 =  
- | points2 = [[John Wallace (basketball)|J. Wallace]] – 29
- | rebounds2 = [[John Wallace (basketball)|J. Wallace]], [[Otis Hill|O. Hill]] – 10
- | assist2 = L. Sims – 7
- | otherstat2 = '''Halftime Score:''' Kentucky, 42-33
- | place = Continental Airlines Arena – East Rutherford, New Jersey
+ | points1 = [[Tony Delk|T. Delk]]{{Snd}} 24
+ | rebounds1 = [[Antoine Walker|A. Walker]]{{Snd}} 9
+ | assist1 = A. Epps{{Snd}} 7
+ | points2 = [[John Wallace (basketball)|J. Wallace]]{{Snd}} 29
+ | rebounds2 = [[John Wallace (basketball)|J. Wallace]], [[Otis Hill|O. Hill]]{{Snd}} 10
+ | assist2 = L. Sims{{Snd}} 7
+ | H1 = '''42'''–33
+ | H2 = 34–34
+ | place = Continental Airlines Arena{{Snd}} {{Nowrap|East Rutherford}}, NJ
  | attendance = 
  | referee = 
  | TV = CBS
 }}
 
+====Final Four all-tournament team====
+* [[Tony Delk]] – [[Kentucky Wildcats men's basketball|Kentucky]] (MOP)
+* [[Ron Mercer]] – Kentucky
+* [[Marcus Camby]] – [[UMass Minutemen basketball|Massachusetts]]
+* Todd Burgan – [[Syracuse Orange men's basketball|Syracuse]]
+* [[John Wallace (basketball)|John Wallace]] – Syracuse
+
 ==Announcers==
-*[[Jim Nantz]]/Bob Rathburn and [[Billy Packer]] – First & Second Round at Milwaukee, Wisconsin; Southeast Regional at Lexington, Kentucky; Final Four at East Rutherford, New Jersey
-*[[Sean McDonough]] and [[Bill Raftery]] – First & Second Round at Orlando, Florida; Midwest Regional at Minneapolis, Minnesota
-*[[Tim Ryan (sportscaster)|Tim Ryan]] and [[Al McGuire]] – First & Second Round at Providence, Rhode Island; West Regional at Denver, Colorado
-*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Quinn Buckner]] – First & Second Round at Indianapolis; East Regional at Atlanta, Georgia
-*[[Mike Gorman]] and [[George Raveling]] – First & Second Round at Dallas, Texas
-*[[Ted Robinson (sportscaster)|Ted Robinson]] and [[Larry Farmer (basketball)|Larry Farmer]] – First & Second Round at Richmond, Virginia
-*[[Tim Brando]] and [[Derrek Dickey]] – First & Second Round at Albuquerque, New Mexico
-*[[Bill Macatee]] and [[Dan Bonner]] – First & Second Round at Tempe, Arizona
+*[[Jim Nantz]]/[[Bob Rathbun]] and [[Billy Packer]]{{Snd}} First & Second Round at Milwaukee, Wisconsin; Southeast Regional at Lexington, Kentucky; Final Four at East Rutherford, New Jersey
+*[[Sean McDonough]]/[[Bill Raftery]]/[[Michele Tafoya]]{{Snd}} First & Second Round at Orlando, Florida; Midwest Regional at Minneapolis, Minnesota
+*[[Tim Ryan (sportscaster)|Tim Ryan]] and [[Al McGuire]]{{Snd}} First & Second Round at Providence, Rhode Island; West Regional at Denver, Colorado
+*[[Gus Johnson (sportscaster)|Gus Johnson]]/[[Quinn Buckner]]/[[Andrea Joyce]]{{Snd}} First & Second Round at Indianapolis; East Regional at Atlanta, Georgia
+*[[Mike Gorman]] and [[George Raveling]]{{Snd}} First & Second Round at Dallas, Texas
+*[[Ted Robinson (sportscaster)|Ted Robinson]] and [[Larry Farmer (basketball)|Larry Farmer]]{{Snd}} First & Second Round at Richmond, Virginia
+*[[Tim Brando]] and [[Derrek Dickey]]{{Snd}} First & Second Round at Albuquerque, New Mexico
+*[[Bill Macatee]] and [[Dan Bonner]]{{Snd}} First & Second Round at Tempe, Arizona
+
+'''Note''': During the Midwest Regional Final in Minneapolis; sideline reporter [[Michele Tafoya]] temporarily substituted for Sean McDonough in the play-by-play booth when McDonough became ill; calling about 10 minutes of the first half before McDonough felt well enough to resume play-by-play; in the process making her the first woman to call part of an NCAA Men's Division I Tournament game.
 
 ==See also==
-* [[1996 NCAA Division II Men's Basketball Tournament]]
-* [[1996 NCAA Division III Men's Basketball Tournament]]
-* [[1996 NCAA Division I Women's Basketball Tournament]]
-* [[NCAA Division II Women's Basketball Tournament|1996 NCAA Division II Women's Basketball Tournament]]
-* [[NCAA Division III Women's Basketball Tournament|1996 NCAA Division III Women's Basketball Tournament]]
+* [[1996 NCAA Division II men's basketball tournament]]
+* [[1996 NCAA Division III men's basketball tournament]]
+* [[1996 NCAA Division I women's basketball tournament]]
+* [[NCAA Division II women's basketball tournament|1996 NCAA Division II women's basketball tournament]]
+* [[NCAA Division III women's basketball tournament|1996 NCAA Division III women's basketball tournament]]
 * [[1996 National Invitation Tournament]]
 * [[National Women's Invitation Tournament|1996 National Women's Invitation Tournament]]
-* [[1996 NAIA Division I Men's Basketball Tournament]]
-* [[NAIA Men's Basketball Championships#Division II|1996 NAIA Division II Men's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships|1996 NAIA Division I Women's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships#Division II|1996 NAIA Division II Women's Basketball Tournament]]
+* [[1996 NAIA Division I men's basketball tournament]]
+* [[1996 NAIA Division II men's basketball tournament]]
+* [[1996 NAIA Division I women's basketball tournament]]
+* [[NAIA Division II Women's Basketball Championship|1996 NAIA Division II women's basketball tournament]]
 
 ==References==
 {{reflist}}
 
-{{NCAA Men's Division I Basketball Tournament navbox}}
-{{1996 Wake Forest men's basketball navbox}}
+{{NCAA Division I men's basketball tournament navbox}}
+{{1996 NCAA Division I men's basketball tournament navbox}}
+{{1996 Kentucky Wildcats men's basketball navbox}}
 
-[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:NCAA Division I men's basketball tournament]]
 [[Category:1995–96 NCAA Division I men's basketball season|Ncaa]]
 [[Category:Basketball in the Dallas–Fort Worth metroplex]]
+[[Category:1996 in sports in New Jersey|NCAA Men's Division I Basketball Championship]]
+[[Category:March 1996 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:April 1996 sports events in the United States|NCAA Division I men's basketball tournament]]

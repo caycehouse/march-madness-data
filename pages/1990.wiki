@@ -1,48 +1,48 @@
-{{Infobox NCAA Basketball Tournament |
+{{Short description|Edition of USA college basketball tournament}}
+{{Use dmy dates|date=April 2023}}
+{{Infobox NCAA basketball tournament
 | Year=1990
-| Image=
+| Image=1990 Final Four logo.png
 | ImageSize=
-| Caption=
 | Teams=64
 | FinalFourArena=[[McNichols Sports Arena]]
 | FinalFourCity=[[Denver, Colorado]]
-| Champions=[[1989–90 UNLV Runnin' Rebels basketball team|UNLV]]
+| Champions=[[1989–90 UNLV Runnin' Rebels basketball team|UNLV Runnin' Rebels]]
 | TitleCount=1st
 | ChampGameCount=1st
 | ChampFFCount=3rd
-| RunnerUp=[[1989–90 Duke Blue Devils men's basketball team|Duke]]
+| RunnerUp=[[1989–90 Duke Blue Devils men's basketball team|Duke Blue Devils]]
 | GameCount=4th
 | RunnerFFCount=8th
-| Semifinal1=[[Arkansas Razorbacks basketball|Arkansas]]
+| Semifinal1=[[1989–90 Arkansas Razorbacks men's basketball team|Arkansas Razorbacks]]
 | FinalFourCount=4th
-| Semifinal2=[[1989–90 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]
+| Semifinal2=[[1989–90 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech Yellow Jackets]]
 | FinalFourCount2=1st
 | Coach=[[Jerry Tarkanian]]
 | CoachCount=1st
 | MOP=[[Anderson Hunt]]
 | MOPTeam=UNLV
 | Attendance=537,138
-| OneTopScorer=*
-| TwoTopScorers=
 | TopScorer=[[Dennis Scott (basketball)|Dennis Scott]]
 | TopScorerTeam=Georgia Tech
 | Points=153
 }}
-The '''1990 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of [[NCAA Division I]] men's [[college basketball]]. It began on March 15, 1990, and ended with the [[1990 NCAA Men's Division I Basketball Championship Game|championship game]] on April 2 in [[Denver, Colorado]]. A total of 63 games were played.
 
-[[1989–90 UNLV Runnin' Rebels basketball team|UNLV]], coached by [[Jerry Tarkanian]], won the national title with a 103–73 victory in the final game over [[1989–90 Duke Blue Devils men's basketball team|Duke]], coached by [[Mike Krzyzewski]]. In doing so, UNLV set the NCAA Men's Division I Basketball Tournament record for largest margin of victory in a championship game.  UNLV's win marks the last time a school from a non-[[power conference]] has won the championship game. (The last time a non power conference team won the national championship was in [[1986 NCAA Men's Division I Basketball Tournament|1986]], when Louisville won). [[Anderson Hunt]] of UNLV was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]].
+The '''1990 [[NCAA Division I men's basketball tournament]]''' involved 64 schools playing in a [[Single-elimination tournament|single-elimination]] tournament to determine the [[NCAA Division I]] men's basketball national champion for the [[1989–90 NCAA Division I men's basketball season|1989-1990 season]]. It began on March 15, 1990, and ended with the [[1990 NCAA Division I Men's Basketball Championship Game|championship game]] on April 2 in [[Denver, Colorado]]. A total of 63 games were played.
 
-This tournament is also remembered for an emotional run by [[1989–90 Loyola Marymount Lions men's basketball team|Loyola Marymount]] in the West Regional. In the semifinals of the [[West Coast Conference]] tournament, Lions star forward [[Hank Gathers]] collapsed and died due to a heart condition. The WCC tournament was immediately suspended, with the regular-season champion Lions given the conference's automatic bid. The team defeated [[New Mexico State Aggies men's basketball|New Mexico State]], then laid a 34-point thrashing on defending national champion [[1989–90 Michigan Wolverines men's basketball team|Michigan]], and defeated [[Alabama Crimson Tide men's basketball|Alabama]] in the Sweet Sixteen (the only game in which Loyola Marymount did not score 100 or more points in the tournament) before running into eventual champion UNLV in the regional final. Gathers' childhood friend [[Bo Kimble]], the team's undisputed floor leader in the wake of the tragedy, paid tribute to his friend by attempting his first free throw in each game left-handed despite being right-handed. (Gathers was right-handed, but struggled so much with free throws that he tried shooting them left-handed for a time.) Kimble made all of his left-handed attempts in the tournament.
+[[1989–90 UNLV Runnin' Rebels basketball team|UNLV]] won the national title with a 103–73 victory in the final game over [[1989–90 Duke Blue Devils men's basketball team|Duke]]. In doing so, UNLV set the NCAA Division I men's basketball tournament record for largest margin of victory in a championship game. UNLV's championship win marks the last time a school from a non-[[power conference]] has won the tournament. [[Anderson Hunt]] of UNLV was named the tournament's [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]].
 
-This tournament marked the first time that the NCAA employed a timekeeping rule that had been conceived by [[FIBA]] and recently the [[National Basketball Association|NBA]], in which the final minute of every period counted down in tenths of seconds, unlike whole seconds as in past years.
+This tournament is also remembered for an emotional run by the [[1989–90 Loyola Marymount Lions men's basketball team|Loyola Marymount Lions]] (LMU) in the West region. In the quarterfinals of the [[West Coast Conference]] tournament against the [[Portland Pilots men's basketball|Portland Pilots]], Lions star forward [[Hank Gathers]] collapsed and died due to a heart condition.<ref>{{Cite news |last=Nehus Saxon |first=Lisa |date=March 6, 1990 |title=Winning and losing: Players, friends believed Gathers was invincible |url=https://books.google.com/books?id=ryJKAAAAIBAJ&lpg=PA9&dq=hank%20gathers%20AND%20heart%20-AP&pg=PA9#v=onepage&q=hank%20gathers%20AND%20heart%20-AP&f=false |access-date=January 16, 2025 |work=The Vindicator |pages=11}}</ref> The WCC tournament was immediately suspended and LMU, the regular-season champion, was given the conference's automatic bid to the tournament. The team defeated [[1989–90 New Mexico State Aggies men's basketball team|New Mexico State]], then laid a 34-point thrashing on defending national champion [[1989–90 Michigan Wolverines men's basketball team|Michigan]], and defeated [[1989–90 Alabama Crimson Tide men's basketball team|Alabama]] in the Sweet Sixteen (the only game in which LMU did not score 100 or more points in the tournament) before running into eventual champion UNLV in the regional final. Gathers' childhood friend, [[Bo Kimble]], the team's undisputed floor leader in the wake of the tragedy, paid tribute to his friend by attempting his first free throw in each game left-handed despite being right-handed (Gathers was right-handed, but struggled so much with free throws that he tried shooting them left-handed for a time.)<ref>{{Cite news |first= |date=March 19, 1990 |title=This Bo knows heartache, happiness |url=https://books.google.com/books?id=Mm4iAAAAIBAJ&lpg=PA25&dq=bo%20kimble%20AND%20free%20throw%20shooting&pg=PA25#v=onepage&q=bo%20kimble%20AND%20free%20throw%20shooting&f=false |access-date=January 16, 2025 |work=The Argus-Press}}</ref> Kimble made all of his left-handed attempts in the tournament.
 
-==Locations==
+The tournament employed a new timing system borrowed from [[FIBA]] & the [[NBA]]: when the game was played in an NBA arena, the final minute of the period is measured in tenths-seconds, rather than whole seconds as in previous years.
+
+==Schedule and venues==
 
 {{Location map+|USA|width=450|float=right|caption=1990 first and second rounds|places=
 {{Location map~|USA|mark=green pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=bottom|background=#FFFFFF|label=Atlanta|link=Omni Coliseum}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=39.768403|lon_deg=-86.158068|position=Top|background=#FFFFFF|label=Indianapolis|link=RCA Dome|Hoosier Dome}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=30.267153|lon_deg=-97.743061|position=bottom|background=#FFFFFF|label=Austin|link=Frank Erwin Center}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=41.763711|lon_deg=-72.685093|position=top|background=#FFFFFF|label=Hartford|Hartford Civic Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.763711|lon_deg=-72.685093|position=top|background=#FFFFFF|label=Hartford|XL Center|Hartford Civic Center}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=37.540725|lon_deg=-77.436048|position=bottom|background=#FFFFFF|label=Richmond|link=Richmond Coliseum}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=35.960638|lon_deg=-83.920739|position=left|background=#FFFFFF|label=Knoxville|link=Thompson–Boling Arena}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=33.770050|lon_deg=-118.193739|position=bottom|background=#FFFFFF|label=Long Beach|link=Long Beach Arena}}
@@ -50,224 +50,198 @@ This tournament marked the first time that the NCAA employed a timekeeping rule 
 }}
 
 {{Location map+|USA|width=450|float=right|caption=1990 Regionals (blue) and Final Four (red)|places=
-{{Location map~|USA|mark=blue pog.svg|lat_deg=37.804364|lon_deg=-122.271114|position=right|background=#FFFFFF|label=Oakland|link=Oracle Arena|Oakland–Alameda County Coliseum Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=37.804364|lon_deg=-122.271114|position=right|background=#FFFFFF|label=Oakland|link=Oakland  Arena|Oakland–Alameda County Coliseum Arena}}
 {{Location map~|USA|mark=blue pog.svg|lat_deg=32.780262|lon_deg=-96.800978|position=right|background=#FFFFFF|label=Dallas|link=Reunion Arena}}
-{{Location map~|USA|mark=blue pog.svg|lat_deg=29.951066|lon_deg=-90.071532|position=bottom|background=#FFFFFF|label=New Orleans|link=Mercedes-Benz Superdome|Louisiana Superdome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=29.951066|lon_deg=-90.071532|position=bottom|background=#FFFFFF|label=New Orleans|link=Caesars Superdome|Louisiana Superdome}}
 {{Location map~|USA|mark=blue pog.svg|lat_deg=39.952584|lon_deg=-74.097086|position=bottom|background=#FFFFFF|label=E. Rutherford|link=Izod Center|Meadowlands Arena}}
 {{Location map~|USA|mark=red pog.svg|lat_deg=39.738436|lon_deg=-104.984859|position=bottom|background=#FFFFFF|label=Denver|link=McNichols Sports Arena}}
 }}
 
-===First & Second Rounds===
-{| class="wikitable"
-! Region !! Site !! Venue
-|-
-! rowspan="2" | East
-|[[Atlanta|Atlanta, Georgia]]
-|[[Omni Coliseum]]
-|-
-|[[Hartford, Connecticut]]
-|[[XL Center|Hartford Civic Center]]
-|-
-! rowspan="2" | Midwest
-|[[Austin, Texas]]
-|[[Frank Erwin Center]]
-|-
-|[[Indianapolis|Indianapolis, Indiana]]
-|[[RCA Dome|Hoosier Dome]]
-|-
-! rowspan="2" | Southeast
-|[[Knoxville, Tennessee]]
-|[[Thompson–Boling Arena]]
-|-
-|[[Richmond, Virginia]]
-|[[Richmond Coliseum]]
-|-
-! rowspan="2" | West
-|[[Long Beach, California]]
-|[[Long Beach Convention and Entertainment Center|Long Beach Arena]]
-|-
-|[[Salt Lake City|Salt Lake City, Utah]]
-|[[Jon M. Huntsman Center]]
-|}
+The following are the sites that were selected to host each round of the 1990 tournament, and their host(s):
 
-===Regional Sites and Final Four===
-{| class="wikitable"
-! Region !! Site !! Venue
-|-
-| '''East'''
-|[[East Rutherford, New Jersey]]
-|[[Meadowlands Arena|Brendan Byrne Arena]]
-|-
-| '''Midwest'''
-|[[Dallas|Dallas, Texas]]
-|[[Reunion Arena]]
-|-
-| '''Southeast'''
-|[[New Orleans|New Orleans, Louisiana]]
-|[[Mercedes-Benz Superdome|Louisiana Superdome]]
-|-
-| '''West'''
-|[[Oakland, California]]
-|[[Oracle Arena|Oakland–Alameda County Coliseum Arena]]
-|-
-| '''Final Four'''
-|[[Denver|Denver, Colorado]]
-|[[McNichols Sports Arena]]
-|}
+'''First and Second Rounds'''
+* March 15 and 17
+** '''East Region'''
+*** [[XL Center|Hartford Civic Center]], [[Hartford, Connecticut]] (Host: [[University of Connecticut]])
+** '''Midwest Region'''
+*** [[Frank Erwin Center]], [[Austin, Texas]] (Host: [[University of Texas at Austin]])
+** '''Southeast Region'''
+*** [[Thompson–Boling Arena]], [[Knoxville, Tennessee]] (Host: [[University of Tennessee]])
+** '''West Region'''
+*** [[Jon M. Huntsman Center]], [[Salt Lake City|Salt Lake City, Utah]] (Host: [[University of Utah]])
+* March 16 and 18
+** '''East Region'''
+*** [[Omni Coliseum]], [[Atlanta|Atlanta, Georgia]] (Host: [[Georgia Tech]])
+** '''Midwest Region'''
+*** [[Hoosier Dome]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Butler University]], [[Midwestern Collegiate Conference]])
+** '''Southeast Region'''
+*** [[Richmond Coliseum]], [[Richmond, Virginia]] (Hosts: [[University of Richmond]], [[Virginia Commonwealth University]])
+** '''West Region'''
+*** [[Long Beach Arena]], [[Long Beach, California]] (Host: [[Long Beach State University]])
 
-Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue, for the Final Four, the only time it has hosted. Two new cities, Oakland, California and Richmond, Virginia, became host cities in 1990. Games had not been played in the East Bay region since 1958 when Cal's Men's Gym (now [[Haas Pavilion]]) hosted; the tournament has returned twice since. Richmond became the third city in Virginia, after Blacksburg and Williamsburg, to host tournament games; like the previous cities it has only hosted twice. Additionally, the tournament returned to Knoxville for the first time since 1983, this time at the new Thompson-Boling Arena. This year also marked the second and, to date, last appearance of the Long Beach Arena in the tournament; with newer, larger venues in Los Angeles and Anaheim, it is unlikely to return soon.
+'''Regional semifinals and finals''' (Sweet Sixteen and Elite Eight)
+* March 22 and 24
+** '''East Regional''', [[Brendan Byrne Arena]], [[East Rutherford, New Jersey]] (Hosts: [[Seton Hall University]], [[Big East Conference]])
+** '''Midwest Regional''', [[Reunion Arena]], [[Dallas|Dallas, Texas]] (Host: [[Southwest Conference]])
+* March 23 and 25
+** '''Southeast Regional''', [[Caesars Superdome|Louisiana Superdome]], [[New Orleans|New Orleans, Louisiana]] (Hosts: [[Tulane University]], [[University of New Orleans]])
+** '''West Regional''', [[Oakland Arena|Oakland–Alameda County Coliseum Arena]], [[Oakland, California]] (Host: [[University of California, Berkeley]])
+
+'''National semifinals and championship''' (Final Four and championship)
+* March 31 and April 2
+** [[McNichols Sports Arena]], [[Denver|Denver, Colorado]] (Hosts: [[University of Colorado Boulder]], [[Big 8 Conference]])
 
 ==Teams==
 {| class=wikitable
-! Region !! Seed !! Team !! Coach !! Finished !! Final Opponent !! Score
+! Region !! Seed !! Team !! Coach !! Conference !! Finished !! Final Opponent !! Score
 |-
-! colspan=7 | East
+! colspan=8 | East
 |-
-| East || 1|| [[1989–90 Connecticut Huskies men's basketball team|Connecticut]] || [[Jim Calhoun]] || Elite 8||3 [[1989–90 Duke Blue Devils men's basketball team|Duke]]||L 79–78
+| East || 1|| [[1989–90 Connecticut Huskies men's basketball team|Connecticut]] || [[Jim Calhoun]] || Big East || Elite 8||3 [[1989–90 Duke Blue Devils men's basketball team|Duke]]||L 79–78
 |-
-| East || 2|| [[1989–90 Kansas Jayhawks men's basketball team|Kansas]] || [[Roy Williams (coach)|Roy Williams]] || Round of 32||7 [[1989–90 UCLA Bruins men's basketball team|UCLA]]||L 71–70
+| East || 2|| [[1989–90 Kansas Jayhawks men's basketball team|Kansas]] || [[Roy Williams (coach)|Roy Williams]] || Big Eight || Round of 32||7 [[1989–90 UCLA Bruins men's basketball team|UCLA]]||L 71–70
 |-
-| East || 3|| [[1989–90 Duke Blue Devils men's basketball team|Duke]] || [[Mike Krzyzewski]] || National Runner Up||1 [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]]||L 103–73
+| East || 3|| [[1989–90 Duke Blue Devils men's basketball team|Duke]] || [[Mike Krzyzewski]] || Atlantic Coast || National Runner Up||1 [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]]||L 103–73
 |-
-| East || 4|| [[1989–90 La Salle Explorers men's basketball team|La Salle]] || [[Speedy Morris]] || Round of 32||5 [[Clemson Tigers men's basketball|Clemson]]||L 79–75
+| East || 4|| [[1989–90 La Salle Explorers men's basketball team|La Salle]] || [[Speedy Morris]] || Metro Atlantic || Round of 32||5 [[1989–90 Clemson Tigers men's basketball team|Clemson]]||L 79–75
 |-
-| East || 5|| [[Clemson Tigers men's basketball|Clemson]] || [[Cliff Ellis]] || Sweet Sixteen||1 [[1989–90 Connecticut Huskies men's basketball team|Connecticut]]||L 71–70
+| East || 5|| [[1989–90 Clemson Tigers men's basketball team|Clemson]] || [[Cliff Ellis]] || Atlantic Coast || Sweet Sixteen||1 [[1989–90 Connecticut Huskies men's basketball team|Connecticut]]||L 71–70
 |-
-| East || 6|| [[1989–90 St. John's Redmen basketball team|St. John's]] || [[Lou Carnesecca]] || Round of 32||3 [[1989–90 Duke Blue Devils men's basketball team|Duke]]||L 76–72
+| East || 6|| [[1989–90 St. John's Redmen basketball team|St. John's]] || [[Lou Carnesecca]] || Big East || Round of 32||3 [[1989–90 Duke Blue Devils men's basketball team|Duke]]||L 76–72
 |-
-| East || 7|| [[1989–90 UCLA Bruins men's basketball team|UCLA]] || [[Jim Harrick]] || Sweet Sixteen||3 [[1989–90 Duke Blue Devils men's basketball team|Duke]]||L 90–81
+| East || 7|| [[1989–90 UCLA Bruins men's basketball team|UCLA]] || [[Jim Harrick]] || Pacific-10 || Sweet Sixteen||3 [[1989–90 Duke Blue Devils men's basketball team|Duke]]||L 90–81
 |-
-| East || 8|| [[1989–90 Indiana Hoosiers men's basketball team|Indiana]] || [[Bob Knight]] || Round of 64||9 [[California Golden Bears men's basketball|California]]||L 65–63
+| East || 8|| [[1989–90 Indiana Hoosiers men's basketball team|Indiana]] || [[Bob Knight]] || Big Ten || Round of 64||9 [[1989–90 California Golden Bears men's basketball team|California]]||L 65–63
 |-
-| East || 9|| [[California Golden Bears men's basketball|California]] || [[Lou Campanelli]] || Round of 32||1 [[1989–90 Connecticut Huskies men's basketball team|Connecticut]]||L 74–54
+| East || 9|| [[1989–90 California Golden Bears men's basketball team|California]] || [[Lou Campanelli]] || Pacific-10 || Round of 32||1 [[1989–90 Connecticut Huskies men's basketball team|Connecticut]]||L 74–54
 |-
-| East || 10|| [[UAB Blazers men's basketball|UAB]] || [[Gene Bartow]] || Round of 64||7 [[1989–90 UCLA Bruins men's basketball team|UCLA]]||L 68–56
+| East || 10|| [[1989–90 UAB Blazers men's basketball team|UAB]] || [[Gene Bartow]] || Sun Belt || Round of 64||7 [[1989–90 UCLA Bruins men's basketball team|UCLA]]||L 68–56
 |-
-| East || 11|| [[Temple Owls men's basketball|Temple]] || [[John Chaney (basketball coach)|John Chaney]] || Round of 64||6 [[1989–90 St. John's Redmen basketball team|St. John's]]||L 81–65
+| East || 11|| [[1989–90 Temple Owls men's basketball team|Temple]] || [[John Chaney (basketball coach)|John Chaney]] || Atlantic 10 || Round of 64||6 [[1989–90 St. John's Redmen basketball team|St. John's]]||L 81–65
 |-
-| East || 12|| [[BYU Cougars men's basketball|BYU]] || [[Roger Reid]] || Round of 64||5 [[Clemson Tigers men's basketball|Clemson]]||L 49–47
+| East || 12|| [[1989–90 BYU Cougars men's basketball team|BYU]] || [[Roger Reid (basketball)|Roger Reid]] || Western Athletic || Round of 64||5 [[1989–90 Clemson Tigers men's basketball team|Clemson]]||L 49–47
 |-
-| East || 13|| [[Southern Miss Golden Eagles basketball|Southern Miss]] || [[M.K. Turk]] || Round of 64||4 [[1989–90 La Salle Explorers men's basketball team|La Salle]]||L 79–63
+| East || 13|| [[1989–90 Southern Miss Golden Eagles basketball team|Southern Miss]] || [[M.K. Turk]] || Metro || Round of 64||4 [[1989–90 La Salle Explorers men's basketball team|La Salle]]||L 79–63
 |-
-| East || 14|| [[Richmond Spiders men's basketball|Richmond]] || [[Dick Tarrant]] || Round of 64||3 [[1989–90 Duke Blue Devils men's basketball team|Duke]]||L 81–46
+| East || 14|| [[1989–90 Richmond Spiders men's basketball team|Richmond]] || [[Dick Tarrant]] || Colonial || Round of 64||3 [[1989–90 Duke Blue Devils men's basketball team|Duke]]||L 81–46
 |-
-| East || 15|| [[Robert Morris Colonials men's basketball|Robert Morris]] || [[Jarrett Durham]] || Round of 64||2 [[1989–90 Kansas Jayhawks men's basketball team|Kansas]]||L 79–71
+| East || 15|| [[1989–90 Robert Morris Colonials men's basketball team|Robert Morris]] || [[Jarrett Durham]] || Northeast || Round of 64||2 [[1989–90 Kansas Jayhawks men's basketball team|Kansas]]||L 79–71
 |-
-| East || 16|| [[Boston University Terriers men's basketball|Boston University]] || [[Mike Jarvis]] || Round of 64||1 [[1989–90 Connecticut Huskies men's basketball team|Connecticut]]||L 76–52
+| East || 16|| [[1989–90 Boston University Terriers men's basketball team|Boston University]] || [[Mike Jarvis]] || North Atlantic || Round of 64||1 [[1989–90 Connecticut Huskies men's basketball team|Connecticut]]||L 76–52
 |-
-! colspan=7 | Midwest
+! colspan=8 | Midwest
 |-
-| Midwest || 1|| [[1989–90 Oklahoma Sooners men's basketball team|Oklahoma]] || [[Billy Tubbs]] || Round of 32||8 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 79–77
+| Midwest || 1|| [[1989–90 Oklahoma Sooners men's basketball team|Oklahoma]] || [[Billy Tubbs]] || Big Eight || Round of 32||8 [[1989–90 North Carolina Tar Heels men's basketball team|North Carolina]]||L 79–77
 |-
-| Midwest || 2|| [[Purdue Boilermakers men's basketball|Purdue]] || [[Gene Keady]] || Round of 32||10 [[1989–90 Texas Longhorns men's basketball team|Texas]]||L 73–72
+| Midwest || 2|| [[1989–90 Purdue Boilermakers men's basketball team|Purdue]] || [[Gene Keady]] || Big Ten || Round of 32||10 [[1989–90 Texas Longhorns men's basketball team|Texas]]||L 73–72
 |-
-| Midwest || 3|| [[1989–90 Georgetown Hoyas men's basketball team|Georgetown]] || [[John Thompson (basketball)|John Thompson]] || Round of 32||6 [[Xavier Musketeers men's basketball|Xavier]]||L 74–71
+| Midwest || 3|| [[1989–90 Georgetown Hoyas men's basketball team|Georgetown]] || [[John Thompson (basketball)|John Thompson]] || Big East || Round of 32||6 [[1989–90 Xavier Musketeers men's basketball team|Xavier]]||L 74–71
 |-
-| Midwest || 4|| [[Arkansas Razorbacks men's basketball|Arkansas]] || [[Nolan Richardson]] || National Semifinals||3 [[1989–90 Duke Blue Devils men's basketball team|Duke]]||L 97–83
+| Midwest || 4|| [[1989–90 Arkansas Razorbacks men's basketball team|Arkansas]] || [[Nolan Richardson]] || Southwest || National semifinals||3 [[1989–90 Duke Blue Devils men's basketball team|Duke]]||L 97–83
 |-
-| Midwest || 5|| [[1989–90 Illinois Fighting Illini men's basketball team|Illinois]] || [[Lou Henson]] || Round of 64||12 [[Dayton Flyers men's basketball|Dayton]]||L 88–86
+| Midwest || 5|| [[1989–90 Illinois Fighting Illini men's basketball team|Illinois]] || [[Lou Henson]] || Big Ten || Round of 64||12 [[1989–90 Dayton Flyers men's basketball team|Dayton]]||L 88–86
 |-
-| Midwest || 6|| [[Xavier Musketeers men's basketball|Xavier]] || [[Pete Gillen]] || Sweet Sixteen||10 [[1989–90 Texas Longhorns men's basketball team|Texas]]||L 102–89
+| Midwest || 6|| [[1989–90 Xavier Musketeers men's basketball team|Xavier]] || [[Pete Gillen]] || Midwestern || Sweet Sixteen||10 [[1989–90 Texas Longhorns men's basketball team|Texas]]||L 102–89
 |-
-| Midwest || 7|| [[Georgia Bulldogs basketball|Georgia]] || [[Hugh Durham]] || Round of 64||10 [[1989–90 Texas Longhorns men's basketball team|Texas]]||L 100–88
+| Midwest || 7|| [[1989–90 Georgia Bulldogs basketball team|Georgia]] || [[Hugh Durham]] || Southeastern || Round of 64||10 [[1989–90 Texas Longhorns men's basketball team|Texas]]||L 100–88
 |-
-| Midwest || 8|| [[North Carolina Tar Heels men's basketball|North Carolina]] || [[Dean Smith]] || Sweet Sixteen||4 [[Arkansas Razorbacks men's basketball|Arkansas]]||L 96–73
+| Midwest || 8|| [[1989–90 North Carolina Tar Heels men's basketball team|North Carolina]] || [[Dean Smith]] || Atlantic Coast || Sweet Sixteen||4 [[Arkansas Razorbacks men's basketball|Arkansas]]||L 96–73
 |-
-| Midwest || 9|| [[Missouri State Bears basketball|Southwest Missouri State]] || [[Charlie Spoonhour]] || Round of 64||8 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 83–70
+| Midwest || 9|| [[1989–90 Southwest Missouri State Bears basketball team|Southwest Missouri State]] || [[Charlie Spoonhour]] || Mid-Continent || Round of 64||8 [[1989–90 North Carolina Tar Heels men's basketball team|North Carolina]]||L 83–70
 |-
-| Midwest || 10|| [[1989–90 Texas Longhorns men's basketball team|Texas]] || [[Tom Penders]] || Elite 8||4 [[Arkansas Razorbacks men's basketball|Arkansas]]||L 88–85
+| Midwest || 10|| [[1989–90 Texas Longhorns men's basketball team|Texas]] || [[Tom Penders]] || Southwest || Elite 8||4 [[Arkansas Razorbacks men's basketball|Arkansas]]||L 88–85
 |-
-| Midwest || 11|| [[Kansas State Wildcats men's basketball|Kansas State]] || [[Lon Kruger]] || Round of 64||6 [[Xavier Musketeers men's basketball|Xavier]]||L 87–79
+| Midwest || 11|| [[1989–90 Kansas State Wildcats men's basketball team|Kansas State]] || [[Lon Kruger]] || Big Eight || Round of 64||6 [[1989–90 Xavier Musketeers men's basketball team|Xavier]]||L 87–79
 |-
-| Midwest || 12|| [[Dayton Flyers men's basketball|Dayton]] || [[Jim O'Brien (basketball, born 1952)|Jim O'Brien]] || Round of 32||4 [[Arkansas Razorbacks men's basketball|Arkansas]]||L 86–84
+| Midwest || 12|| [[1989–90 Dayton Flyers men's basketball team|Dayton]] || [[Jim O'Brien (basketball, born 1952)|Jim O'Brien]] || Midwestern || Round of 32||4 [[Arkansas Razorbacks men's basketball|Arkansas]]||L 86–84
 |-
-| Midwest || 13|| [[1989–90 Princeton Tigers men's basketball team|Princeton]] || [[Pete Carril]] || Round of 64||4 [[Arkansas Razorbacks men's basketball|Arkansas]]||L 68–64
+| Midwest || 13|| [[1989–90 Princeton Tigers men's basketball team|Princeton]] || [[Pete Carril]] || Ivy League || Round of 64||4 [[Arkansas Razorbacks men's basketball|Arkansas]]||L 68–64
 |-
-| Midwest || 14|| [[Texas Southern Tigers basketball|Texas Southern]] || [[Robert Moreland (coach)|Robert Moreland]] || Round of 64||3 [[1989–90 Georgetown Hoyas men's basketball team|Georgetown]]||L 70–52
+| Midwest || 14|| [[1989–90 Texas Southern Tigers basketball team|Texas Southern]] || [[Robert Moreland (basketball)|Robert Moreland]] || Southwest Athletic || Round of 64||3 [[1989–90 Georgetown Hoyas men's basketball team|Georgetown]]||L 70–52
 |-
-| Midwest || 15|| [[Louisiana–Monroe Warhawks men's basketball|Northeast Louisiana]] || [[Mike Vining]] || Round of 64||2 [[Purdue Boilermakers men's basketball|Purdue]]||L 75–63
+| Midwest || 15|| [[1989–90 Northeast Louisiana Indians men's basketball team|Northeast Louisiana]] || [[Mike Vining (coach)|Mike Vining]] || Southland || Round of 64||2 [[1989–90 Purdue Boilermakers men's basketball team|Purdue]]||L 75–63
 |-
-| Midwest || 16|| [[Towson Tigers men's basketball|Towson State]] || [[Terry Truax]] || Round of 64||1 [[1989–90 Oklahoma Sooners men's basketball team|Oklahoma]]||L 77–68
+| Midwest || 16|| [[1989–90 Towson State Tigers men's basketball team|Towson State]] || [[Terry Truax]] || East Coast || Round of 64||1 [[1989–90 Oklahoma Sooners men's basketball team|Oklahoma]]||L 77–68
 |-
-! colspan=7 | Southeast
+! colspan=8 | Southeast
 |-
-| Southeast || 1|| [[1989–90 Michigan State Spartans men's basketball team|Michigan State]] || [[Jud Heathcote]] || Sweet Sixteen||4 [[1989–90 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]||L 81–80
+| Southeast || 1|| [[1989–90 Michigan State Spartans men's basketball team|Michigan State]] || [[Jud Heathcote]] || Big Ten || Sweet Sixteen||4 [[1989–90 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]||L 81–80
 |-
-| Southeast || 2|| [[Syracuse Orange men's basketball|Syracuse]] || [[Jim Boeheim]] || Sweet Sixteen||6 [[Minnesota Golden Gophers men's basketball|Minnesota]]||L 82–75
+| Southeast || 2|| [[1989–90 Syracuse Orangemen basketball team|Syracuse]] || [[Jim Boeheim]] || Big East || Sweet Sixteen||6 [[1989–90 Minnesota Golden Gophers men's basketball team|Minnesota]]||L 82–75
 |-
-| Southeast || 3|| [[Missouri Tigers men's basketball|Missouri]] || [[Norm Stewart]] || Round of 64||14 [[Northern Iowa Panthers men's basketball|Northern Iowa]]||L 74–71
+| Southeast || 3|| [[1989–90 Missouri Tigers men's basketball team|Missouri]] || [[Norm Stewart]] || Big Eight || Round of 64||14 [[1989–90 Northern Iowa Panthers men's basketball team|Northern Iowa]]||L 74–71
 |-
-| Southeast || 4|| [[1989–90 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]] || [[Bobby Cremins]] || National Semifinals||1 [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]]||L 90–81
+| Southeast || 4|| [[1989–90 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]] || [[Bobby Cremins]] || Atlantic Coast || National semifinals||1 [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]]||L 90–81
 |-
-| Southeast || 5|| [[LSU Tigers basketball|LSU]] || [[Dale Brown (basketball)|Dale Brown]] || Round of 32||4 [[1989–90 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]||L 94–91
+| Southeast || 5|| [[1989–90 LSU Tigers basketball team|LSU]] || [[Dale Brown (basketball)|Dale Brown]] || Southeastern || Round of 32||4 [[1989–90 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]||L 94–91
 |-
-| Southeast || 6|| [[Minnesota Golden Gophers men's basketball|Minnesota]] || [[Clem Haskins]] || Elite 8||4 [[1989–90 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]||L 93–91
+| Southeast || 6|| [[1989–90 Minnesota Golden Gophers men's basketball team|Minnesota]] || [[Clem Haskins]] || Big Ten || Elite 8||4 [[1989–90 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]||L 93–91
 |-
-| Southeast || 7|| [[Virginia Cavaliers men's basketball|Virginia]] || [[Terry Holland]] || Round of 32||2 [[Syracuse Orange men's basketball|Syracuse]]||L 63–61
+| Southeast || 7|| [[1989–90 Virginia Cavaliers men's basketball team|Virginia]] || [[Terry Holland]] || Atlantic Coast || Round of 32||2 [[1989–90 Syracuse Orangemen basketball team|Syracuse]]||L 63–61
 |-
-| Southeast || 8|| [[Houston Cougars men's basketball|Houston]] || [[Pat Foster]] || Round of 64||9 [[UC Santa Barbara Gauchos men's basketball|UC Santa Barbara]]||L 70–66
+| Southeast || 8|| [[1989–90 Houston Cougars men's basketball team|Houston]] || [[Pat Foster]] || Southwest || Round of 64||9 [[1989–90 UC Santa Barbara Gauchos men's basketball team|UC Santa Barbara]]||L 70–66
 |-
-| Southeast || 9|| [[UC Santa Barbara Gauchos men's basketball|UC Santa Barbara]] || [[Jerry Pimm]] || Round of 32||1 [[1989–90 Michigan State Spartans men's basketball team|Michigan State]]||L 62–58
+| Southeast || 9|| [[1989–90 UC Santa Barbara Gauchos men's basketball team|UC Santa Barbara]] || [[Jerry Pimm]] || Big West || Round of 32||1 [[1989–90 Michigan State Spartans men's basketball team|Michigan State]]||L 62–58
 |-
-| Southeast || 10|| [[Notre Dame Fighting Irish men's basketball|Notre Dame]] || [[Digger Phelps]] || Round of 64||7 [[Virginia Cavaliers men's basketball|Virginia]]||L 75–67
+| Southeast || 10|| [[1989–90 Notre Dame Fighting Irish men's basketball team|Notre Dame]] || [[Digger Phelps]] || Independent || Round of 64||7 [[1989–90 Virginia Cavaliers men's basketball team|Virginia]]||L 75–67
 |-
-| Southeast || 11|| [[UTEP Miners men's basketball|UTEP]] || [[Don Haskins]] || Round of 64||6 [[Minnesota Golden Gophers men's basketball|Minnesota]]||L 64–61
+| Southeast || 11|| [[1989–90 UTEP Miners men's basketball team|UTEP]] || [[Don Haskins]] || Western Athletic || Round of 64||6 [[1989–90 Minnesota Golden Gophers men's basketball team|Minnesota]]||L 64–61
 |-
-| Southeast || 12|| [[Villanova Wildcats men's basketball|Villanova]] || [[Rollie Massimino]] || Round of 64||5 [[LSU Tigers basketball|LSU]]||L 70–63
+| Southeast || 12|| [[1989–90 Villanova Wildcats men's basketball team|Villanova]] || [[Rollie Massimino]] || Big East || Round of 64||5 [[1989–90 LSU Tigers basketball team|LSU]]||L 70–63
 |-
-| Southeast || 13|| [[East Tennessee State Buccaneers basketball|East Tennessee State]] || [[Les Robinson]] || Round of 64||4 [[1989–90 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]||L 99–83
+| Southeast || 13|| [[1989–90 East Tennessee State Buccaneers men's basketball team|East Tennessee State]] || [[Les Robinson]] || Southern || Round of 64||4 [[1989–90 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]||L 99–83
 |-
-| Southeast || 14|| [[Northern Iowa Panthers men's basketball|Northern Iowa]] || [[Eldon Miller]] || Round of 32||6 [[Minnesota Golden Gophers men's basketball|Minnesota]]||L 81–78
+| Southeast || 14|| [[1989–90 Northern Iowa Panthers men's basketball team|Northern Iowa]] || [[Eldon Miller]] || Mid-Continent || Round of 32||6 [[1989–90 Minnesota Golden Gophers men's basketball team|Minnesota]]||L 81–78
 |-
-| Southeast || 15|| [[Coppin State Eagles men's basketball|Coppin State]] || [[Fang Mitchell|Ron Mitchell]] || Round of 64||2 [[Syracuse Orange men's basketball|Syracuse]]||L 70–48
+| Southeast || 15|| [[1989–90 Coppin State Eagles men's basketball team|Coppin State]] || [[Fang Mitchell|Ron Mitchell]] || Mid-Eastern || Round of 64||2 [[1989–90 Syracuse Orangemen basketball team|Syracuse]]||L 70–48
 |-
-| Southeast || 16|| [[Murray State Racers men's basketball|Murray State]] || [[Steve Newton]] || Round of 64||1 [[1989–90 Michigan State Spartans men's basketball team|Michigan State]]||L 75–71
+| Southeast || 16|| [[1989–90 Murray State Racers men's basketball team|Murray State]] || [[Steve Newton]] || Ohio Valley || Round of 64||1 [[1989–90 Michigan State Spartans men's basketball team|Michigan State]]||L 75–71
 |-
-! colspan=7 | West
+! colspan=8 | West
 |-
-| West || 1|| [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]] || [[Jerry Tarkanian]] || '''Champion'''||3 [[1989–90 Duke Blue Devils men's basketball team|Duke]]||W 103–73
+| West || 1|| [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]] || [[Jerry Tarkanian]] || Big West || '''Champion'''||3 [[1989–90 Duke Blue Devils men's basketball team|Duke]]||W 103–73
 |-
-| West || 2|| [[1989–90 Arizona Wildcats men's basketball team|Arizona]] || [[Lute Olson]] || Round of 32||7 [[Alabama Crimson Tide men's basketball|Alabama]]||L 77–55
+| West || 2|| [[1989–90 Arizona Wildcats men's basketball team|Arizona]] || [[Lute Olson]] || Pacific-10 || Round of 32||7 [[Alabama Crimson Tide men's basketball|Alabama]]||L 77–55
 |-
-| West || 3|| [[1989–90 Michigan Wolverines men's basketball team|Michigan]] || [[Steve Fisher]] || Round of 32||11 [[1989–90 Loyola Marymount Lions men's basketball team|Loyola Marymount]]||L 149–115
+| West || 3|| [[1989–90 Michigan Wolverines men's basketball team|Michigan]] || [[Steve Fisher (American basketball coach)|Steve Fisher]] || Big Ten || Round of 32||11 [[1989–90 Loyola Marymount Lions men's basketball team|Loyola Marymount]]||L 149–115
 |-
-| West || 4|| [[Louisville Cardinals men's basketball|Louisville]] || [[Denny Crum]] || Round of 32||12 [[Ball State Cardinals men's basketball|Ball State]]||L 62–60
+| West || 4|| [[1989–90 Louisville Cardinals men's basketball team|Louisville]] || [[Denny Crum]] || Metro || Round of 32||12 [[Ball State Cardinals men's basketball|Ball State]]||L 62–60
 |-
-| West || 5|| [[Oregon State Beavers men's basketball|Oregon State]] || Jim Anderson || Round of 64||12 [[Ball State Cardinals men's basketball|Ball State]]||L 54–53
+| West || 5|| [[1989–90 Oregon State Beavers men's basketball team|Oregon State]] || Jim Anderson || Pacific-10 || Round of 64||12 [[1989–90 Ball State Cardinals men's basketball team|Ball State]]||L 54–53
 |-
-| West || 6|| [[New Mexico State Aggies men's basketball|New Mexico State]] || [[Neil McCarthy (basketball coach)|Neil McCarthy]] || Round of 64||11 [[1989–90 Loyola Marymount Lions men's basketball team|Loyola Marymount]]||L 111–92
+| West || 6|| [[1989–90 New Mexico State Aggies men's basketball team|New Mexico State]] || [[Neil McCarthy (basketball coach)|Neil McCarthy]] || Big West || Round of 64||11 [[1989–90 Loyola Marymount Lions men's basketball team|Loyola Marymount]]||L 111–92
 |-
-| West || 7|| [[Alabama Crimson Tide men's basketball|Alabama]] || [[Wimp Sanderson]] || Sweet Sixteen||11 [[1989–90 Loyola Marymount Lions men's basketball team|Loyola Marymount]]||L 62–60
+| West || 7|| [[1989–90 Alabama Crimson Tide men's basketball team|Alabama]] || [[Wimp Sanderson]] || Southeastern || Sweet Sixteen||11 [[1989–90 Loyola Marymount Lions men's basketball team|Loyola Marymount]]||L 62–60
 |-
-| West || 8|| [[Ohio State Buckeyes men's basketball|Ohio State]] || [[Randy Ayers]] || Round of 32||1 [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]]||L 76–65
+| West || 8|| [[1989–90 Ohio State Buckeyes men's basketball team|Ohio State]] || [[Randy Ayers]] || Big Ten || Round of 32||1 [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]]||L 76–65
 |-
-| West || 9|| [[Providence Friars men's basketball|Providence]] || [[Rick Barnes]] || Round of 64||8 [[Ohio State Buckeyes men's basketball|Ohio State]]||L 84–83
+| West || 9|| [[1989–90 Providence Friars men's basketball team|Providence]] || [[Rick Barnes]] || Big East || Round of 64||8 [[1989–90 Ohio State Buckeyes men's basketball team|Ohio State]]||L 84–83
 |-
-| West || 10|| [[Colorado State Rams men's basketball|Colorado State]] || [[Boyd Grant]] || Round of 64||7 [[Alabama Crimson Tide men's basketball|Alabama]]||L 71–54
+| West || 10|| [[1989–90 Colorado State Rams men's basketball team|Colorado State]] || [[Boyd Grant]] || Western Athletic || Round of 64||7 [[1989–90 Alabama Crimson Tide men's basketball team|Alabama]]||L 71–54
 |-
-| West || 11|| [[1989–90 Loyola Marymount Lions men's basketball team|Loyola Marymount]] || [[Paul Westhead]] || Elite 8||1 [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]]||L 131–101
+| West || 11|| [[1989–90 Loyola Marymount Lions men's basketball team|Loyola Marymount]] || [[Paul Westhead]] || West Coast || Elite 8||1 [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]]||L 131–101
 |-
-| West || 12|| [[Ball State Cardinals men's basketball|Ball State]] || [[Dick Hunsaker]] || Sweet Sixteen||1 [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]]||L 69–67
+| West || 12|| [[1989–90 Ball State Cardinals men's basketball team|Ball State]] || [[Dick Hunsaker]] || Mid-American || Sweet Sixteen||1 [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]]||L 69–67
 |-
-| West || 13|| [[Idaho Vandals men's basketball|Idaho]] || [[Kermit Davis, Jr.]] || Round of 64||4 [[Louisville Cardinals men's basketball|Louisville]]||L 78–59
+| West || 13|| [[1989–90 Idaho Vandals men's basketball team|Idaho]] || [[Kermit Davis]] || Big Sky || Round of 64||4 [[1989–90 Louisville Cardinals men's basketball team|Louisville]]||L 78–59
 |-
-| West || 14|| [[Illinois State Redbirds men's basketball|Illinois State]] || [[Bob Bender]] || Round of 64||3 [[1989–90 Michigan Wolverines men's basketball team|Michigan]]||L 76–70
+| West || 14|| [[1989–90 Illinois State Redbirds men's basketball team|Illinois State]] || [[Bob Bender]] || Missouri Valley || Round of 64||3 [[1989–90 Michigan Wolverines men's basketball team|Michigan]]||L 76–70
 |-
-| West || 15|| [[South Florida Bulls men's basketball|South Florida]] || [[Bobby Paschal]] || Round of 64||2 [[1989–90 Arizona Wildcats men's basketball team|Arizona]]||L 79–67
+| West || 15|| [[1989–90 South Florida Bulls men's basketball team|South Florida]] || [[Bobby Paschal]] || Sun Belt || Round of 64||2 [[1989–90 Arizona Wildcats men's basketball team|Arizona]]||L 79–67
 |-
-| West || 16|| [[Little Rock Trojans men's basketball|Arkansas–Little Rock]] || Mike Newell || Round of 64||1 [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]]||L 102–72
+| West || 16|| [[1989–90 Arkansas–Little Rock Trojans men's basketball team|Little Rock]] || [[Mike Newell (basketball)|Mike Newell]] || Trans America || Round of 64||1 [[1989–90 UNLV Runnin' Rebels basketball team|UNLV]]||L 102–72
 |-
 |}
 
 ==Bracket==
 
 ===East Regional – East Rutherford, New Jersey===
-{{16TeamBracket | RD1=First Round| RD2=Second Round| RD3=Regional Semifinals | RD4=Regional Final | RD1-seed01=1
+{{16TeamBracket | RD1=First round| RD2=Second Round| RD3=Regional semifinals | RD4=Regional Final | RD1-seed01=1
  | subgroup1= '''[[Hartford Civic Center|Hartford]]'''
  | subgroup2= '''[[Hartford Civic Center|Hartford]]'''
  | subgroup3= '''[[Omni Coliseum|Atlanta]]'''
  | subgroup4= '''[[Omni Coliseum|Atlanta]]'''
-| RD1-team01='''Connecticut'''
+ | RD1-team01='''Connecticut'''
  | RD1-score01='''76'''
  | RD1-seed02=16
  | RD1-team02=Boston University
@@ -352,10 +326,10 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | RD3-score04=81
  | RD4-seed01=1
  | RD4-team01=Connecticut
- | RD4-score01=78*
+ | RD4-score01=78
  | RD4-seed02=3
  | RD4-team02='''Duke'''
- | RD4-score02='''79'''
+ | RD4-score02='''79<sup>OT</sup>'''
 }}
 
 ====Regional Final summary====
@@ -364,7 +338,7 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | bg = #e3e3e3
  | date = Saturday, March 24
  | time =
- | report = [http://www.sports-reference.com/cbb/boxscores/1990-03-24-connecticut.html box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/1990-03-24-connecticut.html box score]
  | team1 = '''#3 Duke Blue Devils'''
  | score1 =  '''79'''
  | team2 = #1 Connecticut Huskies
@@ -376,7 +350,7 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | points2 = J. Gwynn, [[Nadav Henefeld|N. Henefeld]] 15
  | rebounds2 = [[Nadav Henefeld|N. Henefeld]] 6
  | assist2 = [[Chris Smith (basketball, born 1970)|C. Smith]] 5
- | otherstat2 = '''Halftime Score:''' Duke, 37-30<br />'''End of Regulation:''' 72-72
+ | otherstat2 = '''Halftime Score:''' Duke, 37–30<br />'''End of Regulation:''' 72–72
  | place = Brendan Byrne Arena – East Rutherford, New Jersey
  | attendance = 19,546
  | referee =
@@ -384,12 +358,12 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
 }}
 
 ===Midwest Regional – Dallas, Texas===
-{{16TeamBracket | RD1=First Round | RD2=Second Round | RD3=Regional Semifinals | RD4=Regional Final | RD1-seed01=1
+{{16TeamBracket | RD1=First round | RD2=Second Round | RD3=Regional semifinals | RD4=Regional Final | RD1-seed01=1
  | subgroup1= '''[[Frank Erwin Center|Austin]]'''
  | subgroup2= '''[[Frank Erwin Center|Austin]]'''
  | subgroup3= '''[[Hoosier Dome|Indianapolis]]'''
  | subgroup4= '''[[Hoosier Dome|Indianapolis]]'''
-| RD1-team01='''Oklahoma'''
+ | RD1-team01='''Oklahoma'''
  | RD1-score01='''77'''
  | RD1-seed02=16
  | RD1-team02=Towson State
@@ -486,7 +460,7 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | bg = #e3e3e3
  | date = Saturday, March 24
  | time =
- | report = [http://www.sports-reference.com/cbb/boxscores/1990-03-24-arkansas.html box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/1990-03-24-arkansas.html box score]
  | team1 = '''#4 Arkansas Razorbacks'''
  | score1 =  '''88'''
  | team2 = #10 Texas Longhorns
@@ -498,23 +472,24 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | points2 = [[Joey Wright|J. Wright]], [[Travis Mays|T. Mays]] 20
  | rebounds2 = L. Collie 14
  | assist2 = [[Travis Mays|T. Mays]] 5
- | otherstat2 = '''Halftime Score:''' Arkansas, 43-36
+ | otherstat2 = '''Halftime Score:''' Arkansas, 43–36
  | place = Reunion Arena – Dallas, Texas
  | attendance = 16,413
  | referee =
  | TV = CBS
+}}
 
 ===Southeast Regional – New Orleans, Louisiana===
-{{16TeamBracket | RD1=First Round | RD2=Second Round | RD3=Regional Semifinals | RD4=Regional Final | RD1-seed01=1
+{{16TeamBracket | RD1=First round | RD2=Second Round | RD3=Regional semifinals | RD4=Regional Final | RD1-seed01=1
  | subgroup1= '''[[Thompson–Boling Arena|Knoxville]]'''
  | subgroup2= '''[[Thompson–Boling Arena|Knoxville]]'''
  | subgroup3= '''[[Richmond Coliseum|Richmond]]'''
  | subgroup4= '''[[Richmond Coliseum|Richmond]]'''
-| RD1-team01='''Michigan State'''
- | RD1-score01='''75'''
+ | RD1-team01='''Michigan State'''
+ | RD1-score01='''75<sup>OT</sup>'''
  | RD1-seed02=16
  | RD1-team02=Murray State
- | RD1-score02=71*
+ | RD1-score02=71
  | RD1-seed03=8
  | RD1-team03=Houston
  | RD1-score03=66
@@ -535,10 +510,10 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | RD1-score08=83
  | RD1-seed09=6
  | RD1-team09='''Minnesota'''
- | RD1-score09='''64'''
+ | RD1-score09='''64<sup>OT</sup>'''
  | RD1-seed10=11
  | RD1-team10=UTEP
- | RD1-score10=61*
+ | RD1-score10=61
  | RD1-seed11=3
  | RD1-team11=Missouri
  | RD1-score11=71
@@ -583,10 +558,10 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | RD2-score08='''63'''
  | RD3-seed01=1
  | RD3-team01=Michigan State
- | RD3-score01=80*
+ | RD3-score01=80
  | RD3-seed02=4
  | RD3-team02='''Georgia Tech'''
- | RD3-score02='''81'''
+ | RD3-score02='''81<sup>OT</sup>'''
  | RD3-seed03=6
  | RD3-team03='''Minnesota'''
  | RD3-score03='''82'''
@@ -607,7 +582,7 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | bg = #e3e3e3
  | date = Sunday, March 25
  | time =
- | report = [http://www.sports-reference.com/cbb/boxscores/1990-03-25-georgia-tech.html box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/1990-03-25-georgia-tech.html box score]
  | team1 = '''#4 Georgia Tech Yellow Jackets'''
  | score1 =  '''93'''
  | team2 = #6 Minnesota Golden Gophers
@@ -619,7 +594,7 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | points2 = [[Willie Burton|W. Burton]] 35
  | rebounds2 = [[Richard Coffey|R. Coffey]] 9
  | assist2 = [[Melvin Newbern|M. Newbern]] 6
- | otherstat2 = '''Halftime Score:''' Minnesota, 49-47
+ | otherstat2 = '''Halftime Score:''' Minnesota, 49–47
  | place = Louisiana Superdome – New Orleans
  | attendance = 17,782
  | referee =
@@ -627,22 +602,22 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
 }}
 
 ===West Regional – Oakland, California===
-{{16TeamBracket | RD1=First Round | RD2=Second Round | RD3=Regional Semifinals | RD4=Regional Final | RD1-seed01=1
+{{16TeamBracket | RD1=First round | RD2=Second Round | RD3=Regional semifinals | RD4=Regional Final | RD1-seed01=1
  | subgroup1= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
  | subgroup2= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
  | subgroup3= '''[[Long Beach Arena|Long Beach]]'''
  | subgroup4= '''[[Long Beach Arena|Long Beach]]'''
-| RD1-team01='''UNLV'''
+ | RD1-team01='''UNLV'''
  | RD1-score01='''102'''
  | RD1-seed02=16
  | RD1-team02=Arkansas–Little Rock
  | RD1-score02=72
  | RD1-seed03=8
  | RD1-team03='''Ohio State'''
- | RD1-score03='''84'''
+ | RD1-score03='''84<sup>OT</sup>'''
  | RD1-seed04=9
  | RD1-team04=Providence
- | RD1-score04=83*
+ | RD1-score04=83
  | RD1-seed05=5
  | RD1-team05=Oregon State
  | RD1-score05=53
@@ -729,7 +704,7 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | bg = #e3e3e3
  | date = Sunday, March 25
  | time =
- | report = [http://www.sports-reference.com/cbb/boxscores/1990-03-25-loyola-marymount.html box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/1990-03-25-loyola-marymount.html box score]
  | team1 = '''#1 UNLV Runnin' Rebels'''
  | score1 =  '''131'''
  | team2 = #11 Loyola Marymount Lions
@@ -741,22 +716,22 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | points2 = [[Bo Kimble|B. Kimble]] 42
  | rebounds2 = [[Bo Kimble|B. Kimble]] 11
  | assist2 = [[Terrell Lowery|T. Lowery]] 6
- | otherstat2 = '''Halftime Score:''' UNLV, 67-47
+ | otherstat2 = '''Halftime Score:''' UNLV, 67–47
  | place = Oakland–Alameda County Coliseum Arena – Oakland, California
  | attendance = 14,298
  | referee =
  | TV = CBS
 }}
 
-===Final Four @ Denver, Colorado===
-{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game
+===Final Four – Denver, Colorado===
+{{4TeamBracket | RD1=National semifinals | RD2=National Championship Game
  | RD1-seed1=E3
  | RD1-team1='''Duke'''
  | RD1-score1='''97'''
- | RD1-seed2=M4
+ | RD1-seed2=MW4
  | RD1-team2=Arkansas
  | RD1-score2=83
- | RD1-seed3=S4
+ | RD1-seed3=SE4
  | RD1-team3=Georgia Tech
  | RD1-score3=81
  | RD1-seed4=W1
@@ -775,7 +750,7 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | bg = #e3e3e3
  | date = March 31
  | time =
- | report = [http://www.sports-reference.com/cbb/boxscores/1990-03-31-georgia-tech.html box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/1990-03-31-georgia-tech.html box score]
  | team1 = '''#1 UNLV Runnin' Rebels'''
  | score1 =  '''90'''
  | team2 = #4 Georgia Tech Yellow Jackets
@@ -783,21 +758,21 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | points1 = [[Stacey Augmon|S. Augmon]] 22
  | rebounds1 = [[Moses Scurry|M. Scurry]] 11
  | assist1 = [[Anderson Hunt|A. Hunt]] 7
- | otherstat1 =
+ | otherstat1 = 
  | points2 = [[Dennis Scott (basketball)|D. Scott]] 29
  | rebounds2 = J. McNeil 9
  | assist2 = [[Kenny Anderson (basketball)|K. Anderson]] 8
- | otherstat2 = '''Halftime Score:''' Georgia Tech 53-46
+ | otherstat2 = '''Halftime Score:''' Georgia Tech 53–46
  | place = McNichols Arena – Denver
  | attendance = 17,675
- | referee =
+ | referee = Jim Bain, Dick Paparo, Jim Stupin
  | TV = CBS
 }}
 {{basketballbox
  | bg = #ffdead
  | date = March 31
  | time =
- | report = [http://www.sports-reference.com/cbb/boxscores/1990-03-31-arkansas.html box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/1990-03-31-arkansas.html box score]
  | team1 = '''#3 Duke Blue Devils'''
  | score1 =  '''97'''
  | team2 = #4 Arkansas Razorbacks
@@ -809,20 +784,20 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | points2 = [[Todd Day|T. Day]] 27
  | rebounds2 = [[Todd Day|T. Day]] 7
  | assist2 = [[Lee Mayberry|L. Mayberry]] 6
- | otherstat2 = '''Halftime Score:''' Duke, 46-43
+ | otherstat2 = '''Halftime Score:''' Duke, 46–43
  | place = McNichols Arena – Denver
  | attendance = 17,675
- | referee =
+ | referee = Gerry Donaghy, Jim Burr, Frank Bosone
  | TV = CBS
 }}
 
 ===National Championship===
-{{Main article|1990 NCAA Men's Division I Basketball Championship Game}}
+{{Main|1990 NCAA Division I Men's Basketball Championship Game}}
 {{basketballbox
  | bg = #e3e3e3
  | date = April 2
  | time =
- | report = [http://www.sports-reference.com/cbb/boxscores/1990-04-02-duke.html Box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/1990-04-02-duke.html Box score]
  | team1 = '''#1 UNLV Runnin' Rebels'''
  | score1 =  '''103'''
  | team2 = #3 Duke Blue Devils
@@ -830,47 +805,85 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | points1 = [[Anderson Hunt|A. Hunt]] 29
  | rebounds1 = [[Larry Johnson (basketball, born 1969)|L. Johnson]] 11
  | assist1 = [[Stacey Augmon|S. Augmon]] 7
- | otherstat1 =
+ | otherstat1 = 
  | points2 = [[Phil Henderson (basketball)|P. Henderson]] 21
  | rebounds2 = [[Christian Laettner|C. Laettner]] 9
  | assist2 = [[Christian Laettner|C. Laettner]] 5
- | otherstat2 = '''Halftime Score:''' UNLV, 47-35
+ | otherstat2 = '''Halftime Score:''' UNLV, 47–35
  | place = McNichols Arena – Denver
  | attendance = 17,675
- | referee =
+ | referee =Ed Hightower, Richie Ballesteros and Tim Higgins
  | TV = CBS
 }}
 
 ==Announcers==
-CBS broadcast all tournament games.
-*[[Brent Musburger]] and [[Billy Packer]] (final four and championship game only) Musburger's final game for CBS.
-*[[Dick Stockton]] and [[Hubie Brown]] (Elite eight only)
-*[[James Brown (sportscaster)|James Brown]] and [[Bill Raftery]] (West regional only)
-*[[Greg Gumbel]] and [[Quinn Buckner]] (East regional only)
-*[[Brad Nessler]] and [[Tom Heinsohn]] (Midwest regional only)
-*[[Tim Brant]] and [[Len Elmore]] (Southeast regional only)
+
+=== CBS ===
+CBS and NCAA Productions broadcast all tournament games.
+* [[Jim Nantz]] and [[James Brown (sportscaster)|James Brown]] served as hosts for the first-round games, while [[Mike Francesa|Mike Francesca]] served as analyst for the remaining rounds of the tournament.
+* [[Brent Musburger]] and [[Billy Packer]] – First round (Ohio State–Providence) at Salt Lake City, Utah; Second Round at Austin, Texas and Richmond, Virginia; West Regional at Oakland, California; Final Four at Denver, Colorado. Musburger's final games for CBS.
+* [[Dick Stockton]] and [[Hubie Brown]] – Second Round at Atlanta, Georgia; East Regional at East Rutherford, New Jersey
+* [[James Brown (sportscaster)|James Brown]] and [[Bill Raftery]] – Second Round at Hartford, Connecticut and Indianapolis, Indiana; Midwest Regional at Dallas, Texas
+* [[Greg Gumbel]] and [[Quinn Buckner]] – First round (New Mexico State–Loyola-Marymount) and Second Round at Long Beach, California; Southeast Regional at New Orleans, Louisiana
+* [[Brad Nessler]] and [[Tom Heinsohn]] – Second Round at Knoxville, Tennessee
+* [[Tim Brant]] and [[Len Elmore]] – Second Round at Salt Lake City, Utah
+
+===ESPN/NCAA Productions===
+This would be the last year that ESPN would be involved in broadcasting games of the tournament, as CBS took over exclusive coverage of the tournament the following year.
+* [[Bob Carpenter (sportscaster)|Bob Carpenter]] and [[Clark Kellogg]] – First round (Indiana–California, Clemson–Brigham Young) at Hartford, Connecticut
+* [[Mike Gorman]] and [[Ron Perry (basketball, born 1958)|Ron Perry]] – First round (La Salle–Southern Mississippi) at Hartford, Connecticut
+* [[Fred White (sportscaster)|Fred White]] and [[Larry Conley]] – First round (St. John's–Temple, Kansas–Robert Morris) at Atlanta, Georgia
+* Ralph Hacker and Dan Belluomini – First round (UCLA–UAB) at Atlanta, Georgia
+* [[Ron Franklin]] and [[Bob Ortegel]] – First round (North Carolina–SW Missouri State, Arkansas–Princeton) at Austin, Texas
+* Frank Fallon and [[Jack Corrigan (sportscaster)|Jack Corrigan]] - First Round (Dayton-Illinois) at Austin, Texas
+* [[Tom Hammond]] and [[Gary Thompson (basketball player)|Gary Thompson]] – First round (Georgetown–Texas Southern, Georgia–Texas) at Indianapolis, Indiana
+* [[Mick Hubert]] and Jim Gibbons – First round (Xavier–Kansas State) at Indianapolis, Indiana; First round (Arizona–South Florida) at Long Beach, California
+* [[Mike Patrick]] and [[Dan Bonner]] – First round (Missouri–Northern Iowa, Syracuse–Coppin State) at Richmond, Virginia
+* [[Bob Rathbun]] and [[Bucky Waters]] – First round (Minnesota–UTEP) at Richmond, Virginia
+* [[Bob Rathbun]] and [[Mimi Griffin]] – First round (Virginia–Notre Dame) at Richmond, Virginia
+* John Sanders and [[Bruce Larson (basketball)|Bruce Larson]] – First round (UNLV–Arkansas-Little Rock, Oregon State–Ball State) at Salt Lake City, Utah
+* [[John Rooney (sportscaster)|John Rooney]] and [[Bob Weltlich]] - First Round (Michigan St-Murray State, LSU-Villanova) at Knoxville, Tennessee
+* [[Brad Nessler]] and [[Jack Givens]] - First Round (USCB-Houston, Georgia Tech-East Tennessee State) at Knoxville, Tennessee
+* [[John Sanders (sportscaster)|John Sanders]] and [[Len Elmore]] – First round (Louisville–Idaho) at Salt Lake City, Utah
+* [[Barry Tompkins]] and [[Mike Rice (basketball)|Mike Rice]] – First round (Alabama–Colorado State, Michigan–Illinois State) at Long Beach, California
+
+== Tournament notes ==
+* Loyola Marymount's Jeff Fryer made 11 of his 15 three-point attempts against Michigan to set the NCAA tournament record.<ref>[https://fs.ncaa.org.s3.amazonaws.com/Docs/stats/m_final4/MFFBook.pdf#page=60 2025 Men's Final Four Records Book]. National Collegiate Athletics Association (NCAA).</ref>
+* Loyola Marymount's 149–115 win over Michigan set a new tournament record for most combined points (264).
+*UNLV at the time had the largest accumulated victory margin (112 points), over the entire tournament by a championship team that played 6 games. To date, it is the fifth-largest.<ref>{{Cite web |last=Nagel |first=Cody |date=April 7, 2024 |title=March Madness: College basketball's most dominant NCAA Tournament champions since 1985 |url=https://247sports.com/longformarticle/march-madness-college-basketballs-most-dominant-ncaa-tournament-champions-since-1985-229903307/#2400754 |access-date=2025-01-22 |website=247Sports |language=en}}</ref>
+* UNLV's 103–73 win over Duke marked the first, (and to date, only), time in the history of the tournament that at least 100 points were scored by one team in the championship game.<ref name="auto">{{Cite web|url=https://quizzclub.com/trivia/which-is-the-only-basketball-team-to-have-scored-over-100-points-in-a-ncaa-championship-game/answer/169528/|title = Which is the only basketball team to have scored over 100 points in a NCAA championship game?|date = 6 April 2017}}</ref>
+* UNLV's 571 points over six games set the record for most points scored by a single team in any one year of the tournament.<ref name="auto1">{{Cite web|url=http://fs.ncaa.org/Docs/stats/m_final4/2022/Tournament.pdf|title=The Tournament|accessdate=9 April 2023}}</ref>
+* UNLV is the only team in tournament history to average more than 95 points per game, over six games. In six tournament games, they won three by exactly 30 points, while scoring more than 100 points in each 30-point victory.<ref>{{Cite web|url=https://www.ncaa.com/news/basketball-men/bracketiq/2022-02-23/highest-scoring-march-madness-games-ncaa-tournament-history|title=The highest-scoring men's basketball games in NCAA March Madness history &#124; NCAA.com|website=www.ncaa.com}}</ref>
+* UNLV and UCLA in 1965 are the only teams in tournament history to win three games all while scoring at least 100 points in each win. (Loyola Marymount also scored at least 100 points in three games in the 1990 tournament, but lost their last game, where they scored 101 points, to UNLV, by 30 points. UNLV also scored at least 100 points in three victories in the 1977 tournament, but their last one was in the Final Four ''consolation'' game.)<ref name="auto1"/>
+* UNLV's 30-point margin of victory in the championship game is also a tournament record.<ref>{{Cite web|url=https://www.history.com/topics/march-madness|title = March Madness History}}</ref> ESPN called it the 36th “worst blowout in sports history.”<ref>{{Cite web|url=https://www.espn.com/moresports/story/_/id/13665881/worst-blowouts-sports-history-ranks-100-most-stunning-routs-nos-50-26|title=100 worst blowouts in history: Nos. 50-26|date=15 September 2015|website=ESPN.com|accessdate=9 April 2023}}</ref>
+* To date, UNLV remains the last team from a non-power conference ([[American Athletic Conference|AAC]], [[Atlantic Coast Conference|ACC]], [[Big East Conference|Big East]], [[Big Ten Conference|Big Ten]], [[Big 12 Conference|Big 12]], [[Pac-12 Conference|Pac-12]], and [[Southeastern Conference|SEC]]) to win the national championship, since Louisville in 1986.<ref name="auto"/> (Louisville was in The Metro Conference in 1986, which was considered a major basketball conference throughout its history, 1975 - 1995.)
+* The championship game was UNLV's eleventh consecutive win. They would eventually run the win streak to 45 games. That is the fourth-longest win streak in NCAA Division I basketball history, and the longest win streak since the longest ever, by UCLA from 1971-1974.<ref>{{Cite web|url=https://www.ncaa.com/news/basketball-men/article/2020-01-19/longest-winning-streaks-college-basketball-history|title=The longest winning streaks in college basketball history &#124; NCAA.com|website=www.ncaa.com}}</ref>
 
 ==See also==
-* [[1990 NCAA Division II Men's Basketball Tournament]]
-* [[1990 NCAA Division III Men's Basketball Tournament]]
-* [[1990 NCAA Division I Women's Basketball Tournament]]
-* [[NCAA Division II Women's Basketball Tournament|1990 NCAA Division II Women's Basketball Tournament]]
-* [[NCAA Division III Women's Basketball Tournament|1990 NCAA Division III Women's Basketball Tournament]]
+* [[1990 NCAA Division II men's basketball tournament]]
+* [[1990 NCAA Division III men's basketball tournament]]
+* [[1990 NCAA Division I women's basketball tournament]]
+* [[NCAA Division II women's basketball tournament]]
+* [[NCAA Division III women's basketball tournament]]
 * [[1990 National Invitation Tournament]]
-* [[National Women's Invitation Tournament|1990 National Women's Invitation Tournament]]
-* [[1990 NAIA Division I Men's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships|1990 NAIA Division I Women's Basketball Tournament]]
+* [[National Women's Invitation Tournament]]
+* [[1990 NAIA Division I men's basketball tournament]]
+* [[NAIA Women's Basketball Championships|NAIA Division I women's basketball tournament]]
 
-{{NCAA Men's Division I Basketball Tournament navbox}}
+{{NCAA Division I men's basketball tournament navbox}}
+{{1990 NCAA Division I men's basketball tournament navbox}}
 {{1990 UNLV Runnin' Rebels basketball navbox}}
 {{Sports Emmy Award for Outstanding Live Sports Series}}
 
-[[Category:NCAA Division I Men's Basketball Championship]]
-[[Category:1989–90 NCAA Division I men's basketball season|Ncaa]]
-[[Category:Sports competitions in Denver]]
+==References==
+{{Reflist}}
+
+[[Category:NCAA Division I men's basketball tournament]]
+[[Category:1989–90 NCAA Division I men's basketball season|NCAA]]
+[[Category:Basketball competitions in Denver]]
 [[Category:1990 in sports in Colorado|Bronco Colorado]]
-[[Category:Basketball in Austin, Texas]]
+[[Category:Basketball competitions in Austin, Texas]]
 [[Category:Basketball in the Dallas–Fort Worth metroplex]]
 [[Category:1990s in Denver]]
-[[Category:March 1990 sports events]]
-[[Category:April 1990 sports events]]
+[[Category:March 1990 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:April 1990 sports events in the United States|NCAA Division I men's basketball tournament]]

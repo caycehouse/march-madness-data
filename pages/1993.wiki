@@ -1,44 +1,46 @@
+{{Short description|Edition of USA college basketball tournament}}
 {{see also|1993 NCAA Division I Men's Basketball Championship Game}}
-{{Infobox NCAA Basketball Tournament
+{{Use mdy dates|date=August 2023}}
+{{Infobox NCAA basketball tournament
 | Year=1993
-| Image=
-| ImageSize=
+| Image=1993 Final Four logo.png
+| ImageSize=120px
 | Caption=
 | Teams=64
 | FinalFourArena=[[Louisiana Superdome]]
 | FinalFourCity=[[New Orleans]], [[Louisiana]]
-| Champions=[[1992–93 North Carolina Tar Heels men's basketball team|North Carolina]]
+| Champions=[[1992–93 North Carolina Tar Heels men's basketball team|North Carolina Tar Heels]]
 | TitleCount=3rd
-| ChampGameCount=6th
+| ChampGameCount=7th
 | ChampFFCount=11th
-| RunnerUp=  [[1992–93 Michigan Wolverines men's basketball team|Michigan]] (Vacated)
+| RunnerUp=  [[1992–93 Michigan Wolverines men's basketball team|Michigan Wolverines]] (vacated)
 | GameCount=5th
 | RunnerFFCount=6th
-| Semifinal1=[[1992–93 Kansas Jayhawks men's basketball team|Kansas]]
+| Semifinal1=[[1992–93 Kansas Jayhawks men's basketball team|Kansas Jayhawks]]
 | FinalFourCount=10th
-| Semifinal2=[[1992–93 Kentucky Wildcats men's basketball team|Kentucky]]
+| Semifinal2=[[1992–93 Kentucky Wildcats men's basketball team|Kentucky Wildcats]]
 | FinalFourCount2=10th
 | Coach=[[Dean Smith]]
 | CoachCount=2nd
 | MOP=[[Donald Williams (basketball)|Donald Williams]]
 | MOPTeam=North Carolina
 | Attendance=715,246
-| OneTopScorer=*
-| TwoTopScorers=
 | TopScorer=Donald Williams
 | TopScorerTeam=North Carolina
 | Points=118
 }}
-The '''1993 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 18, 1993, and ended with the [[1993 NCAA Men's Division I Basketball Championship Game|championship game]] on April 5 in [[New Orleans, Louisiana]]. A total of 63 games were played.
 
-[[1992–93 North Carolina Tar Heels men's basketball team|North Carolina]], coached by [[Dean Smith]], won the national title with a 77–71 victory in the final game over [[1992–93 Michigan Wolverines men's basketball team|Michigan]], coached by [[Steve Fisher]].<ref>{{YouTube|7HhZBaCAa80|1993 National Championship Game}}</ref> [[Donald Williams (basketball)|Donald Williams]] of North Carolina was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]]. The most memorable play in the championship game came in the last seconds as Michigan's [[Chris Webber]] tried to call a timeout with his team down by 2 points when double-teamed by North Carolina.<ref>{{YouTube|Vn-_URq7K04}}</ref>  Michigan had already used all of its timeouts, so Webber's gaffe resulted in a [[technical foul]]. Michigan subsequently [[University of Michigan basketball scandal|vacated its entire 1992–93 schedule]], including its six NCAA Tournament games, after it emerged that Webber had received under-the-table payments from a booster.
+The '''1993 [[NCAA Division I men's basketball tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 18, 1993, and ended with the [[1993 NCAA Division I Men's Basketball Championship Game|championship game]] on April 5 in [[New Orleans, Louisiana]]. A total of 63 games were played.
 
-In a game that featured two great individual battles (one between [[Bobby Hurley]] and [[Jason Kidd]], and the other between [[Grant Hill (basketball)|Grant Hill]] and [[Lamond Murray]]), two-time defending champion [[1992–93 Duke Blue Devils men's basketball team|Duke]] was upset in the second round by [[California Golden Bears men's basketball|California]].
+[[1992–93 North Carolina Tar Heels men's basketball team|North Carolina]], coached by [[Dean Smith]], won the national title with a 77–71 victory in the final game over [[1992–93 Michigan Wolverines men's basketball team|Michigan]], coached by [[Steve Fisher (American basketball coach)|Steve Fisher]].<ref>{{YouTube|7HhZBaCAa80|1993 National Championship Game}}</ref> [[Donald Williams (basketball)|Donald Williams]] of North Carolina was named the tournament's [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]]. The most memorable play in the championship game came in the last seconds as Michigan's [[Chris Webber]] tried to call a timeout with his team down by 2 points when double-teamed by North Carolina.<ref>{{YouTube|Vn-_URq7K04}}</ref>  Michigan had already used all of its timeouts, so Webber's gaffe resulted in a [[technical foul]]. Michigan subsequently [[University of Michigan basketball scandal|vacated its entire 1992–93 schedule]], including its six NCAA Tournament games, after it emerged that Webber had received under-the-table payments from a booster.
 
-This year's Final Four was the closest the tournament came to having all four top seeds advance to the semifinals until all four did advance in the [[2008 NCAA Men's Division I Basketball Tournament|2008 tournament]]. [[1992–93 Indiana Hoosiers men's basketball team|Indiana]] was the only top seed not to make it out of its regional; it was defeated by the 2-seed [[1992–93 Kansas Jayhawks men's basketball team|Kansas]], in the Midwest regional finals. This tournament is also notable for the uneven distribution of first-round upsets.  While there were no upsets in the East, one 'minor' upset in the Midwest (9th seed [[Xavier Musketeers men's basketball|Xavier]] defeated 8th seed [[New Orleans Privateers men's basketball|New Orleans]]; Xavier was the betting favorite at all sports books in [[Las Vegas]]), and one 'medium' upset in the Southeast (11th seed [[Tulane Green Wave men's basketball|Tulane]] beat 6th seed [[Kansas State Wildcats men's basketball|Kansas State]]), the West featured ''three'' remarkable upsets amongst the top 5 seeds, with a 12, a 13, and a 15-seed advancing to the second round in that region.  At the time, 15-seed [[Santa Clara Broncos men's basketball|Santa Clara's]] victory over 2-seed [[Arizona Wildcats men's basketball|Arizona]] was only the second such upset, and following the 2017 tournament, is one of only eight times that a [[NCAA Men's Division I Basketball Championship upsets|15-seed defeated a 2-seed]] since the tournament field expanded to 64 teams.
+In a game that featured two great individual battles (one between [[Bobby Hurley]] and [[Jason Kidd]], and the other between [[Grant Hill (basketball)|Grant Hill]] and [[Lamond Murray]]), two-time defending champion [[1992–93 Duke Blue Devils men's basketball team|Duke]] was upset in the second round by [[1992–93 California Golden Bears men's basketball team|California]].
 
-==Locations==
+This year's Final Four was the closest the tournament came to having all four top seeds advance to the semifinals until all four did advance in the [[2008 NCAA Division I men's basketball tournament|2008 tournament]]. [[1992–93 Indiana Hoosiers men's basketball team|Indiana]] was the only top seed not to make it out of its regional; it was defeated by the 2-seed [[1992–93 Kansas Jayhawks men's basketball team|Kansas]], in the Midwest regional finals. This tournament is also notable for the uneven distribution of first-round upsets.  While there were no upsets in the East, one 'minor' upset in the Midwest (9th seed [[1992–93 Xavier Musketeers men's basketball team|Xavier]] defeated 8th seed [[1992–93 New Orleans Privateers men's basketball team|New Orleans]]; Xavier was the betting favorite at all sports books in [[Las Vegas]]), and one 'medium' upset in the Southeast (11th seed [[1992–93 Tulane Green Wave men's basketball team|Tulane]] beat 6th seed [[1992–93 Kansas State Wildcats men's basketball team|Kansas State]]), the West featured ''three'' remarkable upsets amongst the top 5 seeds, with a 12, a 13, and a 15-seed advancing to the second round in that region.  At the time, 15-seed [[1992–93 Santa Clara Broncos men's basketball team|Santa Clara's]] victory over 2-seed [[1992–93 Arizona Wildcats men's basketball team|Arizona]] was only the second such upset, and following the 2023 tournament, is one of only eleven times that a [[NCAA Division I men's basketball tournament upsets#15 vs. 2|15-seed defeated a 2-seed]] since the tournament field expanded to 64 teams (In 2018, UMBC became one of only two 16-seeds to defeat a 1-seed, ousting Virginia [[2018 UMBC vs. Virginia men's basketball game|74-54]], with [[2023 Fairleigh Dickinson vs. Purdue men's basketball game|Fairleigh Dickinson's upset of Purdue]] occurring five years later.).
 
+In this tournament, the Louisiana Superdome was the only site in which the game clock counted down in whole seconds, not tenths of seconds, in the final minute of each period.
+
+==Schedule and venues==
 {{Location map+|USA|width=450|float=right|caption=1993 first and second rounds|places=
 {{Location map~|USA|mark=green pog.svg|lat_deg=43.048122|lon_deg=-76.147424|position=right|background=#FFFFFF|label=Syracuse|link=Carrier Dome}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=36.099860|lon_deg=-80.244216|position=bottom|background=#FFFFFF|label=Winston-Salem|link=Lawrence Joel Veterans Memorial Coliseum}}
@@ -58,212 +60,640 @@ This year's Final Four was the closest the tournament came to having all four to
 {{Location map~|USA|mark=red pog.svg|lat_deg=29.951066|lon_deg=-90.071532|position=bottom|background=#FFFFFF|label=New Orleans|link=Mercedes-Benz Superdome}}
 }}
 
-===First & Second Rounds===
-{| class="wikitable"
-! Region !! Site !! Venue
-|-
-! rowspan="2" | East
-|[[Syracuse, New York]]
-|[[Carrier Dome]]
-|-
-|[[Winston-Salem, North Carolina]]
-|[[Lawrence Joel Veterans Memorial Coliseum]]
-|-
-! rowspan="2" | Midwest
-|[[Indianapolis|Indianapolis, Indiana]]
-|[[RCA Dome|Hoosier Dome]]
-|-
-|[[Rosemont, Illinois]]
-|[[Allstate Arena|Rosemont Horizon]]
-|-
-! rowspan="2" | Southeast
-|[[Nashville, Tennessee]]
-|[[Memorial Gymnasium (Vanderbilt University)|Memorial Gym]]
-|-
-|[[Orlando, Florida]]
-|[[Amway Arena|Orlando Arena]]
-|-
-! rowspan="2" | West
-|[[Salt Lake City|Salt Lake City, Utah]]
-|[[Jon M. Huntsman Center]]
-|-
-|[[Tucson, Arizona]]
-|[[McKale Center]]
-|}
+The following are the sites that were selected to host each round of the 1993 tournament:
 
-===Regional Sites and Final Four===
-{| class="wikitable"
-! Region !! Site !! Venue
-|-
-| '''East''' 
-|[[East Rutherford, New Jersey]]
-|[[Meadowlands Arena|Brendan Byrne Arena]]
-|-
-| '''Midwest'''
-|[[St. Louis|St. Louis, Missouri]]
-|[[St. Louis Arena]]
-|-
-| '''Southeast'''
-|[[Charlotte, North Carolina]]
-|[[Charlotte Coliseum]]
-|-
-| '''West'''
-|[[Seattle|Seattle, Washington]]
-|[[Kingdome|The Kingdome]]
-|-
-| '''Final Four'''
-|[[New Orleans|New Orleans, Louisiana]]
-|[[Mercedes-Benz Superdome|Louisiana Superdome]]
-|}
+'''First and Second Rounds'''
+*March 18 and 20
+**'''East Region'''
+*** [[Lawrence Joel Veterans Memorial Coliseum]], [[Winston-Salem, North Carolina]] (Host: [[Wake Forest University]])
+**'''Midwest Region'''
+*** [[Allstate Arena|Rosemont Horizon]], [[Rosemont, Illinois]] (Hosts: [[DePaul University]], [[Great Midwest Conference]])
+**'''Southeast Region'''
+*** [[Orlando Arena]], [[Orlando, Florida]] (Host: [[Stetson University]])
+**'''West Region'''
+*** [[Jon M. Huntsman Center]], [[Salt Lake City|Salt Lake City, Utah]] (Host: [[University of Utah]])
+*March 19 and 21
+**'''East Region'''
+*** [[Carrier Dome]], [[Syracuse, New York]] (Host: [[Syracuse University]])
+**'''Midwest Region'''
+*** [[Hoosier Dome]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Butler University]], [[Midwestern Collegiate Conference]])
+**'''Southeast Region'''
+*** [[Memorial Gymnasium (Vanderbilt University)|Memorial Gymnasium]], [[Nashville, Tennessee]] (Host: [[Vanderbilt University]])
+**'''West Region'''
+*** [[McKale Center]], [[Tucson, Arizona]] (Host: [[University of Arizona]])
 
-For the third time, the Superdome was the host venue for the Final Four, and for the second straight year, all four regional sites were former or future Final Four sites. 1993 saw two new host cities, in Orlando, Florida and Winston-Salem, North Carolina. This was only the second time (after 1983 in Tampa) that Florida hosted a tournament site. Winston-Salem, by contrast, was the sixth different city in North Carolina to host a tournament game. This was the final year for two venues, Vanderbilt's Memorial Gym and the St. Louis Arena. Games in Nashville have moved to the downtown [[Bridgestone Arena]], and games since in St. Louis have been either at [[The Dome at America's Center]] or the [[Scottrade Center]], the successor venue to the Arena, which was torn down in 1999. This was also the most recent time the Carrier Dome has served as a site for opening weekend games; it has been used as a regional site ever since.
+'''Regional semifinals and finals''' (Sweet Sixteen and Elite Eight)
+*March 25 and 27
+**'''Midwest Regional''', [[St. Louis Arena]], [[St. Louis|St. Louis, Missouri]] (Host: [[Missouri Valley Conference]])
+**'''Southeast Regional''', [[Charlotte Coliseum]], [[Charlotte, North Carolina]] (Host: [[University of North Carolina at Charlotte]])
+*March 26 and 28
+**'''East Regional''', [[Brendan Byrne Arena]], [[East Rutherford, New Jersey]] (Hosts: [[Seton Hall University]], [[Big East Conference]])
+**'''West Regional''', [[Kingdome]], [[Seattle|Seattle, Washington]] (Host: [[University of Washington]])
+
+'''National semifinals and championship''' (Final Four and championship)
+*April 3 and 5
+**[[Mercedes-Benz Superdome|Louisiana Superdome]], [[New Orleans|New Orleans, Louisiana]] (Hosts: [[Tulane University]], [[University of New Orleans]])
 
 ==Teams==
-{| class=wikitable
-!Region !! Seed !! Team !! Coach !! Finished !! Final Opponent !! Score
-|-
-! colspan=7 | East
-|-
-| East || 1|| [[1992–93 North Carolina Tar Heels men's basketball team|North Carolina]] || [[Dean Smith]] || '''Champion'''||1 [[1992–93 Michigan Wolverines men's basketball team|Michigan]] ||W 77–71
-|-
-|East || 2|| [[Cincinnati Bearcats men's basketball|Cincinnati]] || [[Bob Huggins]] || Regional Runner-up||1 [[1992–93 North Carolina Tar Heels men's basketball team|North Carolina]]||L 75–68
-|-
-|East || 3|| [[1992–93 UMass Minutemen basketball team|Massachusetts]] || [[John Calipari]] || Round of 32||6 [[Virginia Cavaliers men's basketball|Virginia]]||L 71–56
-|-
-|East || 4|| [[1992–93 Arkansas Razorbacks men's basketball team|Arkansas]] || [[Nolan Richardson]] || Sweet Sixteen||1 [[1992–93 North Carolina Tar Heels men's basketball team|North Carolina]]||L 80–74
-|-
-|East || 5|| [[1992–93 St. John's Redmen basketball team|St. John's]] || [[Brian Mahoney (basketball)|Brian Mahoney]] || Round of 32||4 [[1992–93 Arkansas Razorbacks men's basketball team|Arkansas]]||L 80–74
-|-
-|East || 6|| [[Virginia Cavaliers men's basketball|Virginia]] || [[Jeff Jones (basketball)|Jeff Jones]] || Sweet Sixteen||2 [[Cincinnati Bearcats men's basketball|Cincinnati]]||L 71–54
-|-
-|East || 7|| [[New Mexico State Aggies men's basketball|New Mexico State]] || [[Neil McCarthy (basketball coach)|Neil McCarthy]] || Round of 32||2 [[Cincinnati Bearcats men's basketball|Cincinnati]]||L 92–55
-|-
-|East || 8|| [[Rhode Island Rams men's basketball|Rhode Island]] || [[Al Skinner]] || Round of 32||1 [[1992–93 North Carolina Tar Heels men's basketball team|North Carolina]]||L 112–67
-|-
-|East || 9|| [[Purdue Boilermakers men's basketball|Purdue]] || [[Gene Keady]] || Round of 64||8 [[Rhode Island Rams men's basketball|Rhode Island]]||L 74–68
-|-
-|East || 10|| [[Nebraska Cornhuskers men's basketball|Nebraska]] || [[Danny Nee]] || Round of 64||7 [[New Mexico State Aggies men's basketball|New Mexico State]]||L 93–79
-|-
-|East || 11|| [[Manhattan Jaspers basketball|Manhattan]] || [[Fran Fraschilla]] || Round of 64||6 [[Virginia Cavaliers men's basketball|Virginia]]||L 78–66
-|-
-|East || 12|| [[1992–93 Texas Tech Red Raiders basketball team|Texas Tech]] || [[James Dickey]] || Round of 64||5 [[1992–93 St. John's Redmen basketball team|St. John's]]||L 85–67
-|-
-|East || 13|| [[Holy Cross Crusaders men's basketball|Holy Cross]] || [[George Blaney]] || Round of 64||4 [[1992–93 Arkansas Razorbacks men's basketball team|Arkansas]]||L 94–64
-|-
-|East || 14|| [[Penn Quakers men's basketball|Penn]] || [[Fran Dunphy]] || Round of 64||3 [[1992–93 UMass Minutemen basketball team|Massachusetts]]||L 54–50
-|-
-|East || 15|| [[Coppin State Eagles men's basketball|Coppin State]] || [[Fang Mitchell|Ron Mitchell]] || Round of 64||2 [[Cincinnati Bearcats men's basketball|Cincinnati]]||L 93–66
-|-
-|East || 16|| [[East Carolina Pirates men's basketball|East Carolina]] || [[Eddie Payne]] || Round of 64||1 [[1992–93 North Carolina Tar Heels men's basketball team|North Carolina]]||L 85–65
-|-
-! colspan=7 | Midwest
-|-
-|Midwest || 1|| [[1992–93 Indiana Hoosiers men's basketball team|Indiana]] || [[Bob Knight]] || Regional Runner-up||2 [[1992–93 Kansas Jayhawks men's basketball team|Kansas]]||L 83–77
-|-
-|Midwest || 2|| [[1992–93 Kansas Jayhawks men's basketball team|Kansas]] || [[Roy Williams (coach)|Roy Williams]] || National Semifinals||1 [[1992–93 North Carolina Tar Heels men's basketball team|North Carolina]]||L 78–68
-|-
-|Midwest || 3|| [[1992–93 Duke Blue Devils men's basketball team|Duke]] || [[Mike Krzyzewski]] || Round of 32||6 [[California Golden Bears men's basketball|California]]||L 82–77
-|-
-|Midwest || 4|| [[1992–93 Louisville Cardinals men's basketball team|Louisville]] || [[Denny Crum]] || Sweet Sixteen||1 [[1992–93 Indiana Hoosiers men's basketball team|Indiana]]||L 82–69
-|-
-|Midwest || 5|| [[Oklahoma State Cowboys basketball|Oklahoma State]] || [[Eddie Sutton]] || Round of 32||4 [[1992–93 Louisville Cardinals men's basketball team|Louisville]]||L 78–63
-|-
-|Midwest || 6|| [[California Golden Bears men's basketball|California]] || [[Todd Bozeman]] || Sweet Sixteen||2 [[1992–93 Kansas Jayhawks men's basketball team|Kansas]]||L 93–76
-|-
-|Midwest || 7|| [[BYU Cougars men's basketball|BYU]] || [[Roger Reid]] || Round of 32||2 [[1992–93 Kansas Jayhawks men's basketball team|Kansas]]||L 90–76
-|-
-|Midwest || 8|| [[New Orleans Privateers men's basketball|New Orleans]] || [[Tim Floyd]] || Round of 64||9 [[Xavier Musketeers men's basketball|Xavier]]||L 73–55
-|-
-|Midwest || 9|| [[Xavier Musketeers men's basketball|Xavier]] || [[Pete Gillen]] || Round of 32||1 [[1992–93 Indiana Hoosiers men's basketball team|Indiana]]||L 73–70
-|-
-|Midwest || 10|| [[SMU Mustangs men's basketball|SMU]] || [[John Shumate]] || Round of 64||7 [[BYU Cougars men's basketball|BYU]]||L 80–71
-|-
-|Midwest || 11|| [[LSU Tigers basketball|LSU]] || [[Dale Brown (basketball)|Dale Brown]] || Round of 64||6 [[California Golden Bears men's basketball|California]]||L 66–64
-|-
-|Midwest || 12|| [[Marquette Golden Eagles men's basketball|Marquette]] || [[Kevin O'Neill (basketball)|Kevin O'Neill]] || Round of 64||5 [[Oklahoma State Cowboys basketball|Oklahoma State]]||L 74–62
-|-
-|Midwest || 13|| [[Delaware Fightin' Blue Hens men's basketball|Delaware]] || [[Steve Steinwedel]] || Round of 64||4 [[1992–93 Louisville Cardinals men's basketball team|Louisville]]||L 76–70
-|-
-|Midwest || 14|| [[Southern Illinois Salukis men's basketball|Southern Illinois]] || [[Rich Herrin]] || Round of 64||3 [[1992–93 Duke Blue Devils men's basketball team|Duke]]||L 105–70
-|-
-|Midwest || 15|| [[Ball State Cardinals men's basketball|Ball State]] || [[Dick Hunsaker]] || Round of 64||2 [[1992–93 Kansas Jayhawks men's basketball team|Kansas]]||L 94–72
-|-
-|Midwest || 16|| [[Wright State Raiders men's basketball|Wright State]] || [[Ralph Underhill]] || Round of 64||1 [[1992–93 Indiana Hoosiers men's basketball team|Indiana]]||L 97–54
-|-
-! colspan=7 | Southeast
-|-
-|Southeast || 1|| [[1992–93 Kentucky Wildcats men's basketball team|Kentucky]] || [[Rick Pitino]] || National Semifinals ||1 [[1992–93 Michigan Wolverines men's basketball team|Michigan]] ||L 81–78
-|-
-|Southeast || 2|| [[Seton Hall Pirates men's basketball|Seton Hall]] || [[P.J. Carlesimo]] || Round of 32||7 [[Western Kentucky Hilltoppers basketball|Western Kentucky]]||L 72–68
-|-
-|Southeast || 3|| [[Florida State Seminoles men's basketball|Florida State]] || [[Pat Kennedy]] || Regional Runner-up||1 [[1992–93 Kentucky Wildcats men's basketball team|Kentucky]]||L 106–81
-|-
-|Southeast || 4|| [[1992–93 Iowa Hawkeyes men's basketball team|Iowa]] || [[Tom Davis (basketball, born 1938)|Tom Davis]] || Round of 32||5 [[1992–93 Wake Forest Demon Deacons men's basketball team|Wake Forest]]||L 84–78
-|-
-|Southeast || 5|| [[1992–93 Wake Forest Demon Deacons men's basketball team|Wake Forest]] || [[Dave Odom]] || Sweet Sixteen||1 [[1992–93 Kentucky Wildcats men's basketball team|Kentucky]]||L 103–69
-|-
-|Southeast || 6|| [[Kansas State Wildcats men's basketball|Kansas State]] || [[Dana Altman]] || Round of 64||11 [[Tulane Green Wave men's basketball|Tulane]]||L 55–53
-|-
-|Southeast || 7|| [[Western Kentucky Hilltoppers basketball|Western Kentucky]] || [[Ralph Willard]] || Sweet Sixteen||3 [[Florida State Seminoles men's basketball|Florida State]]||L 81–78
-|-
-|Southeast || 8|| [[Utah Utes men's basketball|Utah]] || [[Rick Majerus]] || Round of 32||1 [[1992–93 Kentucky Wildcats men's basketball team|Kentucky]]||L 83–62
-|-
-|Southeast || 9|| [[Pittsburgh Panthers men's basketball|Pittsburgh]] || [[Paul Evans (basketball coach)|Paul Evans]] || Round of 64||8 [[Utah Utes men's basketball|Utah]]||L 86–65
-|-
-|Southeast || 10|| [[Memphis Tigers men's basketball|Memphis State]] || [[Larry Finch]] || Round of 64||7 [[Western Kentucky Hilltoppers basketball|Western Kentucky]]||L 55–52
-|-
-|Southeast || 11|| [[Tulane Green Wave men's basketball|Tulane]] || [[Perry Clark]] || Round of 32||3 [[Florida State Seminoles men's basketball|Florida State]]||L 94–63
-|-
-|Southeast || 12|| [[Chattanooga Mocs basketball|Chattanooga]] || [[Mack McCarthy]] || Round of 64||5 [[1992–93 Wake Forest Demon Deacons men's basketball team|Wake Forest]]||L 81–58
-|-
-|Southeast || 13|| [[Louisiana–Monroe Warhawks men's basketball|Northeast Louisiana]] || [[Mike Vining]] || Round of 64||4 [[1992–93 Iowa Hawkeyes men's basketball team|Iowa]]||L 82–69
-|-
-|Southeast || 14|| [[Evansville Purple Aces men's basketball|Evansville]] || [[Jim Crews]] || Round of 64||3 [[Florida State Seminoles men's basketball|Florida State]]||L 82–70
-|-
-|Southeast || 15|| [[Tennessee State Tigers basketball|Tennessee State]] || [[Frankie Allen]] || Round of 64||2 [[Seton Hall Pirates men's basketball|Seton Hall]]||L 81–59
-|-
-|Southeast || 16|| [[Rider Broncs men's basketball|Rider]] || [[Kevin Bannon]] || Round of 64||1 [[1992–93 Kentucky Wildcats men's basketball team|Kentucky]]||L 96–52
-|-
-! colspan=7 | West
-|-
-|West || 1|| [[1992–93 Michigan Wolverines men's basketball team|Michigan]] (Vacated) || [[Steve Fisher]] || Runner Up||1 [[1992–93 North Carolina Tar Heels men's basketball team|North Carolina]] ||L 77–71
-|-
-|West || 2|| [[Arizona Wildcats men's basketball|Arizona]] || [[Lute Olson]] || Round of 64||15 [[Santa Clara Broncos men's basketball|Santa Clara]]||L 64–61
-|-
-|West || 3|| [[Vanderbilt Commodores men's basketball|Vanderbilt]] || [[Eddie Fogler]] || Sweet Sixteen||7 [[Temple Owls men's basketball|Temple]]||L 67–59
-|-
-|West || 4|| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] || [[Bobby Cremins]] || Round of 64||13 [[Southern Jaguars basketball|Southern]]||L 93–78
-|-
-|West || 5|| [[New Mexico Lobos men's basketball|New Mexico]] || [[Dave Bliss]] || Round of 64||12 [[George Washington Colonials men's basketball|George Washington]]||L 82–68
-|-
-|West || 6|| [[1992–93 Illinois Fighting Illini men's basketball team|Illinois]] || [[Lou Henson]] || Round of 32||3 [[Vanderbilt Commodores men's basketball|Vanderbilt]]||L 85–68
-|-
-|West || 7|| [[Temple Owls men's basketball|Temple]] || [[John Chaney (basketball coach)|John Chaney]] || Regional Runner-up||1 [[1992–93 Michigan Wolverines men's basketball team|Michigan]] ||L 77–72
-|-
-|West || 8|| [[Iowa State Cyclones men's basketball|Iowa State]] || [[Johnny Orr (basketball, born 1927)|Johnny Orr]] || Round of 64||9 [[1992–93 UCLA Bruins men's basketball team|UCLA]]||L 81–70
-|-
-|West || 9|| [[1992–93 UCLA Bruins men's basketball team|UCLA]] || [[Jim Harrick]] || Round of 32||1 [[1992–93 Michigan Wolverines men's basketball team|Michigan]]||L 86–84
-|-
-|West || 10|| [[Missouri Tigers men's basketball|Missouri]] || [[Norm Stewart]] || Round of 64||7 [[Temple Owls men's basketball|Temple]]||L 75–61
-|-
-|West || 11|| [[Long Beach State 49ers men's basketball|Long Beach State]] || [[Seth Greenberg]] || Round of 64||6 [[1992–93 Illinois Fighting Illini men's basketball team|Illinois]]||L 75–72
-|-
-|West || 12|| [[George Washington Colonials men's basketball|George Washington]] || [[Mike Jarvis]] || Sweet Sixteen||1 [[1992–93 Michigan Wolverines men's basketball team|Michigan]] ||L 72–64
-|-
-|West || 13|| [[Southern Jaguars basketball|Southern]] || [[Ben Jobe]] || Round of 32||12 [[George Washington Colonials men's basketball|George Washington]]||L 90–80
-|-
-|West || 14|| [[Boise State Broncos men's basketball|Boise State]] || [[Bobby Dye]] || Round of 64||3 [[Vanderbilt Commodores men's basketball|Vanderbilt]]||L 92–72
-|-
-|West || 15|| [[Santa Clara Broncos men's basketball|Santa Clara]] || [[Dick Davey]] || Round of 32||7 [[Temple Owls men's basketball|Temple]]||L 68–57
-|-
-|West || 16|| [[Coastal Carolina Chanticleers men's basketball|Coastal Carolina]] || [[Russ Bergman]] || Round of 64||1 [[1992–93 Michigan Wolverines men's basketball team|Michigan]] ||L 84–53
-|-
+There were 30 automatic bids awarded to the tournament - of these, 27 were given to the winners of their conference's tournament, while three were awarded to the team with the best regular-season record in their conference ([[Big Ten Conference|Big Ten]], [[Ivy League]] and [[Pac-12 Conference|Pac-10]]).
+
+Two conferences, the [[Great Midwest Conference]] and [[ASUN Conference|Trans America Athletic Conference]],<ref>{{cite web |title=TAAC LOSES BID TO MARCH MADNESS |url=https://www.orlandosentinel.com/1992/09/02/taac-loses-bid-to-march-madness/ |work=[[Orlando Sentinel]] |date=September 2, 1992 |access-date=May 23, 2023}}</ref> did not receive automatic bids to the tournament.
+
+Two conference champions made their first NCAA tournament appearances: [[1992–93 Tennessee State Tigers basketball team|Tennessee State]] ([[Ohio Valley Conference|Ohio Valley]]) and [[1992–93 Wright State Raiders men's basketball team|Wright State]] ([[Mid-Continent Conference|Mid-Continent]]).
+
+===Automatic qualifiers===
+{|class="wikitable sortable plainrowheaders"
+|+Automatic qualifiers
+|-
+!scope="col"|Conference
+!scope="col"|Team
+!scope="col" data-sort-type="number"|Appearance
+!scope="col"|Last bid
+|-
+|[[1993 ACC men's basketball tournament|ACC]]
+!scope="row" style="text-align:left"|[[1992–93 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]
+|align=center|10th
+|align=center|1992
+|-
+|[[1993 Atlantic 10 men's basketball tournament|Atlantic 10]]
+!scope="row" style="text-align:left"|[[1992–93 UMass Minutemen basketball team|UMass]]
+|align=center|3rd
+|align=center|1992
+|-
+|[[1993 Big East men's basketball tournament|Big East]]
+!scope="row" style="text-align:left"|[[1992–93 Seton Hall Pirates men's basketball team|Seton Hall]]
+|align=center|5th
+|align=center|1992
+|-
+|[[1993 Big Eight Conference men's basketball tournament|Big Eight]]
+!scope="row" style="text-align:left"|[[1992–93 Missouri Tigers men's basketball team|Missouri]]
+|align=center|14th
+|align=center|1992
+|-
+|[[1993 Big Sky Conference men's basketball tournament|Big Sky]]
+!scope="row" style="text-align:left"|[[1992–93 Boise State Broncos men's basketball team|Boise State]]
+|align=center|3rd
+|align=center|1988
+|-
+|[[1993 Big South Conference men's basketball tournament|Big South]]
+!scope="row" style="text-align:left"|[[1992–93 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]]
+|align=center|2nd
+|align=center|1991
+|-
+|[[List of Big Ten Conference men's basketball regular season champions|Big Ten]]
+!scope="row" style="text-align:left"|[[1992–93 Indiana Hoosiers men's basketball team|Indiana]]
+|align=center|22nd
+|align=center|1992
+|-
+|[[1993 Big West Conference men's basketball tournament|Big West]]
+!scope="row" style="text-align:left"|[[1992–93 Long Beach State 49ers men's basketball team|Long Beach State]]
+|align=center|3rd
+|align=center|1977
+|-
+|[[1993 CAA men's basketball tournament|CAA]]
+!scope="row" style="text-align:left"|[[1992–93 East Carolina Pirates men's basketball team|East Carolina]]
+|align=center|2nd
+|align=center|1972
+|-
+|[[Ivy League men's basketball|Ivy League]]
+!scope="row" style="text-align:left"|[[1992–93 Penn Quakers men's basketball team|Penn]]
+|align=center|14th
+|align=center|1987
+|-
+|[[1993 MAAC men's basketball tournament|MAAC]]
+!scope="row" style="text-align:left"|[[1992–93 Manhattan Jaspers basketball team|Manhattan]]
+|align=center|3rd
+|align=center|1958
+|-
+|[[1993 MAC men's basketball tournament|MAC]]
+!scope="row" style="text-align:left"|[[1992–93 Ball State Cardinals men's basketball team|Ball State]]
+|align=center|5th
+|align=center|1988
+|-
+|[[1993 Midwestern Collegiate Conference men's basketball tournament|MCC]]
+!scope="row" style="text-align:left"|[[1992–93 Evansville Purple Aces men's basketball team|Evansville]]
+|align=center|4th
+|align=center|1992
+|-
+|[[1993 MEAC men's basketball tournament|MEAC]]
+!scope="row" style="text-align:left"|[[1992–93 Coppin State Eagles men's basketball team|Coppin State]]
+|align=center|2nd
+|align=center|1990
+|-
+|[[1993 Metro Conference men's basketball tournament|Metro]]
+!scope="row" style="text-align:left"|[[1992–93 Louisville Cardinals men's basketball team|Louisville]]
+|align=center|23rd
+|align=center|1992
+|-
+|[[1993 Mid-Continent Conference men's basketball tournament|Mid-Continent]]
+!scope="row" style="text-align:left"|[[1992–93 Wright State Raiders men's basketball team|Wright State]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|-
+|[[1993 Missouri Valley Conference men's basketball tournament|Missouri Valley]]
+!scope="row" style="text-align:left"|[[1992–93 Southern Illinois Salukis men's basketball team|Southern Illinois]]
+|align=center|2nd
+|align=center|1977
+|-
+|[[1993 North Atlantic Conference men's basketball tournament|NAC]]
+!scope="row" style="text-align:left"|[[1992–93 Delaware Fightin' Blue Hens men's basketball team|Delaware]]
+|align=center|2nd
+|align=center|1992
+|-
+|[[1993 Northeast Conference men's basketball tournament|NEC]]
+!scope="row" style="text-align:left"|[[1992–93 Rider Broncs men's basketball team|Rider]]
+|align=center|2nd
+|align=center|1984
+|-
+|[[1993 Ohio Valley Conference men's basketball tournament|Ohio Valley]]
+!scope="row" style="text-align:left"|[[1992–93 Tennessee State Tigers basketball team|Tennessee State]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|-
+|[[Pac-12 Conference men's basketball|Pac-10]]
+!scope="row" style="text-align:left"|[[1992–93 Arizona Wildcats men's basketball team|Arizona]]
+|align=center|12th
+|align=center|1992
+|-
+|[[1993 Patriot League men's basketball tournament|Patriot]]
+!scope="row" style="text-align:left"|[[1992–93 Holy Cross Crusaders men's basketball team|Holy Cross]]
+|align=center|3rd
+|align=center|1980
+|-
+|[[1993 SEC men's basketball tournament|SEC]]
+!scope="row" style="text-align:left"|[[1992–93 Kentucky Wildcats men's basketball team|Kentucky]]
+|align=center|34th
+|align=center|1992
+|-
+|[[1993 Southern Conference men's basketball tournament|Southern]]
+!scope="row" style="text-align:left"|[[1992–93 Chattanooga Mocs basketball team|Chattanooga]]
+|align=center|5th
+|align=center|1988
+|-
+|[[1993 Southland Conference men's basketball tournament|Southland]]
+!scope="row" style="text-align:left"|[[1992–93 Northeast Louisiana Indians men's basketball team|Northeast Louisiana]]
+|align=center|6th
+|align=center|1992
+|-
+|[[1993 Sun Belt Conference men's basketball tournament|Sun Belt]]
+!scope="row" style="text-align:left"|[[1992–93 Western Kentucky Hilltoppers basketball team|Western Kentucky]]
+|align=center|13th
+|align=center|1987
+|-
+|[[1993 SWAC men's basketball tournament|SWAC]]
+!scope="row" style="text-align:left"|[[1992–93 Southern Jaguars basketball team|Southern]]
+|align=center|6th
+|align=center|1989
+|-
+|[[1993 Southwest Conference men's basketball tournament|SWC]]
+!scope="row" style="text-align:left"|[[1992–93 Texas Tech Red Raiders basketball team|Texas Tech]]
+|align=center|9th
+|align=center|1986
+|-
+|[[1993 WAC men's basketball tournament|WAC]]
+!scope="row" style="text-align:left"|[[1992–93 New Mexico Lobos men's basketball team|New Mexico]]
+|align=center|5th
+|align=center|1991
+|-
+|[[1993 West Coast Conference men's basketball tournament|West Coast]]
+!scope="row" style="text-align:left"|[[1992–93 Santa Clara Broncos men's basketball team|Santa Clara]]
+|align=center|9th
+|align=center|1987
+|}
+
+===Tournament seeds===
+{|
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+East Regional – [[Meadowlands Arena|Brendan Byrne Arena]], [[East Rutherford, New Jersey]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 165px;"|School
+!scope="col" style="width: 80px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[1992–93 North Carolina Tar Heels men's basketball team|North Carolina]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|28–4
+|align=center|At-Large
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[1992–93 Cincinnati Bearcats men's basketball team|Cincinnati]]
+|[[Great Midwest Conference|Great Midwest]]
+|align=center|24–4
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[1992–93 UMass Minutemen basketball team|UMass]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|23–6
+|align=center|Automatic
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[1992–93 Arkansas Razorbacks men's basketball team|Arkansas]]
+|[[Southeastern Conference|SEC]]
+|align=center|20–8
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[1992–93 St. John's Redmen men's basketball team|St. John's]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|18–10
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[1992–93 Virginia Cavaliers men's basketball team|Virginia]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|19–9
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[1992–93 New Mexico State Aggies basketball team|New Mexico State]] <small>(vacated)</small>
+|[[Big West Conference|Big West]]
+|align=center|25–7
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[1992–93 Rhode Island Rams men's basketball team|Rhode Island]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|18–10
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[1992–93 Purdue Boilermakers men's basketball team|Purdue]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|18–9
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[1992–93 Nebraska Cornhuskers men's basketball team|Nebraska]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|20–10
+|align=center|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[1992–93 Manhattan Jaspers basketball team|Manhattan]]
+|[[Metro Atlantic Athletic Conference|MAAC]]
+|align=center|23–6
+|align=center|Automatic
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[1992–93 Texas Tech Red Raiders basketball team|Texas Tech]]
+|[[Southwest Conference|Southwest]]
+|align=center|18–11
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[1992–93 Holy Cross Crusaders men's basketball team|Holy Cross]]
+|[[Patriot League|Patriot]]
+|align=center|23–6
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[1992–93 Penn Quakers men's basketball team|Penn]]
+|[[Ivy League]]
+|align=center|22–4
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[1992–93 Coppin State Eagles men's basketball team|Coppin State]]
+|[[Mid-Eastern Athletic Conference|MEAC]]
+|align=center|22–7
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[1992–93 East Carolina Pirates men's basketball team|East Carolina]]
+|[[Colonial Athletic Association|CAA]]
+|align=center|13–16
+|align=center|Automatic
+|}
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+Southeast Regional – [[Charlotte Coliseum]], [[Charlotte, North Carolina]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 165px;"|School
+!scope="col" style="width: 80px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[1992–93 Kentucky Wildcats men's basketball team|Kentucky]]
+|[[Southeastern Conference|SEC]]
+|align=center|26–3
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[1992–93 Seton Hall Pirates men's basketball team|Seton Hall]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|27–6
+|align=center|Automatic
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[1992–93 Florida State Seminoles men's basketball team|Florida State]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|22–9
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[1992–93 Iowa Hawkeyes men's basketball team|Iowa]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|22–8
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[1992–93 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|19–8
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[1992–93 Kansas State Wildcats men's basketball team|Kansas State]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|19–10
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[1992–93 Western Kentucky Hilltoppers basketball team|Western Kentucky]]
+|[[Sun Belt Conference|Sun Belt]]
+|align=center|24–5
+|align=center|Automatic
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[1992–93 Utah Utes men's basketball team|Utah]]
+|[[Western Athletic Conference|WAC]]
+|align=center|23–6
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[1992–93 Pittsburgh Panthers men's basketball team|Pittsburgh]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|17–10
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[1992–93 Memphis State Tigers men's basketball team|Memphis State]]
+|[[Great Midwest Conference|Great Midwest]]
+|align=center|20–11
+|align=center|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[1992–93 Tulane Green Wave men's basketball team|Tulane]]
+|[[Metro Conference|Metro]]
+|align=center|21–8
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[1992–93 Chattanooga Mocs basketball team|Chattanooga]]
+|[[Southern Conference|Southern]]
+|align=center|26–6
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[1992–93 Northeast Louisiana Indians men's basketball team|Northeast Louisiana]]
+|[[Southland Conference|Southland]]
+|align=center|26–4
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[1992–93 Evansville Purple Aces men's basketball team|Evansville]]
+|[[Horizon League|MCC]]
+|align=center|23–6
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[1992–93 Tennessee State Tigers basketball team|Tennessee State]]
+|[[Ohio Valley Conference|Ohio Valley]]
+|align=center|19–9
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[1992–93 Rider Broncs men's basketball team|Rider]]
+|[[Northeast Conference|Northeast]]
+|align=center|19–10
+|align=center|Automatic
+|}
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+Midwest Regional – [[St. Louis Arena]], [[St. Louis|St. Louis, Missouri]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 165px;"|School
+!scope="col" style="width: 80px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[1992–93 Indiana Hoosiers men's basketball team|Indiana]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|28–3
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[1992–93 Kansas Jayhawks men's basketball team|Kansas]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|25–6
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[1992–93 Duke Blue Devils men's basketball team|Duke]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|23–7
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[1992–93 Louisville Cardinals men's basketball team|Louisville]]
+|[[Metro Conference|Metro]]
+|align=center|20–8
+|align=center|Automatic
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[1992–93 Oklahoma State Cowboys basketball team|Oklahoma State]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|19–8
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[1992–93 California Golden Bears men's basketball team|California]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|19–8
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[1992–93 BYU Cougars men's basketball team|BYU]]
+|[[Western Athletic Conference|WAC]]
+|align=center|24–8
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[1992–93 New Orleans Privateers men's basketball team|New Orleans]]
+|[[Sun Belt Conference|Sun Belt]]
+|align=center|26–3
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[1992–93 Xavier Musketeers men's basketball team|Xavier]]
+|[[Horizon League|MCC]]
+|align=center|23–5
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[1992–93 SMU Mustangs men's basketball team|SMU]]
+|[[Southwest Conference|Southwest]]
+|align=center|20–7
+|align=center|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[1992–93 LSU Tigers basketball team|LSU]]
+|[[Southeastern Conference|SEC]]
+|align=center|22–10
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[1992–93 Marquette Warriors men's basketball team|Marquette]]
+|[[Great Midwest Conference|Great Midwest]]
+|align=center|20–7
+|align=center|At-Large
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[1992–93 Delaware Fightin' Blue Hens men's basketball team|Delaware]]
+|[[North Atlantic Conference|NAC]]
+|align=center|22–7
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[1992–93 Southern Illinois Salukis men's basketball team|Southern Illinois]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|align=center|23–9
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[1992–93 Ball State Cardinals men's basketball team|Ball State]]
+|[[Mid-American Conference|MAC]]
+|align=center|26–7
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[1992–93 Wright State Raiders men's basketball team|Wright State]]
+|[[Summit League|Mid-Continent]]
+|align=center|20–9
+|align=center|Automatic
+|}
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+West Regional – [[Kingdome]], [[Seattle|Seattle, Washington]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 165px;"|School
+!scope="col" style="width: 80px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[1992–93 Michigan Wolverines men's basketball team|Michigan]] <small>(vacated)</small>
+|[[Big Ten Conference|Big Ten]]
+|align=center|26–4
+|align=center|At-Large
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[1992–93 Arizona Wildcats men's basketball team|Arizona]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|24–3
+|align=center|Automatic
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[1992–93 Vanderbilt Commodores men's basketball team|Vanderbilt]]
+|[[Southeastern Conference|SEC]]
+|align=center|26–5
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[1992–93 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|19–10
+|align=center|Automatic
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[1992–93 New Mexico Lobos men's basketball team|New Mexico]]
+|[[Western Athletic Conference|WAC]]
+|align=center|24–6
+|align=center|Automatic
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[1992–93 Illinois Fighting Illini men's basketball team|Illinois]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|18–12
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[1992–93 Temple Owls men's basketball team|Temple]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|17–12
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[1992–93 Iowa State Cyclones men's basketball team|Iowa State]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|20–10
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[1992–93 UCLA Bruins men's basketball team|UCLA]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|21–10
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[1992–93 Missouri Tigers men's basketball team|Missouri]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|19–13
+|align=center|Automatic
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[1992–93 Long Beach State 49ers men's basketball team|Long Beach State]]
+|[[Big West Conference|Big West]]
+|align=center|22–9
+|align=center|Automatic
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[1992–93 George Washington Colonials men's basketball team|George Washington]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|21–9
+|align=center|At-Large
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[1992–93 Southern Jaguars basketball team|Southern]]
+|[[Southwestern Athletic Conference|SWAC]]
+|align=center|20–9
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[1992–93 Boise State Broncos men's basketball team|Boise State]]
+|[[Big Sky Conference|Big Sky]]
+|align=center|21–7
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[1992–93 Santa Clara Broncos men's basketball team|Santa Clara]]
+|[[West Coast Conference|West Coast]]
+|align=center|18–11
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[1992–93 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]]
+|[[Big South Conference|Big South]]
+|align=center|22–9
+|align=center|Automatic
+|}
 |}
 
 ==Bracket==
-
 ===East Regional – East Rutherford, New Jersey===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
  | subgroup1= '''[[Lawrence Joel Veterans Memorial Coliseum|Winston-Salem]]'''
  | subgroup2= '''[[Lawrence Joel Veterans Memorial Coliseum|Winston-Salem]]'''
  | subgroup3= '''[[Carrier Dome|Syracuse]]'''
@@ -353,14 +783,14 @@ For the third time, the Superdome was the host venue for the Final Four, and for
  | RD3-score04='''71'''
  | RD4-seed01=1
  | RD4-team01='''North Carolina'''
- | RD4-score01='''75 (OT)
+ | RD4-score01='''75<sup>OT</sup>'''
  | RD4-seed02=2
  | RD4-team02=Cincinnati
  | RD4-score02=68
 }}
 
 ===Midwest Regional – St. Louis, Missouri===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
  | subgroup1= '''[[Hoosier Dome|Indianapolis]]'''
  | subgroup2= '''[[Hoosier Dome|Indianapolis]]'''
  | subgroup3= '''[[Rosemont Horizon|Rosemont]]'''
@@ -457,7 +887,7 @@ For the third time, the Superdome was the host venue for the Final Four, and for
 }}
 
 ===Southeast Regional – Charlotte, North Carolina===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
  | subgroup1= '''[[Memorial Gymnasium (Vanderbilt University)|Nashville]]'''
  | subgroup2= '''[[Memorial Gymnasium (Vanderbilt University)|Nashville]]'''
  | subgroup3= '''[[Orlando Arena|Orlando]]'''
@@ -541,7 +971,7 @@ For the third time, the Superdome was the host venue for the Final Four, and for
  | RD3-score02=69
  | RD3-seed03=3
  | RD3-team03='''Florida State'''
- | RD3-score03='''81 (OT)
+ | RD3-score03='''81<sup>OT</sup>'''
  | RD3-seed04=7
  | RD3-team04=Western Kentucky
  | RD3-score04=78
@@ -553,13 +983,13 @@ For the third time, the Superdome was the host venue for the Final Four, and for
  | RD4-score02=81
 }}
 
-===West Regional- Seattle, Washington===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+===West Regional – Seattle, Washington===
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
  | subgroup1= '''[[McKale Center|Tucson]]'''
  | subgroup2= '''[[McKale Center|Tucson]]'''
  | subgroup3= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
  | subgroup4= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
-| RD1-team01='''Michigan'''*
+| RD1-team01='''{{strikethrough|Michigan}}'''
  | RD1-score01='''84'''
  | RD1-seed02=16
  | RD1-team02=Coastal Carolina
@@ -607,11 +1037,11 @@ For the third time, the Superdome was the host venue for the Final Four, and for
  | RD1-team16='''Santa Clara'''
  | RD1-score16='''64'''
  | RD2-seed01=1
- | RD2-team01='''Michigan'''*
- | RD2-score01='''86'''
+ | RD2-team01='''{{strikethrough|Michigan}}'''
+ | RD2-score01='''86<sup>OT</sup>'''
  | RD2-seed02=9
  | RD2-team02=UCLA
- | RD2-score02=84*
+ | RD2-score02=84
  | RD2-seed03=12
  | RD2-team03='''George Washington'''
  | RD2-score03='''90'''
@@ -631,7 +1061,7 @@ For the third time, the Superdome was the host venue for the Final Four, and for
  | RD2-team08=Santa Clara
  | RD2-score08=57
  | RD3-seed01=1
- | RD3-team01='''Michigan'''*
+ | RD3-team01='''{{strikethrough|Michigan}}'''
  | RD3-score01='''72'''
  | RD3-seed02=12
  | RD3-team02=George Washington
@@ -643,36 +1073,43 @@ For the third time, the Superdome was the host venue for the Final Four, and for
  | RD3-team04='''Temple'''
  | RD3-score04='''67'''
  | RD4-seed01=1
- | RD4-team01='''Michigan'''*
+ | RD4-team01='''{{strikethrough|Michigan}}'''
  | RD4-score01='''77'''
  | RD4-seed02=7
  | RD4-team02=Temple
  | RD4-score02=72
 }}
 
-===Final Four @ New Orleans, Louisiana===
-{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game
+===Final Four – New Orleans, Louisiana===
+{{4TeamBracket | RD1=National semifinals | RD2=National Championship Game
  | RD1-seed1=E1
  | RD1-team1='''North Carolina'''
  | RD1-score1='''78'''
- | RD1-seed2=M2
+ | RD1-seed2=MW2
  | RD1-team2=Kansas
  | RD1-score2=68
  | RD1-seed3=SE1
  | RD1-team3=Kentucky
  | RD1-score3=78
  | RD1-seed4=W1
- | RD1-team4='''Michigan''' *
- | RD1-score4='''81''' *
+ | RD1-team4='''{{strikethrough|Michigan}}'''
+ | RD1-score4='''81<sup>OT</sup>'''
  | RD2-seed1=E1
  | RD2-team1='''North Carolina'''
  | RD2-score1='''77'''
  | RD2-seed2=W1
- | RD2-team2=Michigan *
+ | RD2-team2={{strikethrough|Michigan}}
  | RD2-score2=71
 }}
 
-'''*''' Michigan's entire 1992–93 schedule results were vacated, on November 7, 2002, as part of the settlement of the [[University of Michigan basketball scandal]].  Unlike forfeiture, a vacated game does not result in the other school being credited with a win, only with Michigan removing the wins from its own record.
+===Game summaries===
+
+====National semifinals====
+
+====National Championship====
+{{main article|1993 NCAA Men's Division I Basketball Championship Game}}
+
+Michigan's entire 1992–93 schedule results were vacated, on November 7, 2002, as part of the settlement of the [[University of Michigan basketball scandal]] due to [[Chris Webber]]’s ineligibility.  Unlike forfeiture, a vacated game does not result in the other school being credited with a win, only with Michigan removing the wins from its own record.
 
 ==Announcers==
 * [[James Brown (sportscaster)|James Brown]]/[[Jim Nantz]] and [[Billy Packer]] – Brown/Packer, First & Second Round at Winston-Salem, North Carolina; Nantz/Packer, West Regional at Seattle; Final Four at New Orleans, Louisiana
@@ -686,26 +1123,29 @@ For the third time, the Superdome was the host venue for the Final Four, and for
 * [[Tim Ryan (sportscaster)|Tim Ryan]] and [[Ann Meyers]] – First & Second Round at Nashville, Tennessee
 
 ==See also==
-* [[1993 NCAA Division II Men's Basketball Tournament]]
-* [[1993 NCAA Division III Men's Basketball Tournament]]
-* [[1993 NCAA Division I Women's Basketball Tournament]]
-* [[NCAA Division II Women's Basketball Tournament|1993 NCAA Division II Women's Basketball Tournament]]
-* [[NCAA Division III Women's Basketball Tournament|1993 NCAA Division III Women's Basketball Tournament]]
+* [[1993 NCAA Division II men's basketball tournament]]
+* [[1993 NCAA Division III men's basketball tournament]]
+* [[1993 NCAA Division I women's basketball tournament]]
+* [[NCAA Division II women's basketball tournament|1993 NCAA Division II women's basketball tournament]]
+* [[NCAA Division III women's basketball tournament|1993 NCAA Division III women's basketball tournament]]
 * [[1993 National Invitation Tournament]]
 * [[National Women's Invitation Tournament|1993 National Women's Invitation Tournament]]
-* [[1993 NAIA Division I Men's Basketball Tournament]]
-* [[NAIA Men's Basketball Championships#Division II|1993 NAIA Division II Men's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships|1993 NAIA Division I Women's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships#Division II|1993 NAIA Division II Women's Basketball Tournament]]
+* [[1993 NAIA Division I men's basketball tournament]]
+* [[NAIA Men's Basketball Championships#Division II|1993 NAIA Division II men's basketball tournament]]
+* [[NAIA Women's Basketball Championships|1993 NAIA Division I women's basketball tournament]]
+* [[NAIA Women's Basketball Championships#Division II|1993 NAIA Division II women's basketball tournament]]
 
 ==References==
 {{Reflist}}
 
-{{NCAA Men's Division I Basketball Tournament navbox}}
+{{NCAA Division I men's basketball tournament navbox}}
+{{1993 NCAA Division I men's basketball tournament navbox}}
 {{1993 North Carolina Tar Heels men's basketball navbox}}
 
-[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:NCAA Division I men's basketball tournament]]
 [[Category:1992–93 NCAA Division I men's basketball season|Ncaa]]
-[[Category:Basketball in New Orleans]]
-[[Category:Sports competitions in New Orleans|Basketball]]
-[[Category:Mercedes-Benz Superdome]]
+[[Category:1993 in sports in Louisiana|NCAA Men's Division I Basketball Championship]]
+[[Category:March 1993 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:April 1993 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:Basketball competitions in New Orleans|Basketball]]
+[[Category:1990s in New Orleans]]

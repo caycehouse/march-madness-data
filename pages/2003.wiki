@@ -1,47 +1,45 @@
-{{Infobox NCAA Basketball Tournament |
+{{Short description|Edition of USA college basketball tournament}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox NCAA basketball tournament
 | Year=2003
 | Image=2003FinalFour.png
-| ImageSize=150px
-| Caption=2003 Final Four logo
 | Teams=65
 | FinalFourArena=[[Louisiana Superdome]]
 | FinalFourCity=[[New Orleans, Louisiana]]
-| Champions=[[Syracuse Orange men's basketball|Syracuse]]
+| Champions=[[2002–03 Syracuse Orangemen basketball team|Syracuse Orangemen]]
 | TitleCount=1st
-| ChampGameCount=2nd
+| ChampGameCount=3rd
 | ChampFFCount=4th
-| RunnerUp=[[Kansas Jayhawks men's basketball|Kansas]]
+| RunnerUp=[[2002–03 Kansas Jayhawks men's basketball team|Kansas Jayhawks]]
 | GameCount=7th
 | RunnerFFCount=12th
-| Semifinal1=[[Marquette Golden Eagles|Marquette]]
+| Semifinal1=[[2002–03 Marquette Golden Eagles men's basketball team|Marquette Golden Eagles]]
 | FinalFourCount=3rd
-| Semifinal2=[[Texas Longhorns men's basketball|Texas]]
+| Semifinal2=[[2002–03 Texas Longhorns men's basketball team|Texas Longhorns]]
 | FinalFourCount2=3rd
 | Coach=[[Jim Boeheim]]
 | CoachCount=1st
 | MOP=[[Carmelo Anthony]]
 | MOPTeam=Syracuse
 | Attendance=54,524
-| OneTopScorer=*
-| TwoTopScorers=
 | TopScorer=Carmelo Anthony
 | TopScorerTeam=Syracuse
 | Points= 121
 }}
-The '''2003 [[NCAA Division I Men's Basketball Tournament]]''' involved 65 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 18, 2003, and ended with the [[2003 NCAA Men's Division I Basketball Championship Game|championship game]] on April 7 in [[New Orleans, Louisiana]] at the [[Mercedes-Benz Superdome|Superdome]]. A total of 64 games were played.
 
-The Final Four consisted of [[Kansas Jayhawks men's basketball|Kansas]], making their second straight appearance, [[Marquette Golden Eagles men's basketball|Marquette]], making their first appearance since they won the national championship in 1977, [[Syracuse Orange men's basketball|Syracuse]], making their first appearance since 1996, and [[Texas Longhorns men's basketball|Texas]], making their first appearance since 1947. Texas was the only top seed to advance to the Final Four; the other three (Arizona, Kentucky, and Oklahoma) advanced as far as the Elite Eight but fell.
+The '''2003 [[NCAA Division I men's basketball tournament]]''' involved 65 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's [[NCAA Division I]] [[college basketball]]. It began on March 18, 2003, and ended with the [[2003 NCAA Men's Division I Basketball Championship Game|championship game]] on April 7 in [[New Orleans, Louisiana]] at the [[Mercedes-Benz Superdome|Superdome]]. A total of 64 games were played.
 
-Syracuse won their first national championship in three tries under [[Jim Boeheim]], defeating Kansas 81–78 in what would be [[Roy Williams (coach)|Roy Williams]]' final game as head coach of the team; he would depart to become the head coach at [[North Carolina Tar Heels men's basketball|North Carolina]], a position he still holds as of the 2017–2018 season.
+The Final Four consisted of [[Kansas Jayhawks men's basketball|Kansas]], making its second straight appearance; [[Marquette Golden Eagles men's basketball|Marquette]], making its first appearance since they won the national championship in 1977; [[Syracuse Orange men's basketball|Syracuse]], making its first appearance since 1996; and [[Texas Longhorns men's basketball|Texas]], making its first appearance since 1947. Texas was the only top seed to advance to the Final Four; the other three (Arizona, Kentucky, and Oklahoma) advanced as far as the Elite Eight but fell.
 
-[[Carmelo Anthony]] of Syracuse was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]].
+Syracuse won its first national championship in three tries under 27th-year head coach [[Jim Boeheim]], who would ultimately retire after the 2022–2023 season. This was also [[Roy Williams (basketball coach)|Roy Williams]]’s final game as Kansas head coach; he would depart after the season to become the head coach at [[North Carolina Tar Heels men's basketball|North Carolina]].
 
-Syracuse beat four Big 12 teams on its way to the title: [[Oklahoma State]], [[University of Oklahoma|Oklahoma]], [[University of Texas|Texas]], and [[University of Kansas|Kansas]]. Those victories helped earn Boeheim the national title that had eluded him in [[1987 NCAA Men's Division I Basketball Tournament|1987]] and [[1996 NCAA Men's Division I Basketball Tournament|1996]].
+[[Carmelo Anthony]] of Syracuse was named the tournament's [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]].
 
-==Locations==
-The 2003 play-in game was played on Tuesday, March 18, at the [[University of Dayton]] in [[Dayton, Ohio]], as it had been since its inception in [[2001 NCAA Men's Division I Basketball Tournament|2001]].
+Syracuse beat four Big 12 teams on its way to the title: [[Oklahoma State]], [[University of Oklahoma|Oklahoma]], [[University of Texas|Texas]], and [[University of Kansas|Kansas]].
 
-{{Location map+|USA|width=450|float=right|caption=2003 first and second rounds (note: the play-in game was held in Dayton, Ohio)|places= 
+==Schedule and venues==
+{{Location map+|USA|width=450|float=right|caption=2003 play-in game (orange) and first and second rounds (green)|places= 
+{{Location map~|USA|mark=orange pog.svg|lat_deg=39.7404|lon_deg=-84.1792|position=right|background=#FFFFFF|label=Dayton|link=UD Arena}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=47.658780|lon_deg=-117.426047|position=left|background=#FFFFFF|label=Spokane|link=Spokane Veterans Memorial Arena}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=40.760779|lon_deg=-111.891047|position=left|background=#FFFFFF|label=Salt Lake City|link=Jon M. Huntsman Center}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=35.467560|lon_deg=-97.516428|position=left|background=#FFFFFF|label=Oklahoma City|link=Chesapeake Energy Arena|Ford Center}}
@@ -60,537 +58,653 @@ The 2003 play-in game was played on Tuesday, March 18, at the [[University of Da
 {{Location map~|USA|mark=red pog.svg|lat_deg=29.951066|lon_deg=-90.071532|position=bottom|background=#FFFFFF|label=New Orleans|link=Mercedes-Benz Superdome|Louisiana Superdome}}
 }}
 
-The first and second-round games were played at the following sites:
-;March 20 and 22:
-:[[Chesapeake Energy Arena|Ford Center]], [[Oklahoma City|Oklahoma City, Oklahoma]] (Host: [[Big 12 Conference]])
-:[[Jon M. Huntsman Center]], [[Salt Lake City|Salt Lake City, Utah]] (Host: [[University of Utah]])
-:[[RCA Dome]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Butler University]] and [[Horizon League]])
-:[[Spokane Veterans Memorial Arena]], [[Spokane, Washington]] (Host: [[Washington State University]])
+The following are the sites that were selected to host each round of the 2003 tournament:
 
-;March 21 and 23:
-:[[Birmingham-Jefferson Convention Complex|BJCC Arena]], [[Birmingham, Alabama]] (Host: [[Southeastern Conference]])
-:[[TD Garden|FleetCenter]], [[Boston|Boston, Massachusetts]] (Host: [[Boston College]])
-:[[Bridgestone Arena|Gaylord Entertainment Center]], [[Nashville, Tennessee]] (Host: [[Vanderbilt University]])
-:[[Amalie Arena|St. Pete Times Forum]], [[Tampa, Florida]] (Host: [[University of South Florida]])
+'''Opening Round'''
+*March 18
+**[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
 
-The regional final sites were:
-;March 27 and 29:
-:'''Midwest Regional''', [[Hubert H. Humphrey Metrodome]], [[Minneapolis|Minneapolis, Minnesota]] (Host: [[University of Minnesota]])
-:'''West Regional''', [[Honda Center|Arrowhead Pond of Anaheim]], [[Anaheim, California]] (Host: [[Big West Conference]])
-;March 28 and 30:
-:'''East Regional''', [[Times Union Center|Pepsi Arena]], [[Albany, New York]] (Host: [[Metro Atlantic Athletic Conference]] and [[Siena College]])
-:'''South Regional''', [[Alamodome]], [[San Antonio|San Antonio, Texas]] (Host: [[University of Texas at San Antonio]])
+'''First and Second Rounds'''
+*March 20 and 22
+** [[Ford Center (Oklahoma City)|Ford Center]], [[Oklahoma City|Oklahoma City, Oklahoma]] (Host: [[Big 12 Conference]])
+** [[Jon M. Huntsman Center]], [[Salt Lake City|Salt Lake City, Utah]] (Host: [[University of Utah]])
+** [[RCA Dome]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Butler University]] and [[Horizon League]])
+** [[Spokane Veterans Memorial Arena]], [[Spokane, Washington]] (Host: [[Washington State University]])
+*March 21 and 23
+** [[BJCC Arena]], [[Birmingham, Alabama]] (Host: [[Southeastern Conference]])
+** [[TD Garden|FleetCenter]], [[Boston|Boston, Massachusetts]] (Host: [[Boston College]])
+** [[Gaylord Entertainment Center]], [[Nashville, Tennessee]] (Host: [[Vanderbilt University]])
+** [[St. Pete Times Forum]], [[Tampa, Florida]] (Host: [[University of South Florida]])
 
+'''Regional semifinals and finals''' (Sweet Sixteen and Elite Eight)
+*March 27 and 29
+**'''Midwest Regional''' 
+***[[Hubert H. Humphrey Metrodome]], [[Minneapolis|Minneapolis, Minnesota]] (Host: [[University of Minnesota]])
+**'''West Regional''' 
+***[[Arrowhead Pond of Anaheim]], [[Anaheim, California]] (Host: [[Big West Conference]])
+*March 28 and 30
+**'''East Regional''' 
+***[[Times Union Center|Pepsi Arena]], [[Albany, New York]] (Host: [[Metro Atlantic Athletic Conference]] and [[Siena College]])
+**'''South Regional''' 
+***[[Alamodome]], [[San Antonio|San Antonio, Texas]] (Host: [[University of Texas at San Antonio]])
 
-Each regional winner advanced to the [[Final Four]] at the [[Louisiana Superdome]], [[New Orleans]], hosted by the [[Sun Belt Conference]] and the [[University of New Orleans]]. The semi-final games were held on April 5 and the final on April 7, 2003. New Orleans was the host city for the fourth time, and the first time since 1993. There were three new venues, only one of which was in a new host city. For the first time, the tournament came to Spokane, Washington and the Spokane Arena. Previous games in eastern Washington had been played on the campus of Washington State University, who was host of the games despite the arena being the alternate home court for the [[Gonzaga Bulldogs men's basketball|Gonzaga Bulldogs]]. The tournament returned to Oklahoma City in 2003, to the then-new Ford Center, which replaced the [[Cox Convention Center]] across the street as the city's major arena. And for the first time since 1983, the tournament returned to the city of Tampa at the St. Pete Times Forum, home to the [[National Hockey League|NHL]]'s [[Tampa Bay Lightning]]. The tournament had been held across [[Tampa Bay]] at [[Tropicana Field]] in [[St. Petersburg, Florida|St. Petersburg]] three times between appearances in Tampa. To date, this is the last tournament to feature what is now known as the Times Union Center in Albany; however, the tournament is scheduled to return to New York's state capital in 2020.
+'''National semifinals and championship''' (Final Four and championship)
+*April 5 and 7
+**[[Louisiana Superdome]], [[New Orleans|New Orleans, Louisiana]] (Host: [[Sun Belt Conference]] and [[University of New Orleans]])
 
 ==Qualifying teams==
-{| class="wikitable"
+{{further|2003 NCAA Division I men's basketball tournament qualifying teams}}
+
+===Automatic bids===
+The following teams were automatic qualifiers for the 2003 NCAA field by virtue of winning their conference's tournament (except for the Ivy League, whose regular-season champion received the automatic bid).
+
+{|class="wikitable sortable" style="text-align: center;"
 |-
-! colspan="6" style="background:#ffdead;" | East Regional – [[Albany, New York|Albany]]
+!Conference
+!School
+! data-sort-type="number" |Appearance
+!Last bid
 |-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Berth Type
+|align=left|[[2003 ACC men's basketball tournament|ACC]]
+|align=left|[[2002–03 Duke Blue Devils men's basketball team|Duke]]
+|27th
+|[[2002 NCAA Division I men's basketball tournament|2002]]
 |-
-|#1
-| [[Oklahoma Sooners men's basketball|Oklahoma]]
-| [[Kelvin Sampson]]
-| [[Big 12 Conference|Big 12]]
-| 24–6
-| [[2003 Big 12 Men's Basketball Tournament|Tournament Champion]]
+|align=left|[[2003 America East men's basketball tournament|America East]]
+|align=left|[[2002–03 Vermont Catamounts men's basketball team|Vermont]]
+|1st
+|Never
 |-
-|#2
-| [[Wake Forest Demon Deacons men's basketball|Wake Forest]]
-| [[Skip Prosser]]
-| [[Atlantic Coast Conference|ACC]]
-| 24–5
-| At-Large Bid
+|align=left|[[2003 Atlantic 10 men's basketball tournament|Atlantic 10]]
+|align=left|[[2002–03 Dayton Flyers men's basketball team|Dayton]]
+|12th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
 |-
-|#3
-| [[Syracuse Orange men's basketball|Syracuse]]
-| [[Jim Boeheim]]
-| [[Big East Conference (1979–2013)|Big East]]
-| 24–5
-| At-Large Bid
+|align=left|[[2003 Atlantic Sun men's basketball tournament|Atlantic Sun]]
+|align=left|[[2002–03 Troy State Trojans men's basketball team|Troy State]]
+|1st
+|Never
 |-
-|#4
-| [[Louisville Cardinals men's basketball|Louisville]]
-| [[Rick Pitino]]
-| [[Conference USA]]
-| 24–6
-| Tournament Champion
+|align=left|[[2003 Big 12 men's basketball tournament|Big 12]]
+|align=left|[[2002–03 Oklahoma Sooners men's basketball team|Oklahoma]]
+|22nd
+|[[2002 NCAA Division I men's basketball tournament|2002]]
 |-
-|#5
-| [[Mississippi State Bulldogs basketball|Mississippi State]]
-| [[Rick Stansbury]]
-| [[Southeastern Conference|SEC]]
-| 21–9
-| At-Large Bid
+|align=left|[[2003 Big East men's basketball tournament|Big East]]
+|align=left|[[2002–03 Pittsburgh Panthers men's basketball team|Pittsburgh]]
+|15th
+|[[2002 NCAA Division I men's basketball tournament|2002]]
 |-
-|#6
-| [[Oklahoma State Cowboys basketball|Oklahoma State]]
-| [[Eddie Sutton]]
-| [[Big 12 Conference|Big 12]]
-| 21–9
-| At-Large Bid
+|align=left|[[2003 Big Sky Conference men's basketball tournament|Big Sky]]
+|align=left|[[2002–03 Weber State Wildcats men's basketball team|Weber State]]
+|13th
+|[[1999 NCAA Division I men's basketball tournament|1999]]
 |-
-|#7
-| [[Saint Joseph's Hawks men's basketball|Saint Joseph's]]
-| [[Phil Martelli]]
-| [[Atlantic 10 Conference|Atlantic 10]]
-| 23–6
-| At-Large Bid
+|align=left|[[2003 Big South Conference men's basketball tournament|Big South]]
+|align=left|[[2002–03 UNC Asheville Bulldogs men's basketball team|UNC Asheville]]
+|1st
+|Never
 |-
-|#8
-| [[California Golden Bears men's basketball|California]]
-| [[Ben Braun]]
-| [[Pac-12 Conference|Pac-10]]
-| 21–8
-| At-Large Bid
+|align=left|[[2003 Big Ten Conference men's basketball tournament|Big Ten]]
+|align=left|[[2002–03 Illinois Fighting Illini men's basketball team|Illinois]]
+|23rd
+|[[2002 NCAA Division I men's basketball tournament|2002]]
 |-
-|#9
-| [[North Carolina State Wolfpack men's basketball|North Carolina State]]
-| [[Herb Sendek]]
-| [[Atlantic Coast Conference|ACC]]
-| 18–12
-| At-Large Bid
+|align=left|[[2003 Big West Conference men's basketball tournament|Big West]]
+|align=left|[[2002–03 Utah State Aggies men's basketball team|Utah State]]
+|15th
+|[[2001 NCAA Division I men's basketball tournament|2001]]
 |-
-|#10
-| [[Auburn Tigers basketball|Auburn]]
-| [[Cliff Ellis]]
-| [[Southeastern Conference|SEC]]
-| 20–11
-| At-Large Bid
+|align=left|[[2003 CAA men's basketball tournament|Colonial]]
+|align=left|[[2002–03 UNC Wilmington Seahawks men's basketball team|UNC Wilmington]]
+|3rd
+|[[2002 NCAA Division I men's basketball tournament|2002]]
 |-
-|#11
-| [[Pennsylvania Quakers men's basketball|Pennsylvania]]
-| [[Fran Dunphy]]
-| [[Ivy League]]
-| 22–5
-| Regular Season Champion
+|align=left|[[2003 Conference USA men's basketball tournament|C-USA]]
+|align=left|[[2002–03 Louisville Cardinals men's basketball team|Louisville]]
+|30th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
 |-
-|#12
-| [[Butler Bulldogs men's basketball|Butler]]
-| [[Todd Lickliter]]
-| [[Horizon League|Horizon]]
-| 25–5
-| At-Large Bid
+|align=left|[[2003 Horizon League men's basketball tournament|Horizon]]
+|align=left|[[2002–03 Milwaukee Panthers men's basketball team|UW–Milwaukee]]
+|1st
+|Never
 |-
-|#13
-| [[Austin Peay Governors|Austin Peay]]
-| [[Dave Loos]]
-| [[Ohio Valley Conference|OVC]]
-| 23–7
-| Tournament Champion
+|align=left|[[2002–03 Ivy League men's basketball season|Ivy League]]
+|align=left|[[2002–03 Penn Quakers men's basketball team|Penn]]
+|20th
+|[[2002 NCAA Division I men's basketball tournament|2002]]
 |-
-|#14
-| [[Manhattan Jaspers|Manhattan]]
-| [[Bobby Gonzalez]]
-| [[Metro Atlantic Athletic Conference|MAAC]]
-| 23–6
-| Tournament Champion
+|align=left|[[2003 MAAC men's basketball tournament|MAAC]]
+|align=left|[[2002–03 Manhattan Jaspers basketball team|Manhattan]]
+|5th
+|[[1995 NCAA Division I men's basketball tournament|1995]]
 |-
-|#15
-| [[East Tennessee State University|East Tennessee State]]
-| [[Ed DeChellis]]
-| [[Southern Conference|Southern]]
-| 20–10
-| Tournament Champion
+|align=left|[[2003 MAC men's basketball tournament|MAC]]
+|align=left|[[2002–03 Central Michigan Chippewas men's basketball team|Central Michigan]]
+|4th
+|[[1987 NCAA Division I men's basketball tournament|1987]]
 |-
-|#16
-| [[South Carolina State University|South Carolina State]]
-| [[Cy Alexander]]
-| [[Mid-Eastern Athletic Conference|MEAC]]
-| 20–10
-| Tournament Champion
+|align=left|[[2003 MEAC men's basketball tournament|MEAC]]
+|align=left|[[2002–03 South Carolina State Bulldogs basketball team|South Carolina State]]
+|5th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
+|-
+|align=left|[[2003 Mid-Continent Conference men's basketball tournament|Mid-Con]]
+|align=left|[[2002–03 IUPUI Jaguars men's basketball team|IUPUI]]
+|1st
+|Never
+|-
+|align=left|[[2003 Missouri Valley Conference men's basketball tournament|Missouri Valley]]
+|align=left|[[2002–03 Creighton Bluejays men's basketball team|Creighton]]
+|14th
+|[[2002 NCAA Division I men's basketball tournament|2002]]
+|-
+|align=left|[[2003 Mountain West Conference men's basketball tournament|Mountain West]]
+|align=left|[[2002–03 Colorado State Rams men's basketball team|Colorado State]]
+|8th
+|[[1990 NCAA Division I men's basketball tournament|1990]]
+|-
+|align=left|[[2003 Northeast Conference men's basketball tournament|Northeast]]
+|align=left|[[2002–03 Wagner Seahawks men's basketball team|Wagner]]
+|1st
+|Never
+|-
+|align=left|[[2003 Ohio Valley Conference men's basketball tournament|Ohio Valley]]
+|align=left|[[2002–03 Austin Peay Governors basketball team|Austin Peay]]
+|5th
+|[[1996 NCAA Division I men's basketball tournament|1996]]
+|-
+|align=left|[[2003 Pacific-10 Conference men's basketball tournament|Pac-10]]
+|align=left|[[2002–03 Oregon Ducks men's basketball team|Oregon]]
+|8th
+|[[2002 NCAA Division I men's basketball tournament|2002]]
+|-
+|align=left|[[2003 Patriot League men's basketball tournament|Patriot]]
+|align=left|[[2002–03 Holy Cross Crusaders men's basketball team|Holy Cross]]
+|11th
+|[[2002 NCAA Division I men's basketball tournament|2002]]
+|-
+|align=left|[[2003 SEC men's basketball tournament|SEC]]
+|align=left|[[2002–03 Kentucky Wildcats men's basketball team|Kentucky]]
+|45th
+|[[2002 NCAA Division I men's basketball tournament|2002]]
+|-
+|align=left|[[2003 Southern Conference men's basketball tournament|Southern]]
+|align=left|[[2002–03 East Tennessee State Buccaneers men's basketball team|East Tennessee State]]
+|6th
+|[[1992 NCAA Division I men's basketball tournament|1992]]
+|-
+|align=left|[[2003 Southland Conference men's basketball tournament|Southland]]
+|align=left|[[2002–03 Sam Houston State Bearkats men's basketball team|Sam Houston State]]
+|1st
+|Never
+|-
+|align=left|[[2003 Sun Belt Conference men's basketball tournament|Sun Belt]]
+|align=left|[[2002–03 Western Kentucky Hilltoppers basketball team|Western Kentucky]]
+|19th
+|[[2002 NCAA Division I men's basketball tournament|2002]]
+|-
+|align=left|[[2003 SWAC men's basketball tournament|SWAC]]
+|align=left|[[2002–03 Texas Southern Tigers basketball team|Texas Southern]]
+|4th
+|[[1995 NCAA Division I men's basketball tournament|1995]]
+|-
+|align=left|[[2003 WAC men's basketball tournament|WAC]]
+|align=left|[[2002–03 Tulsa Golden Hurricane men's basketball team|Tulsa]]
+|14th
+|[[2002 NCAA Division I men's basketball tournament|2002]]
+|-
+|align=left|[[2003 West Coast Conference men's basketball tournament|West Coast]]
+|align=left|[[2002–03 San Diego Toreros men's basketball team|San Diego]]
+|3rd
+|[[1987 NCAA Division I men's basketball tournament|1987]]
 |}
 
+===<span class="RegionSeeds">Listed by region and seeding</span>===
+<section begin="RegionSeeds" />
+{|
+| valign=top |
 {| class="wikitable"
+! colspan="5" style="background:#ffdead;" | East Regional – [[Albany, New York|Albany]]
 |-
-! colspan="6" style="background:#ffdead;" | South Regional – [[San Antonio, Texas|San Antonio]]
-|-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Berth Type
+!Seed
+!School
+!Conference
+!Record
+!Berth Type
 |-
 |#1
-| [[Texas Longhorns men's basketball|Texas]]
-| [[Rick Barnes]]
+| [[2002–03 Oklahoma Sooners men's basketball team|Oklahoma]]
 | [[Big 12 Conference|Big 12]]
-| 22–6
-| At-Large Bid
+| 24–6
+| Automatic
 |-
 |#2
-| [[Florida Gators men's basketball|Florida]]
-| [[Billy Donovan]]
-| [[Southeastern Conference|SEC]]
-| 24–7
-| At-Large Bid
+| [[2002–03 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
+| [[Atlantic Coast Conference|ACC]]
+| 24–5
+| At-large
 |-
 |#3
-| [[Xavier Musketeers men's basketball|Xavier]]
-| [[Thad Matta]]
-| [[Atlantic 10 Conference|Atlantic 10]]
-| 25–5
-| At-Large Bid
+| [[2002–03 Syracuse Orangemen basketball team|Syracuse]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 24–5
+| At-large
 |-
 |#4
-| [[Stanford Cardinal men's basketball|Stanford]]
-| [[Mike Montgomery]]
+| [[2002–03 Louisville Cardinals men's basketball team|Louisville]]
+| [[Conference USA|C-USA]]
+| 24–6
+| Automatic
+|-
+|#5
+| [[2002–03 Mississippi State Bulldogs men's basketball team|Mississippi State]]
+| [[Southeastern Conference|SEC]]
+| 20–10
+| At-large
+|-
+|#6
+| [[2002–03 Oklahoma State Cowboys basketball team|Oklahoma State]]
+| [[Big 12 Conference|Big 12]]
+| 21–9
+| At-large
+|-
+|#7
+| [[2002–03 Saint Joseph's Hawks men's basketball team|Saint Joseph's]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 23–6
+| At-large
+|-
+|#8
+| [[2002–03 California Golden Bears men's basketball team|California]]
+| [[Pac-12 Conference|Pac-10]]
+| 21–8
+| At-large
+|-
+|#9
+| [[2002–03 NC State Wolfpack men's basketball team|North Carolina State]]
+| [[Atlantic Coast Conference|ACC]]
+| 18–12
+| At-large
+|-
+|#10
+| [[2002–03 Auburn Tigers men's basketball team|Auburn]]
+| [[Southeastern Conference|SEC]]
+| 20–11
+| At-large
+|-
+|#11
+| [[2002–03 Penn Quakers men's basketball team|Pennsylvania]]
+| [[Ivy League]]
+| 22–5
+| Automatic
+|-
+|#12
+| [[2002–03 Butler Bulldogs men's basketball team|Butler]]
+| [[Horizon League|Horizon]]
+| 25–5
+| At-large
+|-
+|#13
+| [[2002–03 Austin Peay Governors basketball team|Austin Peay]]
+| [[Ohio Valley Conference|OVC]]
+| 23–7
+| Automatic
+|-
+|#14
+| [[2002–03 Manhattan Jaspers basketball team|Manhattan]]
+| [[Metro Atlantic Athletic Conference|MAAC]]
+| 23–6
+| Automatic
+|-
+|#15
+| [[2002–03 East Tennessee State Buccaneers men's basketball team|East Tennessee State]]
+| [[Southern Conference|Southern]]
+| 20–10
+| Automatic
+|-
+|#16
+| [[2002–03 South Carolina State Bulldogs basketball team|South Carolina State]]
+| [[Mid-Eastern Athletic Conference|MEAC]]
+| 20–10
+| Automatic
+|}
+| valign=top |
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" |South Regional – [[San Antonio]]
+|-
+!Seed
+!School
+!Conference
+!Record
+!Berth Type
+|-
+|#1
+| [[2002–03 Texas Longhorns men's basketball team|Texas]]
+| [[Big 12 Conference|Big 12]]
+| 22–6
+| At-large
+|-
+|#2
+| [[2002–03 Florida Gators men's basketball team|Florida]]
+| [[Southeastern Conference|SEC]]
+| 24–7
+| At-large
+|-
+|#3
+| [[2002–03 Xavier Musketeers men's basketball team|Xavier]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 25–5
+| At-large
+|-
+|#4
+| [[2002–03 Stanford Cardinal men's basketball team|Stanford]]
 | [[Pac-12 Conference|Pac-10]]
 | 23–8
-| At-Large Bid
+| At-large
 |-
 |#5
 | [[2002–03 Connecticut Huskies men's basketball team|Connecticut]]
-| [[Jim Calhoun]]
 | [[Big East Conference (1979–2013)|Big East]]
 | 21–9
-| At-Large Bid
+| At-large
 |-
 |#6
-| [[Maryland Terrapins men's basketball|Maryland]]
-| [[Gary Williams (basketball)|Gary Williams]]
+| [[2002–03 Maryland Terrapins men's basketball team|Maryland]]
 | [[Atlantic Coast Conference|ACC]]
 | 19–9
-| At-Large Bid
+| At-large
 |-
 |#7
-| [[Michigan State Spartans men's basketball|Michigan State]]
-| [[Tom Izzo]]
+| [[2002–03 Michigan State Spartans men's basketball team|Michigan State]]
 | [[Big Ten Conference|Big Ten]]
 | 19–12
-| At-Large Bid
+| At-large
 |-
 |#8
-| [[LSU Tigers basketball|LSU]]
-| [[John Brady (basketball)|John Brady]]
+| {{cbb link|year=2002|team=LSU Tigers|title=LSU}}
 | [[Southeastern Conference|SEC]]
 | 21–10
-| At-Large Bid
+| At-large
 |-
 |#9
-| [[Purdue Boilermakers men's basketball|Purdue]]
-| [[Gene Keady]]
+| [[2002–03 Purdue Boilermakers men's basketball team|Purdue]]
 | [[Big Ten Conference|Big Ten]]
 | 18–10
-| At-Large Bid
+| At-large
 |-
 |#10
-| [[Colorado Buffaloes men's basketball|Colorado]]
-| [[Ricardo Patton]]
+| [[2002–03 Colorado Buffaloes men's basketball team|Colorado]]
 | [[Big 12 Conference|Big 12]]
 | 20–11
-| At-Large Bid
+| At-large
 |-
 |#11
-| [[University of North Carolina at Wilmington|UNC Wilmington]]
-| [[Brad Brownell]]
+| [[2002–03 UNC Wilmington Seahawks men's basketball team|UNC Wilmington]]
 | [[Colonial Athletic Association|CAA]]
 | 24–6
-| Tournament Champion
+| Automatic
 |-
 |#12
-| [[BYU Cougars men's basketball|BYU]]
-| [[Steve Cleveland]]
+| [[2002–03 BYU Cougars men's basketball team|BYU]]
 | [[Mountain West Conference|Mountain West]]
 | 23–8
-| At-Large Bid
+| At-large
 |-
 |#13
-| [[San Diego Toreros|San Diego]]
-| [[Brad Holland]]
+| [[2002–03 San Diego Toreros men's basketball team|San Diego]]
 | [[West Coast Conference|WCC]]
 | 18–11
-| Tournament Champion
+| Automatic
 |-
 |#14
-| [[Troy Trojans|Troy State]]
-| [[Don Maestri]]
-| [[Atlantic Sun Conference|Atlantic Sun]]
+| [[2002–03 Troy State Trojans men's basketball team|Troy State]]
+| [[ASUN Conference|Atlantic Sun]]
 | 26–5
-| Tournament Champion
+| Automatic
 |-
 |#15
-| [[Sam Houston State University|Sam Houston St.]]
-| [[Bob Marlin]]
+| [[2002–03 Sam Houston State Bearkats men's basketball team|Sam Houston State]]
 | [[Southland Conference|Southland]]
-| 24–9
-| Tournament Champion
+| 23–6
+| Automatic
 |-
 |rowspan=2|#16
-| [[University of North Carolina at Asheville|UNC Asheville]]
-| [[Eddie Biedenbach]]
+| [[2002–03 UNC Asheville Bulldogs men's basketball team|UNC Asheville]]
 | [[Big South Conference|Big South]]
 | 14–16
-| Tournament Champion
+| Automatic
 |-
-| [[Texas Southern University|Texas Southern]]
-| [[Ronnie Courtney]]
+| [[2002–03 Texas Southern Tigers basketball team|Texas Southern]]
 | [[Southwestern Athletic Conference|SWAC]]
 | 18–12
-| Tournament Champion
+| Automatic
 |}
+|-
+| valign=top |
 {| class="wikitable"
+! colspan="5" style="background:#ffdead;" | Midwest Regional – [[Minneapolis]]
 |-
-! colspan="6" style="background:#ffdead;" | Midwest Regional – [[Minneapolis]]
-|-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Berth Type
+!Seed
+!School
+!Conference
+!Record
+!Berth Type
 |-
 |#1
-| [[Kentucky Wildcats basketball|Kentucky]]
-| [[Tubby Smith]]
+| [[2002–03 Kentucky Wildcats men's basketball team|Kentucky]]
 | [[Southeastern Conference|SEC]]
 | 29–3
-| [[2003 SEC Men's Basketball Tournament|Tournament Champion]]
+| Automatic
 |-
 |#2
-| [[Pittsburgh Panthers men's basketball|Pittsburgh]]
-| [[Ben Howland]]
+| [[2002–03 Pittsburgh Panthers men's basketball team|Pittsburgh]]
 | [[Big East Conference (1979–2013)|Big East]]
 | 26–4
-| [[2003 Big East Men's Basketball Tournament|Tournament Champion]]
+| Automatic
 |-
 |#3
-| [[Marquette Golden Eagles men's basketball|Marquette]]
-| [[Tom Crean (basketball)|Tom Crean]]
-| [[Conference USA]]
+| [[2002–03 Marquette Golden Eagles men's basketball team|Marquette]]
+| [[Conference USA|C-USA]]
 | 23–5
-| At-Large Bid
+| At-large
 |-
 |#4
-| [[Dayton Flyers men's basketball|Dayton]]
-| [[Oliver Purnell]]
+| [[2002–03 Dayton Flyers men's basketball team|Dayton]]
 | [[Atlantic 10 Conference|Atlantic 10]]
 | 24–5
-| Tournament Champion
+| Automatic
 |-
 |#5
-| [[Wisconsin Badgers men's basketball|Wisconsin]]
-| [[Bo Ryan]]
+| [[2002–03 Wisconsin Badgers men's basketball team|Wisconsin]]
 | [[Big Ten Conference|Big Ten]]
 | 22–7
-| At-Large Bid
+| At-large
 |-
 |#6
-| [[Missouri Tigers men's basketball|Missouri]]
-| [[Quin Snyder]]
+| [[2002–03 Missouri Tigers men's basketball team|Missouri]]
 | [[Big 12 Conference|Big 12]]
 | 21–10
-| At-Large Bid
+| At-large
 |-
 |#7
-| [[Indiana Hoosiers men's basketball|Indiana]]
-| [[Mike Davis (basketball coach)|Mike Davis]]
+| [[2002–03 Indiana Hoosiers men's basketball team|Indiana]]
 | [[Big Ten Conference|Big Ten]]
 | 20–12
-| At-Large Bid
+| At-large
 |-
 |#8
-| [[Oregon Ducks men's basketball|Oregon]]
-| [[Ernie Kent]]
+| [[2002–03 Oregon Ducks men's basketball team|Oregon]]
 | [[Pac-12 Conference|Pac-10]]
 | 23–9
-| [[2003 Pacific-10 Conference Men's Basketball Tournament|Tournament Champion]]
+| Automatic
 |-
 |#9
-| [[Utah Utes men's basketball|Utah]]
-| [[Rick Majerus]]
+| [[2002–03 Utah Utes men's basketball team|Utah]]
 | [[Mountain West Conference|Mountain West]]
 | 24–7
-| At-Large Bid
+| At-large
 |-
 |#10
-| [[Alabama Crimson Tide basketball|Alabama]]
-| [[Mark Gottfried]]
+| [[2002–03 Alabama Crimson Tide men's basketball team|Alabama]]
 | [[Southeastern Conference|SEC]]
 | 17–11
-| At-Large Bid
+| At-large
 |-
 |#11
-| [[Southern Illinois Salukis men's basketball|Southern Illinois]]
-| [[Bruce Weber (basketball)|Bruce Weber]]
+| [[2002–03 Southern Illinois Salukis men's basketball team|Southern Illinois]]
 | [[Missouri Valley Conference|Missouri Valley]]
 | 24–6
-| At-Large Bid
+| At-large
 |-
 |#12
-| [[Weber State Wildcats|Weber State]]
-| [[Joe Cravens]]
+| [[2002–03 Weber State Wildcats men's basketball team|Weber State]]
 | [[Big Sky Conference|Big Sky]]
 | 26–5
-| Tournament Champion
+| Automatic
 |-
 |#13
-| [[Tulsa Golden Hurricane|Tulsa]]
-| [[John Phillips (basketball coach)|John Phillips]]
+| [[2002–03 Tulsa Golden Hurricane men's basketball team|Tulsa]]
 | [[Western Athletic Conference|WAC]]
 | 22–9
-| Tournament Champion
+| Automatic
 |-
 |#14
-| [[Holy Cross Crusaders|Holy Cross]]
-| [[Ralph Willard]]
+| [[2002–03 Holy Cross Crusaders men's basketball team|Holy Cross]]
 | [[Patriot League|Patriot]]
 | 26–4
-| Tournament Champion
+| Automatic
 |-
 |#15
-| [[Wagner University|Wagner]]
-| [[Dereck Whittenburg]]
+| [[2002–03 Wagner Seahawks men's basketball team|Wagner]]
 | [[Northeast Conference|Northeast]]
 | 21–10
-| Tournament Champion
+| Automatic
 |-
 |#16
-| [[IUPUI Jaguars|IUPUI]]
-| [[Ron Hunter]]
+| [[2002–03 IUPUI Jaguars men's basketball team|IUPUI]]
 | [[Summit League|Mid-Continent]]
 | 20–13
-| Tournament Champion
+| Automatic
 |}
+| valign=top |
 {| class="wikitable"
+! colspan="5" style="background:#ffdead;" | West Regional – [[Anaheim, California|Anaheim]]
 |-
-! colspan="6" style="background:#ffdead;" | West Regional – [[Anaheim, California|Anaheim]]
-|-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Berth Type
+!Seed
+!School
+!Conference
+!Record
+!Berth Type
 |-
 |#1
-| [[Arizona Wildcats men's basketball|Arizona]]
-| [[Lute Olson]]
+| [[2002–03 Arizona Wildcats men's basketball team|Arizona]]
 | [[Pac-12 Conference|Pac-10]]
 | 25–3
-| At-Large Bid
+| At-large
 |-
 |#2
-| [[Kansas Jayhawks men's basketball|Kansas]]
-| [[Roy Williams (basketball)|Roy Williams]]
+| [[2002–03 Kansas Jayhawks men's basketball team|Kansas]]
 | [[Big 12 Conference|Big 12]]
 | 25–7
-| At-Large Bid
+| At-large
 |-
 |#3
-| [[Duke Blue Devils men's basketball|Duke]]
-| [[Mike Krzyzewski]]
+| [[2002–03 Duke Blue Devils men's basketball team|Duke]]
 | [[Atlantic Coast Conference|ACC]]
 | 24–6
-| [[2003 ACC Men's Basketball Tournament|Tournament Champion]]
+| Automatic
 |-
 |#4
-| [[Illinois Fighting Illini men's basketball|Illinois]]
-| [[Bill Self]]
+| [[2002–03 Illinois Fighting Illini men's basketball team|Illinois]]
 | [[Big Ten Conference|Big Ten]]
 | 24–6
-| [[2003 Big Ten Conference Men's Basketball Tournament|Tournament Champion]]
+| Automatic
 |-
 |#5
-| [[Notre Dame Fighting Irish men's basketball|Notre Dame]]
-| [[Mike Brey]]
+| [[2002–03 Notre Dame Fighting Irish men's basketball team|Notre Dame]]
 | [[Big East Conference (1979–2013)|Big East]]
 | 22–9
-| At-Large Bid
+| At-large
 |-
 |#6
-| [[Creighton Bluejays men's basketball|Creighton]]
-| [[Dana Altman]]
+| [[2002–03 Creighton Bluejays men's basketball team|Creighton]]
 | [[Missouri Valley Conference|Missouri Valley]]
 | 29–4
-| Tournament Champion
+| Automatic
 |-
 |#7
-| [[Memphis Tigers men's basketball|Memphis]]
-| [[John Calipari]]
-| [[Conference USA]]
+| [[2002–03 Memphis Tigers men's basketball team|Memphis]]
+| [[Conference USA|C-USA]]
 | 23–6
-| At-Large Bid
+| At-large
 |-
 |#8
-| [[Cincinnati Bearcats men's basketball|Cincinnati]]
-| [[Bob Huggins]]
-| [[Conference USA]]
+| [[2002–03 Cincinnati Bearcats men's basketball team|Cincinnati]]
+| [[Conference USA|C-USA]]
 | 17–11
-| At-Large Bid
+| At-large
 |-
 |#9
-| [[Gonzaga Bulldogs men's basketball|Gonzaga]]
-| [[Mark Few]]
+| [[2002–03 Gonzaga Bulldogs men's basketball team|Gonzaga]]
 | [[West Coast Conference|WCC]]
 | 23–8
-| At-Large Bid
+| At-large
 |-
 |#10
-| [[Arizona State Sun Devils men's basketball|Arizona State]]
-| [[Rob Evans (basketball)|Rob Evans]]
+| [[2002–03 Arizona State Sun Devils men's basketball team|Arizona State]]
 | [[Pac-12 Conference|Pac-10]]
 | 19–11
-| At-Large Bid
+| At-large
 |-
 |#11
-| [[Central Michigan Chippewas men's basketball|Central Michigan]]
-| [[Jay Smith (basketball coach)|Jay Smith]]
-| [[Mid-American Conference|MAC]]
+| [[2002–03 Central Michigan Chippewas men's basketball team|Central Michigan]]
+| [[Mid-American Conference|Mid-American]]
 | 24–6
-| Tournament Champion
+| Automatic
 |-
 |#12
-| [[Milwaukee Panthers|UW-Milwaukee]]
-| [[Bruce Pearl]]
+| [[2002–03 Milwaukee Panthers men's basketball team|UW–Milwaukee]]
 | [[Horizon League|Horizon]]
 | 24–7
-| Tournament Champion
+| Automatic
 |-
 |#13
-| [[WKU Hilltoppers basketball|WKU]]
-| [[Dennis Felton]]
+| [[2002–03 Western Kentucky Hilltoppers basketball team|Western Kentucky]]
 | [[Sun Belt Conference|Sun Belt]]
 | 24–8
-| Tournament Champion
+| Automatic
 |-
 |#14
-| [[Colorado State Rams|Colorado State]]
-| [[Dale Layer]]
+| [[2002–03 Colorado State Rams men's basketball team|Colorado State]]
 | [[Mountain West Conference|Mountain West]]
 | 19–13
-| Tournament Champion
+| Automatic
 |-
 |#15
-| [[Utah State Aggies|Utah State]]
-| [[Stew Morrill]]
+| [[2002–03 Utah State Aggies men's basketball team|Utah State]]
 | [[Big West Conference|Big West]]
 | 24–8
-| Tournament Champion
+| Automatic
 |-
 |#16
-| [[Vermont Catamounts|Vermont]]
-| [[Tom Brennan (basketball coach)|Tom Brennan]]
+| [[2002–03 Vermont Catamounts men's basketball team|Vermont]]
 | [[America East Conference|America East]]
 | 21–11
-| Tournament Champion
+| Automatic
 |}
+|}<section end="RegionSeeds" />
+
+===BYU bracketing switch===
+When the bracket was first revealed, it contained a mistake that would have forced BYU, a Mormon-run school, to play its potential Elite 8 game on a Sunday, which is against school policy. As a solution, the selection committee had a plan to switch BYU, the 12 seed in the Friday-Sunday South regional, with the team that reached the Sweet 16 in the Thursday-Saturday Midwest regional (either Wisconsin, Weber State, Dayton, or Tulsa) should the Cougars advance to the Sweet 16.<ref name="BYU">{{cite web|url=https://www.espn.com/mens-college-basketball/ncaatourney03/story?id=1524804|title=BYU would switch regionals if it wins two|last=Katz|first=Andy|date=March 16, 2003|work=ESPN.com|access-date=April 16, 2022}}</ref> BYU lost its first-round game to Connecticut, which meant no switches were necessary.
 
 ==Bids by conference==
 {| class="wikitable"
 ! colspan="5" style="background:#ffdead;" | Bids by Conference
 |-
-!style="background: #e3e3e3;"|Bids
-!style="background: #e3e3e3;"|Conference(s)
+!Bids
+!Conference(s)
 |-
 | 6
 | [[Big 12]], [[Southeastern Conference|SEC]]
@@ -605,47 +719,60 @@ Each regional winner advanced to the [[Final Four]] at the [[Louisiana Superdome
 | [[Atlantic 10]], [[Mountain West]]
 |-
 | 2
-|  [[Horizon League|Horizon]], [[Missouri Valley Conference|Missouri Valley]], [[West Coast Conference|WCC]]
+| [[Horizon League|Horizon]], [[Missouri Valley Conference|Missouri Valley]], [[West Coast Conference|WCC]]
 |-
 | 1
 | 19 others
 |-
 |}
 
-==Final four==
+==Final Four==
 [[File:Picture of Louisiana Superdome.jpg|thumb|200px|The [[Louisiana Superdome]] was host of the Final Four and National Championship in 2003.]]
 At [[Louisiana Superdome]], [[New Orleans]]
 
-===National Semifinals===
+===National semifinals===
 *April 5, 2003
-**[[Syracuse University|Syracuse]] (E3) 95, [[University of Texas at Austin|Texas]] (S1) 84, {{YouTube|w1tx-FN9cC8|Complete Game}}
-*:Freshman [[Carmelo Anthony]] scored 33 points leading the [[Syracuse University|Syracuse Orangemen]] past the [[University of Texas at Austin|Texas Longhorns]] in the night cap of the National Semifinal doubleheader. Syracuse opened up a comfortable 2nd half lead, but that was trimmed to four with just 1:08 remaining. However, freshman [[Gerry McNamara]] iced the game with clutch foul shooting in the final minutes. The win put Syracuse and coach [[Jim Boeheim]] one win away from their first ever National Championship. Texas was the last number one seed remaining in the tournament.<ref name="CNNSI4.5-1">{{cite web|author=[[CNN Sports Illustrated]]|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2003/04/05/5151_recap.html|title=2003 NCAA National Semifinals: (E3) Syracuse 95, (S1) Texas 84|accessdate=2008-03-06}}</ref>
-**[[University of Kansas|Kansas]] (W2) 94, [[Marquette University|Marquette]] (M3) 61, {{YouTube|hAy_5ruwG58|Complete Game}}
-*:The [[University of Kansas|Kansas Jayhawks]] routed the [[Marquette University|Marquette Golden Eagles]] by 33 points, the fourth largest blowout in Final Four history. [[Keith Langford]] led the Jayhawks with 24 points, and [[Kirk Hinrich]] and [[Aaron Miles (basketball)|Aaron Miles]] each added 18 points. Like Boeheim, Kansas coach [[Roy Williams (coach)|Roy Williams]] was just one win away from winning his first ever National Championship.<ref name="CNNSI4.5-2">{{cite web|author=[[CNN Sports Illustrated]]|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2003/04/05/5150_recap.html|title=2003 NCAA National Semifinals: (W2) Kansas 94, (MW3) Marquette 61|accessdate=2008-03-06}}</ref>
+**[[Syracuse University|Syracuse]] (E3) 95, [[University of Texas at Austin|Texas]] (S1) 84
+*:Freshman [[Carmelo Anthony]] scored 33 points leading the [[Syracuse University|Syracuse Orangemen]] past the [[University of Texas at Austin|Texas Longhorns]] in the night cap of the national semifinal doubleheader. Syracuse opened up a comfortable 2nd half lead, but that was trimmed to four with just 1:08 remaining. However, freshman [[Gerry McNamara]] iced the game with clutch foul shooting in the final minutes. The win put Syracuse and coach [[Jim Boeheim]] one win away from their first ever National Championship. Texas was the last number one seed remaining in the tournament.<ref name="CNNSI4.5-1">{{cite web|work=CNN Sports Illustrated|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2003/04/05/5151_recap.html|archive-url=https://web.archive.org/web/20031017215122/http://sportsillustrated.cnn.com/basketball/college/men/recaps/2003/04/05/5151_recap.html|url-status=dead|archive-date=October 17, 2003|title=2003 NCAA National semifinals: (E3) Syracuse 95, (S1) Texas 84|access-date=2008-03-06}}</ref>
+**[[University of Kansas|Kansas]] (W2) 94, [[Marquette University|Marquette]] (M3) 61
+*:The [[University of Kansas|Kansas Jayhawks]] routed the [[Marquette University|Marquette Golden Eagles]] by 33 points, the fourth largest blowout in Final Four history. [[Keith Langford]] led the Jayhawks with 24 points, and [[Kirk Hinrich]] and [[Aaron Miles (basketball)|Aaron Miles]] each added 18 points. [[Dwyane Wade]] led Marquette in scoring with 19 points in the loss. Like Boeheim, Kansas coach [[Roy Williams (basketball coach)|Roy Williams]] was just one win away from winning his first ever National Championship.<ref name="CNNSI4.5-2">{{cite web|work=CNN Sports Illustrated|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2003/04/05/5150_recap.html|archive-url=https://web.archive.org/web/20030422022613/http://sportsillustrated.cnn.com/basketball/college/men/recaps/2003/04/05/5150_recap.html|url-status=dead|archive-date=April 22, 2003|title=2003 NCAA National semifinals: (W2) Kansas 94, (MW3) Marquette 61|access-date=2008-03-06}}</ref>
 
-===Championship Game===
+===Championship game===
 {{main article|2003 NCAA Men's Division I Basketball Championship Game}}
+[[File:2003 NCAA D1 Men's Basketball Championship trophy - Syracuse Orange.jpg|thumb|230x230px|2003 NCAA Men's Basketball National Championship Trophy]]
 *April 7, 2003
-**[[Syracuse University|Syracuse]] (E3) 81, [[University of Kansas|Kansas]] (W2) 78, {{YouTube|ckCqd6pjHNI|Complete Game}}
-*: Leading up to the championship game, much of the conversation revolved around how, no matter the outcome, one of the well-known head coaches would win their first championship.<ref name="Wojciechowski">{{cite web |url =http://sports.espn.go.com/ncb/ncaatourney03/columnist?id=1534793&name=wojciechowski_gene |title =Boeheim, Williams say title won't define careers |last =Wojciechowski |first =Gene |date =April 6, 2003 |website =ESPN.com |publisher =ESPN the Magazine |accessdate =November 16, 2013}}</ref> In Jim Boeheim's 27 years as head coach at Syracuse his team had been to two Final Fours, and finished runner-up each time ([[1987 NCAA Men's Division I Basketball Tournament|1987]], [[1996 NCAA Men's Division I Basketball Tournament|1996]]).<ref name="Wojciechowski"/>   Roy Williams, during his fifteen seasons as Kansas head coach, had reached the Final Four four times, and finished runner up once ([[1991 NCAA Men's Division I Basketball Tournament|1991]]).<ref name="Wojciechowski"/>  Syracuse dominated with a hot shooting first half to lead by 11 at the break. Gerry McNamara connected on an impressive six [[three-pointers]] in the half, which were his 18 points for the game. Kansas fought back to within 80–78 in the final minute and had a chance to tie after [[Hakim Warrick]] missed a pair of [[free throws]] in the final moments. Warrick, however, then blocked Michael Lee's three point attempt with 1.5 seconds remaining on the game clock. After Kirk Hinrich's three-pointer at the buzzer went over the net, Syracuse's victory gave them, and Jim Boeheim, their first ever national championship. Carmelo Anthony was named [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]] (MOP) with 21 points in the win. Syracuse also avenged a second-round loss to Kansas [[2001 NCAA Men's Division I Basketball Tournament|two years earlier]].<ref name="CNNSI4.7">{{cite web|author=[[CNN Sports Illustrated]]|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2003/04/07/5154_recap.html|title=2003 NCAA National Championship: (E3) Syracuse 81, (W2) Kansas 78|accessdate=2008-03-06}}</ref>
+**[[Syracuse University|Syracuse]] (E3) 81, [[University of Kansas|Kansas]] (W2) 78
+*: Leading up to the championship game, much of the conversation revolved around how, no matter the outcome, one of the well-known head coaches would win their first championship.<ref name="Wojciechowski">{{cite web |url =http://sports.espn.go.com/ncb/ncaatourney03/columnist?id=1534793&name=wojciechowski_gene |archive-url =https://web.archive.org/web/20030604083305/http://sports.espn.go.com/ncb/ncaatourney03/columnist?id=1534793&name=wojciechowski_gene |url-status =dead |archive-date =June 4, 2003 |title =Boeheim, Williams say title won't define careers |last =Wojciechowski |first =Gene |date =April 6, 2003 |website =ESPN.com |publisher =ESPN the Magazine |access-date =November 16, 2013}}</ref> In Jim Boeheim's 27 years as head coach at Syracuse his team had been to two previous Final Fours, and finished runner-up each time ([[1987 NCAA Division I men's basketball tournament|1987]], [[1996 NCAA Division I men's basketball tournament|1996]]).<ref name="Wojciechowski"/>   Roy Williams, during his fifteen seasons as Kansas head coach, had reached the Final Four three previous times, and finished runner up once ([[1991 NCAA Division I men's basketball tournament|1991]]).<ref name="Wojciechowski"/>  Syracuse dominated with a hot shooting first half to lead by 11 at the break. Gerry McNamara connected on an impressive six [[three-pointers]] in the half, which were his 18 points for the game. Kansas fought back to within 80–78 in the final minute and had a chance to tie after [[Hakim Warrick]] missed a pair of [[free throws]] in the final moments; free throws were a major problem throughout the game for Kansas, who went 12-for-30 in attempts. Warrick then blocked Michael Lee's three point attempt with 1.5 seconds remaining on the game clock, followed by Kirk Hinrich's three-pointer at the buzzer going over the net. Kansas' free throw struggles would prove costly in giving Syracuse and Jim Boeheim their first ever national championship. Carmelo Anthony was named [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]] (MOP) with 20 points and 10 Rebounds in the win. Syracuse also avenged a second-round loss to Kansas [[2001 NCAA Division I men's basketball tournament|two years earlier]].<ref name="CNNSI4.7">{{cite web|work=CNN Sports Illustrated|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2003/04/07/5154_recap.html|archive-url=https://web.archive.org/web/20030605101239/http://sportsillustrated.cnn.com/basketball/college/men/recaps/2003/04/07/5154_recap.html|url-status=dead|archive-date=June 5, 2003|title=2003 NCAA national championship: (E3) Syracuse 81, (W2) Kansas 78|access-date=2008-03-06}}</ref>
 
 ==Bracket==
-===East Regional — Albany, New York===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
- | subgroup1='''[[Chesapeake Energy Arena|Oklahoma City]]'''
- | subgroup2='''[[BJCC Arena|Birmingham]]'''
- | subgroup3='''[[TD Garden|Boston]]'''
- | subgroup4='''[[St. Pete Times Forum|Tampa]]'''
+===Opening Round game===
+Winner advances to 16th seed in South Regional vs. (1) [[Texas Longhorns men's basketball|Texas]].
+
+{{2TeamBracket | RD1=Opening Round game<br />March 18
+| RD1-seed1=16a
+| RD1-team1='''[[2002–03 UNC Asheville Bulldogs men's basketball team|UNC Asheville]]'''
+| RD1-score1='''92<sup>OT</sup>'''
+| RD1-seed2=16b
+| RD1-team2=[[2002–03 Texas Southern Tigers basketball team|Texas Southern]]
+| RD1-score2=84
+}}
+
+===East Regional – Albany, New York===
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1='''[[Chesapeake Energy Arena|Oklahoma City]]''' - Thu/Sat
+ | subgroup2='''[[BJCC Arena|Birmingham]]''' - Fri/Sun
+ | subgroup3='''[[TD Garden|Boston]]''' - Fri/Sun
+ | subgroup4='''[[St. Pete Times Forum|Tampa]]''' - Fri/Sun
  | RD1-team01='''Oklahoma'''
  | RD1-score01= '''71'''
  | RD1-seed02= 16
- | RD1-team02= South Carolina St
+ | RD1-team02= South Carolina State
  | RD1-score02= 54
  | RD1-seed03= 8
  | RD1-team03= '''California'''
- | RD1-score03= '''76*'''
+ | RD1-score03= '''76<sup>OT</sup>'''
  | RD1-seed04= 9
- | RD1-team04= North Carolina State
+ | RD1-team04= NC State
  | RD1-score04= 74
  | RD1-seed05= 5
  | RD1-team05= Mississippi St
@@ -654,19 +781,19 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD1-team06= '''Butler'''
  | RD1-score06= '''47'''
  | RD1-seed07= 4
- | RD1-team07= '''Louisville'''
+ | RD1-team07= '''[[2002–03 Louisville Cardinals men's basketball team|Louisville]]'''
  | RD1-score07= '''86'''
  | RD1-seed08= 13
  | RD1-team08= Austin Peay
  | RD1-score08= 64
  | RD1-seed09= 6
- | RD1-team09= '''Oklahoma St'''
+ | RD1-team09= '''Oklahoma State'''
  | RD1-score09= '''77'''
  | RD1-seed10= 11
  | RD1-team10= Pennsylvania
  | RD1-score10= 63
  | RD1-seed11= 3
- | RD1-team11= '''Syracuse'''
+ | RD1-team11= '''[[2002–03 Syracuse Orangemen basketball team|Syracuse]]'''
  | RD1-score11= '''76'''
  | RD1-seed12= 14
  | RD1-team12= Manhattan
@@ -676,7 +803,7 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD1-score13= 63
  | RD1-seed14= 10
  | RD1-team14= '''Auburn'''
- | RD1-score14= '''65*'''
+ | RD1-score14= '''65<sup>OT</sup>'''
  | RD1-seed15= 2
  | RD1-team15= '''Wake Forest'''
  | RD1-score15= '''76'''
@@ -696,7 +823,7 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD2-team04= Louisville
  | RD2-score04=71
  | RD2-seed05= 6
- | RD2-team05= Oklahoma St
+ | RD2-team05= Oklahoma State
  | RD2-score05= 56
  | RD2-seed06= 3
  | RD2-team06= '''Syracuse'''
@@ -727,20 +854,16 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD4-score02= '''63'''
 }}
 
-===Game summaries===
-====East Regional Semifinals – at Albany, New York====
-====East Regional Finals – at Albany, New York====
-
-===South Regional — San Antonio, Texas===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
- | subgroup1='''[[BJCC Arena|Birmingham]]'''
- | subgroup2='''[[Spokane Veterans Memorial Arena|Spokane]]'''
- | subgroup3='''[[Gaylord Entertainment Center|Nashville]]'''
- | subgroup4='''[[St. Pete Times Forum|Tampa]]'''
+===South Regional – San Antonio, Texas===
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1='''[[BJCC Arena|Birmingham]]''' - Fri/Sun
+ | subgroup2='''[[Spokane Veterans Memorial Arena|Spokane]]''' - Thu/Sat
+ | subgroup3='''[[Gaylord Entertainment Center|Nashville]]''' - Fri/Sun
+ | subgroup4='''[[St. Pete Times Forum|Tampa]]''' - Fri/Sun
  | RD1-team01='''Texas'''
  | RD1-score01='''82'''
  | RD1-seed02=16
- | RD1-team02=UNC-Asheville
+ | RD1-team02=UNC Asheville
  | RD1-score02=61
  | RD1-seed03=8
  | RD1-team03=LSU
@@ -750,7 +873,7 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD1-score04='''80'''
  | RD1-seed05=5
  | RD1-team05='''Connecticut'''
- | RD1-score05=58
+ | RD1-score05='''58'''
  | RD1-seed06=12
  | RD1-team06=BYU
  | RD1-score06=53
@@ -764,16 +887,16 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD1-team09='''Maryland'''
  | RD1-score09='''75'''
  | RD1-seed10=11
- | RD1-team10=UNC-Wilmington
+ | RD1-team10=UNC Wilmington
  | RD1-score10=73
  | RD1-seed11=3
  | RD1-team11='''Xavier'''
  | RD1-score11='''71'''
  | RD1-seed12=14
- | RD1-team12=Troy St
+ | RD1-team12=Troy State
  | RD1-score12=59
  | RD1-seed13=7
- | RD1-team13='''Michigan St'''
+ | RD1-team13='''[[2002–03 Michigan State Spartans men's basketball team|Michigan State]]'''
  | RD1-score13='''79'''
  | RD1-seed14=10
  | RD1-team14=Colorado
@@ -782,7 +905,7 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD1-team15='''Florida'''
  | RD1-score15='''85'''
  | RD1-seed16=15
- | RD1-team16=Sam Houston St
+ | RD1-team16=Sam Houston State
  | RD1-score16=55
  | RD2-seed01=1
  | RD2-team01='''Texas'''
@@ -798,12 +921,12 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD2-score04=74
  | RD2-seed05=6
  | RD2-team05='''Maryland'''
- | RD2-score05='''77'''
+ | RD2-score05=77
  | RD2-seed06=3
  | RD2-team06=Xavier
- | RD2-score06=64
+ | RD2-score06='''64'''
  | RD2-seed07=7
- | RD2-team07='''Michigan St'''
+ | RD2-team07='''Michigan State'''
  | RD2-score07='''68'''
  | RD2-seed08=2
  | RD2-team08=Florida
@@ -814,39 +937,39 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD3-seed02=5
  | RD3-team02=Connecticut
  | RD3-score02=78
- | RD3-seed03=6
+ | RD3-seed06=6
  | RD3-team03=Maryland
  | RD3-score03=58
  | RD3-seed04=7
- | RD3-team04='''Michigan St'''
+ | RD3-team04='''Michigan State'''
  | RD3-score04='''60'''
  | RD4-seed01=1
  | RD4-team01='''Texas'''
- | RD4-score01='''85'''
+ | RD4-score01=85
  | RD4-seed02=7
- | RD4-team02=Michigan St
+ | RD4-team02=Michigan State
  | RD4-score02=76
 }}
 
-===Midwest Regional — Minneapolis, Minnesota===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
- | subgroup1='''[[Gaylord Entertainment Center|Nashville]]'''
- | subgroup2='''[[Spokane Veterans Memorial Arena|Spokane]]'''
- | subgroup3='''[[RCA Dome|Indianapolis]]'''
- | subgroup4='''[[TD Garden|Boston]]'''
- | RD1-team01= '''Kentucky'''
+===Midwest Regional – Minneapolis, Minnesota===
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1='''[[Gaylord Entertainment Center|Nashville]]''' - Fri/Sun
+ | subgroup2='''[[Spokane Veterans Memorial Arena|Spokane]]''' - Thu/Sat
+ | subgroup3='''[[RCA Dome|Indianapolis]]''' - Thu/Sat
+ | subgroup4='''[[TD Garden|Boston]]''' - Fri/Sun
+ | RD1-team01= '''[[2002–03 Kentucky Wildcats men's basketball team|Kentucky]]'''
  | RD1-score01= '''95'''
  | RD1-seed02= 16
  | RD1-team02= IUPUI
  | RD1-score02= 64
  | RD1-seed03= 8
- | RD1-team03= Oregon
+ | RD1-team03= [[2002–03 Oregon Ducks men's basketball team|Oregon]]
  | RD1-score03= 58
  | RD1-seed04= 9
- | RD1-team04= '''Utah'''  
+ | RD1-team04= '''Utah'''
  | RD1-score04= '''60'''
  | RD1-seed05= 5
- | RD1-team05= '''Wisconsin'''
+ | RD1-team05= '''[[2002–03 Wisconsin Badgers men's basketball team|Wisconsin]]'''
  | RD1-score05= '''81'''
  | RD1-seed06= 12
  | RD1-team06= Weber State
@@ -864,7 +987,7 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD1-team10= Southern Illinois
  | RD1-score10= 71
  | RD1-seed11= 3
- | RD1-team11= '''Marquette'''
+ | RD1-team11= '''[[2002–03 Marquette Golden Eagles men's basketball team|Marquette]]'''
  | RD1-score11= '''72'''
  | RD1-seed12= 14
  | RD1-team12= Holy Cross
@@ -898,7 +1021,7 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD2-score05= 92
  | RD2-seed06=3
  | RD2-team06= '''Marquette'''
- | RD2-score06= '''101*'''
+ | RD2-score06= '''101<sup>OT</sup>'''
  | RD2-seed07= 7
  | RD2-team07= Indiana
  | RD2-score07= 52
@@ -925,12 +1048,12 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD4-score02= '''83'''
 }}
 
-===West Regional — Anaheim, California===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
- | subgroup1='''[[Jon M. Huntsman Center|Salt Lake City]]'''
- | subgroup2='''[[RCA Dome|Indianapolis]]'''
- | subgroup3='''[[Jon M. Huntsman Center|Salt Lake City]]'''
- | subgroup4='''[[Chesapeake Energy Arena|Oklahoma City]]'''
+===West Regional – Anaheim, California===
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1='''[[Jon M. Huntsman Center|Salt Lake City]]''' - Thu/Sat
+ | subgroup2='''[[RCA Dome|Indianapolis]]''' - Thu/Sat
+ | subgroup3='''[[Jon M. Huntsman Center|Salt Lake City]]''' Thu/Sat
+ | subgroup4='''[[Chesapeake Energy Arena|Oklahoma City]]''' - Thu/Sat
  | RD1-team01= '''Arizona'''
  | RD1-score01= '''80'''
  | RD1-seed02= 16
@@ -943,13 +1066,13 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD1-team04= '''Gonzaga'''
  | RD1-score04= '''74'''
  | RD1-seed05= 5
- | RD1-team05= '''Notre Dame'''
- | RD1-score05= '''70'''
+ | RD1-team05= '''[[2002–03 Notre Dame Fighting Irish men's basketball team|Notre Dame]]'''
+ | RD1-score05= 70
  | RD1-seed06= 12
- | RD1-team06= UW–Milwaukee
+ | RD1-team06= Milwaukee
  | RD1-score06= 69
  | RD1-seed07= 4
- | RD1-team07= '''Illinois'''
+ | RD1-team07= '''[[2002–03 Illinois Fighting Illini men's basketball team|Illinois]]'''
  | RD1-score07= '''65'''
  | RD1-seed08= 13
  | RD1-team08= Western Kentucky
@@ -976,11 +1099,11 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD1-team15= '''Kansas'''
  | RD1-score15= '''64'''
  | RD1-seed16= 15
- | RD1-team16= Utah St
+ | RD1-team16= Utah State
  | RD1-score16= 61
  | RD2-seed01= 1
  | RD2-team01= '''Arizona'''
- | RD2-score01= '''96**'''
+ | RD2-score01= '''96<sup>2OT</sup>'''
  | RD2-seed02= 9
  | RD2-team02= Gonzaga
  | RD2-score02= 95
@@ -995,9 +1118,9 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD2-score05= 60
  | RD2-seed06= 3
  | RD2-team06= '''Duke'''
- | RD2-score06= '''86'''
+ | RD2-score06= 68
  | RD2-seed07= 10
- | RD2-team07= Arizona St
+ | RD2-team07= Arizona State
  | RD2-score07= 76
  | RD2-seed08=2
  | RD2-team08='''Kansas'''
@@ -1019,11 +1142,11 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD4-score01= 75
  | RD4-seed02= 2
  | RD4-team02= '''Kansas'''
- | RD4-score02= '''78'''
+ | RD4-score02= 78
 }}
 
-===Final Four — New Orleans, Louisiana===
-{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game | RD1-seed1=E3
+===Final Four – New Orleans, Louisiana===
+{{4TeamBracket | RD1=National semifinals | RD2=National Championship Game | RD1-seed1=E3
  | RD1-team1='''Syracuse'''
  | RD1-score1= '''95'''
  | RD1-seed2= S1
@@ -1037,59 +1160,66 @@ At [[Louisiana Superdome]], [[New Orleans]]
  | RD1-score4= '''94'''
  | RD2-seed1= E3
  | RD2-team1= '''Syracuse'''
- | RD2-score1= '''81'''
+ | RD2-score1= 81
  | RD2-seed2= W2
  | RD2-team2= Kansas
  | RD2-score2= 78
 }}
 
 ==Broadcast information==
-Originally, CBS Sports was to have shown all 63 games of the tournament following the opening round, which was on [[ESPN]].  However, because of the start of the [[Iraq war]] the night before, the afternoon games on Thursday and Friday were moved to ESPN while retaining CBS graphics and production. CBS News then joined other broadcast and non-broadcast outlets in showing [[media coverage of the Iraq War|extended news coverage]].
+Originally, CBS Sports was to have shown all 63 games of the tournament following the opening round, which was on [[ESPN]]. However, because of the start of the [[Iraq War]] the night before, the afternoon games on Thursday and Friday were moved to ESPN while retaining CBS graphics and production. CBS News then joined other broadcast and non-broadcast outlets in showing [[media coverage of the Iraq War|extended news coverage]].
 
 Thursday and Friday night's games were shown on CBS, albeit with frequent [[CBS News|news updates]]. To make up for lost advertising revenue, an additional time slot was opened the following Sunday evening for more CBS telecasts.
 
-2003 also marked the debut of [[Mega March Madness]] as an exclusive package on [[DirecTV]]. This offered additional game broadcasts not available to the viewer's home market during the first three rounds of the tournament. All games from the 4th round (Elite Eight) onward were national telecasts.
+2003 also marked the debut of Mega March Madness as an exclusive package on [[DirecTV]]. This offered additional game broadcasts not available to the viewer's home market during the first three rounds of the tournament. All games from the 4th round (Elite Eight) onward were national telecasts.
 
 [[Westwood One (1976–2011)|Westwood One]] had exclusive national radio coverage.
 
 ===CBS Sports announcers===
 *[[Jim Nantz]]/[[Billy Packer]]/[[Bonnie Bernstein]] – First & Second Round at Nashville, Tennessee; West Regional at Anaheim, California; Final Four at New Orleans, Louisiana
 *[[Dick Enberg]]/[[Matt Guokas]]/[[Kareem Abdul-Jabbar]]/[[Armen Keteyian]] – First & Second Round at Salt Lake City, Utah; South Regional at San Antonio, Texas
-*[[Verne Lundquist]] and [[Bill Raftery]]/[[Lesley Visser]] – First & Second Round at Boston, Massachusetts; Midwest Regional at Minneapolis, Minnesota
-*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Len Elmore]]/[[Solomon Wilcots]] – First & Second Round at Indianapolis, Indiana; East Regional at Albany, New York
-*[[Kevin Harlan]] and [[Jay Bilas]] – First & Second Round at Oklahoma City, Oklahoma
-*[[Ian Eagle]] and [[Jim Spanarkel]] – First & Second Round at Tampa, Florida
-*[[Craig Bolerjack]] and [[Dan Bonner]] – First & Second Round at Birmingham, Alabama
-*[[Tim Brando]] and [[Bob Wenzel]] – First & Second Round at Spokane, Washington
+*[[Verne Lundquist]]/[[Bill Raftery]]/[[Lesley Visser]] – First & Second Round at Boston, Massachusetts; Midwest Regional at Minneapolis, Minnesota
+*[[Gus Johnson (sportscaster)|Gus Johnson]]/[[Len Elmore]]/[[Solomon Wilcots]] – First & Second Round at Indianapolis, Indiana; East Regional at Albany, New York
+*[[Kevin Harlan]]/[[Jay Bilas]]/Dwayne Ballen – First & Second Round at Oklahoma City, Oklahoma
+*[[Ian Eagle]]/[[Jim Spanarkel]]/Darren Horton – First & Second Round at Tampa, Florida
+*[[Craig Bolerjack]]/[[Dan Bonner]]/[[Brett Haber]] – First & Second Round at Birmingham, Alabama
+*[[Tim Brando]]/[[Bob Wenzel]]/Leslie Maxie – First & Second Round at Spokane, Washington
 
 ===Westwood One announcers===
+
 ====First and second rounds====
+
+Doug Kennedy and Richard Larsen
+
 ====Regionals====
-====Final four====
+
+====Final Four====
 
 ==See also==
-* [[2003 NCAA Division II Men's Basketball Tournament]]
-* [[2003 NCAA Division III Men's Basketball Tournament]]
-* [[2003 NCAA Division I Women's Basketball Tournament]]
-* [[NCAA Division II Women's Basketball Tournament|2003 NCAA Division II Women's Basketball Tournament]]
-* [[NCAA Division III Women's Basketball Tournament|2003 NCAA Division III Women's Basketball Tournament]]
+* [[2003 NCAA Division II men's basketball tournament]]
+* [[2003 NCAA Division III men's basketball tournament]]
+* [[2003 NCAA Division I women's basketball tournament]]
+* [[2003 NCAA Division II women's basketball tournament]]
+* [[2003 NCAA Division III women's basketball tournament]]
 * [[2003 National Invitation Tournament]]
 * [[Women's National Invitation Tournament|2002 Women's National Invitation Tournament]]
-* [[2003 NAIA Division I Men's Basketball Tournament]]
-* [[NAIA Men's Basketball Championships#Division II|2003 NAIA Division II Men's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships|2003 NAIA Division I Women's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships#Division II|2003 NAIA Division II Women's Basketball Tournament]]
+* [[2003 NAIA Division I men's basketball tournament]]
+* [[NAIA Men's Basketball Championships#Division II|2003 NAIA Division II men's basketball tournament]]
+* [[NAIA Women's Basketball Championships|2003 NAIA Division I women's basketball tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2003 NAIA Division II women's basketball tournament]]
 
 ==References==
 {{Reflist}}
 
-{{NCAA Men's Division I Basketball Tournament navbox}}
+{{NCAA Division I men's basketball tournament navbox}}
+{{2003 NCAA Division I men's basketball tournament navbox}}
 {{2003 Syracuse Orangemen basketball navbox}}
 
-{{DEFAULTSORT:2003 Ncaa Men's Division I Basketball Tournament}}
-[[Category:NCAA Division I Men's Basketball Championship]]
+{{DEFAULTSORT:2003 NCAA Division I men's basketball tournament}}
+[[Category:NCAA Division I men's basketball tournament]]
 [[Category:2002–03 NCAA Division I men's basketball season|Ncaa]]
-[[Category:Basketball in New Orleans]]
-[[Category:Sports competitions in New Orleans|Basketball]]
-[[Category:Mercedes-Benz Superdome]]
-[[Category:Basketball in San Antonio]]
+[[Category:2003 in sports in Louisiana|NCAA Division I men's basketball tournament]]
+[[Category:March 2003 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:April 2003 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:Basketball competitions in New Orleans|Basketball]]
+[[Category:Basketball competitions in San Antonio]]

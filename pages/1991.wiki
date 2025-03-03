@@ -1,42 +1,44 @@
+{{Short description|Edition of USA college basketball tournament}}
 {{see also|1991 NCAA Division I Men's Basketball Championship Game}}
-{{Infobox NCAA Basketball Tournament |
+{{Use mdy dates|date=August 2023}}
+{{Infobox NCAA basketball tournament
 | Year=1991
-| Image=
+| Image=1991 Final Four logo.svg
 | ImageSize=
 | Caption=
 | Teams=64
 | FinalFourArena=[[Hoosier Dome]]
 | FinalFourCity=[[Indianapolis]], [[Indiana]]
-| Champions=[[1990-91 Duke Blue Devils men's basketball team|Duke]]
+| Champions=[[1990–91 Duke Blue Devils men's basketball team|Duke Blue Devils]]
 | TitleCount=1st
 | ChampGameCount=5th
 | ChampFFCount=9th
-| RunnerUp=[[1990-91 Kansas Jayhawks men's basketball team|Kansas]]
+| RunnerUp=[[1990–91 Kansas Jayhawks men's basketball team|Kansas Jayhawks]]
 | GameCount=6th
 | RunnerFFCount=9th
-| Semifinal1=[[North Carolina Tar Heels men's basketball|North Carolina]]
+| Semifinal1=[[1990–91 North Carolina Tar Heels men's basketball team|North Carolina Tar Heels]]
 | FinalFourCount=10th
-| Semifinal2=[[1990-91 UNLV Runnin' Rebels basketball team|UNLV]]
+| Semifinal2=[[1990–91 UNLV Runnin' Rebels basketball team|UNLV Runnin' Rebels]]
 | FinalFourCount2=4th
 | Coach=[[Mike Krzyzewski]]
 | CoachCount=1st
 | MOP=[[Christian Laettner]]
 | MOPTeam=Duke
 | Attendance=665,707
-| OneTopScorer=*
-| TwoTopScorers=
 | TopScorer=Christian Laettner
 | TopScorerTeam=Duke
 | Points=125
 }}
-The '''1991 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 14, 1991, and ended with the [[1991 NCAA Men's Division I Basketball Championship Game|championship game]] on April 1 in [[Indianapolis, Indiana]]. A total of 63 games were played.
 
-[[Duke Blue Devils men's basketball|Duke]], coached by [[Mike Krzyzewski]], won a rematch of the previous year's national final matchup against undefeated UNLV 79–77 in the semifinal,<ref>{{YouTube|l8JmUVldKKA|1991 1991 NCAA Basketball Semifinal Game}}</ref> then won the national title with a 72–65 victory in the final game over [[1990–91 Kansas Jayhawks men's basketball team|Kansas]], coached by [[Roy Williams (coach)|Roy Williams]].<ref>{{YouTube|OnFFAuDeAIY|1991 NCAA Basketball National Championship Game}}</ref>  This was the first National Championship game for Williams as a head coach.  Kansas defeated Williams' mentor [[Dean Smith]] and North Carolina (where Williams now coaches) in the semifinal.  Kansas made its second trip to the National Championship game in four seasons, the prior appearance being 1988 when they defeated [[1987–88 Oklahoma Sooners men's basketball team|Oklahoma]].  [[Christian Laettner]] of Duke was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]].
+The '''1991 [[NCAA Division I men's basketball tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's [[NCAA Division I]] [[college basketball]]. It began on March 14, 1991, and ended with the [[1991 NCAA Division I Men's Basketball Championship Game|championship game]] on April 1 in [[Indianapolis, Indiana]]. A total of 63 games were played.
 
-This tournament adopted the NBA's 10ths-second timer during the final minute of each period in all arenas.
+[[Duke Blue Devils men's basketball|Duke]], coached by [[Mike Krzyzewski]], won a rematch of the previous year's national final matchup against undefeated UNLV 79–77 in the semifinal,<ref>{{YouTube|l8JmUVldKKA|1991 1991 NCAA Basketball Semifinal Game}}</ref> then won the national title with a 72–65 victory in the final game over [[1990–91 Kansas Jayhawks men's basketball team|Kansas]], coached by [[Roy Williams (coach)|Roy Williams]].<ref>{{YouTube|OnFFAuDeAIY|1991 NCAA basketball national championship game}}</ref> This was the first national championship game for Williams as a head coach. Kansas defeated Williams' mentor [[Dean Smith]] and North Carolina (where Williams later coached) in the semifinal. Kansas made its second trip to the national championship game in four seasons, the prior appearance being 1988 when they defeated [[1987–88 Oklahoma Sooners men's basketball team|Oklahoma]]. [[Christian Laettner]] of Duke was named the tournament's [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]].
 
-==Locations==
+This tournament marked the first time a #15 seed upset a #2 seed since the tournament field expanded to 64 teams in 1985, when Richmond accomplished against Syracuse in the East region. In addition, for the first time ever, at least one team seeded #9 through #15 won a first-round game. This feat would be followed in [[2013 NCAA Division I men's basketball tournament|2013]], [[2016 NCAA Division I men's basketball tournament|2016]], and [[2021 NCAA Division I men's basketball tournament|2021]].
 
+This tournament adopted the [[NBA]]'s 10ths-second timer during the final minute of each period in all arenas.
+
+==Schedule and venues==
 {{Location map+|USA|width=450|float=right|caption=1991 first and second rounds|places= 
 {{Location map~|USA|mark=green pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=bottom|background=#FFFFFF|label=Atlanta|link=Omni Coliseum}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=38.989697|lon_deg=-76.937760|position=bottom|background=#FFFFFF|label=College Park|link=Cole Field House}}
@@ -56,212 +58,672 @@ This tournament adopted the NBA's 10ths-second timer during the final minute of 
 {{Location map~|USA|mark=red pog.svg|lat_deg=39.768403|lon_deg=-86.158068|position=bottom|background=#FFFFFF|label=Indianapolis|link=RCA Dome|Hoosier Dome}}
 }}
 
-===First & Second Rounds===
-{| class="wikitable"
-! Region !! Site !! Venue
-|-
-! rowspan="2" | East
-|[[College Park, Maryland]]
-|[[Cole Field House]]
-|-
-|[[Syracuse, New York]]
-|[[Carrier Dome]]
-|-
-! rowspan="2" | Midwest
-|[[Dayton, Ohio]]
-|[[UD Arena|University of Dayton Arena]]
-|-
-|[[Minneapolis|Minneapolis, Minnesota]]
-|[[Hubert H. Humphrey Metrodome]]
-|-
-! rowspan="2" | Southeast
-|[[Atlanta|Atlanta, Georgia]]
-|[[Omni Coliseum]]
-|-
-|[[Louisville, Kentucky]]
-|[[Freedom Hall]]
-|-
-! rowspan="2" | West
-|[[Salt Lake City|Salt Lake City, Utah]]
-|[[Jon M. Huntsman Center]]
-|-
-|[[Tucson, Arizona]]
-|[[McKale Center]]
-|}
+The following are the sites that were selected to host each round of the 1991 tournament:
 
-===Regional Sites and Final Four===
-{| class="wikitable"
-! Region !! Site !! Venue
-|-
-| '''East''' 
-|[[East Rutherford, New Jersey]]
-|[[Meadowlands Arena|Brendan Byrne Arena]]
-|-
-| '''Midwest'''
-|[[Pontiac, Michigan]]
-|[[Pontiac Silverdome]]
-|-
-| '''Southeast'''
-|[[Charlotte, North Carolina]]
-|[[Charlotte Coliseum]]
-|-
-| '''West'''
-|[[Seattle|Seattle, Washington]]
-|[[Kingdome|The Kingdome]]
-|-
-| '''Final Four'''
-|[[Indianapolis|Indianapolis, Indiana]]
-|[[RCA Dome|Hoosier Dome]]
-|}
+'''First and Second Rounds'''
+*March 14 and 16
+**'''East Region'''
+*** [[Cole Field House]], [[College Park, Maryland]] (Host: [[University of Maryland, College Park]])
+**'''Midwest Region'''
+*** [[Hubert H. Humphrey Metrodome]], [[Minneapolis|Minneapolis, Minnesota]] (Host: [[University of Minnesota]])
+**'''Southeast Region'''
+*** [[Freedom Hall]], [[Louisville, Kentucky]] (Host: [[University of Louisville]])
+**'''West Region'''
+*** [[Jon M. Huntsman Center]], [[Salt Lake City|Salt Lake City, Utah]] (Host: [[University of Utah]])
+*March 15 and 17
+**'''East Region'''
+*** [[Carrier Dome]], [[Syracuse, New York]] (Host: [[Syracuse University]])
+**'''Midwest Region'''
+*** [[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+**'''Southeast Region'''
+*** [[Omni Coliseum]], [[Atlanta|Atlanta, Georgia]] (Host: [[Georgia Tech]])
+**'''West Region'''
+*** [[McKale Center]], [[Tucson, Arizona]] (Host: [[University of Arizona]])
 
-For the second time, Indianapolis was the host of the Final Four, this time at the Hoosier Dome, which would host the Final Four three more times. The tournament also returned to Charlotte in 1991, this time to the new Charlotte Coliseum, then the off-campus home of the [[Charlotte 49ers men's basketball]] team. This year also saw the final appearance of the Pontiac Silverdome and two former Final Four venues, in Cole Field House and Freedom Hall. Games played in Detroit since have either been at [[The Palace of Auburn Hills]], [[Ford Field]] or, starting in 2018, [[Little Caesars Arena]]. While both Cole Field House and Freedom Hall have both been replaced, only Freedom Hall's replacement, the [[KFC Yum! Center]], has hosted games since. Games in the Washington area have since been played at either Baltimore, Landover or in Washington itself at [[Capital One Arena]].
+'''Regional semifinals and finals''' (Sweet Sixteen and Elite Eight)
+*March 21 and 23
+**'''Southeast Regional''', [[Charlotte Coliseum]], [[Charlotte, North Carolina]] (Host: [[University of North Carolina at Charlotte]])
+**'''West Regional''', [[Kingdome]], [[Seattle|Seattle, Washington]] (Host: [[University of Washington]])
+*March 22 and 24
+**'''East Regional''', [[Brendan Byrne Arena]], [[East Rutherford, New Jersey]] (Hosts: [[Seton Hall University]], [[Big East Conference]])
+**'''Midwest Regional''', [[Pontiac Silverdome]], [[Pontiac, Michigan]] (Host: [[University of Detroit Mercy]])
+
+'''National semifinals and championship''' (Final Four and championship)
+*March 30 and April 1
+**[[Hoosier Dome]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Butler University]], [[Midwestern Collegiate Conference]])
 
 ==Teams==
-{| class=wikitable
-! Region !! Seed !! Team !! Coach !! Finished !! Final Opponent !! Score
-|-
-! colspan=7 | East
-|-
-| East || 1|| [[North Carolina Tar Heels men's basketball|North Carolina]] || [[Dean Smith]] || National Semifinals||3 [[1990–91 Kansas Jayhawks men's basketball team|Kansas]]||L 79–73
-|-
-| East || 2|| [[Syracuse Orange men's basketball|Syracuse]] || [[Jim Boeheim]] || Round of 64||15 [[Richmond Spiders men's basketball|Richmond]]||L 73–69
-|-
-| East || 3|| [[Oklahoma State Cowboys basketball|Oklahoma State]] || [[Eddie Sutton]] || Sweet Sixteen||10 [[Temple Owls men's basketball|Temple]]||L 72–63
-|-
-| East || 4|| [[1990–91 UCLA Bruins men's basketball team|UCLA]] || [[Jim Harrick]] || Round of 64||13 [[Penn State Nittany Lions men's basketball|Penn State]]||L 74–69
-|-
-| East || 5|| [[Mississippi State Bulldogs men's basketball|Mississippi State]] || [[Richard Williams (basketball coach)|Richard Williams]] || Round of 64||12 [[Eastern Michigan Eagles men's basketball|Eastern Michigan]]||L 76–56
-|-
-| East || 6|| [[NC State Wolfpack men's basketball|NC State]] || [[Les Robinson]] || Round of 32||3 [[Oklahoma State Cowboys basketball|Oklahoma State]]||L 73–64
-|-
-| East || 7|| [[Purdue Boilermakers men's basketball|Purdue]] || [[Gene Keady]] || Round of 64||10 [[Temple Owls men's basketball|Temple]]||L 80–63
-|-
-| East || 8|| [[1990–91 Princeton Tigers men's basketball team|Princeton]] || [[Pete Carril]] || Round of 64||9 [[Villanova Wildcats men's basketball|Villanova]]||L 50–48
-|-
-| East || 9|| [[Villanova Wildcats men's basketball|Villanova]] || [[Rollie Massimino]] || Round of 32||1 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 84–69
-|-
-| East || 10|| [[Temple Owls men's basketball|Temple]] || [[John Chaney (basketball coach)|John Chaney]] || Regional Runner-up||1 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 75–72
-|-
-| East || 11|| [[Southern Miss Golden Eagles basketball|Southern Miss]] || [[M.K. Turk]] || Round of 64||6 [[NC State Wolfpack men's basketball|NC State]]||L 114–85
-|-
-| East || 12|| [[Eastern Michigan Eagles men's basketball|Eastern Michigan]] || [[Ben Braun]] || Sweet Sixteen||1 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 93–67
-|-
-| East || 13|| [[Penn State Nittany Lions men's basketball|Penn State]] || [[Bruce Parkhill]] || Round of 32||12 [[Eastern Michigan Eagles men's basketball|Eastern Michigan]]||L 71–68
-|-
-| East || 14|| [[New Mexico Lobos men's basketball|New Mexico]] || [[Dave Bliss]] || Round of 64||3 [[Oklahoma State Cowboys basketball|Oklahoma State]]||L 67–54
-|-
-| East || 15|| [[Richmond Spiders men's basketball|Richmond]] || [[Dick Tarrant]] || Round of 32||10 [[Temple Owls men's basketball|Temple]]||L 77–64
-|-
-| East || 16|| [[Northeastern Huskies men's basketball|Northeastern]] || [[Karl Fogel]] || Round of 64||1 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 101–66
-|-
-! colspan=7 | Midwest
-|-
-| Midwest || 1|| [[Ohio State Buckeyes men's basketball|Ohio State]] || [[Randy Ayers]] || Sweet Sixteen||4 [[1990–91 St. John's Redmen basketball team|St. John's]]||L 91–74
-|-
-| Midwest || 2|| [[1990-91 Duke Blue Devils men's basketball team|Duke]] || [[Mike Krzyzewski]] || '''Champion'''||3 [[1990–91 Kansas Jayhawks men's basketball team|Kansas]]||W 72–65
-|-
-| Midwest || 3|| [[Nebraska Cornhuskers men's basketball|Nebraska]] || [[Danny Nee]] || Round of 64||14 [[Xavier Musketeers men's basketball|Xavier]]||L 89–84
-|-
-| Midwest || 4|| [[1990–91 St. John's Redmen basketball team|St. John's]] || [[Lou Carnesecca]] || Regional Runner-up||2 [[1990-91 Duke Blue Devils men's basketball team|Duke]]||L 78–61
-|-
-| Midwest || 5|| [[Texas Longhorns men's basketball|Texas]] || [[Tom Penders]] || Round of 32||4 [[1990–91 St. John's Redmen basketball team|St. John's]]||L 84–76
-|-
-| Midwest || 6|| [[LSU Tigers basketball|LSU]] || [[Dale Brown (basketball)|Dale Brown]] || Round of 64||11 [[1990–91 Connecticut Huskies men's basketball team|Connecticut]]||L 79–62
-|-
-| Midwest || 7|| [[1990-91 Iowa Hawkeyes men's basketball team|Iowa]] || [[Tom Davis (basketball, born 1938)|Tom Davis]] || Round of 32||2 [[1990-91 Duke Blue Devils men's basketball team|Duke]]||L 85–70
-|-
-| Midwest || 8|| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] || [[Bobby Cremins]] || Round of 32||1 [[Ohio State Buckeyes men's basketball|Ohio State]]||L 65–61
-|-
-| Midwest || 9|| [[DePaul Blue Demons men's basketball|DePaul]] || [[Joey Meyer (basketball)|Joey Meyer]] || Round of 64||8 [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]]||L 87–70
-|-
-| Midwest || 10|| [[1990–91 East Tennessee State Buccaneers basketball team|East Tennessee State]] || [[Alan LeForce]] || Round of 64||7 [[1990-91 Iowa Hawkeyes men's basketball team|Iowa]]||L 76–73
-|-
-| Midwest || 11|| [[1990–91 Connecticut Huskies men's basketball team|Connecticut]] || [[Jim Calhoun]] || Sweet Sixteen||2 [[1990-91 Duke Blue Devils men's basketball team|Duke]]||L 81–67
-|-
-| Midwest || 12|| [[Saint Peter's Peacocks basketball|Saint Peter's]] || [[Ted Fiore]] || Round of 64||5 [[Texas Longhorns men's basketball|Texas]]||L 73–65
-|-
-| Midwest || 13|| [[Northern Illinois Huskies men's basketball|Northern Illinois]] || [[Jim Molinari]] || Round of 64||4 [[1990–91 St. John's Redmen basketball team|St. John's]]||L 75–68
-|-
-| Midwest || 14|| [[Xavier Musketeers men's basketball|Xavier]] || [[Pete Gillen]] || Round of 32||11 [[1990–91 Connecticut Huskies men's basketball team|Connecticut]]||L 66–50
-|-
-| Midwest || 15|| [[Louisiana–Monroe Warhawks men's basketball|Northeast Louisiana]] || [[Mike Vining]] || Round of 64||2 [[1990-91 Duke Blue Devils men's basketball team|Duke]]||L 102–73
-|-
-| Midwest || 16|| [[Towson Tigers men's basketball|Towson State]] || [[Terry Truax]] || Round of 64||1 [[Ohio State Buckeyes men's basketball|Ohio State]]||L 97–86
-|-
-! colspan=7 | Southeast
-|-
-| Southeast || 1|| [[1990–91 Arkansas Razorbacks men's basketball team|Arkansas]] || [[Nolan Richardson]] || Regional Runner-up||3 [[1990–91 Kansas Jayhawks men's basketball team|Kansas]]||L 93–81
-|-
-| Southeast || 2|| [[1990–91 Indiana Hoosiers men's basketball team|Indiana]] || [[Bob Knight]] || Sweet Sixteen||3 [[1990–91 Kansas Jayhawks men's basketball team|Kansas]]||L 83–65
-|-
-| Southeast || 3|| [[1990–91 Kansas Jayhawks men's basketball team|Kansas]] || [[Roy Williams (coach)|Roy Williams]] || Runner Up||2 [[1990-91 Duke Blue Devils men's basketball team|Duke]]||L 72–65
-|-
-| Southeast || 4|| [[Alabama Crimson Tide men's basketball|Alabama]] || [[Wimp Sanderson]] || Sweet Sixteen||1 [[1990–91 Arkansas Razorbacks men's basketball team|Arkansas]]||L 93–70
-|-
-| Southeast || 5|| [[Wake Forest Demon Deacons men's basketball|Wake Forest]] || [[Dave Odom]] || Round of 32||4 [[Alabama Crimson Tide men's basketball|Alabama]]||L 96–88
-|-
-| Southeast || 6|| [[Pittsburgh Panthers men's basketball|Pittsburgh]] || [[Paul Evans (basketball coach)|Paul Evans]] || Round of 32||3 [[1990–91 Kansas Jayhawks men's basketball team|Kansas]]||L 77–66
-|-
-| Southeast || 7|| [[Florida State Seminoles men's basketball|Florida State]] || [[Pat Kennedy]] || Round of 32||2 [[1990–91 Indiana Hoosiers men's basketball team|Indiana]]||L 82–60
-|-
-| Southeast || 8|| [[Arizona State Sun Devils men's basketball|Arizona State]] || [[Bill Frieder]] || Round of 32||1 [[1990–91 Arkansas Razorbacks men's basketball team|Arkansas]]||L 97–90
-|-
-| Southeast || 9|| [[Rutgers Scarlet Knights men's basketball|Rutgers]] || [[Bob Wenzel]] || Round of 64||8 [[Arizona State Sun Devils men's basketball|Arizona State]]||L 79–76
-|-
-| Southeast || 10|| [[USC Trojans men's basketball|USC]] || [[George Raveling]] || Round of 64||7 [[Florida State Seminoles men's basketball|Florida State]]||L 75–72
-|-
-| Southeast || 11|| [[Georgia Bulldogs basketball|Georgia]] || [[Hugh Durham]] || Round of 64||6 [[Pittsburgh Panthers men's basketball|Pittsburgh]]||L 76–68
-|-
-| Southeast || 12|| [[Louisiana Tech Bulldogs basketball|Louisiana Tech]] || [[Jerry Loyd]] || Round of 64||5 [[Wake Forest Demon Deacons men's basketball|Wake Forest]]||L 71–65
-|-
-| Southeast || 13|| [[Murray State Racers men's basketball|Murray State]] || [[Steve Newton]] || Round of 64||4 [[Alabama Crimson Tide men's basketball|Alabama]]||L 89–79
-|-
-| Southeast || 14|| [[New Orleans Privateers men's basketball|New Orleans]] || [[Tim Floyd]] || Round of 64||3 [[1990–91 Kansas Jayhawks men's basketball team|Kansas]]||L 55–49
-|-
-| Southeast || 15|| [[Coastal Carolina Chanticleers men's basketball|Coastal Carolina]] || [[Russ Bergman]] || Round of 64||2 [[1990–91 Indiana Hoosiers men's basketball team|Indiana]]||L 79–69
-|-
-| Southeast || 16|| [[Georgia State Panthers men's basketball|Georgia State]] || [[Bob Reinhart]] || Round of 64||1 [[1990–91 Arkansas Razorbacks men's basketball team|Arkansas]]||L 117–76
-|-
-! colspan=7 | West 
-|-
-| West || 1|| [[1990-91 UNLV Runnin' Rebels basketball team|UNLV]] || [[Jerry Tarkanian]] || National Semifinals||2 [[1990-91 Duke Blue Devils men's basketball team|Duke]]||L 79–77
-|-
-| West || 2|| [[Arizona Wildcats men's basketball|Arizona]] || [[Lute Olson]] || Sweet Sixteen||3 [[Seton Hall Pirates men's basketball|Seton Hall]]||L 81–77
-|-
-| West || 3|| [[Seton Hall Pirates men's basketball|Seton Hall]] || [[P.J. Carlesimo]] || Regional Runner-up||1 [[1990-91 UNLV Runnin' Rebels basketball team|UNLV]]||L 77–65
-|-
-| West || 4|| [[Utah Utes men's basketball|Utah]] || [[Rick Majerus]] || Sweet Sixteen||1 [[1990-91 UNLV Runnin' Rebels basketball team|UNLV]]||L 83–66
-|-
-| West || 5|| [[1990–91 Michigan State Spartans men's basketball team|Michigan State]] || [[Jud Heathcote]] || Round of 32||4 [[Utah Utes men's basketball|Utah]]||L 85–84
-|-
-| West || 6|| [[New Mexico State Aggies men's basketball|New Mexico State]] || [[Neil McCarthy (basketball coach)|Neil McCarthy]] || Round of 64||11 [[Creighton Bluejays men's basketball|Creighton]]||L 64–56
-|-
-| West || 7|| [[Virginia Cavaliers men's basketball|Virginia]] || [[Jeff Jones (basketball coach)|Jeff Jones]] || Round of 64||10 [[BYU Cougars men's basketball|BYU]]||L 61–48
-|-
-| West || 8|| [[1990–91 Georgetown Hoyas men's basketball team|Georgetown]] || [[John Thompson (basketball)|John Thompson]] || Round of 32||1 [[1990-91 UNLV Runnin' Rebels basketball team|UNLV]]||L 62–54
-|-
-| West || 9|| [[Vanderbilt Commodores men's basketball|Vanderbilt]] || [[Eddie Fogler]] || Round of 64||8 [[1990–91 Georgetown Hoyas men's basketball team|Georgetown]]||L 70–60
-|-
-| West || 10|| [[BYU Cougars men's basketball|BYU]] || [[Roger Reid]] || Round of 32||2 [[Arizona Wildcats men's basketball|Arizona]]||L 76–61
-|-
-| West || 11|| [[Creighton Bluejays men's basketball|Creighton]] || [[Tony Barone]] || Round of 32||3 [[Seton Hall Pirates men's basketball|Seton Hall]]||L 81–69
-|-
-| West || 12|| [[Green Bay Phoenix men's basketball|Wisconsin–Green Bay]] || [[Dick Bennett]] || Round of 64||5 [[1990–91 Michigan State Spartans men's basketball team|Michigan State]]||L 60–58
-|-
-| West || 13|| [[South Alabama Jaguars men's basketball|South Alabama]] || [[Ronnie Arrow]] || Round of 64||4 [[Utah Utes men's basketball|Utah]]||L 82–72
-|-
-| West || 14|| [[Pepperdine Waves men's basketball|Pepperdine]] || [[Tom Asbury]] || Round of 64||3 [[Seton Hall Pirates men's basketball|Seton Hall]]||L 71–51
-|-
-| West || 15|| [[Saint Francis Red Flash men's basketball|Saint Francis (PA)]] || [[Jim Baron]] || Round of 64||2 [[Arizona Wildcats men's basketball|Arizona]]||L 93–80
-|-
-| West || 16|| [[Montana Grizzlies basketball|Montana]] || [[Stew Morrill]] || Round of 64||1 [[1990-91 UNLV Runnin' Rebels basketball team|UNLV]]||L 99–65
-|-
+There were 26 automatic bids awarded to the tournament - of these, 23 were given to the winners of their conference's tournament, while three were awarded to the team with the best regular-season record in their conference ([[Big Ten Conference|Big Ten]], [[Ivy League]] and [[Pac-12 Conference|Pac-10]]). Another 35 bids were awarded by the NCAA tournament committee at-large to the best teams in the nation not already qualified.
+
+The [[Big Eight Conference|Big Eight]] was eligible for an automatic bid to the tournament, but their conference tournament was won by [[1990–91 Missouri Tigers men's basketball team|Missouri]], who were on probation and ineligible for the NCAA tournament.<ref>{{cite web |title=Doug Smith rules Big Eight Tournament |url=https://www.upi.com/Archives/1991/03/10/Doug-Smith-rules-Big-Eight-Tournament/6426668581200/ |work=UPI Archives |date=March 10, 1991 |access-date=May 25, 2023}}</ref> No automatic bid was awarded to the Big Eight.
+
+===Play-in Games===
+The remaining three bids were decided by play-in games between the six lowest-rated conferences in the nation. These matchups, which were decided prior to the season, paired the tournament champions of the six lowest-rated conferences in the nation in games played at campus sites:<ref>{{cite web |title=Despite losing automatic bid, MEAC will get money |last=McCann |first=Gary |url=https://greensboro.com/despite-losing-automatic-bid-meac-will-get-money/article_867ac1b8-da15-5f61-ba07-2c31ebb95914.html |work=[[Greensboro News & Record]] |date=May 17, 1990 |access-date=May 25, 2023}}</ref>
+
+* The winner of the [[1991 Northeast Conference men's basketball tournament|NEC tournament]], [[1990–91 Saint Francis Red Flash men's basketball team|Saint Francis (PA)]], hosted the winner of the [[1991 Patriot League men's basketball tournament|Patriot League tournament]], {{cbb link|1990|team=Fordham Rams|title=Fordham}}.<ref>{{cite web |title=BASKETBALL; Fordham's Road to N.C.A.A. Blocked by St. Francis, 70-64 |url=https://www.nytimes.com/1991/03/07/sports/basketball-fordham-s-road-to-ncaa-blocked-by-st-francis-70-64.html |last=Moran |first=Malcolm |work=[[The New York Times]] |date=March 7, 1991 |access-date=May 25, 2023}}</ref>
+* The winner of the [[1991 Southland Conference men's basketball tournament|Southland tournament]], [[1990–91 Northeast Louisiana Indians men's basketball team|Northeast Louisiana]], hosted the winner of the [[1991 MEAC men's basketball tournament|MEAC tournament]], {{cbb link|1990|sex=none|team=Florida A&M Rattlers|title=Florida A&M}}.<ref>{{cite web |title=Northeast Louisiana 87, Florida A&M 63 |url=https://www.upi.com/Archives/1991/03/06/Northeast-Louisiana-87-Florida-AM-63/1338668235600/ |work=UPI Archives |date=March 6, 1991 |access-date=May 25, 2023}}</ref>
+* The winner of the [[1991 SWAC men's basketball tournament|SWAC tournament]], {{cbb link|1990|sex=none|team=Jackson State Tigers|title=Jackson State}}, hosted the winner of the [[1991 Big South Conference men's basketball tournament|Big South tournament]], [[1990–91 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]].<ref>{{cite web |title=Coastal Carolina 78, Jackson State 59 |url=https://greensboro.com/coastal-carolina-78-jackson-state-59/article_4deb3025-a491-5685-8079-9cef3e63a9fd.html |work=[[Greensboro News & Record]] |date=March 6, 1991 |access-date=May 25, 2023}}</ref>
+
+Unlike the later [[First Four|Opening Round and First Four games]], the play-in games were not considered part of the NCAA tournament. This meant that the winners of these games were not credited with an NCAA tournament win, and only the teams that advanced to the field of 64 were credited with an NCAA tournament appearance.
+
+All three games were played on March 6, 1991.
+
+{{align|left|{{2TeamBracket | RD1=NEC-Patriot Play-in<br />[[Loretto, Pennsylvania]]
+| boldwinner=high
+| seeds=no
+| RD1-team1= {{cbb link|1990|team=Fordham Rams|title=Fordham}}
+| RD1-score1= 64
+| RD1-team2= [[1990–91 Saint Francis Red Flash men's basketball team|Saint Francis (PA)]]
+| RD1-score2= 70
+}}}}
+{{align|left|{{2TeamBracket | RD1=Southland-MEAC Play-in<br />[[Monroe, Louisiana]]
+| boldwinner=high
+| seeds=no
+| RD1-team1= {{cbb link|1990|team=Florida A&M Rattlers|sex=none|title=Florida A&M}}
+| RD1-score1= 63
+| RD1-team2= [[1990–91 Northeast Louisiana Indians men's basketball team|Northeast Louisiana]]
+| RD1-score2= 87
+}}}}
+{{align|left|{{2TeamBracket | RD1=SWAC-Big South Play-in<br />[[Jackson, Mississippi]]
+| boldwinner=high
+| seeds=no
+| RD1-team1= [[1990–91 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]]
+| RD1-score1= 78
+| RD1-team2= {{cbb link|1990|team=Jackson State Tigers|sex=none|title=Jackson State}}
+| RD1-score2= 59
+}}}}{{clear left}}
+
+===Automatic qualifiers===
+Five conference champions made their first NCAA tournament appearances: [[1990–91 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]] ([[Big South Conference|Big South]]), [[1990–91 Georgia State Panthers men's basketball team|Georgia State]] ([[ASUN Conference|TAAC]]), [[1990–91 Green Bay Phoenix men's basketball team|Green Bay]] ([[Summit League|Mid-Continent]]), [[1990–91 Saint Francis Red Flash men's basketball team|Saint Francis (PA)]] ([[Northeast Conference|NEC]]), and [[1990–91 Saint Peter's Peacocks men's basketball team|Saint Peter's]] ([[Metro Atlantic Athletic Conference|MAAC]]).
+
+{|class="wikitable sortable plainrowheaders"
+|+Automatic qualifiers
+|-
+!scope="col"|Conference
+!scope="col"|Team
+!scope="col" data-sort-type="number"|Appearance
+!scope="col"|Last bid
+|-
+|[[1991 ACC men's basketball tournament|ACC]]
+!scope="row" style="text-align:left"|[[1990–91 North Carolina Tar Heels men's basketball team|North Carolina]]
+|align=center|25th
+|align=center|1990
+|-
+|[[1991 American South Conference men's basketball tournament|American South]]
+!scope="row" style="text-align:left"|[[1990–91 Louisiana Tech Bulldogs basketball team|Louisiana Tech]]
+|align=center|5th
+|align=center|1989
+|-
+|[[1991 Atlantic 10 men's basketball tournament|Atlantic 10]]
+!scope="row" style="text-align:left"|[[1990–91 Penn State Nittany Lions basketball team|Penn State]]
+|align=center|6th
+|align=center|1965
+|-
+|[[1991 Big East men's basketball tournament|Big East]]
+!scope="row" style="text-align:left"|[[1990–91 Seton Hall Pirates men's basketball team|Seton Hall]]
+|align=center|3rd
+|align=center|1989
+|-
+|[[1991 Big Sky Conference men's basketball tournament|Big Sky]]
+!scope="row" style="text-align:left"|[[1990–91 Montana Grizzlies basketball team|Montana]]
+|align=center|2nd
+|align=center|1975
+|-
+|[[List of Big Ten Conference men's basketball regular season champions|Big Ten]]
+!scope="row" style="text-align:left"|[[1990–91 Ohio State Buckeyes men's basketball team|Ohio State]]
+|align=center|17th
+|align=center|1990
+|-
+|[[1991 Big West Conference men's basketball tournament|Big West]]
+!scope="row" style="text-align:left"|[[1990–91 UNLV Runnin' Rebels basketball team|UNLV]]
+|align=center|12th
+|align=center|1990
+|-
+|[[1991 CAA men's basketball tournament|CAA]]
+!scope="row" style="text-align:left"|[[1990–91 Richmond Spiders men's basketball team|Richmond]]
+|align=center|5th
+|align=center|1990
+|-
+|[[1991 East Coast Conference (Division I) men's basketball tournament|East Coast]]
+!scope="row" style="text-align:left"|[[1990–91 Towson State Tigers men's basketball team|Towson State]]
+|align=center|2nd
+|align=center|1990
+|-
+|[[Ivy League men's basketball|Ivy League]]
+!scope="row" style="text-align:left"|[[1990–91 Princeton Tigers men's basketball team|Princeton]]
+|align=center|17th
+|align=center|1990
+|-
+|[[1991 MAAC men's basketball tournament|MAAC]]
+!scope="row" style="text-align:left"|[[1990–91 Saint Peter's Peacocks men's basketball team|Saint Peter's]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|-
+|[[1991 MAC men's basketball tournament|MAC]]
+!scope="row" style="text-align:left"|[[1990–91 Eastern Michigan Hurons men's basketball team|Eastern Michigan]]
+|align=center|2nd
+|align=center|1988
+|-
+|[[1991 Midwestern Collegiate Conference men's basketball tournament|MCC]]
+!scope="row" style="text-align:left"|[[1990–91 Xavier Musketeers men's basketball team|Xavier]]
+|align=center|8th
+|align=center|1990
+|-
+|[[1991 Metro Conference men's basketball tournament|Metro]]
+!scope="row" style="text-align:left"|[[1990–91 Florida State Seminoles men's basketball team|Florida State]]
+|align=center|7th
+|align=center|1989
+|-
+|[[1991 Mid-Continent Conference men's basketball tournament|Mid-Continent]]
+!scope="row" style="text-align:left"|[[1990–91 Green Bay Phoenix men's basketball team|Green Bay]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|-
+|[[1991 Missouri Valley Conference men's basketball tournament|Missouri Valley]]
+!scope="row" style="text-align:left"|[[1990–91 Creighton Bluejays men's basketball team|Creighton]]
+|align=center|9th
+|align=center|1989
+|-
+|[[1991 North Atlantic Conference men's basketball tournament|NAC]]
+!scope="row" style="text-align:left"|[[1990–91 Northeastern Huskies men's basketball team|Northeastern]]
+|align=center|7th
+|align=center|1987
+|-
+|[[1991 Ohio Valley Conference men's basketball tournament|Ohio Valley]]
+!scope="row" style="text-align:left"|[[1990–91 Murray State Racers men's basketball team|Murray State]]
+|align=center|5th
+|align=center|1990
+|-
+|[[Pac-12 Conference men's basketball|Pac-10]]
+!scope="row" style="text-align:left"|[[1990–91 Arizona Wildcats men's basketball team|Arizona]]
+|align=center|10th
+|align=center|1990
+|-
+|[[1991 SEC men's basketball tournament|SEC]]
+!scope="row" style="text-align:left"|[[1990–91 Alabama Crimson Tide men's basketball team|Alabama]]
+|align=center|10th
+|align=center|1990
+|-
+|[[1991 Southern Conference men's basketball tournament|Southern]]
+!scope="row" style="text-align:left"|[[1990–91 East Tennessee State Buccaneers men's basketball team|East Tennessee State]]
+|align=center|4th
+|align=center|1990
+|-
+|[[1991 Sun Belt Conference men's basketball tournament|Sun Belt]]
+!scope="row" style="text-align:left"|[[1990–91 South Alabama Jaguars basketball team|South Alabama]]
+|align=center|4th
+|align=center|1989
+|-
+|[[1991 Southwest Conference men's basketball tournament|SWC]]
+!scope="row" style="text-align:left"|[[1990–91 Arkansas Razorbacks men's basketball team|Arkansas]]
+|align=center|17th
+|align=center|1990
+|-
+|[[1991 TAAC men's basketball tournament|TAAC]]
+!scope="row" style="text-align:left"|[[1990–91 Georgia State Panthers men's basketball team|Georgia State]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|-
+|[[1991 WAC men's basketball tournament|WAC]]
+!scope="row" style="text-align:left"|[[1990–91 BYU Cougars men's basketball team|BYU]]
+|align=center|15th
+|align=center|1990
+|-
+|[[1991 West Coast Conference men's basketball tournament|West Coast]]
+!scope="row" style="text-align:left"|[[1990–91 Pepperdine Waves men's basketball team|Pepperdine]]
+|align=center|9th
+|align=center|1986
+|-
+|[[1991 Big South Conference men's basketball tournament|Big South]]–[[1991 SWAC men's basketball tournament|SWAC]]  Play-in
+!scope="row" style="text-align:left"|[[1990–91 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|-
+|[[1991 MEAC men's basketball tournament|MEAC]]–[[1991 Southland Conference men's basketball tournament|Southland]] Play-in
+!scope="row" style="text-align:left"|[[1990–91 Northeast Louisiana Indians men's basketball team|Northeast Louisiana]]
+|align=center|4th
+|align=center|1990
+|-
+|[[1991 Patriot League men's basketball tournament|Patriot]]–[[1991 Northeast Conference men's basketball tournament|NEC]] Play-in
+!scope="row" style="text-align:left"|[[1990–91 Saint Francis Red Flash men's basketball team|Saint Francis (PA)]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|}
+
+===Tournament seeds===
+{|
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+East Regional – [[Meadowlands Arena|Brendan Byrne Arena]], [[East Rutherford, New Jersey]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 160px;"|School
+!scope="col" style="width: 85px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[1990–91 North Carolina Tar Heels men's basketball team|North Carolina]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|25–5
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[1990–91 Syracuse Orangemen basketball team|Syracuse]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|26–5
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[1990–91 Oklahoma State Cowboys basketball team|Oklahoma State]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|22–7
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[1990–91 UCLA Bruins men's basketball team|UCLA]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|23–8
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[1990–91 Mississippi State Bulldogs men's basketball team|Mississippi State]]
+|[[Southeastern Conference|SEC]]
+|align=center|20–8
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[1990–91 NC State Wolfpack men's basketball team|NC State]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|19–10
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[1990–91 Purdue Boilermakers men's basketball team|Purdue]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|17–11
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[1990–91 Princeton Tigers men's basketball team|Princeton]]
+|[[Ivy League]]
+|align=center|24–2
+|align=center|Automatic
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[1990–91 Villanova Wildcats men's basketball team|Villanova]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|16–14
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[1990–91 Temple Owls men's basketball team|Temple]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|21–9
+|align=center|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[1990–91 Southern Miss Golden Eagles basketball team|Southern Miss]]
+|[[Metro Conference|Metro]]
+|align=center|21–7
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[1990–91 Eastern Michigan Hurons men's basketball team|Eastern Michigan]]
+|[[Mid-American Conference|MAC]]
+|align=center|24–6
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[1990–91 Penn State Nittany Lions basketball team|Penn State]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|20–10
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[1990–91 New Mexico Lobos men's basketball team|New Mexico]]
+|[[Western Athletic Conference|WAC]]
+|align=center|20–9
+|align=center|At-Large
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[1990–91 Richmond Spiders men's basketball team|Richmond]]
+|[[Colonial Athletic Association|CAA]]
+|align=center|21–9
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[1990–91 Northeastern Huskies men's basketball team|Northeastern]]
+|[[America East Conference|NAC]]
+|align=center|22–10
+|align=center|Automatic
+|}
+| valign=top |
+
+{|class="wikitable sortable plainrowheaders"
+|+Midwest Regional – [[Pontiac Silverdome]], [[Pontiac, Michigan]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 160px;"|School
+!scope="col" style="width: 85px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[1990–91 Ohio State Buckeyes men's basketball team|Ohio State]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|25–3
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[1990–91 Duke Blue Devils men's basketball team|Duke]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|26–7
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[1990–91 Nebraska Cornhuskers men's basketball team|Nebraska]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|26–7
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[1990–91 St. John's Redmen basketball team|St. John's]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|20–8
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[1990–91 Texas Longhorns men's basketball team|Texas]]
+|[[Southwest Conference|SWC]]
+|align=center|22–8
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[1990–91 LSU Tigers basketball team|LSU]]
+|[[Southeastern Conference|SEC]]
+|align=center|20–9
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[1990–91 Iowa Hawkeyes men's basketball team|Iowa]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|20–10
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[1990–91 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|16–12
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[1990–91 DePaul Blue Demons men's basketball team|DePaul]]
+|[[NCAA Division I independent schools|Independent]]
+|align=center|20–8
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[1990–91 East Tennessee State Buccaneers basketball team|East Tennessee State]]
+|[[Southern Conference|Southern]]
+|align=center|28–4
+|align=center|Automatic
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[1990–91 Connecticut Huskies men's basketball team|Connecticut]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|18–10
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[1990–91 Saint Peter's Peacocks men's basketball team|Saint Peter's]]
+|[[Metro Atlantic Athletic Conference|MAAC]]
+|align=center|24–6
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[1990–91 Northern Illinois Huskies men's basketball team|Northern Illinois]]
+|[[Summit League|Mid-Continent]]
+|align=center|25–5
+|align=center|At-Large
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[1990–91 Xavier Musketeers men's basketball team|Xavier]]
+|[[Horizon League|MCC]]
+|align=center|21–9
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[1990–91 Northeast Louisiana Indians men's basketball team|Northeast Louisiana]]
+|[[Southland Conference|Southland]]
+|align=center|25–7
+|align=center|Play-in Winner
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[1990–91 Towson State Tigers men's basketball team|Towson State]]
+|[[East Coast Conference (Division I)|East Coast]]
+|align=center|19–10
+|align=center|Automatic
+|}
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+Southeast Regional – [[Charlotte Coliseum]], [[Charlotte, North Carolina]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 160px;"|School
+!scope="col" style="width: 85px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[1990–91 Arkansas Razorbacks men's basketball team|Arkansas]]
+|[[Southwest Conference|SWC]]
+|align=center|31–3
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[1990–91 Indiana Hoosiers men's basketball team|Indiana]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|27–4
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[1990–91 Kansas Jayhawks men's basketball team|Kansas]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|22–7
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[1990–91 Alabama Crimson Tide men's basketball team|Alabama]]
+|[[Southeastern Conference|SEC]]
+|align=center|21–9
+|align=center|Automatic
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[1990–91 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|18–10
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[1990–91 Pittsburgh Panthers men's basketball team|Pittsburgh]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|20–11
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[1990–91 Florida State Seminoles men's basketball team|Florida State]]
+|[[Metro Conference|Metro]]
+|align=center|20–10
+|align=center|Automatic
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[1990–91 Arizona State Sun Devils men's basketball team|Arizona State]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|19–9
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[1990–91 Rutgers Scarlet Knights men's basketball team|Rutgers]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|19–9
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[1990–91 USC Trojans men's basketball team|USC]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|19–9
+|align=center|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[1990–91 Georgia Bulldogs basketball team|Georgia]]
+|[[Southeastern Conference|SEC]]
+|align=center|17–12
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[1990–91 Louisiana Tech Bulldogs basketball team|Louisiana Tech]]
+|[[American South Conference|American South]]
+|align=center|21–9
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[1990–91 Murray State Racers men's basketball team|Murray State]]
+|[[Ohio Valley Conference|Ohio Valley]]
+|align=center|24–8
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[1990–91 New Orleans Privateers men's basketball team|New Orleans]]
+|[[American South Conference|American South]]
+|align=center|23–7
+|align=center|At-Large
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[1990–91 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]]
+|[[Big South Conference|Big South]]
+|align=center|24–7
+|align=center|Play-in Winner
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[1990–91 Georgia State Panthers men's basketball team|Georgia State]]
+|[[ASUN Conference|TAAC]]
+|align=center|16–14
+|align=center|Automatic
+|}
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+West Regional – [[Kingdome]], [[Seattle|Seattle, Washington]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 160px;"|School
+!scope="col" style="width: 85px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[1990–91 UNLV Runnin' Rebels basketball team|UNLV]]
+|[[Big West Conference|Big West]]
+|align=center|30–0
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[1990–91 Arizona Wildcats men's basketball team|Arizona]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|26–6
+|align=center|Automatic
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[1990–91 Seton Hall Pirates men's basketball team|Seton Hall]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|22–8
+|align=center|Automatic
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[1990–91 Utah Utes men's basketball team|Utah]]
+|[[Western Athletic Conference|WAC]]
+|align=center|28–3
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[1990–91 Michigan State Spartans men's basketball team|Michigan State]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|18–10
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[1990–91 New Mexico State Aggies basketball team|New Mexico State]]
+|[[Big West Conference|Big West]]
+|align=center|23–5
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[1990–91 Virginia Cavaliers men's basketball team|Virginia]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|21–11
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[1990–91 Georgetown Hoyas men's basketball team|Georgetown]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|18–12
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[1990–91 Vanderbilt Commodores men's basketball team|Vanderbilt]]
+|[[Southeastern Conference|SEC]]
+|align=center|17–12
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[1990–91 BYU Cougars men's basketball team|BYU]]
+|[[Western Athletic Conference|WAC]]
+|align=center|20–12
+|align=center|Automatic
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[1990–91 Creighton Bluejays men's basketball team|Creighton]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|align=center|23–7
+|align=center|Automatic
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[1990–91 Green Bay Phoenix men's basketball team|Green Bay]]
+|[[Summit League|Mid-Continent]]
+|align=center|24–6
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[1990–91 South Alabama Jaguars basketball team|South Alabama]]
+|[[Sun Belt Conference|Sun Belt]]
+|align=center|22–8
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[1990–91 Pepperdine Waves men's basketball team|Pepperdine]]
+|[[West Coast Conference|West Coast]]
+|align=center|22–8
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[1990–91 Saint Francis Red Flash men's basketball team|Saint Francis (PA)]]
+|[[Northeast Conference|NEC]]
+|align=center|24–7
+|align=center|Play-in Winner
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[1990–91 Montana Grizzlies basketball team|Montana]]
+|[[Big Sky Conference|Big Sky]]
+|align=center|23–7
+|align=center|Automatic
+|}
 |}
 
 ==Bracket==
-
 ===East Regional – East Rutherford, New Jersey===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
  | subgroup1= '''[[Carrier Dome|Syracuse]]'''
  | subgroup2= '''[[Carrier Dome|Syracuse]]'''
  | subgroup3= '''[[Cole Field House|College Park]]'''
@@ -321,10 +783,10 @@ For the second time, Indianapolis was the host of the Final Four, this time at t
  | RD2-score02=69
  | RD2-seed03=12
  | RD2-team03='''Eastern Michigan'''
- | RD2-score03='''71'''
+ | RD2-score03='''71<sup>OT</sup>'''
  | RD2-seed04=13
  | RD2-team04=Penn State
- | RD2-score04=68*
+ | RD2-score04=68
  | RD2-seed05=6
  | RD2-team05=NC State
  | RD2-score05=64
@@ -345,9 +807,9 @@ For the second time, Indianapolis was the host of the Final Four, this time at t
  | RD3-score02=67
  | RD3-seed03=3
  | RD3-team03=Oklahoma State
- | RD3-score03=63*
+ | RD3-score03=63
  | RD3-seed04=10
- | RD3-score04='''72'''
+ | RD3-score04='''72<sup>OT</sup>'''
  | RD3-team04='''Temple'''
  | RD4-seed01=1
  | RD4-team01='''North Carolina'''
@@ -358,7 +820,7 @@ For the second time, Indianapolis was the host of the Final Four, this time at t
 }}
 
 ===Southeast Regional – Charlotte, North Carolina===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
  | subgroup1= '''[[Omni Coliseum|Atlanta]]'''
  | subgroup2= '''[[Omni Coliseum|Atlanta]]'''
  | subgroup3= '''[[Freedom Hall|Louisville]]'''
@@ -388,10 +850,10 @@ For the second time, Indianapolis was the host of the Final Four, this time at t
  | RD1-score08=79
  | RD1-seed09=6
  | RD1-team09='''Pittsburgh'''
- | RD1-score09='''76'''
+ | RD1-score09='''76<sup>OT</sup>'''
  | RD1-seed10=11
  | RD1-team10=Georgia
- | RD1-score10=68*
+ | RD1-score10=68
  | RD1-seed11=3
  | RD1-team11='''Kansas'''
  | RD1-score11='''55'''
@@ -402,7 +864,7 @@ For the second time, Indianapolis was the host of the Final Four, this time at t
  | RD1-team13='''Florida State'''
  | RD1-score13='''75'''
  | RD1-seed14=10
- | RD1-team14=Southern California
+ | RD1-team14=USC
  | RD1-score14=72
  | RD1-seed15=2
  | RD1-team15='''Indiana'''
@@ -455,7 +917,7 @@ For the second time, Indianapolis was the host of the Final Four, this time at t
 }}
 
 ===Midwest Regional – Pontiac, Michigan===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
  | subgroup1= '''[[University of Dayton Arena|Dayton]]'''
  | subgroup2= '''[[University of Dayton Arena|Dayton]]'''
  | subgroup3= '''[[Hubert H. Humphrey Metrodome|Minneapolis]]'''
@@ -475,7 +937,7 @@ For the second time, Indianapolis was the host of the Final Four, this time at t
  | RD1-team05='''Texas'''
  | RD1-score05='''73'''
  | RD1-seed06=12
- | RD1-team06=Saint Peters
+ | RD1-team06=Saint Peter's
  | RD1-score06=65
  | RD1-seed07=4
  | RD1-team07='''St. John's'''
@@ -552,7 +1014,7 @@ For the second time, Indianapolis was the host of the Final Four, this time at t
 }}
 
 ===West Regional – Seattle, Washington===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
  | subgroup1= '''[[McKale Center|Tucson]]'''
  | subgroup2= '''[[McKale Center|Tucson]]'''
  | subgroup3= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
@@ -612,10 +1074,10 @@ For the second time, Indianapolis was the host of the Final Four, this time at t
  | RD2-score02=54
  | RD2-seed03=5
  | RD2-team03=Michigan State
- | RD2-score03=84**
+ | RD2-score03=84
  | RD2-seed04=4
  | RD2-team04='''Utah'''
- | RD2-score04='''85'''
+ | RD2-score04='''85<sup>2OT</sup>'''
  | RD2-seed05=11
  | RD2-team05=Creighton
  | RD2-score05=69
@@ -648,30 +1110,30 @@ For the second time, Indianapolis was the host of the Final Four, this time at t
  | RD4-score02=65
 }}
 
-===Final Four @ Indianapolis, Indiana===
-{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game
+===Final Four – Indianapolis, Indiana===
+{{4TeamBracket | RD1=National semifinals | RD2=National championship game
  | RD1-seed1=E1
  | RD1-team1=North Carolina
  | RD1-score1=73
- | RD1-seed2=S3
+ | RD1-seed2=SE3
  | RD1-team2='''Kansas'''
  | RD1-score2='''79'''
- | RD1-seed3=M2
+ | RD1-seed3=MW2
  | RD1-team3='''Duke'''
  | RD1-score3='''79'''
  | RD1-seed4=W1
  | RD1-team4=UNLV
  | RD1-score4=77
- | RD2-seed1=S3
+ | RD2-seed1=SE3
  | RD2-team1=Kansas
  | RD2-score1=65
- | RD2-seed2=M2
+ | RD2-seed2=MW2
  | RD2-team2='''Duke'''
  | RD2-score2='''72'''
 }}
 
 ==Broadcast information==
-For the first time, [[CBS Sports]] showed all 63 tournament games.  In the first three rounds, games were shown on a regional basis, except for one game each on Saturday and Sunday in the second round.  Usual start times were noon and 7:30 or 8 p.m. [[Eastern Time Zone (North America)|Eastern time]] on each of the Thursdays and Fridays.  During the weekend of the second round, the national telecast began at noon, with the regional windows (three on Saturday, two on Sunday) following.  Although the times would be adjusted, the same basic format was in place until [[2010 NCAA Men's Division I Basketball Tournament|2010]].  As of [[2011 NCAA Men's Division I Basketball Tournament|2011]], the regional broadcasts have been replaced by simulcast feeds on non-broadcast networks owned by [[Turner Sports]].
+For the first time, [[CBS Sports]] showed all 63 tournament games. In the first three rounds, games were shown on a regional basis, except for one game each on Saturday and Sunday in the second round. Usual start times were noon and 7:30 or 8 p.m. [[Eastern Time Zone (North America)|Eastern time]] on each of the Thursdays and Fridays. During the weekend of the second round, the national telecast began at noon, with the regional windows (three on Saturday, two on Sunday) following. Although the times would be adjusted, the same basic format was in place until [[2010 NCAA Division I men's basketball tournament|2010]]. As of [[2011 NCAA Division I men's basketball tournament|2011]], the regional broadcasts have been replaced by simulcast feeds on non-broadcast networks owned by [[Turner Sports]].
 
 ===Announcers===
 *[[Jim Nantz]] and [[Billy Packer]] – Midwest Regional at Pontiac, Michigan; Final Four at Indianapolis, Indiana
@@ -680,50 +1142,52 @@ For the first time, [[CBS Sports]] showed all 63 tournament games.  In the first
 *[[Greg Gumbel]] and [[Quinn Buckner]] – First and Second Rounds at Tucson, Arizona; Southeast Regional at Charlotte, North Carolina
 *[[Verne Lundquist]] and [[Len Elmore]] – First and Second Rounds at College Park, Maryland
 *[[Brad Nessler]] and [[Mimi Griffin]] – First and Second Rounds at Atlanta, Georgia
-*[[Tim Ryan (sportscaster)|Tim Ryan]] and [[Dan Bonner]] – First and Second Rounds at Syracuse, New York
+*[[Tim Ryan (sportscaster)|Tim Ryan]]/[[Jim Henderson (sportscaster)|Jim Henderson]] and [[Dan Bonner]] – First and Second Rounds at Syracuse, New York
 *[[Sean McDonough]] and [[Bill Walton]] – First and Second Rounds at Louisville, Kentucky
 *[[Mel Proctor]] and [[Jack Givens]] – First and Second Rounds at Salt Lake City, Utah
 
 ==Miscellaneous==
-*Duke's 79-77 win over UNLV in the Final Four became one of the biggest upsets in tournament history. Duke was an 8-point underdog in the game.  UNLV's juggernaut 1990–91 squad ranked #2 on [[ESPN Classic]]'s ''Who's #1?'' for Best Teams Not To Win a Title.  UNLV was undefeated entering the 1991 tournament, which was unmatched until Wichita State in 2014 and [[2014-15 Kentucky Wildcats men's basketball team|Kentucky]] in 2015. (Saint Joseph's went unbeaten in the 2004 regular season, finishing 27-0, but lost in their conference tournament before the NCAAs. [[Alcorn State Braves men's basketball|Alcorn State]] went unbeaten in the 1979 regular season, but got invited to the [[1979 National Invitation Tournament|NIT]] and lost to eventual winner [[Indiana Hoosiers men's basketball|Indiana]] in the 2nd round. Indiana is the last team to win the championship undefeated in 1976).
-*This was Duke's fourth consecutive Final Four trip, the first team to achieve such a feat since UCLA.  Since freshmen were not eligible at the time of UCLA's run, Duke's [[Greg Koubek]] became the first player to play in four Final Fours, a record matched by Duke teammates [[Christian Laettner]] and Brian Davis the next year when the team repeated as national champions.
-*For the first time in tournament history a 15-seed defeated a 2-seed. Richmond defeated Syracuse 73-69. Since then this has happened seven additional times: in 1993, Santa Clara defeated Arizona 64-61; in 1997, Coppin State defeated South Carolina 78-65; in 2001, [[Hampton University|Hampton]] defeated Iowa State 58-57, on the same day in 2012 Norfolk State defeated Missouri 86-84 and Lehigh defeated Duke 75-70, in 2013 Florida Gulf Coast defeated Georgetown 78-68,<ref>http://scores.espn.go.com/ncb/recap?gameId=330810046</ref> and in 2016, Middle Tennessee defeated Michigan State 90-81.
-*In the Final Four against [[1990–91 Kansas Jayhawks men's basketball team|Kansas]], legendary [[North Carolina Tar Heels men's basketball|North Carolina]] coach [[Dean Smith]] was ejected from the game for leaving the coach's box.<ref>https://www.nytimes.com/1991/03/31/sports/college-basketball-smith-ejected-on-2-technicals.html?pagewanted=all</ref>
-*For [[bracketology|bracketologists]], this tournament is notable for several reasons.  The first is the upset-heavy opening round, which led to every seed number except 16 being represented by at least one team in the second round.  The East region, in particular, featured first round victories by seeds 9, 10, 12, 13, and 15.  Two 11's and a 14-seed advanced in the other regions.  The second round is equally remarkable because there were ''no upsets''  in this round whatsoever.  The combination of these two anomalies led to an unprecedented occurrence in which a 10 ([[Temple University|Temple]]), an 11 ([[University of Connecticut|Connecticut]]), and a 12-seed ([[Eastern Michigan University|Eastern Michigan]]) advanced to the Sweet Sixteen without any of the teams pulling off consecutive upsets.  The reason for this was that the first round successes of 15-seed [[University of Richmond|Richmond]], 14-seed [[Xavier University (Cincinnati)|Xavier]], and 13-seed [[Penn State]] led to Temple, Connecticut, and Eastern Michigan (respectively) being considered ''favorites'' for their second round matchups.
-*This was the first NCAA Tournament to feature all four [[North Carolina]]-based [[Atlantic Coast Conference]] teams: [[North Carolina Tar Heels men's basketball|North Carolina]], [[NC State Wolfpack basketball|North Carolina State]], [[Duke Blue Devils men's basketball|Duke]], and [[Wake Forest University|Wake Forest]].
-*The Final Four was the first to include both halves of the [[Carolina-Duke rivalry|North Carolina-Duke rivalry]]. Had both teams won, they would have faced each other for the national championship, but to this day, the teams have only faced each other once in the NCAA Tournament or NIT – the [[1971 National Invitation Tournament|1971 NIT]] semifinals at Madison Square Garden, which North Carolina won 73-67.
-*This tournament featured three play-in games before the tournament field was announced, featuring the champions of the six conferences with the lowest computer ratings the previous season.<ref>{{cite news|url=https://www.nytimes.com/1991/03/06/sports/basketball-fordham-takes-aim-at-an-ncaa-berth.html |title=Fordham takes aim at an NCAA berth |newspaper=[[The New York Times]] |first=Malcolm |last=Moran |date=March 6, 1991 |accessdate=March 4, 2016}}</ref> The results were: [[Saint Francis Red Flash men's basketball|Saint Francis, Pennsylvania]] ([[Northeast Conference|NEC]]) defeated [[Fordham Rams men's basketball|Fordham]] ([[Patriot League|Patriot]]) 70-64,<ref>{{cite news|url=https://www.nytimes.com/1991/03/07/sports/basketball-fordham-s-road-to-ncaa-blocked-by-st-francis-70-64.html |title=Fordham's road to NCAA blocked by St. Francis, 70-64 |newspaper=[[The New York Times]] |first=Malcolm |last=Moran |date=March 7, 1991 |accessdate=March 4, 2016}}</ref> [[Coastal Carolina Chanticleers men's basketball|Coastal Carolina]] ([[Big South Conference|Big South]]) over [[Jackson State Tigers basketball|Jackson State]] ([[Southwestern Athletic Conference|SWAC]]) 78-59,<ref name=NELA>{{cite news|url=https://www.nytimes.com/1991/03/07/sports/basketball-northeast-louisiana-wins-ncaa-bid.html |title=Northeast Louisiana wins NCAA bid |newspaper=[[The New York Times]] |date=March 7, 1991 |accessdate=March 4, 2016}}</ref> and [[Louisiana–Monroe Warhawks men's basketball|NE Louisiana]] ([[Southland Conference|Southland]]) over [[Florida A&M Rattlers basketball|Florida A&M]] ([[Mid-Eastern Athletic Conference|MEAC]]) 87-63.<ref name=NELA/> These are not opening round games and the losers are not credited with a NCAA tournament appearance.
+*Duke's [[1991 Duke vs. UNLV men's basketball game|79–77 win]] over UNLV in the Final Four became one of the biggest upsets in tournament history. Duke was an 8-point underdog in the game. UNLV's juggernaut 1990–91 squad ranked #2 on [[ESPN Classic]]'s ''Who's #1?'' for Best Teams Not To Win a Title. UNLV was undefeated entering the 1991 tournament, which was unmatched until Wichita State in 2014 and [[2014–15 Kentucky Wildcats men's basketball team|Kentucky]] in 2015. (Saint Joseph's went unbeaten in the 2004 regular season, finishing 27–0, but lost in their conference tournament before the NCAAs. [[Alcorn State Braves men's basketball|Alcorn State]] went unbeaten in the 1979 regular season, but got invited to the [[1979 National Invitation Tournament|NIT]] since the [[Southwestern Athletic Conference]] did not have an automatic bid to the NCAAs, and lost to eventual winner [[Indiana Hoosiers men's basketball|Indiana]] in the 2nd round. Indiana is the last team to win the championship undefeated in 1976).
+*This was Duke's fourth (of five) consecutive Final Four trips, the first team to achieve such a feat since UCLA. Since freshmen were not eligible at the time of UCLA's run, Duke's [[Greg Koubek]] became the first player to play in four Final Fours, a record matched by Duke teammates [[Christian Laettner]] and Brian Davis the [[1992 NCAA Division I men's basketball tournament|next year]] when the team repeated as national champions.
+*For the first time in tournament history a 15-seed defeated a 2-seed. [[1990–91 Richmond Spiders men's basketball team|Richmond]] defeated Syracuse 73–69. Since then this has happened ten additional times: in 1993, Santa Clara defeated Arizona 64–61; in 1997, Coppin State defeated South Carolina 78–65; in 2001, [[Hampton University|Hampton]] defeated Iowa State 58–57; on the same day in 2012 Norfolk State defeated Missouri 86–84 and Lehigh defeated Duke 75–70; in 2013 Florida Gulf Coast defeated Georgetown 78–68;<ref>{{Cite web|url=https://www.espn.com/mens-college-basketball/recap?gameId=330810046|title = Florida Gulf Coast vs. Georgetown – Game Recap – March 22, 2013 – ESPN}}</ref> in 2016, Middle Tennessee defeated Michigan State 90–81; in 2021, [[Oral Roberts Golden Eagles men's basketball|Oral Roberts]] defeated Ohio State 75–72; in 2022, [[Saint Peter's Peacocks basketball|Saint Peter's]] defeated Kentucky 85–79; and in 2023, [[2022-23 Princeton Tigers men's basketball team|Princeton]] defeated Arizona 59–55.
+*In the Final Four against [[1990–91 Kansas Jayhawks men's basketball team|Kansas]], legendary [[North Carolina Tar Heels men's basketball|North Carolina]] coach [[Dean Smith]] was ejected from the game for leaving the coach's box.<ref>{{Cite news|url=https://www.nytimes.com/1991/03/31/sports/college-basketball-smith-ejected-on-2-technicals.html|title = College Basketball; Smith Ejected on 2 Technicals|newspaper = The New York Times|date = 31 March 1991|last1 = Smith|first1 = Timothy W.}}</ref>
+*For [[bracketology|bracketologists]], this tournament is notable for several reasons. The first is the upset-heavy opening round, which led to every seed number except 16 being represented by at least one team in the second round. The East region, in particular, featured first round victories by seeds 9, 10, 12, 13, and 15. Two 11's and a 14-seed advanced in the other regions. The second round is equally remarkable because there were ''no upsets'' in this round whatsoever. The combination of these two anomalies led to an unprecedented occurrence in which a 10 ([[Temple University|Temple]]), an 11 ([[University of Connecticut|Connecticut]]), and a 12-seed ([[Eastern Michigan University|Eastern Michigan]]) advanced to the Sweet Sixteen without any of the teams pulling off consecutive upsets. The reason for this was that the first round successes of 15-seed [[University of Richmond|Richmond]], 14-seed [[Xavier University (Cincinnati)|Xavier]], and 13-seed [[Penn State]] led to Temple, Connecticut, and Eastern Michigan (respectively) being considered ''favorites'' for their second round matchups.
+*This was the first NCAA Tournament to feature all four of the [[North Carolina]]–based [[Atlantic Coast Conference]] teams, also known as the [[Tobacco Road (rivalry)|Tobacco Road]] or [[Big Four Tournament|Big Four]] teams: [[North Carolina Tar Heels men's basketball|North Carolina]], [[NC State Wolfpack basketball|NC State]], [[Duke Blue Devils men's basketball|Duke]] and [[Wake Forest University|Wake Forest]].
+*The Final Four was also the first to include both halves of the [[Carolina–Duke rivalry|North Carolina–Duke rivalry]]. Had both teams won, they would have faced each other for the national championship, but to this day, the teams have only faced each other once each in the NCAA tournament and the NIT – the [[1971 National Invitation Tournament|1971 NIT]] semifinals at Madison Square Garden, which North Carolina won 73–67 and the [[2022 NCAA Division I men's basketball tournament|2022 Final Four]] at the Caesars Superdome, which the [[Carolina–Duke_rivalry#April 2, 2022: (#8 East) North Carolina 81, #9 (#2 West) Duke 77|8th-seeded Tar Heels won 81–77]] in the last game of [[Mike Krzyzewski]]'s coaching career.
+*This tournament featured three play-in games before the tournament field was announced, featuring the champions of the six conferences with the lowest computer ratings the previous season.<ref>{{cite news|url=https://www.nytimes.com/1991/03/06/sports/basketball-fordham-takes-aim-at-an-ncaa-berth.html |title=Fordham takes aim at an NCAA berth |newspaper=[[The New York Times]] |first=Malcolm |last=Moran |date=March 6, 1991 |access-date=March 4, 2016}}</ref> The results were: [[1990–91 Saint Francis Red Flash men's basketball team|Saint Francis, Pennsylvania]] ([[Northeast Conference|NEC]]) defeated [[Fordham Rams men's basketball|Fordham]] ([[Patriot League|Patriot]]) 70–64,<ref>{{cite news|url=https://www.nytimes.com/1991/03/07/sports/basketball-fordham-s-road-to-ncaa-blocked-by-st-francis-70-64.html |title=Fordham's road to NCAA blocked by St. Francis, 70–64 |newspaper=[[The New York Times]] |first=Malcolm |last=Moran |date=March 7, 1991 |access-date=March 4, 2016}}</ref> [[1990–91 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]] ([[Big South Conference|Big South]]) over [[Jackson State Tigers basketball|Jackson State]] ([[Southwestern Athletic Conference|SWAC]]) 78–59,<ref name=NELA>{{cite news|url=https://www.nytimes.com/1991/03/07/sports/basketball-northeast-louisiana-wins-ncaa-bid.html |title=Northeast Louisiana wins NCAA bid |newspaper=[[The New York Times]] |date=March 7, 1991 |access-date=March 4, 2016}}</ref> and [[1990–91 Northeast Louisiana Indians men's basketball team|NE Louisiana]] ([[Southland Conference|Southland]]) over [[Florida A&M Rattlers basketball|Florida A&M]] ([[Mid-Eastern Athletic Conference|MEAC]]) 87–63.<ref name=NELA/> These are not opening round games and the losers are not credited with an NCAA tournament appearance.
+* UNLV's semi-final loss in the NCAA tournament brought an end to their astounding 45-game win streak. That is the fourth-longest consecutive-game win streak in NCAA Division 1 basketball history, and the longest win streak since the longest one ever (by UCLA) ended in 1974.<ref>{{Cite web|url=https://www.ncaa.com/news/basketball-men/article/2020-01-19/longest-winning-streaks-college-basketball-history|title=The longest winning streaks in college basketball history &#124; NCAA.com|website=www.ncaa.com}}</ref>
+*DePaul's appearance is, as of 2023, the last appearance of an independent team in the tournament. The Blue Demons would join the [[Great Midwest Conference]] in 1991; [[Notre Dame Fighting Irish men's basketball|Notre Dame]], the last prominent independent, would join the [[Big East Conference (1979–2013)|Big East]] in 1995. Though there have been independent teams since, most have been minor programs, or programs in transition between conference affiliations and divisions. It was also the last tournament to feature an East Coast Conference team; the conference, which was born in 1974 from former Middle Atlantic Conference teams, would cease operations in 1994 after most of the teams joined larger conferences.
 
 ==See also==
-* [[1991 NCAA Division II Men's Basketball Tournament]]
-* [[1991 NCAA Division III Men's Basketball Tournament]]
-* [[1991 NCAA Division I Women's Basketball Tournament]]
-* [[NCAA Division II Women's Basketball Tournament|1991 NCAA Division II Women's Basketball Tournament]]
-* [[NCAA Division III Women's Basketball Tournament|1991 NCAA Division III Women's Basketball Tournament]]
+* [[1991 NCAA Division II men's basketball tournament]]
+* [[1991 NCAA Division III men's basketball tournament]]
+* [[1991 NCAA Division I women's basketball tournament]]
+* [[NCAA Division II women's basketball tournament|1991 NCAA Division II women's basketball tournament]]
+* [[NCAA Division III women's basketball tournament|1991 NCAA Division III women's basketball tournament]]
 * [[1991 National Invitation Tournament]]
 * [[National Women's Invitation Tournament|1991 National Women's Invitation Tournament]]
-* [[1991 NAIA Division I Men's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships|1991 NAIA Division I Women's Basketball Tournament]]
+* [[1991 NAIA Division I men's basketball tournament]]
+* [[NAIA Women's Basketball Championships|1991 NAIA Division I women's basketball tournament]]
 
 ==References==
 {{Reflist}}
 
-{{NCAA Men's Division I Basketball Tournament navbox}}
+{{NCAA Division I men's basketball tournament navbox}}
+{{1991 NCAA Division I men's basketball tournament navbox}}
 {{1991 Duke Blue Devils men's basketball navbox}}
 {{Sports Emmy Award for Outstanding Live Sports Series}}
 {{TCA Award for Outstanding Achievement in Sports}}
 
-[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:NCAA Division I men's basketball tournament]]
 [[Category:1990–91 NCAA Division I men's basketball season|Ncaa]]
-[[Category:Sports competitions in Charlotte, North Carolina]]
-[[Category:Sports competitions in Seattle]]
-[[Category:March 1991 sports events]]
-[[Category:April 1991 sports events]]
+[[Category:Basketball competitions in Charlotte, North Carolina]]
+[[Category:March 1991 sports events in the United States]]
+[[Category:April 1991 sports events in the United States]]
 [[Category:1991 in Seattle]]
 [[Category:1991 in sports in Washington (state)]]
-[[Category:Basketball in Seattle]]
+[[Category:Basketball competitions in Seattle]]
 [[Category:Sports in Pontiac, Michigan]]
-[[Category:Basketball in Indianapolis|NCAA]]
-[[Category:Sports competitions in Indianapolis]]
+[[Category:Basketball competitions in Indianapolis]]
 [[Category:1990s in Indianapolis]]
 [[Category:1991 in sports in Indiana]]
+[[Category:College basketball tournaments in Michigan]]

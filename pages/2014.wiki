@@ -1,27 +1,27 @@
-{{Infobox NCAA Basketball Tournament
+{{Short description|Edition of USA college basketball tournament}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox NCAA basketball tournament
 | Year=2014
-| Season= 2013-14
-| Image=2014NCAAFinalFourLogo.png 
-| ImageSize=150px
-| Caption=2014 Final Four logo
+| Season=
+| Image=2014 NCAA Men's Final Four logo.svg
 | Teams=68
 | FinalFourArena=[[AT&T Stadium]]
 | FinalFourCity=[[Arlington, Texas]]
-| Champions=[[2013–14 Connecticut Huskies men's basketball team|Connecticut]]
+| Champions=[[2013–14 UConn Huskies men's basketball team|UConn Huskies]]
 | TitleCount=4th
 | ChampGameCount=4th
 | ChampFFCount=5th
-| RunnerUp=[[2013–14 Kentucky Wildcats men's basketball team|Kentucky]]
+| RunnerUp=[[2013–14 Kentucky Wildcats men's basketball team|Kentucky Wildcats]]
 | GameCount=12th
 | RunnerFFCount=16th
-| Semifinal1=[[2013–14 Florida Gators men's basketball team|Florida]]
+| Semifinal1=[[2013–14 Florida Gators men's basketball team|Florida Gators]]
 | FinalFourCount=5th
-| Semifinal2=[[2013–14 Wisconsin Badgers men's basketball team|Wisconsin]]
+| Semifinal2=[[2013–14 Wisconsin Badgers men's basketball team|Wisconsin Badgers]]
 | FinalFourCount2=3rd
 | Coach=[[Kevin Ollie]]
 | CoachCount=1st
 | MOP= [[Shabazz Napier]]
-| MOPTeam= Connecticut
+| MOPTeam= UConn
 | Attendance=
 | OneTopScorer=
 | TwoTopScorers=
@@ -31,42 +31,28 @@
 | TopScorer2Team=
 | Points=
 }}
-The '''2014 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 teams playing in a [[single-elimination tournament]] to determine the national champion of men's [[National Collegiate Athletic Association|NCAA]] [[Division I (NCAA)|Division I]] [[college basketball]]. It began on March 18, 2014, and concluded with the [[2013–14 Connecticut Huskies men's basketball team|Connecticut Huskies]] winning the [[2014 NCAA Men's Division I Basketball Championship Game|championship game]] on April 7 at [[AT&T Stadium]] in [[Arlington, Texas]].
+
+The '''2014 NCAA Division I men's basketball tournament''' involved 68 teams playing in a [[single-elimination tournament]] that determined the [[National Collegiate Athletic Association]] (NCAA) [[NCAA Division I|Division I]] men's [[College basketball|basketball]] national champion for the [[2013–14 NCAA Division I men's basketball season|2013-14 season]]. The 76th annual edition of the tournament began on March 18, 2014, and concluded with the [[2014 NCAA Division I men's basketball championship game|championship game]] on April 7, at [[AT&T Stadium]] in [[Arlington, Texas]].
 
 The East Regional semifinals and final were held in [[Madison Square Garden]], the first time that arena has been used as an NCAA Tournament venue and the first time in 63 years that tournament games have been held in New York City.
 
-With No. 7 seed [[2013-14 Connecticut Huskies men's basketball team|Connecticut]] and No. 8 seed [[2013-14 Kentucky Wildcats men's basketball team|Kentucky]] reaching the championship game, this tournament's final was the first ever not to include at least one 1, 2, or 3 seed. It is also only the third final not to feature a 1 or 2 seed ([[1989 NCAA Men's Division I Basketball Tournament|1989]] - #3 [[Michigan Wolverines men's basketball|Michigan]] vs. #3 [[Seton Hall Pirates men's basketball|Seton Hall]] and [[2011 NCAA Men's Division I Basketball Championship Game|2011]] - #3 [[Connecticut Huskies men's basketball|Connecticut]] vs. #8 [[Butler Bulldogs men's basketball|Butler]]). Connecticut was the first 7 seed ever to reach and win the championship game. The two teams combined for the highest seed total in championship game history with 15. The previous record (11) was held by Connecticut and Butler in 2011.
+The Final Four consisted of [[2013–14 Florida Gators men's basketball team|Florida]] (the #1 overall seed of the tournament), making their first appearance since winning their [[2006–07 Florida Gators men's basketball team|second consecutive championship in 2007]], [[2013–14 UConn Huskies men's basketball team|UConn]], returning after winning their [[2010–11 Connecticut Huskies men's basketball team|2011 national championship]], [[2013–14 Wisconsin Badgers men's basketball team|Wisconsin]], making their first appearance since [[1999–2000 Wisconsin Badgers men's basketball team|2000]], and [[2013–14 Kentucky Wildcats men's basketball team|Kentucky]], back in the Final Four after winning their [[2011–12 Kentucky Wildcats men's basketball team|2012 national championship]].
 
-The next day, the [[Connecticut Huskies women's basketball|UConn Huskies women's team]] won the [[2014 NCAA Women's Division I Basketball Tournament|women's NCAA basketball tournament]], only the second time that a school has won both the men's and women's Division I national basketball championships in the same year; UConn first accomplished this in 2004.<ref>{{cite news |url=http://espn.go.com/mens-college-basketball/tournament/2014/story/_/id/10753064/connecticut-huskies-welcome-home-men-champions-celebrate-women-title |title=Party continues with title sweep |work=ESPN |agency=Associated Press |date=April 9, 2014}}</ref>
+With No. 7 seed [[2013-14 UConn Huskies men's basketball team|UConn]] and No. 8 seed [[2013-14 Kentucky Wildcats men's basketball team|Kentucky]] reaching the championship game, this tournament's final was the first ever not to include at least one team seeded 1–3. It is also only the third final not to feature a 1 or 2 seed ([[1989 NCAA Division I men's basketball championship game|1989]]{{Snd}} #3 [[Michigan Wolverines men's basketball|Michigan]] vs. #3 [[Seton Hall Pirates men's basketball|Seton Hall]] and [[2011 NCAA Division I men's basketball championship game|2011]]{{Snd}} #3 [[UConn Huskies men's basketball|UConn]] vs. #8 [[Butler Bulldogs men's basketball|Butler]]). UConn defeated Kentucky in the championship game 60–54, to claim their 4th national championship as in many attempts. UConn was also the first 7 seed ever to reach and win the championship game. The two teams combined for the highest seed total in championship game history with 15. The previous record (11) was held by UConn and Butler in 2011.
 
-The previous season, UConn was academically ineligible for the postseason.
+The next day, the [[UConn Huskies women's basketball|UConn Huskies women's team]] won the [[2014 NCAA Division I women's basketball tournament|women's NCAA basketball tournament]], only the second time that a school has won both the men's and women's Division I national basketball championships in the same year; UConn first accomplished this in 2004.<ref>{{cite news |url=https://www.espn.com/mens-college-basketball/tournament/2014/story/_/id/10753064/connecticut-huskies-welcome-home-men-champions-celebrate-women-title |title=Party continues with title sweep |work=ESPN |agency=Associated Press |date=April 9, 2014}}</ref>
 
 ==Tournament procedure==
-{{details|NCAA Men's Division I Basketball Championship#Current tournament format}}
+{{further|NCAA Men's Division I Basketball Championship#Current tournament format}}
 
-For 2014 the selection committee picked a total of 68 teams that would enter the 2014 tournament, of which 32 were "automatic bids" (teams winning their [[List of NCAA conferences|conference]] tournaments, with the exception of the [[Ivy League]], which does not host a post-season conference tournament; thus, its regular-season conference champion is awarded the automatic bid) while the remaining 36 were "at large" bids which were extended by the NCAA Selection Committee on the Sunday preceding the First Four play-in tournament and dubbed ''[[NCAA basketball tournament selection process#Selection Sunday|Selection Sunday]]'' by the media and fans.  The [[NCAA basketball tournament selection process|Selection Committee]] also seeded the entire field from 1 to 68.<ref>http://www.marchmadness2014.net/betting-system-a-few-simple-tips-for-betting-on-the-ncaa-tournament/</ref>
+For 2014 the selection committee picked a total of 68 teams that would enter the 2014 tournament, of which 32 were "automatic bids" (teams winning their [[List of NCAA conferences|conference]] tournaments, with the exception of the [[Ivy League]], which does not host a post-season conference tournament; thus, its regular-season conference champion is awarded the automatic bid) while the remaining 36 were "at large" bids which were extended by the NCAA Selection Committee on the Sunday preceding the First Four play-in tournament and dubbed ''[[NCAA basketball tournament selection process#Selection Sunday|Selection Sunday]]'' by the media and fans.  The [[NCAA basketball tournament selection process|Selection Committee]] also seeded the entire field from 1 to 68.<ref>{{cite web|url=http://www.marchmadness2014.net/betting-system-a-few-simple-tips-for-betting-on-the-ncaa-tournament/|title=運営者情報 - 一押し、旬！ドキ|website=www.marchmadness2014.net|access-date=2014-03-20|archive-url=https://web.archive.org/web/20140319041015/http://www.marchmadness2014.net/betting-system-a-few-simple-tips-for-betting-on-the-ncaa-tournament/|archive-date=2014-03-19|url-status=dead}}</ref>
 
 Eight teams – the four lowest-seeded automatic qualifiers and the four lowest-seeded at-large teams – played in the ''First Four'' (the successor to what had been popularly known as "[[NCAA Men's Division I Basketball Opening Round game|play-in games]]" through the 2010 tournament).  The winners of those games advanced to the main draw of the tournament.
 
-==Notables==
-[[2013–14 Wichita State Shockers men's basketball team|Wichita State]] became the first team since UNLV in 1991 to go into the tournament undefeated. The Shockers entered the tournament 34-0. Their perfect record of 35-0 (a then NCAA men's record) would be spoiled by [[2013-14 Kentucky Wildcats men's basketball team|Kentucky]] in the third round. Kentucky would set an NCAA-men's-record 38 straight wins to start a season the next year.
-
-[[2014 MEAC Men's Basketball Tournament|MEAC]] champion [[2013–14 North Carolina Central Eagles men's basketball team|North Carolina Central University]]<ref>[http://www.heraldsun.com/news/showcase/x1001078191/NCCU-claims-MEAC-title-advances-to-NCAA-Tournament-for-1st-time NCCU claims historic MEAC title, lands 1st NCAA Tournament berth]</ref> and [[2014 Big West Conference Men's Basketball Tournament|Big West]] champion [[2013–14 Cal Poly Mustangs men's basketball team|Cal Poly]]<ref>[http://www.cbssports.com/collegebasketball/gametracker/recap/NCAAB_20140315_CPOLY@CSN/cal-poly-wins-big-west-tourney-as-7th-seed Cal Poly wins Big West tourney for first ever NCAA bid]</ref> made their first NCAA Division I tournament appearances.
-
-For only the second time since 1973 no teams from the state of Indiana (a state noted for its basketball powerhouse programs) were in the tournament.<ref>{{cite news |url=https://www.nytimes.com/2014/03/15/sports/ncaabasketball/for-indiana-land-of-hoops-no-shot-in-ncaa-tournament.html?_r=0 |title=For Land of Hoops, No Shot in N.C.A.A. Tournament t|accessdate=March 17, 2014 |date=March 16, 2014 |newspaper=[[The New York Times]] |last=Macur |first=Juliet}}</ref>
-
-There were five overtime games in the Second Round of the tournament, the most overtime games ever in tournament history. In contrast, the previous two tournaments had two overtime games '''''combined'''''.
-
-[[2013–14 North Dakota State Bison men's basketball team|North Dakota State]]'s victory against [[2013–14 Oklahoma Sooners men's basketball team|Oklahoma]] secured the first tournament win for the state of [[North Dakota]]. [[2013–14 Mercer Bears men's basketball team|Mercer]], [[2013–14 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]], [[2013–14 Albany Great Danes men's basketball team|Albany]], and Cal Poly had their first NCAA tournament wins. Cal Poly's victory over Texas Southern marked only the third time a team with a losing record won a game in the tournament.
-
-Notable upsets included: Mercer over Duke; Dayton over Ohio State and, later, over Syracuse; North Dakota State over Oklahoma; Stephen F. Austin over VCU; Harvard over Cincinnati (its second-consecutive upset in as many years as a #12 seed); Stanford over Kansas; Kentucky over previously unbeaten Wichita State and, later, over Michigan; and UConn over Villanova and, later, over #1 overall seed Florida.
-
-The National Championship game is the first one not to involve a 1, 2, or a 3 seed, and featured the two lowest seeds ever to meet (#7 UConn and #8 Kentucky).  UConn was the first #7 seed to reach, and win, the championship game.
-
-==2014 NCAA Tournament schedule and venues==
-{{Location map+|USA|width=450|float=right|caption=2014 First Four (black) and second and third rounds (green)|places= 
-{{Location map~|USA|mark=black pog.svg|lat_deg=39.735556|lon_deg=-84.2|position=left|background=#FFFFFF|label=Dayton|link=University of Dayton Arena}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=42.875|lon_deg=-78.876389|position=left|background=#FFFFFF|label=Buffalo|link=First Niagara Center}}
+==Schedule and venues==
+{{Location map+|USA|width=450|float=right|caption=2014 First Four (orange) and first and second rounds (green)|places= 
+{{Location map~|USA|mark=orange pog.svg|lat_deg=39.735556|lon_deg=-84.2|position=bottom|background=#FFFFFF|label=Dayton|link=University of Dayton Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=42.875|lon_deg=-78.876389|position=top|background=#FFFFFF|label=Buffalo|link=First Niagara Center}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=43.043611|lon_deg=-87.916944|position=left|background=#FFFFFF|label=Milwaukee|link=BMO Harris Bradley Center}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=28.539167|lon_deg=-81.383611|position=right|background=#FFFFFF|label=Orlando|link=Amway Center}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=47.666222|lon_deg=-117.422778|position=left|background=#FFFFFF|label=Spokane|link=Spokane Veterans Memorial Arena}}
@@ -77,22 +63,22 @@ The National Championship game is the first one not to involve a 1, 2, or a 3 se
 }}
 
 {{Location map+|USA|width=450|float=right|caption=2014 Regionals (blue) and Final Four (red)|places=
-{{Location map~|USA|mark=blue pog.svg|lat_deg=33.807778|lon_deg=-117.876667|position=left|background=#FFFFFF|label=Anaheim|link=Honda Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.807778|lon_deg=-117.876667|position=top|background=#FFFFFF|label=Anaheim|link=Honda Center}}
 {{Location map~|USA|mark=blue pog.svg|lat_deg=35.138333|lon_deg=-90.050556|position=bottom|background=#FFFFFF|label=Memphis|link=FedExForum}}
 {{Location map~|USA|mark=blue pog.svg|lat_deg=39.760056|lon_deg=-86.163806|position=left|background=#FFFFFF|label=Indianapolis|link=Lucas Oil Stadium}}
-{{Location map~|USA|mark=blue pog.svg|lat_deg=40.750556|lon_deg=-73.993611|position=left|background=#FFFFFF|label=New York City|link=Madison Square Garden}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=40.750556|lon_deg=-73.993611|position=top|background=#FFFFFF|label=New York City|link=Madison Square Garden}}
 {{Location map~|USA|mark=red pog.svg|lat_deg=32.747778|lon_deg=-97.092778|position=left|background=#FFFFFF|label=Arlington|link=AT&T Stadium}}
 }}
 
-The following are the sites selected to host each round of the 2014 tournament:<ref name=Sites>{{cite web |title=Preliminary round sites announced for 2014, 2015 NCAA tournaments |url=http://www.ncaa.com/news/basketball-men/article/2012-11-12/preliminary-round-sites-announced-2014-2015-ncaa-tournaments |publisher=NCAA |accessdate=May 12, 2013 |date=December 16, 2012}}</ref>
+The following are the sites selected to host each round of the 2014 tournament:<ref name=Sites>{{cite web |title=Preliminary round sites announced for 2014, 2015 NCAA tournaments |url=https://www.ncaa.com/news/basketball-men/article/2012-11-12/preliminary-round-sites-announced-2014-2015-ncaa-tournaments |publisher=NCAA |access-date=May 12, 2013 |date=December 16, 2012 |archive-url=https://web.archive.org/web/20130511053951/http://www.ncaa.com/news/basketball-men/article/2012-11-12/preliminary-round-sites-announced-2014-2015-ncaa-tournaments |archive-date=May 11, 2013 |url-status=dead }}</ref>
 
 '''First Four'''
 *March 18 and 19
-**[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]]
+**[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
 
-'''Second and third rounds'''
+'''First and Second rounds'''
 *March 20 and 22
-**[[First Niagara Center]], [[Buffalo, New York]] (Host: [[Canisius College]], [[Niagara University]])
+**[[First Niagara Center]], [[Buffalo, New York]] (Hosts: [[Canisius College]], [[Niagara University]], [[Metro Atlantic Athletic Conference]])
 **[[Bradley Center]], [[Milwaukee|Milwaukee, Wisconsin]] (Host: [[Marquette University]])
 **[[Amway Center]], [[Orlando, Florida]] (Host: [[Stetson University]])
 **[[Spokane Veterans Memorial Arena]], [[Spokane, Washington]] (Host: [[Washington State University]])
@@ -110,14 +96,12 @@ The following are the sites selected to host each round of the 2014 tournament:<
 **'''East Regional''', [[Madison Square Garden]], [[New York City|New York, New York]]  (Hosts:  [[St. John's University (New York)|St. John's University]], [[Big East Conference]])
 **'''Midwest Regional''', [[Lucas Oil Stadium]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Indiana University – Purdue University Indianapolis|IUPUI]], [[Horizon League]])
 
-'''National semifinals and championship''' (Final Four and Championship)
+'''National semifinals and championship''' (Final Four and championship)
 *April 5 and 7
 **[[AT&T Stadium]], [[Arlington, Texas]] (Host: [[Big 12 Conference]])
 
-The city of Arlington became the 29th individual host city, and the AT&T Stadium became the 38th host venue, for the Final Four. The tournament featured three new venues in cities that had previously hosted tournament games. For the first time, games were played at the fourth Madison Square Garden, marking the first time in [[Manhattan]] since 1961 (when it was played at [[Madison Square Garden (1925)|the previous Garden]]), and the first time in any borough of New York City since being played at [[Carnesecca Arena|Alumni Hall]] on the campus of [[St. John's University (New York City)|St. John's University]] in [[Queens]] in 1974. The tournament also returned to Orlando for the first time since 2004, playing for the first time at the Amalie Center, the arena that replaced the former [[Amway Arena]]. And for the first time, the tournament was played at the AT&T Center, San Antonio's home to the [[San Antonio Spurs|Spurs]]. As of 2018, this marks the most recent time the tournament has been played at either the AT&T Stadium or the AT&T Center, with the latter scheduled to host games again in 2022.
-
 ==Qualified teams==
-{{details|2014 NCAA Division I Men's Basketball Tournament: qualifying teams}}
+{{further|2014 NCAA Division I men's basketball tournament qualifying teams}}
 
 ===Automatic qualifiers===
 The following teams are automatic qualifiers for the 2014 NCAA field by virtue of winning their conference's tournament (except for the Ivy League, whose regular-season champion receives the automatic bid).
@@ -128,165 +112,165 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 ! data-sort-type="number" |Appearance
 !Last bid
 |-
-|align=left|[[2014 ACC Men's Basketball Tournament|ACC]]
+|align=left|[[2014 ACC men's basketball tournament|ACC]]
 |align=left|[[2013–14 Virginia Cavaliers men's basketball team|Virginia]]
 |18th
-|[[2012 NCAA Men's Division I Basketball Tournament|2012]]
+|[[2012 NCAA Division I men's basketball tournament|2012]]
 |-
-|align=left|[[2014 America East Men's Basketball Tournament|America East]]
+|align=left|[[2014 America East men's basketball tournament|America East]]
 |align=left|[[2013–14 Albany Great Danes men's basketball team|Albany]]
 |4th
-|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|[[2013 NCAA Division I men's basketball tournament|2013]]
 |-
-|align=left|[[2014 American Athletic Conference Men's Basketball Tournament|American]]
+|align=left|[[2014 American Athletic Conference men's basketball tournament|American]]
 |align=left|[[2013–14 Louisville Cardinals men's basketball team|Louisville]]
 |40th
-|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|[[2013 NCAA Division I men's basketball tournament|2013]]
 |-
-|align=left|[[2014 Atlantic 10 Men's Basketball Tournament|Atlantic 10]]
-|align=left|[[2013–14 Saint Joseph's Hawks men's basketball team|St. Joseph's]]
+|align=left|[[2014 Atlantic 10 men's basketball tournament|Atlantic 10]]
+|align=left|[[2013–14 Saint Joseph's Hawks men's basketball team|Saint Joseph's]]
 |20th
-|[[2008 NCAA Men's Division I Basketball Tournament|2008]]
+|[[2008 NCAA Division I men's basketball tournament|2008]]
 |-
-|align=left|[[2014 Atlantic Sun Men's Basketball Tournament|Atlantic Sun]]
+|align=left|[[2014 Atlantic Sun men's basketball tournament|Atlantic Sun]]
 |align=left|[[2013–14 Mercer Bears men's basketball team|Mercer]]
 |3rd
-|[[1985 NCAA Men's Division I Basketball Tournament|1985]]
+|[[1985 NCAA Division I men's basketball tournament|1985]]
 |-
-|align=left|[[2014 Big 12 Men's Basketball Tournament|Big 12]]
+|align=left|[[2014 Big 12 men's basketball tournament|Big 12]]
 |align=left|[[2013–14 Iowa State Cyclones men's basketball team|Iowa State]]
 |16th
-|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|[[2013 NCAA Division I men's basketball tournament|2013]]
 |-
-|align=left|[[2014 Big East Men's Basketball Tournament|Big East]]
+|align=left|[[2014 Big East men's basketball tournament|Big East]]
 |align=left|[[2013–14 Providence Friars men's basketball team|Providence]]
 |16th
-|[[2004 NCAA Men's Division I Basketball Tournament|2004]]
+|[[2004 NCAA Division I men's basketball tournament|2004]]
 |-
-|align=left|[[2014 Big Sky Conference Men's Basketball Tournament|Big Sky]]
+|align=left|[[2014 Big Sky Conference men's basketball tournament|Big Sky]]
 |align=left|[[2013–14 Weber State Wildcats men's basketball team|Weber State]]
 |15th
-|[[2007 NCAA Men's Division I Basketball Tournament|2007]]
+|[[2007 NCAA Division I men's basketball tournament|2007]]
 |-
-|align=left|[[2014 Big South Conference Men's Basketball Tournament|Big South]]
+|align=left|[[2014 Big South Conference men's basketball tournament|Big South]]
 |align=left|[[2013–14 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]]
 |3rd
-|[[1993 NCAA Men's Division I Basketball Tournament|1993]]
+|[[1993 NCAA Division I men's basketball tournament|1993]]
 |-
-|align=left|[[2014 Big Ten Conference Men's Basketball Tournament|Big Ten]]
+|align=left|[[2014 Big Ten Conference men's basketball tournament|Big Ten]]
 |align=left|[[2013–14 Michigan State Spartans men's basketball team|Michigan State]]
 |28th
-|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|[[2013 NCAA Division I men's basketball tournament|2013]]
 |-
-|align=left|[[2014 Big West Conference Men's Basketball Tournament|Big West]]
+|align=left|[[2014 Big West Conference men's basketball tournament|Big West]]
 |align=left|[[2013–14 Cal Poly Mustangs men's basketball team|Cal Poly]]
 |1st
 |Never
 |-
-|align=left|[[2014 CAA Men's Basketball Tournament|Colonial]]
+|align=left|[[2014 CAA men's basketball tournament|Colonial]]
 |align=left|[[2013–14 Delaware Fightin' Blue Hens men's basketball team|Delaware]]
 |5th
-|[[1999 NCAA Men's Division I Basketball Tournament|1999]]
+|[[1999 NCAA Division I men's basketball tournament|1999]]
 |-
-|align=left|[[2014 Conference USA Men's Basketball Tournament|C-USA]]
+|align=left|[[2014 Conference USA men's basketball tournament|C-USA]]
 |align=left|[[2013–14 Tulsa Golden Hurricane men's basketball team|Tulsa]]
 |15th
-|[[2003 NCAA Men's Division I Basketball Tournament|2003]]
+|[[2003 NCAA Division I men's basketball tournament|2003]]
 |-
-|align=left|[[2014 Horizon League Men's Basketball Tournament|Horizon]]
+|align=left|[[2014 Horizon League men's basketball tournament|Horizon]]
 |align=left|[[2013–14 Milwaukee Panthers men's basketball team|Milwaukee]]
 |4th
-|[[2006 NCAA Men's Division I Basketball Tournament|2006]]
+|[[2006 NCAA Division I men's basketball tournament|2006]]
 |-
 |align=left|[[Ivy League]]
 |align=left|[[2013–14 Harvard Crimson men's basketball team|Harvard]]
 |4th
-|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|[[2013 NCAA Division I men's basketball tournament|2013]]
 |-
-|align=left|[[2014 MAAC Men's Basketball Tournament|MAAC]]
+|align=left|[[2014 MAAC men's basketball tournament|MAAC]]
 |align=left|[[2013–14 Manhattan Jaspers basketball team|Manhattan]]
 |7th
-|[[2004 NCAA Men's Division I Basketball Tournament|2004]]
+|[[2004 NCAA Division I men's basketball tournament|2004]]
 |-
-|align=left|[[2014 MAC Men's Basketball Tournament|MAC]]
+|align=left|[[2014 MAC men's basketball tournament|MAC]]
 |align=left|[[2013–14 Western Michigan Broncos men's basketball team|Western Michigan]]
 |4th
-|[[2004 NCAA Men's Division I Basketball Tournament|2004]]
+|[[2004 NCAA Division I men's basketball tournament|2004]]
 |-
-|align=left|[[2014 MEAC Men's Basketball Tournament|MEAC]]
+|align=left|[[2014 MEAC men's basketball tournament|MEAC]]
 |align=left|[[2013–14 North Carolina Central Eagles men's basketball team|North Carolina Central]]
 |1st
 |Never
 |-
-|align=left|[[2014 Missouri Valley Conference Men's Basketball Tournament|Missouri Valley]]
+|align=left|[[2014 Missouri Valley Conference men's basketball tournament|Missouri Valley]]
 |align=left|[[2013–14 Wichita State Shockers men's basketball team|Wichita State]]
 |11th
-|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|[[2013 NCAA Division I men's basketball tournament|2013]]
 |-
-|align=left|[[2014 Mountain West Conference Men's Basketball Tournament|Mountain West]]
+|align=left|[[2014 Mountain West Conference men's basketball tournament|Mountain West]]
 |align=left|[[2013–14 New Mexico Lobos men's basketball team|New Mexico]]
 |15th
-|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|[[2013 NCAA Division I men's basketball tournament|2013]]
 |-
-|align=left|[[2014 Northeast Conference Men's Basketball Tournament|Northeast]]
+|align=left|[[2014 Northeast Conference men's basketball tournament|Northeast]]
 |align=left|[[2013–14 Mount St. Mary's Mountaineers men's basketball team|Mount St. Mary's]]
 |4th
-|[[2008 NCAA Men's Division I Basketball Tournament|2008]]
+|[[2008 NCAA Division I men's basketball tournament|2008]]
 |-
-|align=left|[[2014 Ohio Valley Conference Men's Basketball Tournament|Ohio Valley]]
+|align=left|[[2014 Ohio Valley Conference men's basketball tournament|Ohio Valley]]
 |align=left|[[2013–14 Eastern Kentucky Colonels basketball team|Eastern Kentucky]]
 |8th
-|[[2007 NCAA Men's Division I Basketball Tournament|2007]]
+|[[2007 NCAA Division I men's basketball tournament|2007]]
 |-
-|align=left|[[2014 Pac-12 Conference Men's Basketball Tournament|Pac-12]]
+|align=left|[[2014 Pac-12 Conference men's basketball tournament|Pac-12]]
 |align=left|[[2013–14 UCLA Bruins men's basketball team|UCLA]]
 |46th
-|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|[[2013 NCAA Division I men's basketball tournament|2013]]
 |-
-|align=left|[[2014 Patriot League Men's Basketball Tournament|Patriot]]
+|align=left|[[2014 Patriot League men's basketball tournament|Patriot]]
 |align=left|[[2013–14 American Eagles men's basketball team|American]]
 |3rd
-|[[2009 NCAA Men's Division I Basketball Tournament|2009]]
+|[[2009 NCAA Division I men's basketball tournament|2009]]
 |-
-|align=left|[[2014 SEC Men's Basketball Tournament|SEC]]
+|align=left|[[2014 SEC men's basketball tournament|SEC]]
 |align=left|[[2013–14 Florida Gators men's basketball team|Florida]]
 |19th
-|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|[[2013 NCAA Division I men's basketball tournament|2013]]
 |-
-|align=left|[[2014 Southern Conference Men's Basketball Tournament|Southern]]
+|align=left|[[2014 Southern Conference men's basketball tournament|Southern]]
 |align=left|[[2013–14 Wofford Terriers men's basketball team|Wofford]]
 |3rd
-|[[2011 NCAA Men's Division I Basketball Tournament|2011]]
+|[[2011 NCAA Division I men's basketball tournament|2011]]
 |-
-|align=left|[[2014 Southland Conference Men's Basketball Tournament|Southland]]
+|align=left|[[2014 Southland Conference men's basketball tournament|Southland]]
 |align=left|[[2013–14 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]]
 |2nd
-|[[2009 NCAA Men's Division I Basketball Tournament|2009]]
+|[[2009 NCAA Division I men's basketball tournament|2009]]
 |-
-|align=left|[[2014 SWAC Men's Basketball Tournament|SWAC]]
+|align=left|[[2014 SWAC men's basketball tournament|SWAC]]
 |align=left|[[2013–14 Texas Southern Tigers men's basketball team|Texas Southern]]
 |5th 
-|[[2003 NCAA Men's Division I Basketball Tournament|2003]]
+|[[2003 NCAA Division I men's basketball tournament|2003]]
 |-
-|align=left|[[2014 The Summit League Men's Basketball Tournament|Summit]]
+|align=left|[[2014 Summit League men's basketball tournament|Summit]]
 |align=left|[[2013–14 North Dakota State Bison men's basketball team|North Dakota State]]
 |2nd 
-|[[2009 NCAA Men's Division I Basketball Tournament|2009]]
+|[[2009 NCAA Division I men's basketball tournament|2009]]
 |-
-|align=left|[[2014 Sun Belt Conference Men's Basketball Tournament|Sun Belt]]
+|align=left|[[2014 Sun Belt Conference men's basketball tournament|Sun Belt]]
 |align=left|[[2013–14 Louisiana–Lafayette Ragin' Cajuns men's basketball team|Louisiana–Lafayette]]
 |6th
-|[[2000 NCAA Men's Division I Basketball Tournament|2000]]
+|[[2000 NCAA Division I men's basketball tournament|2000]] {{refn|group=n|name=Vacated|Louisiana–Lafayette had more recent NCAA tournament appearances in [[2004 NCAA Division I men's basketball tournament|2004]] and [[2005 NCAA Division I men's basketball tournament|2005]], but those appearances were later vacated.}}
 |-
-|align=left|[[2014 West Coast Conference Men's Basketball Tournament|West Coast]]
+|align=left|[[2014 West Coast Conference men's basketball tournament|West Coast]]
 |align=left|[[2013–14 Gonzaga Bulldogs men's basketball team|Gonzaga]]
 |17th
-|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|[[2013 NCAA Division I men's basketball tournament|2013]]
 |-
-|align=left|[[2014 WAC Men's Basketball Tournament|WAC]]
+|align=left|[[2014 WAC men's basketball tournament|WAC]]
 |align=left|[[2013–14 New Mexico State Aggies men's basketball team|New Mexico State]]
 |21st
-|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|[[2013 NCAA Division I men's basketball tournament|2013]]
 |}
 
 ===Tournament seeds===
@@ -301,7 +285,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 !Record
 !Coach
 !Berth type
-!Overall rank<ref>{{cite web |last=Borzello |first=Jeff |title=Official NCAA 1-68 seeding order |url=http://www.cbssports.com/collegebasketball/eye-on-college-basketball/24487953/official-ncaa-1-68-seeding-order |work=CBS Sports |accessdate=March 20, 2014}}</ref> 
+!Overall rank<ref>{{cite web |last=Borzello |first=Jeff |title=Official NCAA 1-68 seeding order |url=http://www.cbssports.com/collegebasketball/eye-on-college-basketball/24487953/official-ncaa-1-68-seeding-order |work=CBS Sports |access-date=March 20, 2014}}</ref> 
 |-
 |align=center|1
 |[[2013–14 Florida Gators men's basketball team|Florida]]
@@ -360,7 +344,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|28
 |-
 |align=center|8
-|[[2013-14 Colorado Buffaloes men's basketball team|Colorado]]
+|[[2013–14 Colorado Buffaloes men's basketball team|Colorado]]
 |Pac-12
 |align=center|23–11
 |Tad Boyle
@@ -368,7 +352,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|32
 |-
 |align=center|9
-|[[2013-14 Pittsburgh Panthers men's basketball team|Pittsburgh]]
+|[[2013–14 Pittsburgh Panthers men's basketball team|Pittsburgh]]
 |ACC
 |align=center|25–9
 |Jamie Dixon
@@ -400,7 +384,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|50
 |-
 |align=center|13
-|[[2013-14 Tulsa Golden Hurricane men's basketball team|Tulsa]]
+|[[2013–14 Tulsa Golden Hurricane men's basketball team|Tulsa]]
 |C-USA
 |align=center|21–12
 |Danny Manning
@@ -437,6 +421,147 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |Jamion Christian
 |Automatic
 |align=center|65
+|}
+|-
+| valign=top |
+{| class="wikitable sortable"
+|+East Region – [[New York City]], [[New York (state)|New York]]
+|-
+!Seed
+!School
+!Conference
+!Record
+!Coach
+!Berth type
+!Overall rank
+|-
+|align=center|1
+|[[2013–14 Virginia Cavaliers men's basketball team|Virginia]]
+|ACC
+|align=center|28–6
+|Tony Bennett
+|Automatic
+|align=center|4
+|-
+|align=center|2
+|[[2013–14 Villanova Wildcats men's basketball team|Villanova]]
+|Big East
+|align=center|28–4
+|Jay Wright
+|At-Large
+|align=center|5
+|-
+|align=center|3
+|[[2013–14 Iowa State Cyclones men's basketball team|Iowa State]]
+|Big 12
+|align=center|26–7
+|Fred Hoiberg
+|Automatic
+|align=center|12
+|-
+|align=center|4
+|[[2013–14 Michigan State Spartans men's basketball team|Michigan State]]
+|Big Ten
+|align=center|26–8
+|Tom Izzo
+|Automatic
+|align=center|14
+|-
+|align=center|5
+|[[2013–14 Cincinnati Bearcats men's basketball team|Cincinnati]]
+|American
+|align=center|27–6
+|Mick Cronin
+|At–large
+|align=center|17
+|-
+|align=center|6
+|[[2013–14 North Carolina Tar Heels men's basketball team|North Carolina]]
+|ACC
+|align=center|23–9
+|Roy Williams
+|At–large
+|align=center|21
+|-
+|align=center|7
+|[[2013–14 UConn Huskies men's basketball team|UConn]]
+|American
+|align=center|26–8
+|Kevin Ollie
+|At–large
+|align=center|26
+|-
+|align=center|8
+|[[2013–14 Memphis Tigers men's basketball team|Memphis]]
+|American
+|align=center|23–9
+|Josh Pastner
+|At–large
+|align=center|31
+|-
+|align=center|9
+|[[2013–14 George Washington Colonials men's basketball team|George Washington]]
+|Atlantic 10
+|align=center|24–8
+|Mike Lonergan
+|At–large
+|align=center|34
+|-
+|align=center|10
+|[[2013–14 Saint Joseph's Hawks men's basketball team|Saint Joseph's]]
+|Atlantic 10
+|align=center|24–9
+|Phil Martelli
+|Automatic
+|align=center|38
+|-
+|align=center|11
+|[[2013–14 Providence Friars men's basketball team|Providence]]
+|Big East
+|align=center|23–11
+|Ed Cooley
+|Automatic
+|align=center|43
+|-
+|align=center|12
+|[[2013–14 Harvard Crimson men's basketball team|Harvard]]
+|Ivy
+|align=center|26–4
+|Tommy Amaker
+|Automatic
+|align=center|49
+|-
+|align=center|13
+|[[2013–14 Delaware Fightin' Blue Hens men's basketball team|Delaware]]
+|Colonial
+|align=center|25–9
+|Monte Ross
+|Automatic
+|align=center|54
+|-
+|align=center|14
+|[[2013–14 North Carolina Central Eagles men's basketball team|North Carolina Central]]
+|MEAC
+|align=center|28–5
+|LeVelle Moton
+|Automatic
+|align=center|58
+|-
+|align=center|15
+|[[2013–14 Milwaukee Panthers men's basketball team|Milwaukee]]
+|Horizon
+|align=center|21–13
+|Rob Jeter
+|Automatic
+|align=center|60
+|-
+|align=center|16
+|[[2013–14 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]]
+|Big South
+|align=center|21–12
+|Cliff Ellis
+|Automatic
+|align=center|63
 |}
 |-
 | valign=top |
@@ -508,7 +633,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|27
 |-
 |align=center|8
-|[[2013-14 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|[[2013–14 Gonzaga Bulldogs men's basketball team|Gonzaga]]
 |West Coast
 |align=center|28–6
 |Mark Few
@@ -582,147 +707,6 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |-
 | valign=top |
 {| class="wikitable sortable"
-|+East Region – [[New York City]], [[New York (state)|New York]]
-|-
-!Seed
-!School
-!Conference
-!Record
-!Coach
-!Berth type
-!Overall rank
-|-
-|align=center|1
-|[[2013–14 Virginia Cavaliers men's basketball team|Virginia]]
-|ACC
-|align=center|28–6
-|Tony Bennett
-|Automatic
-|align=center|4
-|-
-|align=center|2
-|[[2013-14 Villanova Wildcats men's basketball team|Villanova]]
-|Big East
-|align=center|28–4
-|Jay Wright
-|At-Large
-|align=center|5
-|-
-|align=center|3
-|[[2013-14 Iowa State Cyclones men's basketball team|Iowa State]]
-|Big 12
-|align=center|26–7
-|Fred Hoiberg
-|Automatic
-|align=center|12
-|-
-|align=center|4
-|[[2013-14 Michigan State Spartans men's basketball team|Michigan State]]
-|Big Ten
-|align=center|26–8
-|Tom Izzo
-|Automatic
-|align=center|14
-|-
-|align=center|5
-|[[2013-14 Cincinnati Bearcats men's basketball team|Cincinnati]]
-|American
-|align=center|27–6
-|Mick Cronin
-|At–large
-|align=center|17
-|-
-|align=center|6
-|[[2013-14 North Carolina Tar Heels men's basketball team|North Carolina]]
-|ACC
-|align=center|23–9
-|Roy Williams
-|At–large
-|align=center|21
-|-
-|align=center|7
-|[[2013-14 Connecticut Huskies men's basketball team|Connecticut]]
-|American
-|align=center|26–8
-|Kevin Ollie
-|At–large
-|align=center|26
-|-
-|align=center|8
-|[[2013-14 Memphis Tigers men's basketball team|Memphis]]
-|American
-|align=center|23–9
-|Josh Pastner
-|At–large
-|align=center|31
-|-
-|align=center|9
-|[[2013–14 George Washington Colonials men's basketball team|George Washington]]
-|Atlantic 10
-|align=center|24–8
-|Mike Lonergan
-|At–large
-|align=center|34
-|-
-|align=center|10
-|[[2013–14 Saint Joseph's Hawks men's basketball team|St. Joseph's]]
-|Atlantic 10
-|align=center|24–9
-|Phil Martelli
-|Automatic
-|align=center|38
-|-
-|align=center|11
-|[[2013-14 Providence Friars men's basketball team|Providence]]
-|Big East
-|align=center|23–11
-|Ed Cooley
-|Automatic
-|align=center|43
-|-
-|align=center|12
-|[[2013-14 Harvard Crimson men's basketball team|Harvard]]
-|Ivy
-|align=center|26–4
-|Tommy Amaker
-|Automatic
-|align=center|49
-|-
-|align=center|13
-|[[2013-14 Delaware Fightin' Blue Hens men's basketball team|Delaware]]
-|Colonial
-|align=center|25–9
-|Monte Ross
-|Automatic
-|align=center|54
-|-
-|align=center|14
-|[[2013–14 North Carolina Central Eagles men's basketball team|North Carolina Central]]
-|MEAC
-|align=center|28–5
-|LaVelle Moton
-|Automatic
-|align=center|58
-|-
-|align=center|15
-|[[2013–14 Milwaukee Panthers men's basketball team|Milwaukee]]
-|Horizon
-|align=center|21–13
-|Rob Jeter
-|Automatic
-|align=center|60
-|-
-|align=center|16
-|[[2013–14 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]]
-|Big South
-|align=center|21–12
-|Cliff Ellis
-|Automatic
-|align=center|63
-|}
-|-
-| valign=top |
-{| class="wikitable sortable"
 |+Midwest Region – [[Indianapolis]], [[Indiana]]
 |-
 !Seed
@@ -734,7 +718,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 !Overall rank
 |-
 |align=center|1
-|[[2013-14 Wichita State Shockers men's basketball team|Wichita State]]
+|[[2013–14 Wichita State Shockers men's basketball team|Wichita State]]
 |MVC
 |align=center|34–0
 |Gregg Marshall
@@ -750,7 +734,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|6
 |-
 |align=center|3
-|[[2013-14 Duke Blue Devils men's basketball team|Duke]]
+|[[2013–14 Duke Blue Devils men's basketball team|Duke]]
 |ACC
 |align=center|26–8
 |Mike Krzyzewski
@@ -766,7 +750,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|13
 |-
 |align=center|5
-|[[2013-14 Saint Louis Billikens men's basketball team|Saint Louis]]
+|[[2013–14 Saint Louis Billikens men's basketball team|Saint Louis]]
 |Atlantic 10
 |align=center|26–6
 |Jim Crews
@@ -774,7 +758,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|18
 |-
 |align=center|6
-|[[2013-14 UMass Minutemen basketball team|Massachusetts]]
+|[[2013–14 UMass Minutemen basketball team|Massachusetts]]
 |Atlantic 10
 |align=center|24–8
 |Derek Kellogg
@@ -782,7 +766,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|23
 |-
 |align=center|7
-|[[2013-14 Texas Longhorns men's basketball team|Texas]]
+|[[2013–14 Texas Longhorns men's basketball team|Texas]]
 |Big 12
 |align=center|23–10
 |Rick Barnes
@@ -790,7 +774,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|25
 |-
 |align=center|8
-|[[2013-14 Kentucky Wildcats men's basketball team|Kentucky]]
+|[[2013–14 Kentucky Wildcats men's basketball team|Kentucky]]
 |SEC
 |align=center|24–10
 |John Calipari
@@ -806,7 +790,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|33
 |-
 |align=center|10
-|[[2013-14 Arizona State Sun Devils men's basketball team|Arizona State]]
+|[[2013–14 Arizona State Sun Devils men's basketball team|Arizona State]]
 |Pac-12
 |align=center|21–11
 |Herb Sendek
@@ -814,7 +798,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|40
 |-
 |rowspan=2 align=center|11*
-|[[2013-14 Iowa Hawkeyes men's basketball team|Iowa]]
+|[[2013–14 Iowa Hawkeyes men's basketball team|Iowa]]
 |Big Ten
 |align=center|20–12
 |Fran McCaffery
@@ -829,14 +813,14 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|44
 |-
 |rowspan=2 align=center|12*
-|[[2013-14 NC State Wolfpack men's basketball team|NC State]]
+|[[2013–14 NC State Wolfpack men's basketball team|NC State]]
 |ACC
 |align=center|21–13
 |Mark Gottfried
 |At–large
 |align=center|47
 |-
-|[[2013-14 Xavier Musketeers men's basketball team|Xavier]]
+|[[2013–14 Xavier Musketeers men's basketball team|Xavier]]
 |Big East
 |align=center|21–12
 |Chris Mack
@@ -860,7 +844,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|56
 |-
 |align=center|15
-|[[2013-14 Wofford Terriers men's basketball team|Wofford]]
+|[[2013–14 Wofford Terriers men's basketball team|Wofford]]
 |Southern
 |align=center|20–12
 |Mike Young
@@ -868,7 +852,7 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |align=center|61
 |-
 |rowspan=2 align=center|16*
-|[[2013-14 Cal Poly Mustangs men's basketball team|Cal Poly]]
+|[[2013–14 Cal Poly Mustangs men's basketball team|Cal Poly]]
 |Big West
 |align=center|13–19
 |Joe Calero
@@ -884,14 +868,14 @@ The following teams are automatic qualifiers for the 2014 NCAA field by virtue o
 |}
 |}
 
-Florida was the overall 1 seed for the second time, the other being [[2007 NCAA Men's Division I Basketball Tournament|2007]] when they repeated as national champions. Arizona was a 1 seed for the 6th time in school history. They lost in the West regional final for the 3rd straight time as a 1 seed, all games being played in Anaheim (also in [[1998 NCAA Men's Division I Basketball Tournament|1998]] and [[2003 NCAA Men's Division I Basketball Tournament|2003]]). Virginia was a 1 seed for the 4th time in school history, their first since three straight 1 seeds in [[1981 NCAA Men's Division I Basketball Tournament|1981]], [[1982 NCAA Men's Division I Basketball Tournament|1982]], and [[1983 NCAA Men's Division I Basketball Tournament|1983]].
+Florida was the overall 1 seed for the second time, the other being [[2007 NCAA Division I men's basketball tournament|2007]] when they repeated as national champions. Arizona was a 1 seed for the 6th time in school history. They lost in the West regional final for the 3rd straight time as a 1 seed, all games being played in Anaheim (also in [[1998 NCAA Division I men's basketball tournament|1998]] and [[2003 NCAA Division I men's basketball tournament|2003]]). Virginia was a 1 seed for the 4th time in school history, their first since three straight 1 seeds in [[1981 NCAA Division I men's basketball tournament|1981]], [[1982 NCAA Division I men's basketball tournament|1982]], and [[1983 NCAA Division I men's basketball tournament|1983]].
 
 ==Bracket==
-<nowiki>*</nowiki> – Denotes overtime period
-
 ''Unless otherwise noted, all times listed are [[Eastern Time Zone|Eastern ''Daylight'' Time]] ([[UTC−04:00|UTC-04]])''
 
 ===First Four – Dayton, Ohio===
+The [[First Four]] games involved eight teams: the four overall lowest-ranked teams, and the four lowest-ranked at-large teams.
+
 {{align|left|{{2TeamBracket | RD1= March 18 – Midwest Region
 | team-width = 150
 | RD1-seed1= 12
@@ -917,7 +901,7 @@ Florida was the overall 1 seed for the second time, the other being [[2007 NCAA 
 | RD1-score1= 65
 | RD1-seed2= 11
 | RD1-team2= '''[[2013–14 Tennessee Volunteers men's basketball team|Tennessee]]'''
-| RD1-score2= '''78'''*
+| RD1-score2= '''78<sup>OT</sup>'''
 }}}}
 {{align|left|{{2TeamBracket | RD1= March 19 – Midwest Region
 | team-width = 150
@@ -930,14 +914,14 @@ Florida was the overall 1 seed for the second time, the other being [[2007 NCAA 
 }}}}{{clear left}}
 
 ===South Regional – Memphis, Tennessee===
-{{16TeamBracket | RD1=Second round<br />Round of 64<br />March 20–21
-| RD2=Third round<br />Round of 32<br />March 22–23
+{{16TeamBracket | RD1=First round<br />Round of 64<br />March 20–21
+| RD2=Second round<br />Round of 32<br />March 22–23
 | RD3=Regional semifinals<br />Sweet 16<br />March 27
 | RD4=Regional finals<br />Elite 8<br />March 29
-| subgroup1= '''[[Amway Center|Orlando]]''' - Thu/Sat
-| subgroup2= '''[[Viejas Arena|San Diego]]''' - Fri/Sun
-| subgroup3= '''[[First Niagara Center|Buffalo]]''' - Thu/Sat
-| subgroup4= '''[[Scottrade Center|St. Louis]]''' - Fri/Sun
+| subgroup1= '''[[Amway Center|Orlando]]'''{{Snd}} Thu/Sat
+| subgroup2= '''[[Viejas Arena|San Diego]]'''{{Snd}} Fri/Sun
+| subgroup3= '''[[First Niagara Center|Buffalo]]'''{{Snd}} Thu/Sat
+| subgroup4= '''[[Scottrade Center|St. Louis]]'''{{Snd}} Fri/Sun
 | RD1-seed01= 1
 | RD1-team01= '''[[2013–14 Florida Gators men's basketball team|Florida]]'''
 | RD1-score01= '''67'''
@@ -957,7 +941,7 @@ Florida was the overall 1 seed for the second time, the other being [[2007 NCAA 
 | RD1-score05= 75
 | RD1-seed06= 12
 | RD1-team06= '''[[2013–14 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]]'''
-| RD1-score06= '''77*'''
+| RD1-score06= '''77<sup>OT</sup>'''
 
 | RD1-seed07= 4
 | RD1-team07= '''[[2013–14 UCLA Bruins men's basketball team|UCLA]]'''
@@ -1050,21 +1034,20 @@ Florida was the overall 1 seed for the second time, the other being [[2007 NCAA 
  | bg = #e3e3e3
  | date = Saturday, March 29
  | time = 5:09 pm [[Central time zone|CT]]
- | report = [http://www.ncaa.com/game/basketball-men/d1/2014/03/29/dayton-florida/boxscore box score]
- | team1 = '''#1 Florida Gators'''
- | score1 =  '''62'''
- | team2 = #11 Dayton Flyers 
- | score2 = 52
- | points1 = [[Scottie Wilbekin|S. Wilbekin]] - 23
- | rebounds1 = [[Dorian Finney-Smith|D. Finney-Smith]] - 9
- | assist1 = [[Kasey Hill|K. Hill]], [[Scottie Wilbekin|S. Wilbekin]] - 3
- | otherstat2 = '''Halftime Score:''' Florida, 38-24
- | points2 = [[Dyshawn Pierre|D. Pierre]] - 18
- | rebounds2 = M. Kavanaugh - 8
- | assist2 = [[Dyshawn Pierre|D. Pierre]] - 5
- | H1 = 
- | H2 = 
- | place = FedEx Forum - Memphis, TN
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2014/03/29/dayton-florida/boxscore box score]
+ | team1 = #11 Dayton Flyers 
+ | score1 = 52
+ | team2 = '''#1 Florida Gators'''
+ | score2 =  '''62'''
+ | points1 = [[Dyshawn Pierre|D. Pierre]]{{Snd}} 18
+ | rebounds1 = M. Kavanaugh{{Snd}} 8
+ | assist1 = [[Dyshawn Pierre|D. Pierre]]{{Snd}} 5
+ | points2 = [[Scottie Wilbekin|S. Wilbekin]]{{Snd}} 23
+ | rebounds2 = [[Dorian Finney-Smith|D. Finney-Smith]]{{Snd}} 9
+ | assist2 = [[Kasey Hill|K. Hill]], [[Scottie Wilbekin|S. Wilbekin]]{{Snd}} 3
+ | H1 = 24–'''38'''
+ | H2 = '''28'''–24
+ | place = FedEx Forum{{Snd}} Memphis, TN
  | attendance = 15,443
  | referee = Mike Stuart, Pat Driscoll, Doug Shows
  | TV = TBS
@@ -1076,14 +1059,14 @@ Regional all-tournament team: '''[[Michael Frazier II]]''', Florida; '''[[Devin 
 Regional most outstanding player: '''[[Scottie Wilbekin]]''', Florida<ref>{{cite news |url=https://www.washingtonpost.com/sports/ncaa-tournament-florida-finally-gets-over-the-hump-in-elite-eight-beats-dayton-for-final-four-berth/2014/03/29/98bf574e-b6cf-11e3-b84e-897d3d12b816_story.html |title=Wilbekin's shot pivotal in turning momentum for Florida |newspaper=Fort Worth Star-Telegram}}</ref>
 
 ===East Regional – New York City, New York===
-{{16TeamBracket | RD1=Second round<br />Round of 64<br />March 20–21
-| RD2=Third round<br />Round of 32<br />March 22–23
+{{16TeamBracket | RD1=First round<br />Round of 64<br />March 20–21
+| RD2=Second round<br />Round of 32<br />March 22–23
 | RD3=Regional semifinals<br />Sweet 16<br />March 28
 | RD4=Regional finals<br />Elite 8<br />March 30
-| subgroup1= '''[[PNC Arena|Raleigh]]''' - Fri/Sun
-| subgroup2= '''[[Spokane Veterans Memorial Arena|Spokane]]''' - Thu/Sat
-| subgroup3= '''[[AT&T Center|San Antonio]]''' - Fri/Sun
-| subgroup4= '''[[First Niagara Center|Buffalo]]''' - Thu/Sat
+| subgroup1= '''[[PNC Arena|Raleigh]]'''{{Snd}} Fri/Sun
+| subgroup2= '''[[Spokane Veterans Memorial Arena|Spokane]]'''{{Snd}} Thu/Sat
+| subgroup3= '''[[AT&T Center|San Antonio]]'''{{Snd}} Fri/Sun
+| subgroup4= '''[[First Niagara Center|Buffalo]]'''{{Snd}} Thu/Sat
 | RD1-seed01= 1
 | RD1-team01= '''[[2013–14 Virginia Cavaliers men's basketball team|Virginia]]'''
 | RD1-score01= '''70'''
@@ -1127,10 +1110,10 @@ Regional most outstanding player: '''[[Scottie Wilbekin]]''', Florida<ref>{{cite
 | RD1-score12= 75
 
 | RD1-seed13= 7
-| RD1-team13= '''[[2013–14 Connecticut Huskies men's basketball team|Connecticut]]'''
-| RD1-score13= '''89'''*
+| RD1-team13= '''[[2013–14 UConn Huskies men's basketball team|UConn]]'''
+| RD1-score13= '''89<sup>OT</sup>'''
 | RD1-seed14= 10
-| RD1-team14= [[2013–14 Saint Joseph's Hawks men's basketball team|St. Joseph's]]
+| RD1-team14= [[2013–14 Saint Joseph's Hawks men's basketball team|Saint Joseph's]]
 | RD1-score14= 81
 
 | RD1-seed15= 2
@@ -1162,7 +1145,7 @@ Regional most outstanding player: '''[[Scottie Wilbekin]]''', Florida<ref>{{cite
 | RD2-score06= '''85'''
 
 | RD2-seed07= 7
-| RD2-team07= '''Connecticut'''
+| RD2-team07= '''UConn'''
 | RD2-score07= '''77'''
 | RD2-seed08= 2
 | RD2-team08= Villanova
@@ -1179,14 +1162,14 @@ Regional most outstanding player: '''[[Scottie Wilbekin]]''', Florida<ref>{{cite
 | RD3-team03= Iowa State
 | RD3-score03= 76
 | RD3-seed04= 7
-| RD3-team04= '''Connecticut'''
+| RD3-team04= '''UConn'''
 | RD3-score04= '''81'''
 
 | RD4-seed01= 4
 | RD4-team01= Michigan State
 | RD4-score01= 54
 | RD4-seed02= 7
-| RD4-team02='''Connecticut'''
+| RD4-team02='''UConn'''
 | RD4-score02='''60'''
 }}
 
@@ -1196,40 +1179,39 @@ Regional most outstanding player: '''[[Scottie Wilbekin]]''', Florida<ref>{{cite
  | bg = #e3e3e3
  | date = Sunday, March 30
  | time = 2:20 pm [[Eastern time zone|ET]]
- | report = [http://www.ncaa.com/game/basketball-men/d1/2014/03/30/uconn-michigan-st/boxscore box score]
- | team1 = '''#7 Connecticut Huskies'''
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2014/03/30/uconn-michigan-st/boxscore box score]
+ | team1 = '''#7 UConn Huskies'''
  | score1 =  '''60'''
  | team2 = #4 Michigan State Spartans
  | score2 = 54
- | points1 = [[Shabazz Napier|S. Napier]] - 25
- | rebounds1 = [[DeAndre Daniels|D. Daniels]] - 8
- | assist1 = [[Shabazz Napier|S. Napier]] - 4
- | otherstat2 = '''Halftime Score:''' Michigan State, 25-21
- | points2 = [[Gary Harris|G. Harris]] - 22
- | rebounds2 = [[Adreian Payne|A. Payne]] - 9
- | assist2 = [[Adreian Payne|A. Payne]] - 3
- | H1 = 
- | H2 = 
- | place = Madison Square Garden - New York City, NY
+ | points1 = [[Shabazz Napier|S. Napier]]{{Snd}} 25
+ | rebounds1 = [[DeAndre Daniels|D. Daniels]]{{Snd}} 8
+ | assist1 = [[Shabazz Napier|S. Napier]]{{Snd}} 4
+ | points2 = [[Gary Harris|G. Harris]]{{Snd}} 22
+ | rebounds2 = [[Adreian Payne|A. Payne]]{{Snd}} 9
+ | assist2 = [[Adreian Payne|A. Payne]]{{Snd}} 3
+ | H1 = 21–'''25'''
+ | H2 = '''39'''–29
+ | place = Madison Square Garden{{Snd}} New York City, NY
  | attendance = 19,499
  | referee = Tom Eades, John Higgins, Michael Roberts
  | TV = CBS
 }}
 
 ====East Regional all-tournament team====
-Regional all-tournament team: '''[[DeAndre Daniels]]''', Connecticut; '''[[Gary Harris]]''', Michigan State; '''[[Dustin Hogue]]''', Iowa State; '''[[Adreian Payne]]''', Michigan State<ref>{{cite news |url=http://www.desmoinesregister.com/story/sports/college/iowa-state/isu-basketball/2014/03/30/iowa-state-dustin-hogue-east-regional-team/7088449/ |title=ISU's Hogue named to all-East Region team |newspaper=Des Moines Register}}</ref>
+Regional all-tournament team: '''[[DeAndre Daniels]]''', UConn; '''[[Gary Harris]]''', Michigan State; '''[[Dustin Hogue]]''', Iowa State; '''[[Adreian Payne]]''', Michigan State<ref>{{cite news |url=http://www.desmoinesregister.com/story/sports/college/iowa-state/isu-basketball/2014/03/30/iowa-state-dustin-hogue-east-regional-team/7088449/ |title=ISU's Hogue named to all-East Region team |newspaper=Des Moines Register}}</ref>
 
-Regional most outstanding player: '''[[Shabazz Napier]]''', Connecticut<ref>{{cite web |url=http://www.uconnhuskies.com/sports/m-baskbl/recaps/033014aaa.html |title=UConn Advances to Final Four with 60-54 Win Over Michigan State |publisher=UConnHuskies.com}}</ref>
+Regional most outstanding player: '''[[Shabazz Napier]]''', UConn<ref>{{cite web |url=http://www.uconnhuskies.com/sports/m-baskbl/recaps/033014aaa.html |title=UConn Advances to Final Four with 60-54 Win Over Michigan State |publisher=UConnHuskies.com |access-date=2014-03-31 |archive-url=https://web.archive.org/web/20160918084421/http://www.uconnhuskies.com/sports/m-baskbl/recaps/033014aaa.html |archive-date=2016-09-18 |url-status=dead }}</ref>
 
 ===West Regional – Anaheim, California===
-{{16TeamBracket | RD1=Second round<br />Round of 64<br />March 20–21
-| RD2=Third round<br />Round of 32<br />March 22–23
+{{16TeamBracket | RD1=First round<br />Round of 64<br />March 20–21
+| RD2=Second round<br />Round of 32<br />March 22–23
 | RD3=Regional semifinals<br />Sweet 16<br />March 27
 | RD4=Regional finals<br />Elite 8<br />March 29
-| subgroup1= '''[[Viejas Arena|San Diego]]''' - Fri/Sun
-| subgroup2= '''[[Spokane Veterans Memorial Arena|Spokane]]''' - Thu/Sat
-| subgroup3= '''[[AT&T Center|San Antonio]]''' - Fri/Sun
-| subgroup4= '''[[BMO Harris Bradley Center|Milwaukee]]''' - Thu/Sat
+| subgroup1= '''[[Viejas Arena|San Diego]]'''{{Snd}} Fri/Sun
+| subgroup2= '''[[Spokane Veterans Memorial Arena|Spokane]]'''{{Snd}} Thu/Sat
+| subgroup3= '''[[AT&T Center|San Antonio]]'''{{Snd}} Fri/Sun
+| subgroup4= '''[[BMO Harris Bradley Center|Milwaukee]]'''{{Snd}} Thu/Sat
 | RD1-seed01= 1
 | RD1-team01= '''[[2013–14 Arizona Wildcats men's basketball team|Arizona]]'''
 | RD1-score01= '''68'''
@@ -1249,11 +1231,11 @@ Regional most outstanding player: '''[[Shabazz Napier]]''', Connecticut<ref>{{ci
 | RD1-score05= 75
 | RD1-seed06= 12
 | RD1-team06= '''[[2013–14 North Dakota State Bison men's basketball team|North Dakota State]]'''
-| RD1-score06= '''80'''*
+| RD1-score06= '''80<sup>OT</sup>'''
 
 | RD1-seed07= 4
 | RD1-team07= '''[[2013–14 San Diego State Aztecs men's basketball team|San Diego State]]'''
-| RD1-score07= '''73'''*
+| RD1-score07= '''73<sup>OT</sup>'''
 | RD1-seed08= 13
 | RD1-team08= [[2013–14 New Mexico State Aggies men's basketball team|New Mexico State]]
 | RD1-score08= 69
@@ -1333,7 +1315,7 @@ Regional most outstanding player: '''[[Shabazz Napier]]''', Connecticut<ref>{{ci
 | RD4-score01= 63
 | RD4-seed02=2
 | RD4-team02='''Wisconsin'''
-| RD4-score02= '''64'''*
+| RD4-score02= '''64<sup>OT</sup>'''
 }}
 
 ====Regional Final summary====
@@ -1342,41 +1324,40 @@ Regional most outstanding player: '''[[Shabazz Napier]]''', Connecticut<ref>{{ci
  | bg = #e3e3e3
  | date = Saturday, March 29
  | time = 5:49 pm [[Pacific time zone|PT]]
- | report = [http://www.ncaa.com/game/basketball-men/d1/2014/03/29/wisconsin-arizona/boxscore box score]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2014/03/29/wisconsin-arizona/boxscore box score]
  | team1 = '''#2 Wisconsin Badgers'''
  | score1 =  '''64'''
  | team2 = #1 Arizona Wildcats
- | score2 = 63 '''(OT)'''
- | points1 = [[Frank Kaminsky|F. Kaminsky III]] - 28
- | rebounds1 = [[Frank Kaminsky|F. Kaminsky III]] - 11
- | assist1 = [[Traevon Jackson|T. Jackson]] - 5
- | otherstat2 = '''Halftime Score:''' Arizona, 28-25<br />'''End of Regulation:''' 54-54
- | points2 = [[Nick Johnson (basketball)|N. Johnson]] - 16
- | rebounds2 = [[Aaron Gordon|A. Gordon]] - 18
- | assist2 = [[Nick Johnson (basketball)|N. Johnson]] - 3
- | H1 = 
- | H2 = 
- | OT = 
- | place = Honda Center - Anaheim, CA
+ | score2 = 63
+ | points1 = [[Frank Kaminsky|F. Kaminsky III]]{{Snd}} 28
+ | rebounds1 = [[Frank Kaminsky|F. Kaminsky III]]{{Snd}} 11
+ | assist1 = [[Traevon Jackson|T. Jackson]]{{Snd}} 5
+ | points2 = [[Nick Johnson (basketball)|N. Johnson]]{{Snd}} 16
+ | rebounds2 = [[Aaron Gordon|A. Gordon]]{{Snd}} 18
+ | assist2 = [[Nick Johnson (basketball)|N. Johnson]]{{Snd}} 3
+ | H1 = '''25'''–28
+ | H2 = '''29'''–26
+ | OT = '''10'''–9
+ | place = Honda Center{{Snd}} Anaheim, CA
  | attendance = 17,814
  | referee = Bryan Kersey, Tony Greene, Mike Eades
  | TV = TBS
 }}
 
 ====West Regional all-tournament team====
-Regional all-tournament team: '''[[Aaron Gordon]]''', Arizona; '''[[Traevon Jackson]]''', Wisconsin; '''[[Nick Johnson (basketball)|Nick Johnson]]''', Arizona; '''[[Xavier Thames]]''', San Diego State<ref>{{cite web |url=http://host.madison.com/sports/college/basketball/men/badgers-men-s-basketball-notes-yet-again-frank-kaminsky-s/article_a82454eb-4e27-5d82-92f3-0948641f27a9.html |title=Badgers men's basketball notes: Yet again, Frank Kaminsky's play has everyone talking |publisher=Madison.com}}</ref>
+Regional all-tournament team: '''[[Aaron Gordon]]''', Arizona; '''[[Traevon Jackson]]''', Wisconsin; '''[[Nick Johnson (basketball)|Nick Johnson]]''', Arizona; '''[[Xavier Thames]]''', San Diego State<ref>{{cite web |url=http://host.madison.com/sports/college/basketball/men/badgers-men-s-basketball-notes-yet-again-frank-kaminsky-s/article_a82454eb-4e27-5d82-92f3-0948641f27a9.html |title=Badgers men's basketball notes: Yet again, Frank Kaminsky's play has everyone talking |date=March 30, 2014 |publisher=Madison.com}}</ref>
 
 Regional most outstanding player: '''[[Frank Kaminsky]]''', Wisconsin
 
 ===Midwest Regional – Indianapolis, Indiana===
-{{16TeamBracket | RD1=Second round<br />Round of 64<br />March 20–21
-| RD2=Third round<br />Round of 32<br />March 22–23
+{{16TeamBracket | RD1=First round<br />Round of 64<br />March 20–21
+| RD2=Second round<br />Round of 32<br />March 22–23
 | RD3=Regional semifinals<br />Sweet 16<br />March 28
 | RD4=Regional finals<br />Elite 8<br />March 30
-| subgroup1= '''[[Scottrade Center|St. Louis]]''' - Fri/Sun
-| subgroup2= '''[[Amway Center|Orlando]]''' - Thu/Sat
-| subgroup3= '''[[PNC Arena|Raleigh]]''' - Fri/Sun
-| subgroup4= '''[[BMO Harris Bradley Center|Milwaukee]]''' - Thu/Sat
+| subgroup1= '''[[Scottrade Center|St. Louis]]'''{{Snd}} Fri/Sun
+| subgroup2= '''[[Amway Center|Orlando]]'''{{Snd}} Thu/Sat
+| subgroup3= '''[[PNC Arena|Raleigh]]'''{{Snd}} Fri/Sun
+| subgroup4= '''[[BMO Harris Bradley Center|Milwaukee]]'''{{Snd}} Thu/Sat
 
 | RD1-seed01= 1
 | RD1-team01= '''[[2013–14 Wichita State Shockers men's basketball team|Wichita State]]'''
@@ -1394,13 +1375,13 @@ Regional most outstanding player: '''[[Frank Kaminsky]]''', Wisconsin
 
 | RD1-seed05= 5
 | RD1-team05= '''[[2013–14 Saint Louis Billikens men's basketball team|Saint Louis]]'''
-| RD1-score05= '''83*'''
+| RD1-score05= '''83<sup>OT</sup>'''
 | RD1-seed06= 12
 | RD1-team06= [[2013–14 NC State Wolfpack men's basketball team|NC State]]
 | RD1-score06= 80
 
 | RD1-seed07= 4
-| RD1-team07= '''[[2013–14 Louisville Cardinals men's basketball team|Louisville]]'''
+| RD1-team07= '''[[2013–14 Louisville Cardinals men's basketball team|{{strikethrough|Louisville}}]]'''
 | RD1-score07= '''71'''
 | RD1-seed08= 13
 | RD1-team08= [[2013–14 Manhattan Jaspers men's basketball team|Manhattan]]
@@ -1445,7 +1426,7 @@ Regional most outstanding player: '''[[Frank Kaminsky]]''', Wisconsin
 | RD2-team03= Saint Louis
 | RD2-score03= 51
 | RD2-seed04= 4
-| RD2-team04= '''Louisville'''
+| RD2-team04= '''{{strikethrough|Louisville}}'''
 | RD2-score04= '''66'''
 
 | RD2-seed05= 11
@@ -1466,7 +1447,7 @@ Regional most outstanding player: '''[[Frank Kaminsky]]''', Wisconsin
 | RD3-team01= '''Kentucky'''
 | RD3-score01= '''74'''
 | RD3-seed02= 4
-| RD3-team02= Louisville
+| RD3-team02= {{strikethrough|Louisville}}
 | RD3-score02= 69
 
 | RD3-seed03= 11
@@ -1484,27 +1465,28 @@ Regional most outstanding player: '''[[Frank Kaminsky]]''', Wisconsin
 | RD4-score02= 72
 }}
 
+On February 20, 2018, the NCAA announced that the wins and records for Louisville's [[2011–12 Louisville Cardinals men's basketball team|2011–12]], [[2012–13 Louisville Cardinals men's basketball team|2012–13]], [[2013–14 Louisville Cardinals men's basketball team|2013–14]], and [[2014–15 Louisville Cardinals men's basketball team|2014–15]] seasons were vacated due to the [[2015 University of Louisville basketball sex scandal|sex scandal at Louisville]].<ref>{{cite press release|last1=James|first1=Emily|title=Louisville men's basketball must vacate wins and pay fine|url=https://www.ncaa.org/about/resources/media-center/news/louisville-mens-basketball-must-vacate-wins-and-pay-fine|website=NCAA.org - The Official Site of the NCAA|access-date=February 20, 2018|language=en|date=February 20, 2018}}</ref> Unlike forfeiture, a vacated game does not result in the other school being credited with a win, only with Louisville removing the wins from its own record.
+
 ====Regional Final summary====
 
 {{basketballbox
  | bg = #e3e3e3
  | date = Sunday, March 30
  | time = 5:05 pm [[Eastern Time Zone|ET]]
- | report = [http://www.ncaa.com/game/basketball-men/d1/2014/03/30/kentucky-michigan/boxscore box score]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2014/03/30/kentucky-michigan/boxscore box score]
  | team1 = '''#8 Kentucky Wildcats'''
  | score1 =  '''75'''
  | team2 = #2 Michigan Wolverines
  | score2 = 72
- | points1 = [[Julius Randle|J. Randle]] - 16
- | rebounds1 = [[Julius Randle|J. Randle]] - 11
- | assist1 = [[Andrew Harrison (basketball)|An. Harrison]] - 6
- | otherstat2 = '''Halftime Score:''' 37-37
- | points2 = [[Nik Stauskas|N. Stauskas]] - 24
- | rebounds2 = [[Jordan Morgan|J. Morgan]], [[Glenn Robinson III|G. Robinson III]] - 4
- | assist2 = [[Caris LeVert|C. LeVert]] - 5
- | H1 = 
- | H2 = 
- | place = Lucas Oil Stadium - Indianapolis, IN
+ | points1 = [[Julius Randle|J. Randle]]{{Snd}} 16
+ | rebounds1 = [[Julius Randle|J. Randle]]{{Snd}} 11
+ | assist1 = [[Andrew Harrison (basketball)|A. Harrison]]{{Snd}} 6
+ | points2 = [[Nik Stauskas|N. Stauskas]]{{Snd}} 24
+ | rebounds2 = [[Jordan Morgan (basketball)|J. Morgan]], [[Glenn Robinson III|G. Robinson III]]{{Snd}} 4
+ | assist2 = [[Caris LeVert|C. LeVert]]{{Snd}} 5
+ | H1 = 37–37
+ | H2 = '''38'''–35
+ | place = Lucas Oil Stadium{{Snd}} Indianapolis, IN
  | attendance = 35,551
  | referee = Ed Corbett, Don Daily, Randall McCall
  | TV = CBS
@@ -1513,63 +1495,64 @@ Regional most outstanding player: '''[[Frank Kaminsky]]''', Wisconsin
 ====Midwest Regional all-tournament team====
 Regional all-tournament team: '''[[Aaron Harrison]]''', Kentucky; '''[[Marcus Lee]]''', Kentucky; '''[[Caris LeVert]]''', Michigan; '''[[Nik Stauskas]]''', Michigan
 
-Regional most outstanding player: '''[[Julius Randle]]''', Kentucky<ref>{{cite web |url=http://www.mgoblue.com/sports/m-baskbl/recaps/033014aaa.html |title=U-M Has Tourney Run End on Last-Second Shot by Kentucky |publisher=MGOBLUE.com - University of Michigan Official Athletic Site}}</ref>
+Regional most outstanding player: '''[[Julius Randle]]''', Kentucky<ref>{{cite web |url=http://www.mgoblue.com/sports/m-baskbl/recaps/033014aaa.html |title=U-M Has Tourney Run End on Last-Second Shot by Kentucky |publisher=MGOBLUE.com - University of Michigan Official Athletic Site |access-date=2014-03-31 |archive-url=https://web.archive.org/web/20160921065853/http://www.mgoblue.com/sports/m-baskbl/recaps/033014aaa.html |archive-date=2016-09-21 |url-status=dead }}</ref>
 
-==Final four==
-During the Final Four round, regardless of the seeds of the participating teams, the champion of the top overall top seed's region plays against the champion of the fourth-ranked top seed's region, and the champion of the second overall top seed's region plays against the champion of the third-ranked top seed's region.<ref name="final four seeding">{{cite web |url=http://www.ncaa.com/content/di-principles-and-procedures-selection/ |title=2013-14 NCAA Division I Men's Basketball Championship – Principles And Procedures For Establishing The Bracket |publisher=NCAA |accessdate=March 27, 2014 |quote=The committee will place the four No. 1 seeded teams 1 through 4 in each of the four regions, thus determining the Final Four semifinals pairings (overall 1 vs. 4; 2 vs. 3).}}</ref> [[2013–14 Florida Gators men's basketball team|Florida]] (placed in the South Regional) was selected as the top overall seed, and [[2013–14 Virginia Cavaliers men's basketball team|Virginia]] (in the East Regional) was named as the fourth and final #1 seed.<ref>{{cite web |url=http://www.cbssports.com/collegebasketball/eye-on-college-basketball/24487953/official-ncaa-1-68-seeding-order |title=Official NCAA 1-68 seeding order |publisher=CBS Sports |date=March 16, 2014 |accessdate=March 17, 2014}}</ref> Thus, the South champion (Florida) played the East Champion (Connecticut) in one semifinal game, and the West Champion (Wisconsin) faced the Midwest Champion (Kentucky) in the other semifinal game.<ref name="2014 printable bracket">{{cite web |url=http://collegebasketballtalk.nbcsports.com/2014/03/16/2014-ncaa-tournament-printable-bracket/ |title=2014 NCAA Tournament Printable Bracket |work=probasketballtalk.com |publisher=NBC Sports |accessdate=March 17, 2014}}</ref> The overall No. 1 seed Florida lost only two games during the regular season: to West Champion Wisconsin and to East Champion - and eventual National Champion - Connecticut (Florida also played and beat Midwest Champion Kentucky twice during the regular season and again in the [[2014 SEC Men's Basketball Tournament|conference championship game]]).
+==Final Four==
+During the Final Four round, regardless of the seeds of the participating teams, the champion of the top overall top seed's region plays against the champion of the fourth-ranked top seed's region, and the champion of the second overall top seed's region plays against the champion of the third-ranked top seed's region.<ref name="final four seeding">{{cite web |url=https://www.ncaa.com/content/di-principles-and-procedures-selection/ |title=2013-14 NCAA Division I Men's Basketball Championship – Principles And Procedures For Establishing The Bracket |publisher=NCAA |access-date=March 27, 2014 |quote=The committee will place the four No. 1 seeded teams 1 through 4 in each of the four regions, thus determining the Final Four semifinals pairings (overall 1 vs. 4; 2 vs. 3).}}</ref> [[2013–14 Florida Gators men's basketball team|Florida]] (placed in the South Regional) was selected as the top overall seed, and [[2013–14 Virginia Cavaliers men's basketball team|Virginia]] (in the East Regional) was named as the No. 4 overall seed.<ref>{{cite web |url=http://www.cbssports.com/collegebasketball/eye-on-college-basketball/24487953/official-ncaa-1-68-seeding-order |title=Official NCAA 1-68 seeding order |work=CBS Sports |date=March 16, 2014 |access-date=March 17, 2014}}</ref> Thus, the South champion (Florida) played the East Champion (UConn) in one semifinal game, and the West Champion (Wisconsin) faced the Midwest Champion (Kentucky) in the other semifinal game.<ref name="2014 printable bracket">{{cite web |url=http://collegebasketballtalk.nbcsports.com/2014/03/16/2014-ncaa-tournament-printable-bracket/ |title=2014 NCAA Tournament Printable Bracket |work=probasketballtalk.com |date=17 March 2014 |publisher=NBC Sports |access-date=March 17, 2014}}</ref> The overall No. 1 seed Florida lost only two games during the regular season: to West Champion Wisconsin and to East Champion (and eventual National Champion) UConn; Florida also played and beat Midwest Champion Kentucky twice during the regular season and again in the [[2014 SEC men's basketball tournament|conference championship game]].
 
 ===Final Four – AT&T Stadium, Arlington, Texas===
 
 {{4TeamBracket
-| RD1=National Semifinals<br />April 5
-| RD2=National Championship Game<br />April 7
+| RD1=National Semifinals<br />Final Four<br />Saturday, April 5
+| RD2=National Championship Game<br />Monday, April 7
 | score-width=25
 | team-width=130
-| RD1-seed1= S1
-| RD1-team1= [[2013–14 Florida Gators men's basketball team|Florida]]
-| RD1-score1= 53
-| RD1-seed2= E7
-| RD1-team2= '''[[2013–14 Connecticut Huskies men's basketball team|Connecticut]]'''
-| RD1-score2= '''63'''
 
-| RD1-seed3= W2
-| RD1-team3= [[2013–14 Wisconsin Badgers men's basketball team|Wisconsin]]
-| RD1-score3= 73
-| RD1-seed4= MW8
-| RD1-team4= '''[[2013–14 Kentucky Wildcats men's basketball team|Kentucky]]'''
-| RD1-score4= '''74'''
+| RD1-seed1= '''MW8'''
+| RD1-team1= '''[[2013–14 Kentucky Wildcats men's basketball team|Kentucky]]'''
+| RD1-score1= '''74'''
+| RD1-seed2= W2
+| RD1-team2= [[2013–14 Wisconsin Badgers men's basketball team|Wisconsin]]
+| RD1-score2= 73
 
-| RD2-seed1= E7
-| RD2-team1= '''Connecticut'''
-| RD2-score1= '''60'''
-| RD2-seed2= MW8
-| RD2-team2= Kentucky
-| RD2-score2= 54
+| RD1-seed3= '''E7'''
+| RD1-team3= '''[[2013–14 UConn Huskies men's basketball team|UConn]]'''
+| RD1-score3= '''63'''
+| RD1-seed4= S1
+| RD1-team4= [[2013–14 Florida Gators men's basketball team|Florida]]
+| RD1-score4= 53
+
+| RD2-seed1= MW8
+| RD2-team1= Kentucky
+| RD2-score1= 54
+| RD2-seed2= '''E7'''
+| RD2-team2= '''UConn'''
+| RD2-score2= '''60'''
 }}
 
 ===Game summaries===
+
 ====Final four====
 
 {{basketballbox
  | bg = #e3e3e3
  | date = Saturday, April 5
  | time = 5:15 pm [[Central Time Zone|CT]]
- | report = [http://www.ncaa.com/game/basketball-men/d1/2014/04/05/uconn-florida Recap]
- | team1 = '''#7 Connecticut Huskies'''
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2014/04/05/uconn-florida Recap]
+ | team1 = '''E7 UConn Huskies'''
  | score1 =  '''63'''
- | team2 = #1 Florida Gators 
+ | team2 = S1 Florida Gators 
  | score2 = 53
- | points1 = [[DeAndre Daniels|D. Daniels]] - 20
- | rebounds1 = D. Daniels - 10
- | assist1 = [[Shabazz Napier|S. Napier]] - 6
- | otherstat2 = '''Halftime Score:''' Connecticut, 25-22 
- | points2 = [[Patric Young|P. Young]] - 19
- | rebounds2 = [[Casey Prather|C. Prather]] - 6
- | assist2 = [[Scottie Wilbekin|S. Wilbekin]], [[Casey Prather|C. Prather]], [[Dorian Finney-Smith|D. Finney-Smith]] - 1
- | H1 = 
- | H2 = 
- | place = AT&T Stadium - Arlington, TX
- | attendance = 79,444<ref>{{cite web|url=http://www.statbroadcast.com/events/archived.php?id=52566|title=Final Four: Connecticut vs. Florida |publisher=Stat Broadcast |accessdate=2014-04-05}}</ref>
+ | points1 = [[DeAndre Daniels|D. Daniels]]{{Snd}} 20
+ | rebounds1 = D. Daniels{{Snd}} 10
+ | assist1 = [[Shabazz Napier|S. Napier]]{{Snd}} 6
+ | points2 = [[Patric Young|P. Young]]{{Snd}} 19
+ | rebounds2 = [[Casey Prather|C. Prather]]{{Snd}} 6
+ | assist2 = [[Scottie Wilbekin|S. Wilbekin]], [[Casey Prather|C. Prather]], [[Dorian Finney-Smith|D. Finney-Smith]]{{Snd}} 1
+ | H1 = '''25'''–22
+ | H2 = '''38'''–31
+ | place = AT&T Stadium{{Snd}} Arlington, TX
+ | attendance = 79,444<ref>{{cite web|url=http://www.statbroadcast.com/events/archived.php?id=52566|title=Final Four: Connecticut vs. Florida |publisher=Stat Broadcast |access-date=2014-04-05}}</ref>
  | referee = John Higgins, Michael Stephens, Doug Simmons
  | TV = TBS<br />TNT<br />truTV
 }}
@@ -1578,48 +1561,46 @@ During the Final Four round, regardless of the seeds of the participating teams,
  | bg = #ffdead
  | date = Saturday, April 5, 2014
  | time = 8:12 pm [[Central Time Zone|CT]]
- | report = [http://www.ncaa.com/game/basketball-men/d1/2014/04/05/kentucky-wisconsin Recap]
- | team1 = '''#8 Kentucky Wildcats'''
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2014/04/05/kentucky-wisconsin Recap]
+ | team1 = '''MW8 Kentucky Wildcats'''
  | score1 =  '''74'''
- | team2 = #2 Wisconsin Badgers 
+ | team2 = W2 Wisconsin Badgers 
  | score2 = 73
- | points1 = [[James Young (basketball)|J. Young]] - 17
- | rebounds1 = [[Dakari Johnson|D. Johnson]], [[Alex Poythress|A. Poythress]] - 7
- | assist1 = [[Andrew Harrison (basketball)|An. Harrison]] - 4
- | otherstat2 = '''Halftime Score:''' Wisconsin, 40-36
- | points2 = [[Ben Brust|B. Brust]], [[Sam Dekker|S. Dekker]] - 15
- | rebounds2 = [[Josh Gasser|J. Gasser]], [[Frank Kaminsky|F. Kaminsky III]] - 5
- | assist2 = T. Jackson, J. Gasser - 3
- | H1 = 
- | H2 = 
- | place = AT&T Stadium - Arlington, TX
- | attendance = 79,444<ref>{{cite web|url=http://www.statbroadcast.com/events/archived.php?id=52567|title=Final Four: Kentucky vs. Wisconsin|publisher=Stat Broadcast |accessdate=2014-04-05}}</ref>
+ | points1 = [[James Young (basketball)|J. Young]]{{Snd}} 17
+ | rebounds1 = [[Dakari Johnson|D. Johnson]], [[Alex Poythress|A. Poythress]]{{Snd}} 7
+ | assist1 = [[Andrew Harrison (basketball)|A. Harrison]]{{Snd}} 4
+ | points2 = [[Ben Brust|B. Brust]], [[Sam Dekker|S. Dekker]]{{Snd}} 15
+ | rebounds2 = [[Josh Gasser|J. Gasser]], [[Frank Kaminsky|F. Kaminsky III]]{{Snd}} 5
+ | assist2 = [[Traevon Jackson|T. Jackson]], J. Gasser{{Snd}} 3
+ | H1 = 36–'''40'''
+ | H2 = '''38'''–33
+ | place = AT&T Stadium{{Snd}} Arlington, TX
+ | attendance = 79,444<ref>{{cite web|url=http://www.statbroadcast.com/events/archived.php?id=52567|title=Final Four: Kentucky vs. Wisconsin|publisher=Stat Broadcast |access-date=2014-04-05}}</ref>
  | referee = Mike Stuart, Pat Adams, Terry Wymer
  | TV = TBS<br />TNT<br />truTV
 }}
 
 ====National Championship====
-{{main article|2014 NCAA Men's Division I Basketball Championship Game}}
+{{main|2014 NCAA Division I men's basketball championship game}}
 {{basketballbox
  | bg = #e3e3e3
  | date = Monday, April 7, 2014
  | time =  8:10 pm [[Central Time Zone|CT]]
- | report = [http://www.ncaa.com/game/basketball-men/d1/2014/04/07/kentucky-uconn Recap]
- | team2 = #8 Kentucky Wildcats
- | score2 = 54
- | team1 = '''#7 Connecticut Huskies'''
- | score1 = '''60'''
- | points2 = [[James Young (basketball)|J. Young]] - 20
- | rebounds2 = J. Young - 7
- | assist2 = [[Andrew Harrison (basketball)|An. Harrison]] - 5
- | otherstat2 = '''Halftime Score:''' Connecticut, 35-31 
- | points1 = [[Shabazz Napier|S. Napier]] - 22
- | rebounds1 = [[Lasan Kromah|L. Kromah]], [[DeAndre Daniels|D. Daniels]], [[Shabazz Napier|S. Napier]] - 6
- | assist1 = [[Ryan Boatright|R. Boatright]], [[Shabazz Napier|S. Napier]] - 3
- | H1 = 
- | H2 =
- | place = AT&T Stadium - Arlington, TX
- | attendance = 79,238<ref>{{cite web|url=http://www.statbroadcast.com/events/archived.php?id=52568|title=Championship: Connecticut vs. Kentucky |publisher=Stat Broadcast |accessdate=2014-04-07}}</ref>
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2014/04/07/kentucky-uconn Recap]
+ | team1 = #8 Kentucky Wildcats
+ | score1 = 54
+ | team2 = '''#7 UConn Huskies'''
+ | score2 = '''60'''
+ | points1 = [[James Young (basketball)|J. Young]]{{Snd}} 22
+ | rebounds1 = [[James Young (basketball)|J. Young]]{{Snd}} 7
+ | assist1 = [[Andrew Harrison (basketball)|A. Harrison]]{{Snd}} 5
+ | points2 = [[Shabazz Napier|S. Napier]]{{Snd}} 22
+ | rebounds2 = [[Lasan Kromah|L. Kromah]], [[DeAndre Daniels|D. Daniels]], [[Shabazz Napier|S. Napier]]{{Snd}} 6
+ | assist2 = [[Ryan Boatright|R. Boatright]], [[Shabazz Napier|S. Napier]]{{Snd}} 3
+ | H1 = 31–'''35'''
+ | H2 = 23–'''25'''
+ | place = AT&T Stadium{{Snd}} Arlington, TX
+ | attendance = 79,238<ref>{{cite web|url=http://www.statbroadcast.com/events/archived.php?id=52568|title=Championship: Connecticut vs. Kentucky |publisher=Stat Broadcast |access-date=2014-04-07}}</ref>
  | referee = Verne Harris, Doug Shows, Joe DeRosa
  | TV = CBS
 }}
@@ -1629,7 +1610,54 @@ During the Final Four round, regardless of the seeds of the participating teams,
 *[[James Young (basketball)|James Young]], Kentucky
 *[[Ryan Boatright]], UConn
 *[[DeAndre Daniels]], UConn
-*[[Shabazz Napier]], UConn, [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]]
+*[[Shabazz Napier]], UConn, [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]]
+
+==Tournament notes==
+[[2013–14 Wichita State Shockers men's basketball team|Wichita State]] became the first team since UNLV in 1991 to go into the tournament undefeated. The Shockers entered the tournament 34–0. Their perfect record of 35–0 (a then NCAA men's record) was spoiled by [[2013-14 Kentucky Wildcats men's basketball team|Kentucky]] in the second round. Kentucky in turn set an NCAA-men's-record 38 straight wins to start a season the next year.
+
+Kentucky became the first team to field all-freshman starters at the Final Four and championship games since the 1991–92 Michigan Wolverines under the [[Fab Five (University of Michigan)|Fab Five]].<ref>{{Cite news|url=https://www.nytimes.com/2014/03/30/sports/ncaabasketball/kentuckys-five-freshman-looking-to-separate-themselves-from-michigans-fab-five.html|title=Kentucky's Five Freshman Looking to Separate Themselves From Michigan's Fab Five|last1=Strauss|first1=Ben|date=2014-03-29|work=The New York Times|access-date=2019-12-07|last2=Gerstner|first2=Joanne C.|language=en-US|issn=0362-4331}}</ref> The 1992 Final Four and championship appearances by Michigan were subsequently vacated.
+
+[[2014 MEAC men's basketball tournament|MEAC]] champion [[2013–14 North Carolina Central Eagles men's basketball team|North Carolina Central University]]<ref>{{cite web|url=http://www.heraldsun.com/news/showcase/x1001078191/NCCU-claims-MEAC-title-advances-to-NCAA-Tournament-for-1st-time|title=NCCU claims historic MEAC title, lands 1st NCAA Tournament berth|website=heraldsun.com|access-date=2014-03-17|archive-url=https://web.archive.org/web/20150111175223/http://www.heraldsun.com/news/showcase/x1001078191/NCCU-claims-MEAC-title-advances-to-NCAA-Tournament-for-1st-time|archive-date=2015-01-11|url-status=dead}}</ref> and [[2014 Big West Conference men's basketball tournament|Big West]] champion [[2013–14 Cal Poly Mustangs men's basketball team|Cal Poly]]<ref>{{cite web|url=http://www.cbssports.com/collegebasketball/gametracker/recap/NCAAB_20140315_CPOLY@CSN/cal-poly-wins-big-west-tourney-as-7th-seed|title=NCAA College Basketball Scores|website=CBS Sports}}</ref> made their first NCAA Division I tournament appearances.
+
+For only the second time since 1973 no teams from the state of Indiana (a state noted for its basketball powerhouse programs) were in the tournament.<ref>{{cite news |url=https://www.nytimes.com/2014/03/15/sports/ncaabasketball/for-indiana-land-of-hoops-no-shot-in-ncaa-tournament.html?_r=0 |title=For Land of Hoops, No Shot in N.C.A.A. Tournament t|access-date=March 17, 2014 |date=March 16, 2014 |newspaper=[[The New York Times]] |last=Macur |first=Juliet}}</ref>
+
+There were five overtime games in the second round of the tournament, the most overtime games ever in tournament history. In contrast, the previous two tournaments had two overtime games '''''combined'''''.
+
+[[2013–14 North Dakota State Bison men's basketball team|North Dakota State]]'s victory against [[2013–14 Oklahoma Sooners men's basketball team|Oklahoma]] secured the first tournament win for the state of [[North Dakota]]. [[2013–14 Mercer Bears men's basketball team|Mercer]], [[2013–14 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]], [[2013–14 Albany Great Danes men's basketball team|Albany]], and Cal Poly had their first NCAA tournament wins. Cal Poly's victory over Texas Southern marked only the third time a team with a losing record won a game in the tournament.
+
+===Upsets===
+Per the NCAA, "Upsets are defined as when the winner of the game was seeded five or more places lower than the team it defeated." The 2014 tournament saw a total of 13 upsets; 6 of them were in the first round, 4 of them were in the second round, none in the Sweet Sixteen, one in the Elite Eight, and 2 in the Final Four.
+
+{| class="wikitable" style="text-align:left; font-size: 95%;"
+! Round !! South !! East !! West !! Midwest
+|-
+| First round 
+| {{ubl |No. 12 [[2013–14 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]] defeated No. 5 [[2013–14 VCU Rams men's basketball team|VCU]], 77–75 (OT) |No. 11 [[2013–14 Dayton Flyers men's basketball team|Dayton]] defeated No. 6 [[2013–14 Ohio State Buckeyes men's basketball team|Ohio State]], 60–59}}
+| No. 12 [[2013–14 Harvard Crimson men's basketball team|Harvard]] defeated No. 5 [[2013–14 Cincinnati Bearcats men's basketball team|Cincinnati]], 61–57
+| No. 12 [[2013–14 North Dakota State Bison men's basketball team|North Dakota State]] defeated No. 5 [[2013–14 Oklahoma Sooners men's basketball team|Oklahoma]], 80–75 (OT)
+| {{ubl |No. 14 [[2013–14 Mercer Bears men's basketball team|Mercer]] defeated No. 3 [[2013–14 Duke Blue Devils men's basketball team|Duke]], 78–71 |No. 11 [[2013–14 Tennessee Volunteers basketball team|Tennessee]] defeated No. 6 [[2013–14 UMass Minutemen basketball team|Massachusetts]], 86–67}}
+|-
+| Second Round 
+| {{ubl |No. 11 Dayton defeated No. 3 [[2013–14 Syracuse Orange men's basketball team|Syracuse]], 55–53 |No. 10 [[2013–14 Stanford Cardinal men's basketball team|Stanford]] defeated No. 2 [[2013–14 Kansas Jayhawks men's basketball team|Kansas]], 60–57}}
+| No. 7 [[2013–14 UConn Huskies men's basketball team|UConn]] defeated No. 2 [[2013–14 Villanova Wildcats men's basketball team|Villanova]], 77–65
+| ''None''
+| No. 8 [[2013–14 Kentucky Wildcats men's basketball team|Kentucky]] defeated No. 1 [[2013–14 Wichita State Shockers men's basketball team|Wichita State]], 78–76
+|-
+| Sweet 16
+|''None''
+|''None''
+|''None''
+|''None''
+|-
+| Elite 8
+|''None''
+|''None''
+|''None''
+| No. 8 Kentucky defeated No. 2 [[2013–14 Michigan Wolverines men's basketball team|Michigan]], 75–72
+|-
+| Final 4
+|colspan="4" style="text-align:center;"|{{ubl | No. 7 UConn defeated No. 1 [[2013–14 Florida Gators men's basketball team|Florida]], 63–53 |No. 8 Kentucky defeated No. 2 [[2013–14 Wisconsin Badgers men's basketball team|Wisconsin]], 74–73|item1_style=text-align:center;|item2_style=text-align:center;}}
+|}
 
 ==Record by conference==
 {|class="wikitable sortable" style="text-align:center;"
@@ -1857,65 +1885,66 @@ During the Final Four round, regardless of the seeds of the participating teams,
 *The [[Metro Atlantic Athletic Conference|MAAC]], [[Ohio Valley Conference|OVC]], [[Western Athletic Conference|WAC]], [[Patriot League]], [[Colonial Athletic Association|Colonial]], [[Sun Belt Conference|Sun Belt]], [[Big Sky Conference|Big Sky]], [[Horizon League]], [[Big South Conference|Big South]], [[Southern Conference]], [[Mid-American Conference|MAC]], [[Conference USA#Men's basketball|C-USA]], and [[Mid-Eastern Athletic Conference|MEAC]] each had one representative, eliminated in the second round with a record of 0–1.
 
 ==Media coverage==
+
 ===Television===
 The year 2014 marked the fourth year of a 14-year partnership between [[CBS Sports|CBS]] and [[Turner Sports|Turner]] cable networks [[TBS (U.S. TV channel)|TBS]], [[TNT (U.S. TV network)|TNT]] and [[truTV]] to cover the entire tournament under the ''[[NCAA March Madness (CBS/Turner)|NCAA March Madness]]'' banner. TBS aired the Final Four for the first year since CBS' 32 consecutive years of airing. The tournament was considered a ratings success. Tournament games averaged 10.5 million viewers, and the championship game garnered an average of 21.2 million viewers and a peak viewership of 24.3 million.
 
-*First Four - [[truTV]]
-*Second and Third Rounds - [[CBS]], [[TBS (U.S. TV channel)|TBS]], [[TNT (U.S. TV network)|TNT]], and truTV
-*Regional Semifinals and Finals (Sweet Sixteen and Elite Eight) - CBS and TBS
-*National Semifinals (Final Four) - TBS, TNT, truTV
-**TBS provided traditional coverage; TNT and truTV each gave [[#Team casts|team-specific broadcasts]].<ref>{{cite web |last=Paulsen |title=2014 March Madness TV Schedule on CBS, TBS, TNT and TruTV |url=http://www.sportsmediawatch.com/2014/03/2014-march-madness-tv-schedule-on-cbs-tbs-tnt-and-trutv/ |work=Sports Media Watch |accessdate=March 11, 2014}}</ref> 
-*National Championship - CBS
+*First Four{{Snd}} [[truTV]]
+*Second and third rounds{{Snd}} [[CBS]], [[TBS (U.S. TV channel)|TBS]], [[TNT (U.S. TV network)|TNT]], and truTV
+*Regional semifinals and Finals (Sweet Sixteen and Elite Eight){{Snd}} CBS and TBS
+*National semifinals (Final Four){{Snd}} TBS, TNT, truTV
+**TBS provided traditional coverage; TNT and truTV each gave [[#Team casts|team-specific broadcasts]].<ref>{{cite web |last=Paulsen |title=2014 March Madness TV Schedule on CBS, TBS, TNT and TruTV |url=http://www.sportsmediawatch.com/2014/03/2014-march-madness-tv-schedule-on-cbs-tbs-tnt-and-trutv/ |work=Sports Media Watch |date=11 March 2014 |access-date=March 11, 2014}}</ref> 
+*National Championship{{Snd}} CBS
 
 ====Studio hosts====
-<ref name="TV plans Week 1">{{cite web |title=CBS/Turner Releases the Tip Times and Announcing Assignments for First Two Rounds of 2014 NCAA Tournament|url=http://fangsbites.com/allie-laforce/cbsturner-releases-the-tip-times-and-announcing-assignments-for-first-two-rounds-of-2014-ncaa-tournament.html|publisher=Fangs Bites |accessdate=March 16, 2014 |date=March 16, 2014}}</ref>
-*[[Greg Gumbel]] (New York City and Arlington) – Second Round, Third Round, Regionals, Final Four and National Championship Game
-*[[Ernie Johnson Jr.]] (New York City, Atlanta and Arlington) – Second Round, Third Round, Regional Semi-Finals, Final Four and National Championship Game
-*[[Matt Winer]] (Atlanta) – First Four, Second Round and Third Round
+<ref name="TV plans Week 1">{{cite web |title=CBS/Turner Releases the Tip Times and Announcing Assignments for First Two Rounds of 2014 NCAA Tournament|url=http://fangsbites.com/allie-laforce/cbsturner-releases-the-tip-times-and-announcing-assignments-for-first-two-rounds-of-2014-ncaa-tournament.html|publisher=Fangs Bites |access-date=March 16, 2014 |date=March 16, 2014}}</ref>
+*[[Greg Gumbel]] (New York City and Arlington) – second round, third round, regionals, Final Four and national championship game
+*[[Ernie Johnson Jr.]] (New York City, Atlanta and Arlington) – second round, third round, regional semi-finals, Final Four and national championship game
+*[[Matt Winer]] (Atlanta) – First Four, second round and third round
 
 ====Studio analysts====
 <ref name="TV plans Week 1" />
-*[[Charles Barkley]] (New York City and Arlington) – Second Round, Third Round, Regionals, Final Four and National Championship Game
-*[[Mateen Cleaves]] (New York City) – Third Round
-*[[Seth Davis]] (Atlanta and Arlington) – First Four, Second Round, Third Round, Regional Semi-Finals, Final Four and National Championship Game
-*[[Doug Gottlieb]] (Atlanta) – Regional Semi-Finals
-*[[Grant Hill]] (Atlanta and Arlington) – First Four, Second Round, Third Round, Regional Semi-Finals, Final Four and National Championship Game
-*[[Clark Kellogg]] (New York City and Arlington) – Second Round, Third Round, Regionals, Final Four and National Championship Game
+*[[Charles Barkley]] (New York City and Arlington) – second round, third round, regionals, Final Four and national championship game
+*[[Mateen Cleaves]] (New York City) – third round
+*[[Seth Davis]] (Atlanta and Arlington) – First Four, second round, third round, regional semi-finals, Final Four and national championship game
+*[[Doug Gottlieb]] (Atlanta) – regional semi-finals
+*[[Grant Hill]] (Atlanta and Arlington) – First Four, second round, third round, regional semi-finals, Final Four and national championship game
+*[[Clark Kellogg]] (New York City and Arlington) – second round, third round, regionals, Final Four and national championship game
 *[[Reggie Miller]] (Arlington) – Final Four
-*[[Kenny Smith]] (New York City and Arlington) – Second Round, Third Round, Regionals, Final Four and National Championship Game
-*[[Steve Smith (basketball)|Steve Smith]] (Atlanta) – First Four, Second Round, Third Round and Regional Semi-Finals
-*[[Buzz Williams]] (New York City) – Third Round
+*[[Kenny Smith]] (New York City and Arlington) – second round, third round, regionals, Final Four and national championship game
+*[[Steve Smith (basketball)|Steve Smith]] (Atlanta) – First Four, second round, third round and regional semi-finals
+*[[Buzz Williams]] (New York City) – third round
 
 ====Commentary teams====
-<ref name="TV plans Week 1" /><ref>{{cite web |title=2014 NCAA Tournament Tip Times and Announcing Assignments for Sweet 16|url=http://fangsbites.com/allie-laforce/2014-ncaa-tournament-tip-times-and-announcing-assignments-for-sweet-16.html|publisher=Fangs Bites |accessdate=March 23, 2014 |date=March 23, 2014}}</ref><ref name ="TV plans Final Four">{{cite web |title=CBS/Turner Announces 2014 NCAA Men's Final Four Broadcast Plans ☆|url=http://fangsbites.com/cbs-sports/cbsturner-announces-2014-ncaa-mens-final-four-broadcast-plans.html|publisher=Fangs Bites |accessdate=April 1, 2014 |date=April 1, 2014}}</ref>
-*[[Jim Nantz]]/[[Greg Anthony]]/[[Steve Kerr]]/[[Tracy Wolfson]] – Second and Third Round at St. Louis, Missouri; Midwest Regional at Indianapolis, Indiana; Final Four at Arlington, Texas<br />''Kerr joined Nantz and Anthony during the Final Four and National Championship games''
-*[[Marv Albert]]/[[Steve Kerr]]/[[Craig Sager]] – Second and Third Round at San Antonio, Texas; West Regional at Anaheim, California
-*[[Verne Lundquist]]/[[Bill Raftery]]/[[Allie LaForce]] – Second and Third Round at Buffalo, New York; East Regional at New York City, New York
-*[[Kevin Harlan]]/[[Len Elmore]]/[[Reggie Miller]]/[[Rachel Nichols (journalist)|Rachel Nichols]] – First Four at Dayton, Ohio; Second and Third Round at Raleigh, North Carolina; South Regional at Memphis, Tennessee
-*[[Ian Eagle]]/[[Jim Spanarkel]]/[[Lewis Johnson]] – Second and Third Round at Milwaukee, Wisconsin
-*[[Brian Anderson (broadcaster)|Brian Anderson]]/[[Dan Bonner]]/[[Kristine Leahy]] – First Four at Dayton, Ohio; Second and Third Round at Orlando, Florida
-*[[Spero Dedes]]/[[Doug Gottlieb]]/[[Jaime Maggio]] – Second and Third Round at Spokane, Washington
-*[[Andrew Catalon]]/[[Mike Gminski]]/[[Otis Livingston]] – Second and Third Round at San Diego, California
+<ref name="TV plans Week 1" /><ref>{{cite web |title=2014 NCAA Tournament Tip Times and Announcing Assignments for Sweet 16|url=http://fangsbites.com/allie-laforce/2014-ncaa-tournament-tip-times-and-announcing-assignments-for-sweet-16.html|publisher=Fangs Bites |access-date=March 23, 2014 |date=March 23, 2014}}</ref><ref name ="TV plans Final Four">{{cite web |title=CBS/Turner Announces 2014 NCAA Men's Final Four Broadcast Plans ☆|url=http://fangsbites.com/cbs-sports/cbsturner-announces-2014-ncaa-mens-final-four-broadcast-plans.html|publisher=Fangs Bites |access-date=April 1, 2014 |date=April 1, 2014}}</ref>
+*[[Jim Nantz]]/[[Greg Anthony]]/[[Steve Kerr]]/[[Tracy Wolfson]] – Second and third round at St. Louis, Missouri; Midwest Regional at Indianapolis, Indiana; Final Four at Arlington, Texas<br />''Kerr joined Nantz and Anthony during the Final Four and national championship games''
+*[[Marv Albert]]/[[Steve Kerr]]/[[Craig Sager]] – Second and third round at San Antonio, Texas; West Regional at Anaheim, California
+*[[Verne Lundquist]]/[[Bill Raftery]]/[[Allie LaForce]] – Second and third round at Buffalo, New York; East Regional at New York City, New York
+*[[Kevin Harlan]]/[[Len Elmore]]/[[Reggie Miller]]/[[Rachel Nichols (journalist)|Rachel Nichols]] – First Four at Dayton, Ohio; Second and third round at Raleigh, North Carolina; South Regional at Memphis, Tennessee
+*[[Ian Eagle]]/[[Jim Spanarkel]]/[[Lewis Johnson (commentator)|Lewis Johnson]] – Second and third round at Milwaukee, Wisconsin
+*[[Brian Anderson (broadcaster)|Brian Anderson]]/[[Dan Bonner]]/[[Kristine Leahy]] – First Four at Dayton, Ohio; Second and third round at Orlando, Florida
+*[[Spero Dedes]]/[[Doug Gottlieb]]/Jaime Maggio – Second and third round at Spokane, Washington
+*[[Andrew Catalon]]/[[Mike Gminski]]/[[Otis Livingston]] – Second and third round at San Diego, California
 
 =====Team casts=====
 For the first time in the history of the tournament, Turner broadcast the semifinals. TBS aired the traditional neutral broadcast (with Nantz/Anthony/Kerr/Wolfson commentator set that is also being used for CBS's national championship coverage). However, Turner also distributed team-centered broadcasts for the Final Four broadcasts on TNT and truTV. The announcers for these broadcasts are as follows:<ref name ="TV plans Final Four" /> 
-*[[David Steele (sports announcer)|David Steele]]/[[Mark Wise]]/James Bates - Florida Teamcast on TNT
-*[[Eric Frede]]/[[Donny Marshall]]/[[Swin Cash]] - UConn Teamcast on truTV
-*[[Rob Bromley]]/[[Rex Chapman]]/[[Dave Baker (sportscaster)|Dave Baker]] - Kentucky Teamcast on TNT
-*[[Wayne Larrivee]]/[[Mike Kelley (basketball)|Mike Kelley]]/[[Phil Dawson]] - Wisconsin Teamcast on truTV
+*[[David Steele (sports announcer)|David Steele]]/Mark Wise/James Bates{{Snd}} Florida Teamcast on TNT
+*[[Eric Frede]]/[[Donny Marshall]]/[[Swin Cash]]{{Snd}} UConn Teamcast on truTV
+*[[Rob Bromley]]/[[Rex Chapman]]/[[Dave Baker (sportscaster)|Dave Baker]]{{Snd}} Kentucky Teamcast on TNT
+*[[Wayne Larrivee]]/[[Mike Kelley (basketball)|Mike Kelley]]/[[Phil Dawson]]{{Snd}} Wisconsin Teamcast on truTV
 
 ===International===
-[[ESPN International]] distributes broadcast rights to the tournament outside the United States, and will produce separate international broadcasts of the semi-final and championship games with announcers [[Dan Shulman]] (play-by-play), [[Dick Vitale]] (analyst for the final and one semi-final), and [[Jay Bilas]] (analyst for the other semi-final).<ref>{{cite web |url=http://espnmediazone.com/us/press-releases/2014/03/bilas-shulman-vitale-call-final-four-games-espn-international/ |title=Bilas, Shulman and Vitale to Call Final Four Games for ESPN International |first=Gracie |last=Blackburn |work=ESPN MediaZone |date=March 6, 2014 |accessdate=March 6, 2014}}</ref> For the initial rounds, they use CBS/Turner coverage with an additional host to transition between games, with whiparound coverage similar to the CBS-only era. ESPN also has exclusive digital rights to the NCAA tournament outside of North America.
+[[ESPN International]] distributes broadcast rights to the tournament outside the United States, and will produce separate international broadcasts of the semi-final and championship games with announcers [[Dan Shulman]] (play-by-play), [[Dick Vitale]] (analyst for the final and one semi-final), and [[Jay Bilas]] (analyst for the other semi-final).<ref>{{cite web |url=http://espnmediazone.com/us/press-releases/2014/03/bilas-shulman-vitale-call-final-four-games-espn-international/ |title=Bilas, Shulman and Vitale to Call Final Four Games for ESPN International |first=Gracie |last=Blackburn |work=ESPN MediaZone |date=March 6, 2014 |access-date=March 6, 2014}}</ref> For the initial rounds, they use CBS/Turner coverage with an additional host to transition between games, with whiparound coverage similar to the CBS-only era. ESPN also has exclusive digital rights to the NCAA tournament outside of North America.
 
-In [[Canada]], the broadcasting rights are with [[The Sports Network|TSN]].<ref>https://www.tsn.ca/story/?id=446577</ref> In The [[Philippines]] it's aired on [[TV5 (Philippines)|TV5]].<ref>http://www.interaksyon.com/interaktv/tv5-to-air-us-ncaa-march-madness</ref>
+In [[Canada]], the broadcasting rights are with [[The Sports Network|TSN]].<ref>{{cite web|url=https://www.tsn.ca/story/?id=446577|website=TSN|url-status=dead|title = TSN offers multi-platform coverage of March Madness  |access-date=2017-12-09|archive-date=2014-08-26|archive-url=https://web.archive.org/web/20140826043744/http://www.tsn.ca/story/?id=446577}}</ref> In The [[Philippines]] it's aired on [[TV5 (Philippines)|TV5]].<ref>{{Cite web |url=http://www.interaksyon.com/interaktv/tv5-to-air-us-ncaa-march-madness |title = TV5 to air US NCAA March Madness {{!}} InterAksyon.com {{!}} Sports5  |access-date=2014-04-08 |archive-url=https://web.archive.org/web/20140506071332/http://www.interaksyon.com/interaktv/tv5-to-air-us-ncaa-march-madness |archive-date=2014-05-06 |url-status=dead }}</ref>
 
 ===Radio===
-[[Westwood One (current)|Westwood One]] has exclusive national radio rights to the entire tournament.<ref name="Radio Rights">{{cite web |title=NCAA, Westwood One extend deal |url=http://www.ncaa.com/news/ncaa/2011-01-13/ncaa-westwood-one-extend-deal |publisher=NCAA |accessdate=May 12, 2013 |date=January 13, 2011}}</ref> Team radio networks also hold the rights to broadcast their teams through their entire progression within the tournament and no flagship restrictions. However men's team radio networks cannot stream the games online during the NCAA tournament. WestwoodOne is the only group authorized to stream the tournament online.
+[[Westwood One (current)|Westwood One]] has exclusive national radio rights to the entire tournament.<ref name="Radio Rights">{{cite web |title=NCAA, Westwood One extend deal |url=https://www.ncaa.com/news/ncaa/2011-01-13/ncaa-westwood-one-extend-deal |publisher=NCAA |access-date=May 12, 2013 |date=January 13, 2011 |archive-url=https://web.archive.org/web/20130516174340/http://www.ncaa.com/news/ncaa/2011-01-13/ncaa-westwood-one-extend-deal |archive-date=May 16, 2013 |url-status=dead |df=mdy-all }}</ref> Team radio networks also hold the rights to broadcast their teams through their entire progression within the tournament and no flagship restrictions. However men's team radio networks cannot stream the games online during the NCAA tournament. WestwoodOne is the only group authorized to stream the tournament online.
 {{col-begin}}
 {{col-2}}
 
 ====First Four====
-<ref name="Week 1">{{cite web |title=2014 NCAA Men's Division 1 Tournament Week 1 Schedule |url=http://eyeonskyandairsports.blogspot.com/2014/03/2014-ncaa-mens-division-1-tournament.html|publisher=Eye on Sky and Air Sports |accessdate=March 17, 2014 |date=March 17, 2014}}</ref>
+<ref name="Week 1">{{cite web |title=2014 NCAA Men's Division 1 Tournament Week 1 Schedule |url=http://eyeonskyandairsports.blogspot.com/2014/03/2014-ncaa-mens-division-1-tournament.html|publisher=Eye on Sky and Air Sports |access-date=March 17, 2014 |date=March 17, 2014}}</ref>
 *[[John Tautges]] and [[Kyle Macy]] – at Dayton, Ohio
 
 ====Second and Third rounds====
@@ -1931,48 +1960,54 @@ In [[Canada]], the broadcasting rights are with [[The Sports Network|TSN]].<ref>
 {{col-2}}
 
 ====Regionals====
-<ref>{{cite web |title=2014 NCAA Men's Division 1 Tournament Week 2 Schedule |url=http://eyeonskyandairsports.blogspot.com/2014/03/2014-ncaa-mens-division-1-tournament_23.html|publisher=Eye on Sky and Air Sports |accessdate=March 23, 2014 |date=March 23, 2014}}</ref>
+<ref>{{cite web |title=2014 NCAA Men's Division 1 Tournament Week 2 Schedule |url=http://eyeonskyandairsports.blogspot.com/2014/03/2014-ncaa-mens-division-1-tournament_23.html|publisher=Eye on Sky and Air Sports |access-date=March 23, 2014 |date=March 23, 2014}}</ref>
 *[[Ian Eagle]] and John Thompson – East Regional at New York City, New York
 *Kevin Kugler and P. J. Carlesimo – Midwest Regional at Indianapolis, Indiana
 *Gary Cohen and Will Perdue – South Regional at Memphis, Tennessee
 *Ted Robinson and Bill Frieder – West Regional at Anaheim, California
 
 ====Final four====
-<ref>{{cite web |title=2014 NCAA Men's Division I Tournament Final Four & Championship Broadcast Information  |url=http://eyeonskyandairsports.blogspot.com/2014/04/2014-ncaa-mens-division-i-tournament.html|publisher=Eye on Sky and Air Sports |accessdate=April 1, 2014 |date=April 1, 2014}}</ref>
+<ref>{{cite web |title=2014 NCAA Men's Division I Tournament Final Four & Championship Broadcast Information  |url=http://eyeonskyandairsports.blogspot.com/2014/04/2014-ncaa-mens-division-i-tournament.html|publisher=Eye on Sky and Air Sports |access-date=April 1, 2014 |date=April 1, 2014}}</ref>
 *Kevin Kugler, John Thompson, [[Bill Raftery]], and [[Jim Gray (sportscaster)|Jim Gray]] – Arlington, Texas
 {{col-end}}
 
 ==See also==
-* [[2014 NCAA Division II Men's Basketball Tournament]]
-* [[2014 NCAA Division III Men's Basketball Tournament]]
-* [[2014 NCAA Division I Women's Basketball Tournament]]
-* [[NCAA Division II Women's Basketball Tournament|2014 NCAA Division II Women's Basketball Tournament]]
-* [[NCAA Division III Women's Basketball Tournament|2014 NCAA Division III Women's Basketball Tournament]]
+* [[2014 NCAA Division II men's basketball tournament]]
+* [[2014 NCAA Division III men's basketball tournament]]
+* [[2014 NCAA Division I women's basketball tournament]]
+* [[NCAA Division II women's basketball tournament|2014 NCAA Division II women's basketball tournament]]
+* [[NCAA Division III women's basketball tournament|2014 NCAA Division III women's basketball tournament]]
 * [[2014 National Invitation Tournament]]
 * [[2014 Women's National Invitation Tournament]]
-* [[2014 NAIA Division I Men's Basketball Tournament]]
-* [[2014 NAIA Division II Men's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships|2014 NAIA Division I Women's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships#Division II|2014 NAIA Division II Women's Basketball Tournament]]
+* [[2014 NAIA Division I men's basketball tournament]]
+* [[2014 NAIA Division II men's basketball tournament]]
+* [[NAIA Women's Basketball Championships|2014 NAIA Division I women's basketball tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2014 NAIA Division II women's basketball tournament]]
 * [[2014 College Basketball Invitational]]
 * [[2014 CollegeInsider.com Postseason Tournament]]
+
+==Notes==
+{{reflist|group=n}}
 
 ==References==
 {{Reflist|2}}
 
-{{NCAA Men's Division I Basketball Tournament navbox}}
+{{NCAA Division I men's basketball tournament navbox}}
 {{2014 NCAA Division I men's basketball tournament navbox}}
 {{2013–14 NCAA Division I championships navbox}}
 
-{{DEFAULTSORT:2014 Ncaa Men's Division I Basketball Tournament}}
-[[Category:2013–14 NCAA Division I men's basketball season|NCAA Men's Division I Basketball Tournament]]
-[[Category:2014 in sports in Texas|NCAA Men's Division I Basketball Tournament]]
-[[Category:NCAA Division I Men's Basketball Championship]]
-[[Category:Sports competitions in Anaheim, California]]
-[[Category:Sports competitions in New York City]]
-[[Category:Sports in Arlington, Texas]]
-[[Category:Sports in Dayton, Ohio]]
-[[Category:Sports in Memphis, Tennessee]]
-[[Category:Sports competitions in Indianapolis]]
+{{DEFAULTSORT:2014 NCAA Division I men's basketball tournament}}
+[[Category:2013–14 NCAA Division I men's basketball season|NCAA Division I men's basketball tournament]]
+[[Category:2014 in sports in Texas|NCAA Division I men's basketball tournament]]
+[[Category:March 2014 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:April 2014 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:NCAA Division I men's basketball tournament]]
+[[Category:Basketball competitions in Anaheim, California]]
+[[Category:Basketball competitions in New York City]]
+[[Category:Sports competitions in Arlington, Texas]]
+[[Category:21st century in Arlington, Texas]]
+[[Category:Basketball competitions in Dayton, Ohio]]
+[[Category:Basketball competitions in Memphis, Tennessee]]
+[[Category:Basketball competitions in Indianapolis]]
 [[Category:Basketball in the Dallas–Fort Worth metroplex]]
-[[Category:Basketball in San Antonio]]
+[[Category:Basketball competitions in San Antonio]]

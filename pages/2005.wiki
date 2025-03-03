@@ -1,50 +1,42 @@
-{{multiple issues|
-{{Refimprove|date=June 2015}}
-{{Tone|date=April 2009}}
-}}
-
-{{Infobox NCAA Basketball Tournament |
+{{Short description|Edition of USA college basketball tournament}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox NCAA basketball tournament |
 | Year=2005
 | Image=2005FinalFour.png
-| ImageSize=150px
-| Caption=2005 Final Four logo
 | Teams=65
 | FinalFourArena=[[Edward Jones Dome]]
 | FinalFourCity=[[St. Louis, Missouri]]
-| Champions=[[North Carolina Tar Heels men's basketball|North Carolina]]
+| Champions = [[2004–05 North Carolina Tar Heels men's basketball team|North Carolina Tar Heels]]
 | TitleCount=4th
 | ChampGameCount=8th
 | ChampFFCount=16th
-| RunnerUp=[[Illinois Fighting Illini men's basketball|Illinois]]
+| RunnerUp=[[2004–05 Illinois Fighting Illini men's basketball team|Illinois Fighting Illini]]
 | GameCount=1st
 | RunnerFFCount=5th
-| Semifinal1=[[Louisville Cardinals men's basketball|Louisville]]
+| Semifinal1=[[2004–05 Louisville Cardinals men's basketball team|Louisville Cardinals]]
 | FinalFourCount=8th
-| Semifinal2=[[Michigan State Spartans men's basketball|Michigan State]]
+| Semifinal2=[[2004–05 Michigan State Spartans men's basketball team|Michigan State Spartans]]
 | FinalFourCount2=6th
 | Coach=[[Roy Williams (coach)|Roy Williams]]
 | CoachCount=1st
 | MOP=[[Sean May]]
-| MOPTeam=University of North Carolina
-| Attendance=689,317
-| TopScorer=Sean May
-| TopScorerTeam=North Carolina
-| Points=134
+| MOPTeam=North Carolina
+| Attendance=47,262
 }}
 [[File:2005 NCAA North Carolina v Michigan State.JPG|thumb|225px|2005 Final Four, Edward Jones Dome|right]]
-The '''2005 [[NCAA Division I Men's Basketball Tournament]]''' involved 65 schools playing in single-elimination play to determine the national champion of men's NCAA Division I [[college basketball]]. It began on March 15, 2005, and ended with the [[2005 NCAA Men's Division I Basketball Championship Game|championship game]] on April 4 at the [[Edward Jones Dome]] in [[St. Louis]].
+The '''2005 [[NCAA Division I men's basketball tournament]]''' involved 65 schools playing in single-elimination play to determine the national champion of men's NCAA Division I [[college basketball]]. It began on March 15, 2005, and ended with the [[2005 NCAA men's Division I basketball championship game|championship game]] on April 4 at the [[Edward Jones Dome]] in [[St. Louis]].
 
-The Final Four consisted of [[Illinois Fighting Illini men's basketball|Illinois]], the overall top seed and in the Final Four for the first time since 1989, [[Louisville Cardinals men's basketball|Louisville]], making their first appearance since winning the national championship in 1986, [[North Carolina Tar Heels men's basketball|North Carolina]], reaching their first Final Four since their 2000 Cinderella run, and [[Michigan State Spartans men's basketball|Michigan State]], back in the Final Four for the first time since 2001.
+The [[Final Four (college basketball)|Final Four]] consisted of top seed [[Illinois Fighting Illini men's basketball|Illinois]], in their first Final Four appearance since 1989, [[Louisville Cardinals men's basketball|Louisville]], making their first appearance since winning the [[1986 NCAA Division I men's basketball tournament|national championship in 1986]], [[North Carolina Tar Heels men's basketball|North Carolina]], reaching their first Final Four since their 2000 Cinderella run, and [[Michigan State Spartans men's basketball|Michigan State]], back in the Final Four for the first time since 2001.
 
-North Carolina emerged as the national champions for a fourth time, defeating Illinois in the final 75-70.<ref name=":2">{{Cite web|title = May's big day helps Williams win first national title|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000063|website = ESPN.com|access-date = 2016-02-16}}</ref> North Carolina's [[Sean May]] was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]].<ref name=":2" /> Coach [[Roy Williams (coach)|Roy Williams]] won his first national championship.<ref name=":2" />
+North Carolina emerged as the national champion for a fourth time, defeating Illinois in the final 75–70.<ref name=":2">{{cite web|title = May's big day helps Williams win first national title|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000063|archive-url = https://archive.today/20160328180019/http://espn.go.com/mens-college-basketball/recap?gameId=254000063|url-status = dead|archive-date = March 28, 2016|website = ESPN.com|access-date = 2016-02-16}}</ref> North Carolina's [[Sean May]] was named the tournament's [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]].<ref name=":2" /> It was coach [[Roy Williams (coach)|Roy Williams]]'s first national championship.<ref name=":2" />
 
-For the first time since 1999, when [[Weber State Wildcats men's basketball|Weber State]] defeated North Carolina, a #14 seed defeated a #3 seed when [[Bucknell Bison|Bucknell]] upset [[Kansas Jayhawks men's basketball|Kansas]].<ref name=":3">{{Cite web|title = Kansas suffers 1st first-round NCAA tourney loss since '78|url = http://espn.go.com/ncb/recap?gameId=254000024|website = ESPN.com|access-date = 2016-02-16}}</ref> A #13 seed, [[Vermont Catamounts men's basketball|Vermont]], advanced by defeating [[Syracuse Orange men's basketball|Syracuse]] in the first round<ref name=":4">{{Cite web|title = Orange crushed: Vermont shocks 'Cuse in OT|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000036|website = ESPN.com|access-date = 2016-02-16}}</ref> and a #12 seed, [[Milwaukee Panthers men's basketball|Wisconsin-Milwaukee]], advanced to the Sweet Sixteen in the Chicago region.<ref name=":5">{{Cite web|title = 2005 UW-Milwaukee vs. Alabama Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/26/2005-UW-Milwaukee-vs-Alabama-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}</ref><ref>{{Cite web|title = UW-Milwaukee still dancing with upset over BC|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000052|website = ESPN.com|access-date = 2016-02-16}}</ref>
+For the first time since 1999, when [[Weber State Wildcats men's basketball|Weber State]] defeated North Carolina, a #14 seed defeated a #3 seed when [[Bucknell Bison|Bucknell]] upset [[Kansas Jayhawks men's basketball|Kansas]].<ref name=":3">{{cite web|title = Kansas suffers 1st first-round NCAA tourney loss since '78|url = http://espn.go.com/ncb/recap?gameId=254000024|archive-url = https://web.archive.org/web/20151007050314/http://espn.go.com/ncb/recap?gameId=254000024|url-status = dead|archive-date = October 7, 2015|website = ESPN.com|access-date = 2016-02-16}}</ref> A #13 seed, [[Vermont Catamounts men's basketball|Vermont]], advanced by defeating [[Syracuse Orange men's basketball|Syracuse]] in the first round<ref name=":4">{{cite web|title = Orange crushed: Vermont shocks 'Cuse in OT|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000036|archive-url = https://web.archive.org/web/20160701033343/http://espn.go.com/mens-college-basketball/recap?gameId=254000036|url-status = dead|archive-date = July 1, 2016|website = ESPN.com|access-date = 2016-02-16}}</ref> and a #12 seed, [[2004–05 Milwaukee Panthers men's basketball team|Wisconsin-Milwaukee]], advanced to the Sweet Sixteen in the Chicago region.<ref name=":5">{{cite web|title = 2005 UW-Milwaukee vs. Alabama Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/26/2005-UW-Milwaukee-vs-Alabama-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web|title = UW-Milwaukee still dancing with upset over BC|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000052|archive-url = https://web.archive.org/web/20160630101625/http://espn.go.com/mens-college-basketball/recap?gameId=254000052|url-status = dead|archive-date = June 30, 2016|website = ESPN.com|access-date = 2016-02-16}}</ref>
 
 ==Tournament procedure==
-{{Details|NCAA Men's Division I Basketball Championship#Tournament format}}
-A total of 65 teams entered the tournament. Thirty of the teams earned automatic bids by winning their [[list of college athletic conferences|conference]] tournaments. The automatic bid of the [[Ivy League]], which does not conduct a postseason tournament, went to its regular season champion. The remaining 34 teams were granted "at-large" bids, which are extended by the NCAA Selection Committee.
+{{Further|NCAA Men's Division I Basketball Championship#Tournament format}}
+A total of 65 teams entered the tournament, thirty having earned automatic bids by winning their [[list of college athletic conferences|conference]] tournaments. The automatic bid of the [[Ivy League]], which does not conduct a postseason tournament, went to its regular season champion. The remaining 34 teams were granted "at-large" bids, which are extended by the NCAA Selection Committee.
 
-Two teams played an opening-round game, popularly called the "[[NCAA Men's Division I Basketball Play-In Game|play-in game]]"; the winner of that game advanced to the main draw of the tournament and plays a top seed in one of the regionals. This game has been played at the [[University of Dayton Arena]] in [[Dayton, Ohio]] since its inception in 2001.
+Two teams play an opening-round game, popularly called the "[[NCAA men's Division I basketball opening round|play-in game]]," the winner of which advances to the main draw of the tournament and plays a top seed in one of the regionals. Since its inception in 2001, this game has been played at the [[University of Dayton Arena]] in [[Dayton, Ohio]].
 
 All 64 teams were seeded 1 to 16 within their regionals; the winner of the play-in game automatically received a 16 seed. The [[NCAA basketball tournament selection process|Selection Committee]] seeded the entire field from 1 to 65.
 
@@ -56,15 +48,14 @@ The 2005 regionals, along with their top seeds, are listed below.
 
 Each regional winner advanced to the [[Final Four]], held April 2–4 in St. Louis.
 
-==Locations==
-The 2005 play-in game was played on Tuesday, March 15, at the [[University of Dayton Arena]] in [[Dayton, Ohio]], as it had been since its inception in [[2001 NCAA Men's Division I Basketball Tournament|2001]].
-
-{{Location map+|USA|width=450|float=right|caption=2005 first and second rounds (note: the play-in game was held in Dayton, Ohio)|places= 
+==Schedule and venues==
+{{Location map+|USA|width=450|float=right|caption=2005 play-in game (orange) and first and second rounds (green)|places=
+{{Location map~|USA|mark=orange pog.svg|lat_deg=39.7404|lon_deg=-84.1792|position=right|background=#FFFFFF|label=Dayton|link=UD Arena}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=43.618710|lon_deg=-116.214607|position=left|background=#FFFFFF|label=Boise|link=Taco Bell Arena}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=32.221743|lon_deg=-110.926479|position=left|background=#FFFFFF|label=Tucson|link=McKale Center}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=35.467560|lon_deg=-97.516428|position=left|background=#FFFFFF|label=Oklahoma City|link=Chesapeake Energy Arena|Ford Center}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=36.162664|lon_deg=-86.781602|position=left|background=#FFFFFF|label=Nashville|link=Bridgestone Arena}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=39.768403|lon_deg=-86.158068|position=bottom|background=#FFFFFF|label=Indianapolis|link=RCA Dome}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.768403|lon_deg=-86.158068|position=left|background=#FFFFFF|label=Indianapolis|link=RCA Dome}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=41.499320|lon_deg=-81.694361|position=left|background=#FFFFFF|label=Cleveland|link=Wolstein Center}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=35.227087|lon_deg=-80.843127|position=bottom|background=#FFFFFF|label=Charlotte|link=Charlotte Coliseum}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=42.262593|lon_deg=-71.802293|position=left|background=#FFFFFF|label=Worcester|link=DCU Center}}
@@ -78,665 +69,795 @@ The 2005 play-in game was played on Tuesday, March 15, at the [[University of Da
 {{Location map~|USA|mark=red pog.svg|lat_deg=38.627003|lon_deg=-90.199404|position=left|background=#FFFFFF|label=Saint Louis|link=Edward Jones Dome}}
 }}
 
-The first and second-round games were played at the following sites:
-;March 17 and 19:
-:[[McKale Center]], [[Tucson, Arizona]] (Host: [[University of Arizona]])
-:[[RCA Dome]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Butler University]] and [[Horizon League]])
-:[[Taco Bell Arena]], [[Boise, Idaho]] (Host: [[Boise State University]])
-:[[Wolstein Center]], [[Cleveland|Cleveland, Ohio]] (Host: [[Cleveland State University]])
+Sites hosting each round of the 2005 tournament:
 
-;March 18 and 20:
-:[[Charlotte Coliseum]], [[Charlotte, North Carolina]] (Host: [[Davidson College]])
-:[[DCU Center]], [[Worcester, Massachusetts]] (Host: [[College of the Holy Cross]])
-:[[Ford Center (Oklahoma City)|Ford Center]], [[Oklahoma City|Oklahoma City, Oklahoma]] (Host: [[Big 12 Conference]])
-:[[Gaylord Entertainment Center]], [[Nashville, Tennessee]] (Host: [[Ohio Valley Conference]])
+'''Opening round'''
+*March 15
+**[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
 
-The regional final sites, named after their host cities, were:
-;March 24 and 26:
-:'''Albuquerque Regional''', [[The Pit (arena)|University Arena ("The Pit")]], [[Albuquerque, New Mexico]] (Host: [[University of New Mexico]])
-:'''Chicago Regional''', [[Allstate Arena]], [[Rosemont, Illinois]] (Host: [[DePaul University]])
-;March 25 and 27:
-:'''Austin Regional''', [[Frank Erwin Center]], [[Austin, Texas]] (Host: [[University of Texas at Austin]])
-:'''Syracuse Regional''', [[Carrier Dome]], [[Syracuse, New York]] (Host: [[Syracuse University]])
+'''First and second rounds'''
+*March 17 and 19
+** [[McKale Center]], [[Tucson, Arizona]] (Host: [[University of Arizona]])
+** [[RCA Dome]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Butler University]], [[Horizon League]])
+** [[Taco Bell Arena]], [[Boise, Idaho]] (Host: [[Boise State University]])
+** [[Wolstein Center]], [[Cleveland|Cleveland, Ohio]] (Host: [[Cleveland State University]])
+*March 18 and 20
+** [[Charlotte Coliseum]], [[Charlotte, North Carolina]] (Host: [[Davidson College]])
+** [[DCU Center]], [[Worcester, Massachusetts]] (Host: [[College of the Holy Cross]])
+** [[Ford Center (Oklahoma City)|Ford Center]], [[Oklahoma City|Oklahoma City, Oklahoma]] (Host: [[Big 12 Conference]])
+** [[Gaylord Entertainment Center]], [[Nashville, Tennessee]] (Host: [[Ohio Valley Conference]])
 
-Each regional winner advanced to the [[Final Four]] at the [[Edward Jones Dome]], [[St. Louis, Missouri]], hosted by the [[Missouri Valley Conference]]. The semi-final games were held on April 2 and the final on April 4, 2005. The Edward Jones Dome became the 34th venue to host the Final Four, which returned to St. Louis for the first time since 1978, although it has not returned since. For the first time since 1989, there were no new venues used. To date, 2005 marked the last time that four arenas - Allstate Arena, Charlotte Coliseum, DCU Center, and the Wolstein Center - were used. The Charlotte Coliseum shut down later that year, replaced by what is now known as the [[Spectrum Center (arena)|Spectrum Center]] in downtown Charlotte. The other three venues all are still open, although games have mostly moved to the [[United Center]] in Chicago and [[Quicken Loans Arena]] in Cleveland since, and Worcester not having as many amenities as nearby Boston and Providence, both of which now routinely host games.
+'''Regional semifinals and finals''' (Sweet Sixteen and Elite Eight)
+*March 24 and 26
+**'''Albuquerque Regional''' 
+***[[The Pit (arena)|University Arena ("The Pit")]], [[Albuquerque, New Mexico]] (Host: [[University of New Mexico]])
+**'''Chicago Regional'''
+***[[Allstate Arena]], [[Rosemont, Illinois]] (Host: [[DePaul University]])
+*March 25 and 27
+**'''Austin Regional'''
+***[[Frank Erwin Center]], [[Austin, Texas]] (Host: [[University of Texas at Austin]])
+**'''Syracuse Regional'''
+***[[Carrier Dome]], [[Syracuse, New York]] (Host: [[Syracuse University]])
+
+'''National semifinals and championship''' (Final Four and championship)
+*April 2 and 4
+**[[Edward Jones Dome]], [[St. Louis, Missouri]] (Host: [[Missouri Valley Conference]])
 
 ==Qualifying teams==
+{{further|2005 NCAA Division I men's basketball tournament qualifying teams}}
+
+===Automatic bids===
+The following teams were automatic qualifiers for the 2005 NCAA field by virtue of winning their conference's tournament (except for the Ivy League, whose regular-season champion received the automatic bid).
+
+{|class="wikitable sortable" style="text-align: center;"
+|-
+!Conference
+!School
+! data-sort-type="number" |Appearance
+!Last bid
+|-
+|align=left|[[2005 ACC men's basketball tournament|ACC]]
+|align=left|[[2004–05 Duke Blue Devils men's basketball team|Duke]]
+|29th
+|[[2004 NCAA Division I men's basketball tournament|2004]]
+|-
+|align=left|[[2005 America East men's basketball tournament|America East]]
+|align=left|[[2004–05 Vermont Catamounts men's basketball team|Vermont]]
+|3rd
+|[[2004 NCAA Division I men's basketball tournament|2004]]
+|-
+|align=left|[[2005 Atlantic 10 men's basketball tournament|Atlantic 10]]
+|align=left|[[2004–05 George Washington Colonials men's basketball team|George Washington]]
+|8th
+|[[1999 NCAA Division I men's basketball tournament|1999]]
+|-
+|align=left|[[2005 Atlantic Sun men's basketball tournament|Atlantic Sun]]
+|align=left|[[2004–05 UCF Golden Knights men's basketball team|Central Florida]]
+|4th
+|[[2004 NCAA Division I men's basketball tournament|2004]]
+|-
+|align=left|[[2005 Big 12 men's basketball tournament|Big 12]]
+|align=left|[[2004–05 Oklahoma State Cowboys basketball team|Oklahoma State]]
+|22nd
+|[[2004 NCAA Division I men's basketball tournament|2004]]
+|-
+|align=left|[[2005 Big East men's basketball tournament|Big East]]
+|align=left|[[2004–05 Syracuse Orange men's basketball team|Syracuse]]
+|30th
+|[[2004 NCAA Division I men's basketball tournament|2004]]
+|-
+|align=left|[[2005 Big Sky Conference men's basketball tournament|Big Sky]]
+|align=left|[[2004–05 Montana Grizzlies basketball team|Montana]]
+|6th
+|[[2002 NCAA Division I men's basketball tournament|2002]]
+|-
+|align=left|[[2005 Big South Conference men's basketball tournament|Big South]]
+|align=left|[[2004–05 Winthrop Eagles men's basketball team|Winthrop]]
+|5th
+|[[2002 NCAA Division I men's basketball tournament|2002]]
+|-
+|align=left|[[2005 Big Ten Conference men's basketball tournament|Big Ten]]
+|align=left|[[2004–05 Illinois Fighting Illini men's basketball team|Illinois]]
+|25th
+|[[2004 NCAA Division I men's basketball tournament|2004]]
+|-
+|align=left|[[2005 Big West Conference men's basketball tournament|Big West]]
+|align=left|[[2004–05 Utah State Aggies men's basketball team|Utah State]]
+|16th
+|[[2003 NCAA Division I men's basketball tournament|2003]]
+|-
+|align=left|[[2005 CAA men's basketball tournament|Colonial]]
+|align=left|[[2004–05 Old Dominion Monarchs basketball team|Old Dominion]]
+|8th
+|[[1997 NCAA Division I men's basketball tournament|1997]]
+|-
+|align=left|[[2005 Conference USA men's basketball tournament|C-USA]]
+|align=left|[[2004–05 Louisville Cardinals men's basketball team|Louisville]]
+|32nd
+|[[2004 NCAA Division I men's basketball tournament|2004]]
+|-
+|align=left|[[2005 Horizon League men's basketball tournament|Horizon]]
+|align=left|[[2004–05 Milwaukee Panthers men's basketball team|UW-Milwaukee]]
+|2nd
+|[[2003 NCAA Division I men's basketball tournament|2003]]
+|-
+|align=left|[[2004–05 Ivy League men's basketball season|Ivy League]]
+|align=left|[[2004–05 Penn Quakers men's basketball team|Penn]]
+|21st
+|[[2003 NCAA Division I men's basketball tournament|2003]]
+|-
+|align=left|[[2005 MAAC men's basketball tournament|MAAC]]
+|align=left|[[2004–05 Niagara Purple Eagles men's basketball team|Niagara]]
+|2nd
+|[[1970 NCAA University Division basketball tournament|1970]]
+|-
+|align=left|[[2005 MAC men's basketball tournament|MAC]]
+|align=left|[[2004–05 Ohio Bobcats men's basketball team|Ohio]]
+|12th
+|[[1994 NCAA Division I men's basketball tournament|1994]]
+|-
+|align=left|[[2005 MEAC men's basketball tournament|MEAC]]
+|align=left|[[2004–05 Delaware State Hornets men's basketball team|Delaware State]]
+|1st
+|Never
+|-
+|align=left|[[2005 Mid-Continent Conference men's basketball tournament|Mid-Con]]
+|align=left|[[2004–05 Oakland Golden Grizzlies men's basketball team|Oakland]]
+|1st
+|Never
+|-
+|align=left|[[2005 Missouri Valley Conference men's basketball tournament|Missouri Valley]]
+|align=left|[[2004–05 Creighton Bluejays men's basketball team|Creighton]]
+|15th
+|[[2003 NCAA Division I men's basketball tournament|2003]]
+|-
+|align=left|[[2005 Mountain West Conference men's basketball tournament|Mountain West]]
+|align=left|[[2004–05 New Mexico Lobos men's basketball team|New Mexico]]
+|11th
+|[[1999 NCAA Division I men's basketball tournament|1999]]
+|-
+|align=left|[[2005 Northeast Conference men's basketball tournament|Northeast]]
+|align=left|[[2004–05 Fairleigh Dickinson Knights men's basketball team|Fairleigh Dickinson]]
+|4th
+|[[1998 NCAA Division I men's basketball tournament|1998]]
+|-
+|align=left|[[2005 Ohio Valley Conference men's basketball tournament|Ohio Valley]]
+|align=left|{{cbb link|2004|team=Eastern Kentucky Colonels|title=Eastern Kentucky}}
+|6th
+|[[1979 NCAA Division I men's basketball tournament|1979]]
+|-
+|align=left|[[2005 Pacific-10 Conference men's basketball tournament|Pac-10]]
+|align=left|[[2004–05 Washington Huskies men's basketball team|Washington]]
+|12th
+|[[2004 NCAA Division I men's basketball tournament|2004]]
+|-
+|align=left|[[2005 Patriot League men's basketball tournament|Patriot]]
+|align=left|[[2004–05 Bucknell Bison men's basketball team|Bucknell]]
+|3rd
+|[[1989 NCAA Division I men's basketball tournament|1989]]
+|-
+|align=left|[[2005 SEC men's basketball tournament|SEC]]
+|align=left|[[2004–05 Florida Gators men's basketball team|Florida]]
+|11th
+|[[2004 NCAA Division I men's basketball tournament|2004]]
+|-
+|align=left|[[2005 Southern Conference men's basketball tournament|Southern]]
+|align=left|{{cbb link|2004|team=Chattanooga Mocs|title=Chattanooga}}
+|9th
+|[[1997 NCAA Division I men's basketball tournament|1997]]
+|-
+|align=left|[[2005 Southland Conference men's basketball tournament|Southland]]
+|align=left|[[2004–05 Southeastern Louisiana Lions basketball team|Southeastern Louisiana]]
+|1st
+|Never
+|-
+|align=left|[[2005 Sun Belt Conference men's basketball tournament|Sun Belt]]
+|align=left|[[2004–05 Louisiana–Lafayette Ragin' Cajuns men's basketball team|Louisiana–Lafayette]]
+|9th
+|[[2004 NCAA Division I men's basketball tournament|2004]]
+|-
+|align=left|[[2005 SWAC men's basketball tournament|SWAC]]
+|align=left|[[2004–05 Alabama A&M Bulldogs basketball team|Alabama A&M]]
+|1st
+|Never
+|-
+|align=left|[[2005 WAC men's basketball tournament|WAC]]
+|align=left|[[2004–05 UTEP Miners men's basketball team|UTEP]]
+|16th
+|[[2004 NCAA Division I men's basketball tournament|2004]]
+|-
+|align=left|[[2005 West Coast Conference men's basketball tournament|West Coast]]
+|align=left|[[2004–05 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|8th
+|[[2004 NCAA Division I men's basketball tournament|2004]]
+|}
+
+===<span class="RegionSeeds">Listed by region and seeding</span>===
+<section begin="RegionSeeds" />
+{|
+| valign=top |
 {| class="wikitable"
+! colspan="5" style="background:#ffdead;" | Chicago Regional
 |-
-! colspan="6" style="background:#ffdead;" | Chicago Regional
+!Seed
+!School
+!Conference 
+!Record
+!Berth Type
 |-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Berth type
-|-
-| No. 1
-| [[2005 Illinois Fighting Illini men's basketball team|Illinois]]
-| [[Bruce Weber (basketball)|Bruce Weber]]
+|#1
+| [[2004–05 Illinois Fighting Illini men's basketball team|Illinois]]
 | [[Big Ten Conference|Big Ten]]
 | 32–1
-| [[2005 Big Ten Conference Men's Basketball Tournament|Tournament champion]]
+| Automatic
 |-
-| No. 2
-| [[Oklahoma State Cowboys|Oklahoma State]]
-| [[Eddie Sutton]]
+|#2
+| [[2004–05 Oklahoma State Cowboys basketball team|Oklahoma State]]
 | [[Big 12 Conference|Big 12]]
-| 26–7
-| [[2005 Big 12 Men's Basketball Tournament|Tournament champion]]
+| 24–6
+| Automatic
 |-
-| No. 3
-| [[Arizona Wildcats|Arizona]]
-| [[Lute Olson]]
+|#3
+| [[2004–05 Arizona Wildcats men's basketball team|Arizona]]
 | [[Pac-12 Conference|Pac-10]]
 | 27–6
-| At-large bid
+| At-large
 |-
-| No. 4
-| [[Boston College Eagles basketball|Boston College]]
-| [[Al Skinner]]
+|#4
+| [[2004–05 Boston College Eagles men's basketball team|Boston College]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 25–5
-| At-large bid
+| 24–4
+| At-large
 |-
-| No. 5
-| [[Alabama Crimson Tide basketball|Alabama]]
-| [[Mark Gottfried]]
+|#5
+| [[2004–05 Alabama Crimson Tide men's basketball team|Alabama]]
 | [[Southeastern Conference|SEC]]
-| 24–8
-| At-large bid
+| 24–7
+| At-large
 |-
-| No. 6
-| [[LSU Tigers basketball|LSU]]
-| [[John Brady (basketball coach)|John Brady]]
+|#6
+| [[2004–05 LSU Tigers basketball team|LSU]]
 | [[Southeastern Conference|SEC]]
-| 20–10
-| At-large bid
-|-
-| No. 7
-| [[Southern Illinois University Carbondale|Southern Illinois]]
-| [[Chris Lowery]]
-| [[Missouri Valley Conference|Missouri Valley]]
-| 27–8
-| At-large bid
-|-
-| No. 8
-| [[Texas Longhorns men's basketball|Texas]]
-| [[Rick Barnes]]
-| [[Big 12 Conference|Big 12]]
-| 20–11
-| At-large bid
-|-
-| No. 9
-| [[Nevada Wolf Pack basketball|Nevada]]
-| [[Mark Fox (basketball)|Mark Fox]]
-| [[Western Athletic Conference|WAC]]
-| 25–7
-| At-large bid
-|-
-| No. 10
-| [[St. Mary's College of California|St. Mary's]]
-| [[Randy Bennett]]
-| [[West Coast Conference|WCC]]
-| 25–9
-| At-large bid
-|-
-| No. 11
-| [[UAB Blazers|UAB]]
-| [[Mike Anderson (basketball)|Mike Anderson]]
-| [[Conference USA|C-USA]]
-| 22–11
-| At-large bid
-|-
-| No. 12
-| [[University of Wisconsin–Milwaukee|Milwaukee]]
-| [[Bruce Pearl]]
-| [[Horizon League|Horizon]]
-| 26–6
-| Tournament champion
-|-
-| No. 13
-| [[Penn Quakers men's basketball|Pennsylvania]]
-| [[Fran Dunphy]]
-| [[Ivy League|Ivy]]
 | 20–9
-| Regular season champion
+| At-large
 |-
-| No. 14
-| [[Utah State University|Utah State]]
-| [[Stew Morrill]]
-| [[Big West Conference|Big West]]
-| 24–8
-| Tournament champion
+|#7
+| [[2004–05 Southern Illinois Salukis men's basketball team|Southern Illinois]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| 26–7
+| At-large
 |-
-| No. 15
-| [[Southeastern Louisiana University|Southeastern Louisiana]]
-| [[Billy Kennedy (basketball coach)|Billy Kennedy]]
-| [[Southland Conference|Southland]]
-| 24–9
-| Tournament champion
+|#8
+| [[2004–05 Texas Longhorns men's basketball team|Texas]]
+| [[Big 12 Conference|Big 12]]
+| 20–10
+| At-large
 |-
-| No. 16
-| [[Fairleigh Dickinson University|Fairleigh Dickinson]]
-| [[Tom Green (basketball)|Tom Green]]
-| [[Northeast Conference|Northeast]]
-| 20–13
-| Tournament champion
-|}
-
-{| class="wikitable"
+|#9
+| [[2004–05 Nevada Wolf Pack men's basketball team|Nevada]]
+| [[Western Athletic Conference|WAC]]
+| 24–6
+| At-large
 |-
-! colspan="6" style="background:#ffdead;" | Albuquerque Regional
-|-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Berth type
-|-
-| No. 1
-| [[Washington Huskies|Washington]]
-| [[Lorenzo Romar]]
-| [[Pac-12 Conference|Pac-10]]
-| 29–6
-| [[2005 Pacific-10 Conference Men's Basketball Tournament|Tournament champion]]
-|-
-| No. 2
-| [[Wake Forest University|Wake Forest]]
-| [[Skip Prosser]]
-| [[Atlantic Coast Conference|ACC]]
-| 27–6
-| At-large bid
-|-
-| No. 3
-| [[Gonzaga Bulldogs|Gonzaga]]
-| [[Mark Few]]
+|#10
+| [[2004–05 Saint Mary's Gaels men's basketball team|Saint Mary's]]
 | [[West Coast Conference|WCC]]
-| 26–5
-| Tournament champion
+| 25–8
+| At-large
 |-
-| No. 4
-| [[Louisville Cardinals basketball|Louisville]]
-| [[Rick Pitino]]
+|#11
+| [[2004–05 UAB Blazers men's basketball team|UAB]]
+| [[Conference USA|C-USA]]
+| 21–10
+| At-large
+|-
+|#12
+| [[2004–05 Milwaukee Panthers men's basketball team|UW-Milwaukee]]
+| [[Horizon League|Horizon]]
+| 24–5
+| Automatic
+|-
+|#13
+| [[2004–05 Penn Quakers men's basketball team|Penn]]
+| [[Ivy League|Ivy]]
+| 20–8
+| Automatic
+|-
+|#14
+| [[2004–05 Utah State Aggies men's basketball team|Utah State]]
+| [[Big West Conference|Big West]]
+| 24–7
+| Automatic
+|-
+|#15
+| [[2004–05 Southeastern Louisiana Lions basketball team|Southeastern Louisiana]]
+| [[Southland Conference|Southland]]
+| 24–8
+| Automatic
+|-
+|#16
+| [[2004–05 Fairleigh Dickinson Knights men's basketball team|Fairleigh Dickinson]]
+| [[Northeast Conference|Northeast]]
+| 20–12
+| Automatic
+|}
+| valign=top |
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" |Albuquerque Regional
+|-
+!Seed
+!School
+!Conference 
+!Record
+!Berth Type 
+|-
+|#1
+| [[2004–05 Washington Huskies men's basketball team|Washington]]
+| [[Pac-12 Conference|Pac-10]]
+| 27–5
+| Automatic
+|-
+|#2
+| [[2004–05 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
+| [[Atlantic Coast Conference|ACC]]
+| 26–5
+| At-large
+|-
+|#3
+| [[2004–05 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+| [[West Coast Conference|WCC]]
+| 25–4
+| Automatic
+|-
+|#4
+| [[2004–05 Louisville Cardinals men's basketball team|Louisville]]
 | [[Conference USA|C-USA]]
 | 29–4
-| Tournament champion
+| Automatic
 |-
-| No. 5
-| [[Georgia Tech Yellow Jackets basketball|Georgia Tech]]
-| [[Paul Hewitt]]
+|#5
+| [[2004–05 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]
 | [[Atlantic Coast Conference|ACC]]
-| 20–12
-| At-large bid
+| 19–11
+| At-large
 |-
-| No. 6
-| [[Texas Tech Red Raiders|Texas Tech]]
-| [[Bob Knight]]
+|#6
+| [[2004–05 Texas Tech Red Raiders basketball team|Texas Tech]]
 | [[Big 12 Conference|Big 12]]
-| 22–11
-| At-large bid
+| 20–10
+| At-large
 |-
-| No. 7
-| [[West Virginia Mountaineers|West Virginia]]
-| [[John Beilein]]
+|#7
+| [[2004–05 West Virginia Mountaineers men's basketball team|West Virginia]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 24–11
-| At-large bid
+| 21–10
+| At-large
 |-
-| No. 8
-| [[University of the Pacific (United States)|Pacific]]
-| [[Bob Thomason]]
+|#8
+| [[2004–05 Pacific Tigers men's basketball team|Pacific]]
 | [[Big West Conference|Big West]]
-| 27–4
-| At-large bid
+| 26–3
+| At-large
 |-
-| No. 9
-| [[Pittsburgh Panthers basketball|Pittsburgh]]
-| [[Jamie Dixon]]
+|#9
+| [[2004–05 Pittsburgh Panthers men's basketball team|Pittsburgh]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 20–9
-| At-large bid
+| 20–8
+| At-large
 |-
-| No. 10
-| [[Creighton Bluejays|Creighton]]
-| [[Dana Altman]]
+|#10
+| [[2004–05 Creighton Bluejays men's basketball team|Creighton]]
 | [[Missouri Valley Conference|Missouri Valley]]
-| 23–11
-| Tournament champion
-|-
-| No. 11
-| [[UCLA Bruins men's basketball|UCLA]]
-| [[Ben Howland]]
-| [[Pac-12 Conference|Pac-10]]
-| 18–11
-| At-large bid
-|-
-| No. 12
-| [[George Washington University|George Washington]]
-| [[Karl Hobbs]]
-| [[Atlantic 10 Conference|Atlantic 10]]
-| 22–8
-| Tournament champion
-|-
-| No. 13
-| [[Louisiana–Lafayette Ragin' Cajuns men's basketball|Louisiana-Lafayette]] (vacated){{Citation needed|date=December 2016}}
-| [[Robert Lee (basketball coach)|Robert Lee]]
-| [[Sun Belt Conference|Sun Belt]]
-| 20–11
-| Tournament champion
-|-
-| No. 14
-| [[Winthrop University|Winthrop]]
-| [[Gregg Marshall]]
-| [[Big South Conference|Big South]]
-| 27–6
-| Tournament champion
-|-
-| No. 15
-| [[University of Tennessee at Chattanooga|Chattanooga]]
-| [[John Shulman]]
-| [[Southern Conference|SoCon]]
-| 20–11
-| Tournament champion
-|-
-| No. 16
-| [[University of Montana-Missoula|Montana]]
-| [[Larry Krystkowiak]]
-| [[Big Sky Conference|Big Sky]]
-| 18–13
-| Tournament champion
-|}
-
-{| class="wikitable"
-|-
-! colspan="6" style="background:#ffdead;" | Syracuse Regional
-|-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Berth type
-|-
-| No. 1
-| [[North Carolina Tar Heels men's basketball|North Carolina]]
-| [[Roy Williams (coach)|Roy Williams]]
-| [[Atlantic Coast Conference|ACC]]
-| 27–4
-| At-large bid
-|-
-| No. 2
-| [[2004–05 Connecticut Huskies men's basketball team|Connecticut]]
-| [[Jim Calhoun]]
-| [[Big East Conference (1979–2013)|Big East]]
-| 23–8
-| At-large bid
-|-
-| No. 3
-| [[Kansas Jayhawks men's basketball|Kansas]]
-| [[Bill Self]]
-| [[Big 12 Conference|Big 12]]
-| 23–7
-| At-large bid
-|-
-| No. 4
-| [[Florida Gators men's basketball|Florida]]
-| [[Billy Donovan]]
-| [[Southeastern Conference|SEC]]
-| 24–8
-| Tournament champion
-|-
-| No. 5
-| [[Villanova Wildcats|Villanova]]
-| [[Jay Wright (coach)|Jay Wright]]
-| [[Big East Conference (1979–2013)|Big East]]
-| 24–8
-| At-large bid
-|-
-| No. 6
-| [[Wisconsin Badgers men's basketball|Wisconsin]]
-| [[Bo Ryan]]
-| [[Big Ten Conference|Big Ten]]
-| 22–8
-| At-large bid
-|-
-| No. 7
-| [[Charlotte 49ers men's basketball|Charlotte]]
-| [[Bobby Lutz (basketball)|Bobby Lutz]]
-| [[Conference USA|C-USA]]
-| 21–8
-| At-large bid
-|-
-| No. 8
-| [[Minnesota Golden Gophers men's basketball|Minnesota]]
-| [[Dan Monson]]
-| [[Big Ten Conference|Big Ten]]
-| 21–11
-| At-large bid
-|-
-| No. 9
-| [[2004–05 Iowa State Cyclones men's basketball team|Iowa State]]
-| [[Wayne Morgan]]
-| [[Big 12 Conference|Big 12]]
-| 19–12
-| At-large bid
-|-
-| No. 10
-| [[NC State Wolfpack basketball|North Carolina State]]
-| [[Herb Sendek]]
-| [[Atlantic Coast Conference|ACC]]
-| 21–14
-| At-large bid
-|-
-| No. 11
-| [[Northern Iowa Panthers|Northern Iowa]]
-| [[Greg McDermott]]
-| [[Missouri Valley Conference|Missouri Valley]]
-| 21–11
-| At-large bid
-|-
-| No. 12
-| [[New Mexico Lobos basketball|New Mexico]]
-| [[Ritchie McKay]]
-| [[Mountain West Conference|Mountain West]]
-| 26–7
-| Tournament champion
-|-
-| No. 13
-| [[Ohio Bobcats|Ohio]]
-| [[Tim O'Shea]]
-| [[Mid-American Conference|Mid-American]]
-| 21–11
-| Tournament champion
-|-
-| No. 14
-| [[Bucknell University|Bucknell]]
-| [[Pat Flannery]]
-| [[Patriot League|Patriot]]
 | 23–10
-| Tournament champion
+| Automatic
 |-
-| No. 15
-| [[University of Central Florida|Central Florida]]
-| [[Kirk Speraw]]
-| [[Atlantic Sun Conference|Atlantic Sun]]
-| 24–9
-| Tournament champion
+|#11
+| [[2004–05 UCLA Bruins men's basketball team|UCLA]]
+| [[Pac-12 Conference|Pac-10]]
+| 18–10
+| At-large
 |-
-|rowspan=2| No. 16
-| [[Oakland Golden Grizzlies|Oakland]]
-| [[Greg Kampe]]
+|#12
+| [[2004–05 George Washington Colonials men's basketball team|George Washington]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 22–7
+| Automatic
+|-
+|#13
+| [[2004–05 Louisiana–Lafayette Ragin' Cajuns men's basketball team|Louisiana–Lafayette]] <small>(vacated)<ref>{{cite web|url=https://www.sports-reference.com/cbb/friv/forfeits.cgi|title=Forfeits and Vacated Games - College Basketball at Sports-Reference.com|website=College Basketball at Sports-Reference.com}}</ref></small>
+| [[Sun Belt Conference|Sun Belt]]
+| 20–10
+| Automatic
+|-
+|#14
+| [[2004–05 Winthrop Eagles men's basketball team|Winthrop]]
+| [[Big South Conference|Big South]]
+| 27–5
+| Automatic
+|-
+|#15
+| {{cbb link|2004|team=Chattanooga Mocs|title=Chattanooga}}
+| [[Southern Conference|SoCon]]
+| 20–10
+| Automatic
+|-
+|#16
+| [[2004–05 Montana Grizzlies basketball team|Montana]]
+| [[Big Sky Conference|Big Sky]]
+| 18–12
+| Automatic
+|}
+|-
+| valign=top |
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" | Syracuse Regional
+|-
+!Seed
+!School
+!Conference 
+!Record
+!Berth Type
+|-
+|#1
+| [[2004–05 North Carolina Tar Heels men's basketball team|North Carolina]]
+| [[Atlantic Coast Conference|ACC]]
+| 27–4
+| At-large
+|-
+|#2
+| [[2004–05 Connecticut Huskies men's basketball team|Connecticut]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 22–7
+| At-large
+|-
+|#3
+| [[2004–05 Kansas Jayhawks men's basketball team|Kansas]]
+| [[Big 12 Conference|Big 12]]
+| 23–6
+| At-large
+|-
+|#4
+| [[2004–05 Florida Gators men's basketball team|Florida]]
+| [[Southeastern Conference|SEC]]
+| 23–7
+| Automatic
+|-
+|#5
+| [[2004–05 Villanova Wildcats men's basketball team|Villanova]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 22–7
+| At-large
+|-
+|#6
+| [[2004–05 Wisconsin Badgers men's basketball team|Wisconsin]]
+| [[Big Ten Conference|Big Ten]]
+| 22–8
+| At-large
+|-
+|#7
+| [[2004–05 Charlotte 49ers men's basketball team|Charlotte]]
+| [[Conference USA|C-USA]]
+| 21–7
+| At-large
+|-
+|#8
+| [[2004–05 Minnesota Golden Gophers men's basketball team|Minnesota]]
+| [[Big Ten Conference|Big Ten]]
+| 21–10
+| At-large
+|-
+|#9
+| [[2004–05 Iowa State Cyclones men's basketball team|Iowa State]]
+| [[Big 12 Conference|Big 12]]
+| 18–11
+| At-large
+|-
+|#10
+| [[2004–05 NC State Wolfpack men's basketball team|NC State]]
+| [[Atlantic Coast Conference|ACC]]
+| 19–13
+| At-large
+|-
+|#11
+| [[2004–05 Northern Iowa Panthers men's basketball team|Northern Iowa]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| 21–10
+| At-large
+|-
+|#12
+| [[2004–05 New Mexico Lobos men's basketball team|New Mexico]]
+| [[Mountain West Conference|Mountain West]]
+| 26–6
+| Automatic
+|-
+|#13
+| [[2004–05 Ohio Bobcats men's basketball team|Ohio]]
+| [[Mid-American Conference|Mid-American]]
+| 21–10
+| Automatic
+|-
+|#14
+| [[2004–05 Bucknell Bison men's basketball team|Bucknell]]
+| [[Patriot League|Patriot]]
+| 22–9
+| Automatic
+|-
+|#15
+| [[2004–05 UCF Golden Knights men's basketball team|Central Florida]]
+| [[ASUN Conference|Atlantic Sun]]
+| 24–8
+| Automatic
+|-
+|rowspan=2|#16
+| [[2004–05 Oakland Golden Grizzlies men's basketball team|Oakland]]
 | [[The Summit League|Mid-Continent]]
-| 13–19
-| Tournament champion
+| 12–18
+| Automatic
 |-
-| [[Alabama A&M University|Alabama A&M]]
-| [[L. Vann Pettaway]]
+| [[2004–05 Alabama A&M Bulldogs basketball team|Alabama A&M]]
 | [[Southwestern Athletic Conference|SWAC]]
 | 18–14
-| Tournament champion
+| Automatic
 |}
-
+| valign=top |
 {| class="wikitable"
+! colspan="5" style="background:#ffdead;" | Austin Regional
 |-
-! colspan="6" style="background:#ffdead;" | Austin Regional
+!Seed
+!School
+!Conference
+!Record
+!Berth Type 
 |-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Berth type
-|-
-| No. 1
-| [[Duke Blue Devils men's basketball|Duke]]
-| [[Mike Krzyzewski]]
+|#1
+| [[2004–05 Duke Blue Devils men's basketball team|Duke]]
 | [[Atlantic Coast Conference|ACC]]
-| 27–6
-| [[2005 ACC Men's Basketball Tournament|Tournament champion]]
+| 25–5
+| Automatic
 |-
-| No. 2
-| [[Kentucky Wildcats men's basketball|Kentucky]]
-| [[Tubby Smith]]
+|#2
+| [[2004–05 Kentucky Wildcats men's basketball team|Kentucky]]
 | [[Southeastern Conference|SEC]]
-| 28–6
-| At-large bid
+| 25–5
+| At-large
 |-
-| No. 3
-| [[Oklahoma Sooners men's basketball|Oklahoma]]
-| [[Kelvin Sampson]]
+|#3
+| [[2004–05 Oklahoma Sooners men's basketball team|Oklahoma]]
 | [[Big 12 Conference|Big 12]]
-| 25–8
-| At-large bid
+| 24–7
+| At-large
 |-
-| No. 4
-| [[2004–05 Syracuse Orange men's basketball team|Syracuse]] (vacated)<ref name=":0">http://i.turner.ncaa.com/dr/ncaa/ncaa7/release/sites/default/files/images/2015/03/06/syracuse_final_public_infractions_decision.pdf</ref><ref name=":1">{{Cite web |title=NCAA investigation costs Syracuse head coach Jim Boeheim 108 wins, drops him to 6th all-time |url=http://www.syracuse.com/orangesports/index.ssf/2015/03/ncaa_investigations_costs_syracuse_head_coach_jim_boeheim_108_wins_drops_him_to.html?hootPostID=d9ff86f3d7fb24ca2870087c6cd18641 |website=syracuse.com |accessdate=2016-02-16}}</ref>
-| [[Jim Boeheim]]
+|#4
+| [[2004–05 Syracuse Orange men's basketball team|Syracuse]] <small>(vacated)<ref name=":0">{{cite web|url=http://i.turner.ncaa.com/dr/ncaa/ncaa7/release/sites/default/files/images/2015/03/06/syracuse_final_public_infractions_decision.pdf |title=Final decision |publisher=i.turner.ncaa.com |date=2015 |access-date=2020-03-23}}</ref><ref name=":1">{{cite web |title=NCAA investigation costs Syracuse head coach Jim Boeheim 108 wins, drops him to 6th all-time |url=http://www.syracuse.com/orangesports/index.ssf/2015/03/ncaa_investigations_costs_syracuse_head_coach_jim_boeheim_108_wins_drops_him_to.html?hootPostID=d9ff86f3d7fb24ca2870087c6cd18641 |website=syracuse.com | date=6 March 2015 |access-date=2016-02-16}}</ref></small>
 | [[Big East Conference (1979–2013)|Big East]]
-| 27–7
-| Tournament champion
+| 27–6
+| Automatic
 |-
-| No. 5
-| [[Michigan State Spartans|Michigan State]]
-| [[Tom Izzo]]
+|#5
+| [[2004–05 Michigan State Spartans men's basketball team|Michigan State]]
 | [[Big Ten Conference|Big Ten]]
 | 22–6
-| At-large bid
+| At-large
 |-
-| No. 6
-| [[Utah Utes men's basketball|Utah]]
-| [[Ray Giacoletti]]
+|#6
+| [[2004–05 Utah Utes men's basketball team|Utah]]
 | [[Mountain West Conference|Mountain West]]
-| 29–6
-| At-large bid
+| 27–5
+| At-large
 |-
-| No. 7
-| [[Cincinnati Bearcats|Cincinnati]]
-| [[Bob Huggins]]
+|#7
+| [[2004–05 Cincinnati Bearcats men's basketball team|Cincinnati]]
 | [[Conference USA|C-USA]]
-| 25–8
-| At-large bid
+| 24–7
+| At-large
 |-
-| No. 8
-| [[Stanford Cardinal|Stanford]]
-| [[Trent Johnson]]
+|#8
+| [[2004–05 Stanford Cardinal men's basketball team|Stanford]]
 | [[Pac-12 Conference|Pac-10]]
-| 18–13
-| At-large bid
+| 18–12
+| At-large
 |-
-| No. 9
-| [[Mississippi State University|Mississippi State]]
-| [[Rick Stansbury]]
+|#9
+| [[2004–05 Mississippi State Bulldogs men's basketball team|Mississippi State]]
 | [[Southeastern Conference|SEC]]
-| 23–11
-| At-large bid
+| 22–10
+| At-large
 |-
-| No. 10
-| [[Iowa Hawkeyes basketball|Iowa]]
-| [[Steve Alford]]
+|#10
+| [[2004–05 Iowa Hawkeyes men's basketball team|Iowa]]
 | [[Big Ten Conference|Big Ten]]
 | 21–11
-| At-large bid
+| At-large
 |-
-| No. 11
-| [[University of Texas at El Paso|UTEP]]
-| [[Doc Sadler]]
+|#11
+| [[2004–05 UTEP Miners men's basketball team|UTEP]]
 | [[Western Athletic Conference|WAC]]
-| 27–8
-| Tournament champion
+| 27–7
+| Automatic
 |-
-| No. 12
-| [[Old Dominion University|Old Dominion]]
-| [[Blaine Taylor]]
+|#12
+| [[2004–05 Old Dominion Monarchs basketball team|Old Dominion]]
 | [[Colonial Athletic Association|CAA]]
-| 28–6
-| Tournament champion
+| 28–5
+| Automatic
 |-
-| No. 13
-| [[University of Vermont|Vermont]]
-| [[Tom Brennan (basketball coach)|Tom Brennan]]
+|#13
+| [[2004–05 Vermont Catamounts men's basketball team|Vermont]]
 | [[America East Conference|America East]]
-| 25–7
-| Tournament champion
+| 24–6
+| Automatic
 |-
-| No. 14
-| [[Niagara University|Niagara]]
-| [[Joe Mihalich]]
+|#14
+| [[2004–05 Niagara Purple Eagles men's basketball team|Niagara]]
 | [[Metro Atlantic Athletic Conference|MAAC]]
-| 20–10
-| Tournament champion
+| 20–9
+| Automatic
 |-
-| No. 15
-| [[Eastern Kentucky University|Eastern Kentucky]]
-| [[Travis Ford]]
+|#15
+| {{cbb link|2004|team=Eastern Kentucky Colonels|title=Eastern Kentucky}}
 | [[Ohio Valley Conference|Ohio Valley]]
-| 25–4
-| Tournament champion
+| 22–8
+| Automatic
 |-
-| No. 16
-| [[Delaware State University|Delaware State]]
-| [[Greg Jackson (basketball coach)|Greg Jackson]]
+|#16
+| [[2004–05 Delaware State Hornets men's basketball team|Delaware State]]
 | [[Mid-Eastern Athletic Conference|MEAC]]
-| 19–14
-| Tournament champion
+| 19–13
+| Automatic
 |}
+|}
+<section end="RegionSeeds" />
 
-==Bids by conference==
+=== Bids by conference ===
 {| class="wikitable"
+!Bids
+!Conference
+!Schools
 |-
-! colspan="5" style="background:#ffdead;" | Bids by Conference
+| rowspan="2"| 6 
+| [[Big 12 Conference|Big 12]]
+| Iowa State, Kansas, Oklahoma, Oklahoma State, Texas, Texas Tech
 |-
-!style="background: #e3e3e3;"|Bids
-!style="background: #e3e3e3;"|Conference
+| [[Big East Conference (1979–2013)|Big East]]
+| Boston College, Connecticut, Pittsburgh, Syracuse, Villanova, West Virginia
 |-
-| 6
-| [[Big East Conference (1979–2013)|Big East]], [[Big 12]]
+| rowspan="3"| 5
+| [[Atlantic Coast Conference|ACC]]
+| Duke, Georgia Tech, NC State, North Carolina, Wake Forest
+|- 
+| [[Big Ten Conference|Big Ten]]
+| Illinois, Iowa, Michigan State, Minnesota, Wisconsin
 |-
-| 5
-| [[Atlantic Coast Conference|ACC]], [[Big Ten]], [[Southeastern Conference|SEC]]
+| [[Southeastern Conference|SEC]]
+| Alabama, Florida, Kentucky, LSU, Mississippi State
 |-
-| 4
-| [[Conference USA|C-USA]], [[Pacific-10 Conference|Pac-10]]
+| rowspan="2"| 4
+| [[Conference USA|C-USA]]
+| Charlotte, Cincinnati, Louisville, UAB
+|-
+| [[Pac-12 Conference|Pac-10]]
+| Arizona, Stanford, UCLA, Washington
 |-
 | 3
 | [[Missouri Valley Conference|Missouri Valley]]
+| Creighton, Northern Iowa, Southern Illinois
 |-
-| 2
-| [[Big West]], [[Mountain West]], [[West Coast Conference|WCC]], [[Western Athletic Conference|WAC]]
+| rowspan="4"| 2
+| [[Big West Conference|Big West]]
+| Pacific, Utah State
 |-
-| 1
-| 19 others
+| [[Mountain West Conference|Mountain West]]
+| New Mexico, Utah
+|-
+| [[Western Athletic Conference|WAC]]
+| Nevada, UTEP
+|-
+| [[West Coast Conference|West Coast]]
+| Gonzaga, Saint Mary's
+|-
+| 1 || colspan="2"|19 other conferences
 |}
 
 ==Opening round==
-*[[University of Dayton Arena]], [[Dayton, Ohio]]
-
-{{2TeamBracket | RD1=Opening Round Game<br />March 15
-| RD1-seed1=16a
-| RD1-team1='''[[Oakland University|Oakland]]'''
-| RD1-score1='''79'''
-| RD1-seed2=16b
-| RD1-team2=[[Alabama A&M University|Alabama A&M]]
-| RD1-score2=69
-}}
+*March 15, [[University of Dayton Arena]], [[Dayton, Ohio]]
+**[[2004–05 Oakland Golden Grizzlies men's basketball team|Oakland]] (16) 79, {{cbb link|2004|sex=men|team=Alabama A&M Bulldogs|school=Alabama A&M University|title=Alabama A&M}} (16) 69
 
 ==First round==
+
 ===Chicago Regional===
 *March 17, [[RCA Dome]], [[Indianapolis]]
-**[[University of Illinois at Urbana–Champaign|Illinois]] (1) 67, [[Fairleigh Dickinson University|Fairleigh Dickinson]] (16) 55
-**:Illinois, up only 32–31 at halftime, pulled away in the second half behind 19 points from [[Dee Brown (Illini)|Dee Brown]] and 13 from [[Luther Head]].<ref>{{Cite web|title = Illinois shakes off FDU, coasts to win|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000047|website = ESPN.com|access-date = 2016-02-16}}</ref>
-**[[University of Nevada, Reno|Nevada]] (9) 61, [[University of Texas at Austin|Texas]] (8) 57
-**:Down 57–53 with 2:24 to play, the Wolf Pack of Nevada came from behind to win despite a sub-par game from star [[Nick Fazekas]].<ref>{{Cite web|title = Nevada rallies in final minutes to defeat Texas|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000048|website = ESPN.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Illinois Fighting Illini men's basketball team|Illinois]] (1) 67, [[2004–05 Fairleigh Dickinson Knights men's basketball team|Fairleigh Dickinson]] (16) 55
+**:Illinois, up only 32–31 at halftime, pulled away in the second half behind 19 points from [[Dee Brown (Illini)|Dee Brown]] and 13 from [[Luther Head]].<ref>{{cite web|title = Illinois shakes off FDU, coasts to win|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000047|website = ESPN.com|access-date = 2016-02-16}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+**[[2004–05 Nevada Wolf Pack men's basketball team|Nevada]] (9) 61, [[2004–05 Texas Longhorns men's basketball team|Texas]] (8) 57
+**:Down 57–53 with 2:24 to play, the Wolf Pack of Nevada came from behind to win despite a sub-par game from star [[Nick Fazekas]].<ref>{{cite web|title = Nevada rallies in final minutes to defeat Texas|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000048|website = ESPN.com|access-date = 2016-02-16}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
 *March 17, [[CSU Convocation Center|Wolstein Center]], [[Cleveland, Ohio|Cleveland]]
-**[[University of Wisconsin–Milwaukee|Milwaukee]] (12) 83, [[Alabama Crimson Tide basketball|Alabama]] (5) 73
+**[[2004–05 Milwaukee Panthers men's basketball team|UW-Milwaukee]] (12) 83, [[2004–05 Alabama Crimson Tide men's basketball team|Alabama]] (5) 73
 **:The [[Horizon League]] champion Panthers pulled the upset behind 21 points apiece from Ed McCants and Joah Tucker.<ref name=":5" />
-**[[Boston College Eagles basketball|Boston College]] (4) 85, [[University of Pennsylvania|Penn]] (13) 65
-**:Boston College steamrolled [[Ivy League]] champion Penn with a balanced attack, getting 18 points from [[Jared Dudley]], 15 points from Craig Smith, and 14 points from Sean Marshall.<ref>{{Cite web|title = Hello and Goodbye Boston College dispatches Penn in opening game|url = http://articles.philly.com/2005-03-18/sports/25419749_1_penn-coach-fran-dunphy-ibrahim-jaaber-eagles|website = philly-archives|access-date = 2016-02-16}}</ref>
+**[[2004–05 Boston College Eagles men's basketball team|Boston College]] (4) 85, [[Penn Quakers men's basketball|Penn]] (13) 65
+**:Boston College steamrolled [[Ivy League]] champion Penn with a balanced attack, getting 18 points from [[Jared Dudley]], 15 points from Craig Smith, and 14 points from Sean Marshall.<ref>{{cite web|title = Hello and Goodbye Boston College dispatches Penn in opening game|url = http://articles.philly.com/2005-03-18/sports/25419749_1_penn-coach-fran-dunphy-ibrahim-jaaber-eagles|archive-url = https://web.archive.org/web/20150919222438/http://articles.philly.com/2005-03-18/sports/25419749_1_penn-coach-fran-dunphy-ibrahim-jaaber-eagles|url-status = dead|archive-date = September 19, 2015|website = philly-archives|access-date = 2016-02-16}}</ref>
 *March 17, [[Taco Bell Arena]], [[Boise, Idaho|Boise]]
-**[[University of Alabama at Birmingham|UAB]] (11) 82, [[Louisiana State University|LSU]] (6) 68
-**:UAB led throughout with Marvett McDonald scoring 21 points, including five three-pointers.<ref>{{Cite web|title = Alabama-Birmingham goes on defensive to knock out No. 6 LSU|url = http://www.cbssports.com/collegebasketball/gametracker/recap/NCAAB_20050317_ALBRM@LSU|website = CBSSports.com|access-date = 2016-02-16}}</ref>
-**[[University of Arizona|Arizona]] (3) 66, [[Utah State University|Utah State]] (14) 53
-**:Arizona started slow, but secured the win led by [[Channing Frye]] and [[Salim Stoudamire]] each scoring 17 points.<ref>{{Cite web|title = Arizona overcomes Utah State with strong second half|url = http://www.cbssports.com/collegebasketball/gametracker/recap/NCAAB_20050317_UTST@AZ|website = CBSSports.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 UAB Blazers men's basketball team|UAB]] (11) 82, [[2004–05 LSU Tigers basketball team|LSU]] (6) 68
+**:UAB led throughout with Marvett McDonald scoring 21 points, including five three-pointers.<ref>{{cite web|title = Alabama-Birmingham goes on defensive to knock out No. 6 LSU|url = http://www.cbssports.com/collegebasketball/gametracker/recap/NCAAB_20050317_ALBRM@LSU|website = CBSSports.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Arizona Wildcats men's basketball team|Arizona]] (3) 66, [[Utah State Aggies men's basketball|Utah State]] (14) 53
+**:Arizona started slow, but secured the win led by [[Channing Frye]] and [[Salim Stoudamire]] each scoring 17 points.<ref>{{cite web|title = Arizona overcomes Utah State with strong second half|url = http://www.cbssports.com/collegebasketball/gametracker/recap/NCAAB_20050317_UTST@AZ|website = CBSSports.com|access-date = 2016-02-16}}</ref>
 *March 18, [[Ford Center (Oklahoma City)|Ford Center]], [[Oklahoma City]]
-**[[Southern Illinois University Carbondale|Southern Illinois]] (7) 65, [[Saint Mary's College of California|Saint Mary's]] (10) 56
-**:SIU broke a late tie with St. Mary's to earn the victory.<ref>{{Cite web|title = Men's Basketball Beats Saint Mary's, Advances to Play Oklahoma State|url = http://www.siusalukis.com/sports/m-baskbl/recaps/031805aaa.html|website = www.siusalukis.com|access-date = 2016-02-16}}</ref>
-**[[Oklahoma State University–Stillwater|Oklahoma State]] (2) 63, [[Southeastern Louisiana University|SE Louisiana]] (15) 50
-**:Oklahoma State jumped out to a 9-point halftime lead and built on it from there behind Ivan McFarlin's 18 points.<ref>{{Cite web|title = 2005 Oklahoma State vs. Southeastern Louisiana Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/1986/2005-Oklahoma-State-vs-Southeastern-Louisiana-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Southern Illinois Salukis men's basketball team|Southern Illinois]] (7) 65, [[2004–05 Saint Mary's Gaels men's basketball team|Saint Mary's]] (10) 56
+**:SIU broke a late tie with St. Mary's to earn the victory.<ref>{{cite web|title = Men's Basketball Beats Saint Mary's, Advances to Play Oklahoma State|url = http://www.siusalukis.com/sports/m-baskbl/recaps/031805aaa.html|website = www.siusalukis.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Oklahoma State Cowboys basketball team|Oklahoma State]] (2) 63, [[Southeastern Louisiana Lions basketball|SE Louisiana]] (15) 50
+**:Oklahoma State jumped out to a 9-point halftime lead and built on it from there behind Ivan McFarlin's 18 points.<ref>{{cite web|title = 2005 Oklahoma State vs. Southeastern Louisiana Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/1986/2005-Oklahoma-State-vs-Southeastern-Louisiana-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
 
 ===Albuquerque Regional===
 *March 17, [[Taco Bell Arena]], [[Boise, Idaho|Boise]]
-**[[University of Washington|Washington]] (1) 88, [[University of Montana – Missoula|Montana]] (16) 77
-**:Top-seeded Washington easily advanced, getting 17 points from [[Brandon Roy]] off the bench.<ref>{{Cite web|title = Washington vs. Montana Box Score, March 17, 2005 {{!}} College Basketball at Sports-Reference.com|url = http://www.sports-reference.com/cbb/boxscores/2005-03-17-montana.html|website = College Basketball at Sports-Reference.com|access-date = 2016-02-16}}</ref>
-**[[University of the Pacific (United States)|Pacific]] (8) 79, [[University of Pittsburgh|Pittsburgh]] (9) 71
-**:Pacific nearly squandered a 15-point lead, letting Pittsburgh get within 5, but hung on to advance behind 17 from Christian Maraker and 15 from Mike Webb.<ref>{{Cite web|title = Pacific hangs on against Pittsburgh; UW next|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000002|website = ESPN.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Washington Huskies men's basketball team|Washington]] (1) 88, [[Montana Grizzlies basketball|Montana]] (16) 77
+**:Top-seeded Washington easily advanced, getting 17 points from [[Brandon Roy]] off the bench.<ref>{{cite web|title = Washington vs. Montana Box Score, March 17, 2005 {{!}} College Basketball at Sports-Reference.com|url = https://www.sports-reference.com/cbb/boxscores/2005-03-17-montana.html|website = College Basketball at Sports-Reference.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Pacific Tigers men's basketball team|Pacific]] (8) 79, [[2004–05 Pittsburgh Panthers men's basketball team|Pittsburgh]] (9) 71
+**:Pacific nearly squandered a 15-point lead, letting Pittsburgh get within 5, but hung on to advance behind 17 from Christian Maraker and 15 from Mike Webb.<ref>{{cite web|title = Pacific hangs on against Pittsburgh; UW next|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000002|archive-url = https://web.archive.org/web/20160325060209/http://espn.go.com/mens-college-basketball/recap?gameId=254000002|url-status = dead|archive-date = March 25, 2016|website = ESPN.com|access-date = 2016-02-16}}</ref>
 *March 18, [[Gaylord Entertainment Center]], [[Nashville, Tennessee|Nashville]]
-**[[Georgia Institute of Technology|Georgia Tech]] (5) 80, [[George Washington University|George Washington]] (12) 68
-**:The Yellow Jackets of Georgia Tech easily defeated George Washington, using a balanced attack of [[Jarrett Jack]] (20 points), [[Will Bynum]] (17 points), and B. J. Elder (15 points).<ref>{{Cite web|title = 2005 Georgia Tech vs. George Washington Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/592/2005-Georgia-Tech-vs-George-Washington-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}</ref>
-**[[University of Louisville|Louisville]] (4) 68, [[University of Louisiana at Lafayette|Louisiana-Lafayette]] (13) 62
-**:Louisville broke a tie with 3:43 left and defeated the Ragin' Cajuns behind 27 points from [[Francisco García (basketball)|Francisco García]], who went 7-for-7 from the free throw line in the last 1:57.<ref>{{Cite web|title = 2005 Louisville vs. Louisiana-Lafayette Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/1002/2005-Louisville-vs-Louisiana-Lafayette-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]] (5) 80, [[George Washington Colonials men's basketball|George Washington]] (12) 68
+**:The Yellow Jackets of Georgia Tech easily defeated George Washington, using a balanced attack of [[Jarrett Jack]] (20 points), [[Will Bynum]] (17 points), and [[B. J. Elder]] (15 points).<ref>{{cite web|title = 2005 Georgia Tech vs. George Washington Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/592/2005-Georgia-Tech-vs-George-Washington-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+**[[2004–05 Louisville Cardinals men's basketball team|Louisville]] (4) 68, [[Louisiana Ragin' Cajuns men's basketball|Louisiana-Lafayette]] (13) 62
+**:Louisville broke a tie with 3:43 left and defeated the Ragin' Cajuns behind 27 points from [[Francisco García (basketball)|Francisco García]], who went 7-for-7 from the free throw line in the last 1:57.<ref>{{cite web|title = 2005 Louisville vs. Louisiana-Lafayette Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/1002/2005-Louisville-vs-Louisiana-Lafayette-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
 *March 17, [[McKale Center]], [[Tucson, Arizona|Tucson]]
-**[[Texas Tech University|Texas Tech]] (6) 78, [[University of California, Los Angeles|UCLA]] (11) 66
-**:Texas Tech handled the Bruins of UCLA easily behind 28 points from Ronald Ross.<ref>{{Cite web|title = Texas Tech torches nets, burns UCLA|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000008|website = ESPN.com|access-date = 2016-02-16}}</ref>
-**[[Gonzaga University|Gonzaga]] (3) 74, [[Winthrop University|Winthrop]] (14) 64
-**:After a slow start and trailing 35–33 at halftime, Gonzaga came back and defeated Winthrop behind 27 points from [[Adam Morrison]].<ref>{{Cite web|title = USATODAY.com – Gonzaga grabs control late to survive Winthrop 74-64|url = http://usatoday30.usatoday.com/sports/college/mensbasketball/tourney05/2005-03-17-gonzaga-winthrop_x.htm|website = usatoday30.usatoday.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Texas Tech Red Raiders basketball team|Texas Tech]] (6) 78, [[2004–05 UCLA Bruins men's basketball team|UCLA]] (11) 66
+**:Texas Tech handled the Bruins of UCLA easily behind 28 points from [[Ronald Ross (basketball)|Ronald Ross]].<ref>{{cite web|title = Texas Tech torches nets, burns UCLA|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000008|website = ESPN.com|access-date = 2016-02-16}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+**[[2004–05 Gonzaga Bulldogs men's basketball team|Gonzaga]] (3) 74, [[Winthrop Eagles men's basketball|Winthrop]] (14) 64
+**:After a slow start and trailing 35–33 at halftime, Gonzaga came back and defeated Winthrop behind 27 points from [[Adam Morrison]].<ref>{{cite web|title = USATODAY.com – Gonzaga grabs control late to survive Winthrop 74-64|url = http://usatoday30.usatoday.com/sports/college/mensbasketball/tourney05/2005-03-17-gonzaga-winthrop_x.htm|website = usatoday30.usatoday.com|access-date = 2016-02-16}}</ref>
 *March 17, [[Wolstein Center]], [[Cleveland]]
-**[[West Virginia University|West Virginia]] (7) 63, [[Creighton University|Creighton]] (10) 61
-**:With the game tied 61–61 with under five seconds left, West Virginia's Tyrone Sally blocked Nate Funk's three-point attempt and then dunked off the fast break with 2.9 seconds to play to send the Mountaineers to the second round.<ref>{{Cite web|title = WVU edges Creighton on breakaway jam|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000011|website = ESPN.com|access-date = 2016-02-16}}</ref>
-**[[Wake Forest University|Wake Forest]] (2) 70, [[University of Tennessee at Chattanooga|UT-Chattanooga]] (15) 54
-**:Wake Forest, trailed 27–24 at halftime, but came back in the second half behind 20 points from [[Chris Paul]] and 14 from Justin Gray.<ref>{{Cite web|title = Mar 17, 2005 - Chattanooga 54 at Wake Forest 70 - RealGM NCAA Box Score|url = http://basketball.realgm.com/ncaa/boxscore/2005-03-17/Chattanooga-at-Wake-Forest/24373|website = basketball.realgm.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 West Virginia Mountaineers men's basketball team|West Virginia]] (7) 63, [[2004–05 Creighton Bluejays men's basketball team|Creighton]] (10) 61
+**:With the game tied 61–61 with under five seconds left, West Virginia's Tyrone Sally blocked Nate Funk's three-point attempt and then dunked off the fast break with 2.9 seconds to play to send the Mountaineers to the second round.<ref>{{cite web|title = WVU edges Creighton on breakaway jam|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000011|website = ESPN.com|access-date = 2016-02-16}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+**[[2004–05 Wake Forest Demon Deacons men's basketball team|Wake Forest]] (2) 70, [[Chattanooga Mocs basketball|UT-Chattanooga]] (15) 54
+**:Wake Forest, trailed 27–24 at halftime, but came back in the second half behind 20 points from [[Chris Paul]] and 14 from Justin Gray.<ref>{{cite web|title = Mar 17, 2005 - Chattanooga 54 at Wake Forest 70 - RealGM NCAA Box Score|url = http://basketball.realgm.com/ncaa/boxscore/2005-03-17/Chattanooga-at-Wake-Forest/24373|website = basketball.realgm.com|access-date = 2016-02-16}}</ref>
 
 ===Syracuse Regional===
 *March 18, [[Charlotte Coliseum]], [[Charlotte, North Carolina|Charlotte]]
-**[[University of North Carolina at Chapel Hill|North Carolina]] (1) 96, [[Oakland University|Oakland]] (16) 68
-**:North Carolina crushed play-in winner Oakland, racing out to a 59–33 halftime lead. [[Marvin Williams]] scored 20, [[Sean May]] scored 19, and [[Rashad McCants]] added 15. Cortney Scott led all scorers with 21 for Oakland and [[Rawle Marshall]] added 16.<ref>{{Cite web|title = 2005 North Carolina vs. Oakland Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/1526/2005-North-Carolina-vs-Oakland-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}</ref>
-**[[Iowa State University|Iowa State]] (9) 64, [[University of Minnesota|Minnesota]] (8) 53
-**:Iowa State used a 10-point halftime lead and a balanced attack to win, with [[Curtis Stinson]] scoring 18, with Rahshon Clark and Jared Homan scoring 14 apiece.<ref>{{Cite web|title = Minnesota vs. Iowa State Box Score, March 18, 2005 {{!}} College Basketball at Sports-Reference.com|url = http://www.sports-reference.com/cbb/boxscores/2005-03-18-iowa-state.html|website = College Basketball at Sports-Reference.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 North Carolina Tar Heels men's basketball team|North Carolina]] (1) 96, [[Oakland Grizzlies|Oakland]] (16) 68
+**:North Carolina crushed play-in winner Oakland, racing out to a 59–33 halftime lead. [[Marvin Williams]] scored 20, [[Sean May]] scored 19, and [[Rashad McCants]] added 15. Cortney Scott led all scorers with 21 for Oakland and [[Rawle Marshall]] added 16.<ref>{{cite web|title = 2005 North Carolina vs. Oakland Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/1526/2005-North-Carolina-vs-Oakland-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+**[[2004–05 Iowa State Cyclones men's basketball team|Iowa State]] (9) 64, [[2004–05 Minnesota Golden Gophers men's basketball team|Minnesota]] (8) 53
+**:Iowa State used a 10-point halftime lead and a balanced attack to win, with [[Curtis Stinson]] scoring 18, with Rahshon Clark and Jared Homan scoring 14 apiece.<ref>{{cite web|title = Minnesota vs. Iowa State Box Score, March 18, 2005 {{!}} College Basketball at Sports-Reference.com|url = https://www.sports-reference.com/cbb/boxscores/2005-03-18-iowa-state.html|website = College Basketball at Sports-Reference.com|access-date = 2016-02-16}}</ref>
 *March 18, [[Gaylord Entertainment Center]], [[Nashville, Tennessee|Nashville]]
-**[[Villanova University|Villanova]] (5) 55, [[University of New Mexico|New Mexico]] (12) 47
-**:Villanova's stifling defense, which limited New Mexico to ''eleven'' first-half points, due to New Mexico missing many open looks, vanished in the second half. Mike Nardi scored 15 and [[Randy Foye]] had 14.<ref>{{Cite web|title = Villanova escapes against pesky New Mexico|url = http://www.cbssports.com/collegebasketball/gametracker/recap/NCAAB_20050318_NM@NOVA|website = CBSSports.com|access-date = 2016-02-16}}</ref>
-**[[University of Florida|Florida]] (4) 67, [[Ohio University|Ohio]] (13) 62
-**:Florida got out to a 20-point lead, but had to hang on for the victory over the [[Mid-American Conference|Mid-American]] champion Ohio. Matt Walsh scored 18 and [[Al Horford]] added 14.<ref>{{Cite web|title = Gators nearly gag, but escape with win over Ohio|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000020|website = ESPN.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Villanova Wildcats men's basketball team|Villanova]] (5) 55, [[New Mexico Lobos men's basketball|New Mexico]] (12) 47
+**:Villanova's stifling defense, which limited New Mexico to ''eleven'' first-half points due to New Mexico's missing many open looks, vanished in the second half. Mike Nardi scored 15 and [[Randy Foye]] had 14.<ref>{{cite web|title = Villanova escapes against pesky New Mexico|url = http://www.cbssports.com/collegebasketball/gametracker/recap/NCAAB_20050318_NM@NOVA|website = CBSSports.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Florida Gators men's basketball team|Florida]] (4) 67, [[2004–05 Ohio Bobcats men's basketball team|Ohio]] (13) 62
+**:Florida got out to a 20-point lead, but had to hang on for the victory over the [[Mid-American Conference|Mid-American]] champion Ohio. Matt Walsh scored 18 and [[Al Horford]] added 14.<ref>{{cite web|title = Gators nearly gag, but escape with win over Ohio|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000020|archive-url = https://web.archive.org/web/20160630175821/http://espn.go.com/mens-college-basketball/recap?gameId=254000020|url-status = dead|archive-date = June 30, 2016|website = ESPN.com|access-date = 2016-02-16}}</ref>
 *March 18, [[Ford Center (Oklahoma City)|Ford Center]], [[Oklahoma City]]
-**[[University of Wisconsin–Madison|Wisconsin]] (6) 57, [[University of Northern Iowa|Northern Iowa]] (11) 52
-**:The Badgers of Wisconsin held off Northern Iowa, using 16 points from Kammron Taylor and 15 from Sharif Chambliss.<ref>{{Cite web|title = Badgers blow 16-point lead, but beat UNI|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000023|website = ESPN.com|access-date = 2016-02-16}}</ref>
-**[[Bucknell University|Bucknell]] (14) 64, [[University of Kansas|Kansas]] (3) 63
-**:[[Patriot League]] champion Bucknell pulled off the stunner of the tournament, edging Kansas when Chris McNaughton scored on a bank shot with 10.5 seconds left followed by Kansas' [[Wayne Simien]] missing an open 15-footer as time expired. This completely unexpected act earned Bucknell University an [[ESPY]] award for Greatest Upset.<ref name=":3" />
+**[[2004–05 Wisconsin Badgers men's basketball team|Wisconsin]] (6) 57, [[2004–05 Northern Iowa Panthers men's basketball team|Northern Iowa]] (11) 52
+**:The Badgers of Wisconsin held off Northern Iowa, using 16 points from Kammron Taylor and 15 from Sharif Chambliss.<ref>{{cite web|title = Badgers blow 16-point lead, but beat UNI|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000023|archive-url = https://web.archive.org/web/20160702144905/http://espn.go.com/mens-college-basketball/recap?gameId=254000023|url-status = dead|archive-date = July 2, 2016|website = ESPN.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Bucknell Bison men's basketball team|Bucknell]] (14) 64, [[2004–05 Kansas Jayhawks men's basketball team|Kansas]] (3) 63
+**:[[Patriot League]] champion Bucknell pulled off the stunner of the tournament, edging Kansas when Chris McNaughton scored on a bank shot with 10.5 seconds left, followed by Kansas' [[Wayne Simien]] missing an open 15-footer as time expired. This completely unexpected act earned Bucknell University an [[ESPY]] award for Greatest Upset.<ref name=":3" />
 *March 18, [[DCU Center]], [[Worcester, Massachusetts|Worcester]]
-**[[North Carolina State University|N.C. State]] (10) 75, [[Charlotte 49ers|Charlotte]] (7) 63
-**:N.C. State fell into a 14-point hole just five minutes into the game, but closed the game on a 16-4 burst to win. [[Julius Hodge]] scored 19 for the Wolfpack, and Andrew Brackman added 16.<ref>{{Cite web|title = Hodge sparks NC State comeback win over Charlotte|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000026|website = ESPN.com|access-date = 2016-02-16}}</ref>
-**[[University of Connecticut|Connecticut]] (2) 77, [[University of Central Florida|UCF]] (15) 71
-**:The defending champion Connecticut Huskies survived a scare from [[Atlantic Sun Conference|Atlantic Sun]] champion Central Florida, who trimmed a 19-point deficit down to four. [[Charlie Villanueva]] scored 22 to lead UConn and [[Rudy Gay]] chipped in 17.<ref>{{Cite web|title = UConn almost blows 19-point lead, but holds off UCF|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000027|website = ESPN.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 NC State Wolfpack men's basketball team|N.C. State]] (10) 75, [[2004–05 Charlotte 49ers men's basketball team|Charlotte]] (7) 63
+**:N.C. State fell into a 14-point hole just five minutes into the game, but closed the game on a 16–4 burst to win. [[Julius Hodge]] scored 19 for the Wolfpack, and Andrew Brackman added 16.<ref>{{cite web|title = Hodge sparks NC State comeback win over Charlotte|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000026|archive-url = https://web.archive.org/web/20160801095818/http://espn.go.com/mens-college-basketball/recap?gameId=254000026|url-status = dead|archive-date = August 1, 2016|website = ESPN.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Connecticut Huskies men's basketball team|Connecticut]] (2) 77, [[2004–05 UCF Golden Knights men's basketball team|UCF]] (15) 71
+**:The defending champion Connecticut Huskies survived a scare from [[Atlantic Sun Conference|Atlantic Sun]] champion Central Florida, who trimmed a 19-point deficit down to four. [[Charlie Villanueva]] scored 22 to lead UConn and [[Rudy Gay]] chipped in 17.<ref>{{cite web|title = UConn almost blows 19-point lead, but holds off UCF|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000027|website = ESPN.com|access-date = 2016-02-16}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
 
 ===Austin Regional===
-*March 18, [[Charlotte Coliseum]], [[Charlotte]]
-**[[Duke University|Duke]] (1) 57, [[Delaware State University|Delaware State]] (16) 46
-**:Duke won in this offensive struggle against the [[Mid-Eastern Athletic Conference|MEAC]] champion as [[Shelden Williams]] scored 14.<ref>{{Cite web|title = Duke struggles early, but pulls away late in win|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000032|website = ESPN.com|access-date = 2016-02-16}}</ref>
-**[[Mississippi State University|Mississippi State]] (9) 93, [[Stanford University|Stanford]] (8) 70
-**:After a 1 pt lead at halftime, Mississippi State pulled away from Stanford with a strong second half, led by [[Lawrence Roberts (basketball)|Lawrence Roberts]]' 23 points and Winsome Frazier's 20.<ref>{{Cite web|title = Frazier's six 3-pointers push Mississippi St. past Stanford|url = http://www.cbssports.com/collegebasketball/gametracker/recap/NCAAB_20050318_MSST@STAN|website = CBSSports.com|access-date = 2016-02-16}}</ref>
+*March 18, [[Charlotte Coliseum]], [[Charlotte, North Carolina|Charlotte]]
+**[[2004–05 Duke Blue Devils men's basketball team|Duke]] (1) 57, [[Delaware State Hornets men's basketball|Delaware State]] (16) 46
+**:Duke won in this offensive struggle against the [[Mid-Eastern Athletic Conference|MEAC]] champion as [[Shelden Williams]] scored 14.<ref>{{cite web|title = Duke struggles early, but pulls away late in win|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000032|archive-url = https://web.archive.org/web/20160702211118/http://espn.go.com/mens-college-basketball/recap?gameId=254000032|url-status = dead|archive-date = July 2, 2016|website = ESPN.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Mississippi State Bulldogs men's basketball team|Mississippi State]] (9) 93, [[2004–05 Stanford Cardinal men's basketball team|Stanford]] (8) 70
+**:After a 1-point lead at halftime, Mississippi State pulled away from Stanford with a strong second half, led by [[Lawrence Roberts (basketball)|Lawrence Roberts]]' 23 points and Winsome Frazier's 20.<ref>{{cite web|title = Frazier's six 3-pointers push Mississippi St. past Stanford|url = http://www.cbssports.com/collegebasketball/gametracker/recap/NCAAB_20050318_MSST@STAN|website = CBSSports.com|access-date = 2016-02-16}}</ref>
 *March 18, [[DCU Center]], [[Worcester, Massachusetts|Worcester]]
-**[[Michigan State University|Michigan State]] (5) 89, [[Old Dominion University|Old Dominion]] (12) 81
-**:The Spartans of Michigan State rallied from a five-point halftime deficit to beat from Old Dominion. [[Alan Anderson (basketball)|Alan Anderson]] had 15 for Michigan State, [[Paul Davis (basketball)|Paul Davis]] added 14, and both [[Shannon Brown]] and [[Maurice Ager]] had 13 apiece.<ref>{{Cite web|title = Spartans avoid repeating '04 ouster, top ODU|url = http://scores.espn.go.com/ncb/recap?gameId=254000035|website = ESPN.com|access-date = 2016-02-16}}</ref>
-**[[University of Vermont|Vermont]] (13) 60, [[Syracuse Orange men's basketball|Syracuse]](Vacated)<ref name=":0"/> (4) 57 (OT)
-**:The Catamounts of Vermont upset Syracuse with an overtime victory. Vermont prevented point guard [[Gerry McNamara]] and senior forward [[Hakim Warrick]] from having big days. With 10 seconds left in a tie game, Germian Mopa Njila drove to the baseline and scored, but was ruled out of bounds because he stepped on the baseline. In overtime Njila(team lead 20pts.)  scored a three-pointer with two minutes left to put Vermont ahead. Then 48 seconds later after a steal by Njila, T. J. Sorrentine(17pts.) scored a deep three-pointer to put them up by 4, with just over a minute remaining, to essentially seal the victory. This was the first ever NCAA Tournament win for the [[University of Vermont]].<ref name=":4" />
+**[[2004–05 Michigan State Spartans men's basketball team|Michigan State]] (5) 89, [[Old Dominion Monarchs men's basketball|Old Dominion]] (12) 81
+**:The Spartans of Michigan State rallied from a five-point halftime deficit to beat Old Dominion. [[Alan Anderson (basketball)|Alan Anderson]] had 15 for Michigan State, [[Paul Davis (basketball)|Paul Davis]] added 14, and both [[Shannon Brown]] and [[Maurice Ager]] had 13 apiece.<ref>{{cite web|title = Spartans avoid repeating '04 ouster, top ODU|url = http://scores.espn.go.com/ncb/recap?gameId=254000035|archive-url = https://web.archive.org/web/20110317150447/http://scores.espn.go.com/ncb/recap?gameId=254000035|url-status = dead|archive-date = March 17, 2011|website = ESPN.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Vermont Catamounts men's basketball team|Vermont]] (13) 60, [[2004–05 Syracuse Orange men's basketball team|Syracuse]](Vacated)<ref name=":0"/> (4) 57 (OT)
+**:The Catamounts of Vermont upset Syracuse with an overtime victory. Vermont prevented point guard [[Gerry McNamara]] and senior forward [[Hakim Warrick]] from having big days. With 10 seconds left in a tie game, Germian Mopa Njila drove to the baseline and scored, but was ruled out of bounds because he stepped on the baseline. In overtime Njila (team lead 20 points) scored a three-pointer with two minutes left to put Vermont ahead. Then 48 seconds later after a steal by Njila, T. J. Sorrentine (17 points) scored a deep three-pointer to put them up by 4 with just over a minute remaining, to essentially seal the victory. This was the first-ever NCAA Tournament win for the [[University of Vermont]].<ref name=":4" />
 *March 17, [[McKale Center]], [[Tucson]]
-**[[University of Utah|Utah]] (6) 60, [[University of Texas at El Paso|UTEP]] (11) 54
-**:A large number of UTEP fans made the trip from El Paso to Tucson to support their team; however, Utah won the game, advancing to the second round. [[Andrew Bogut]] scored 24 to lead Utah.<ref>{{Cite web|title = Utah outlasts UTEP in rousing second half|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000039|website = ESPN.com|access-date = 2016-02-16}}</ref>
-**[[University of Oklahoma|Oklahoma]] (3) 84, [[Niagara University|Niagara]] (14) 67
-**:Oklahoma beat the [[Metro Atlantic Athletic Conference|MAAC]] champion, getting big efforts from Drew Lavender(17pts) and five other Sooners in double figures.<ref>{{Cite web|title = 2005 Oklahoma vs. Niagara Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/1396/2005-Oklahoma-vs-Niagara-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Utah Utes men's basketball team|Utah]] (6) 60, [[2004–05 UTEP Miners men's basketball team|UTEP]] (11) 54
+**:A large number of UTEP fans made the trip from El Paso to Tucson to support their team; however, Utah won the game, advancing to the second round. [[Andrew Bogut]] scored 24 to lead Utah.<ref>{{cite web|title = Utah outlasts UTEP in rousing second half|url = http://espn.go.com/mens-college-basketball/recap?gameId=254000039|archive-url = https://web.archive.org/web/20160507124405/http://espn.go.com/mens-college-basketball/recap?gameId=254000039|url-status = dead|archive-date = May 7, 2016|website = ESPN.com|access-date = 2016-02-16}}</ref>
+**[[2004–05 Oklahoma Sooners men's basketball team|Oklahoma]] (3) 84, [[Niagara Purple Eagles men's basketball|Niagara]] (14) 67
+**:Oklahoma beat the [[Metro Atlantic Athletic Conference|MAAC]] champion, getting big efforts from Drew Lavender (17 points) and five other Sooners in double figures.<ref>{{cite web|title = 2005 Oklahoma vs. Niagara Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/1396/2005-Oklahoma-vs-Niagara-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
 *March 17, [[RCA Dome]], [[Indianapolis]]
-**[[University of Cincinnati|Cincinnati]] (7) 76, [[University of Iowa|Iowa]] (10) 64
-**:Cincinnati's first-round victory over Iowa saw [[Jason Maxiell]] score 22 points, including the first two three-pointers of his college career. [[James White (basketball player)|James White]] added 15 for Cincinnati.<ref>{{Cite web|title = 2005 Cincinnati vs. Iowa Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/818/2005-Cincinnati-vs-Iowa-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}</ref>
-**[[University of Kentucky|Kentucky]] (2) 72, [[Eastern Kentucky University|Eastern Kentucky]] (15) 64
-**:The higher-seeded Kentucky team prevailed in this intrastate matchup (the schools are separated by only 30 miles), with [[Kelenna Azubuike]] and [[Chuck Hayes]] both scoring 16.<ref>{{Cite web|title = Kentucky vs. Eastern Kentucky (March 17, 2005)|url = http://www.bigbluehistory.net/bb/statistics/Games/20050317EasternKentucky.html|website = www.bigbluehistory.net|access-date = 2016-02-16}}</ref>
+**[[2004–05 Cincinnati Bearcats men's basketball team|Cincinnati]] (7) 76, [[2004–05 Iowa Hawkeyes men's basketball team|Iowa]] (10) 64
+**:Cincinnati's first-round victory over Iowa saw [[Jason Maxiell]] score 22 points, including the first two three-pointers of his college career. [[James White (basketball player)|James White]] added 15 for Cincinnati.<ref>{{cite web|title = 2005 Cincinnati vs. Iowa Round of 64|url = http://ncaa-basketball-tournament.pointafter.com/l/818/2005-Cincinnati-vs-Iowa-Round-of-64|website = ncaa-basketball-tournament.pointafter.com|access-date = 2016-02-16}}{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+**[[2004–05 Kentucky Wildcats men's basketball team|Kentucky]] (2) 72, [[Eastern Kentucky Colonels men's basketball|Eastern Kentucky]] (15) 64
+**:The higher-seeded Kentucky team prevailed in this intrastate matchup (the schools are separated by only 30 miles), with [[Kelenna Azubuike]] and [[Chuck Hayes]] both scoring 16.<ref>{{cite web|title = Kentucky vs. Eastern Kentucky (March 17, 2005)|url = http://www.bigbluehistory.net/bb/statistics/Games/20050317EasternKentucky.html|website = www.bigbluehistory.net|access-date = 2016-02-16}}</ref>
 
 ==Second round==
+
 ===Chicago Regional===
 *March 19, [[RCA Dome]], [[Indianapolis]]
 **[[University of Illinois at Urbana–Champaign|Illinois]] (1) 71, [[University of Nevada, Reno|Nevada]] (9) 59
-**:Illinois used a balanced attack of [[James Augustine (basketball)|James Augustine]], who had 23, [[Deron Williams]], who had 15, and [[Luther Head]] who had 14 to defeat the Wolf Pack and advance to the Sweet 16.
+**:Illinois used a balanced attack of [[James Augustine (basketball)|James Augustine]], who had 23, [[Deron Williams]], who had 15, and [[Luther Head]], who had 14, to defeat the Wolf Pack and advance to the Sweet 16.
 *March 19, [[Wolstein Center]], [[Cleveland]]
 **[[University of Wisconsin–Milwaukee|Milwaukee]] (12) 83, [[Boston College]] (4) 75
 **:The Panthers made a surprise appearance in the Sweet Sixteen just two days after knocking off [[Southeastern Conference|SEC]] contender Alabama. Joah Tucker and Ed McCants continued their strong tournament play, scoring 23 and 18, respectively. Adrian Tigert added 16.
@@ -745,7 +866,7 @@ Each regional winner advanced to the [[Final Four]] at the [[Edward Jones Dome]]
 **:Arizona refused to be upset the same way Kentucky was last year against UAB in the second round, coming out strong and opening it up in the second half. [[Salim Stoudamire]] scored 20 and [[Hassan Adams]] added 16.
 *March 20, [[Ford Center (Oklahoma City)|Ford Center]], [[Oklahoma City]]
 **[[Oklahoma State University–Stillwater|Oklahoma State]] (2) 85, [[Southern Illinois University Carbondale|Southern Illinois]] (7) 77
-**:Ivan McFarlin again powered Oklahoma State to the win, scoring 31 and igniting a 10-2 run that help the Cowboys pull away from the Salukis, who had a seven-point halftime lead.
+**:Ivan McFarlin again powered Oklahoma State to the win, scoring 31 and igniting a 10–2 run that help the Cowboys pull away from the Salukis, who had a seven-point halftime lead.
 
 ===Albuquerque Regional===
 *March 19, [[Taco Bell Arena]], [[Boise]]
@@ -756,13 +877,13 @@ Each regional winner advanced to the [[Final Four]] at the [[Edward Jones Dome]]
 **:Louisville played strong defense in eliminating the defending runner-up Yellow Jackets. [[Francisco García (basketball)|Francisco García]] scored 21, Larry O'Bannon 16, and Taquan Dean 14.
 *March 19, McKale Center, Tucson
 **[[Texas Tech University|Texas Tech]] (6) 71, [[Gonzaga University|Gonzaga]] (3) 69
-**:Texas Tech edged Gonzaga to earn a trip to the Sweet Sixteen. Ronald Ross led Texas Tech with 24, and Jarrius Jackson added 18.
+**:Texas Tech edged Gonzaga to earn a trip to the Sweet Sixteen. [[Ronald Ross (basketball)|Ronald Ross]] led Texas Tech with 24, and Jarrius Jackson added 18.
 *March 19, Wolstein Center, Cleveland
 **[[West Virginia University|West Virginia]] (7) 111, [[Wake Forest University|Wake Forest]] (2) 105 (2 OT)
 **:West Virginia continued their upset run to the Sweet Sixteen with a double-overtime shootout win, erasing a thirteen-point halftime deficit. [[Mike Gansey]] led West Virginia with 29 including 19 in the overtime periods, with Tyrone Sally, the hero of the first-round victory over Creighton, scoring 21, and D'or Fischer scoring 15 off the bench.
 
 ===Syracuse Regional===
-*March 20, [[Charlotte Coliseum]], [[Charlotte]]
+*March 20, [[Charlotte Coliseum]], [[Charlotte, North Carolina|Charlotte]]
 **[[University of North Carolina at Chapel Hill|North Carolina]] (1) 92, [[Iowa State University|Iowa State]] (9) 65
 **:North Carolina demolished another opponent behind 24 from [[Sean May]], 20 bench points from [[Marvin Williams]], 17 from [[Rashad McCants]], and 15 from [[Raymond Felton]].
 *March 20, [[Gaylord Entertainment Center]], [[Nashville, Tennessee|Nashville]]
@@ -773,37 +894,38 @@ Each regional winner advanced to the [[Final Four]] at the [[Edward Jones Dome]]
 **:Wisconsin ended the brief Cinderella run of Bucknell, which stunned Kansas in the first round. Mike Wilkinson scored 23 for Wisconsin, with [[Alando Tucker]] scoring 17 and Zach Morley adding 15.
 *March 20, [[DCU Center]], [[Worcester, Massachusetts|Worcester]]
 **[[North Carolina State University|N.C. State]] (10) 65, [[University of Connecticut|Connecticut]] (2) 62
-**:The tenth-seeded Wolfpack of N.C. State pulled the upset, knocking the defending champions out in the second round. [[Julius Hodge]] scored 17 for the Wolfpack while Cameron Bennerman scored 15.
+**:The tenth-seeded Wolfpack of N.C. State pulled the upset, knocking the defending champions out in the second round. [[Julius Hodge]] scored 17 for the Wolfpack including the game-winning layup and ensuing free throw, while Cameron Bennerman scored 15.
 
 ===Austin Regional===
-*March 20, [[Charlotte Coliseum]], [[Charlotte]]
+*March 20, [[Charlotte Coliseum]], [[Charlotte, North Carolina|Charlotte]]
 **[[Duke University|Duke]] (1) 63, [[Mississippi State University|Mississippi State]] (9) 55
-**:Duke struggled again, but still managed to knock off the Bulldogs and advance to the Sweet 16. [[Daniel Ewing]] led Duke with 22 and [[J. J. Redick]] added 16.<ref>{{Cite web|url=http://www.sports-reference.com/cbb/boxscores/2005-03-20-duke.html|title=Mississippi State vs. Duke Box Score, March 20, 2005 {{!}} College Basketball at Sports-Reference.com|website=College Basketball at Sports-Reference.com|access-date=2016-06-23}}</ref>
+**:Duke struggled again, but still managed to knock off the Bulldogs and advance to the Sweet 16. [[Daniel Ewing]] led Duke with 22 and [[JJ Redick]] added 16.<ref>{{cite web|url=https://www.sports-reference.com/cbb/boxscores/2005-03-20-duke.html|title=Mississippi State vs. Duke Box Score, March 20, 2005 {{!}} College Basketball at Sports-Reference.com|website=College Basketball at Sports-Reference.com|access-date=2016-06-23}}</ref>
 *March 20, [[DCU Center]], [[Worcester, Massachusetts|Worcester]]
 **[[Michigan State University|Michigan State]] (5) 72, [[University of Vermont|Vermont]] (13) 61
-**:The Spartans of Michigan State advanced to the Sweet Sixteen. [[Maurice Ager]] scored 19 for Michigan State, with Kelvin Torbert adding 14 off the bench.<ref>{{Cite web|url=http://www.sports-reference.com/cbb/boxscores/2005-03-20-michigan-state.html|title=Vermont vs. Michigan State Box Score, March 20, 2005 {{!}} College Basketball at Sports-Reference.com|website=College Basketball at Sports-Reference.com|access-date=2016-06-23}}</ref>
+**:The Spartans of Michigan State advanced to the Sweet Sixteen. [[Maurice Ager]] scored 19 for Michigan State, with Kelvin Torbert adding 14 off the bench.<ref>{{cite web|url=https://www.sports-reference.com/cbb/boxscores/2005-03-20-michigan-state.html|title=Vermont vs. Michigan State Box Score, March 20, 2005 {{!}} College Basketball at Sports-Reference.com|website=College Basketball at Sports-Reference.com|access-date=2016-06-23}}</ref>
 *March 19, [[McKale Center]], [[Tucson]]
 **[[University of Utah|Utah]] (6) 67, [[University of Oklahoma|Oklahoma]] (3) 58
-**:Utah advanced to the Sweet Sixteen with a victory over the Sooners of Oklahoma. Justin Hawkins scored 20 for Utah, while Marc Jackson scored 17, and Bryant Markson scored 16.<ref>{{Cite web|url=http://www.sports-reference.com/cbb/boxscores/2005-03-19-oklahoma.html|title=Utah vs. Oklahoma Box Score, March 19, 2005 {{!}} College Basketball at Sports-Reference.com|website=College Basketball at Sports-Reference.com|access-date=2016-06-23}}</ref>
+**:Utah advanced to the Sweet Sixteen with a victory over the Sooners of Oklahoma. Justin Hawkins scored 20 for Utah, while Marc Jackson scored 17, and Bryant Markson scored 16.<ref>{{cite web|url=https://www.sports-reference.com/cbb/boxscores/2005-03-19-oklahoma.html|title=Utah vs. Oklahoma Box Score, March 19, 2005 {{!}} College Basketball at Sports-Reference.com|website=College Basketball at Sports-Reference.com|access-date=2016-06-23}}</ref>
 *March 19, [[RCA Dome]], [[Indianapolis]]
 **[[University of Kentucky|Kentucky]] (2) 69, [[University of Cincinnati|Cincinnati]] (7) 60
-**:Kentucky moved on to the Sweet Sixteen behind 17 points from [[Kelenna Azubuike]],  and 16 from [[Rajon Rondo]]. Three other Wildcats scored in double figures.<ref>{{Cite web|url=http://www.sports-reference.com/cbb/boxscores/2005-03-19-cincinnati.html|title=Kentucky vs. Cincinnati Box Score, March 19, 2005 {{!}} College Basketball at Sports-Reference.com|website=College Basketball at Sports-Reference.com|access-date=2016-06-23}}</ref>
+**:Kentucky moved on to the Sweet Sixteen behind 17 points from [[Kelenna Azubuike]], and 16 from [[Rajon Rondo]]. Three other Wildcats scored in double figures.<ref>{{cite web|url=https://www.sports-reference.com/cbb/boxscores/2005-03-19-cincinnati.html|title=Kentucky vs. Cincinnati Box Score, March 19, 2005 {{!}} College Basketball at Sports-Reference.com|website=College Basketball at Sports-Reference.com|access-date=2016-06-23}}</ref>
 
 ==Regionals==
+
 ===Chicago Regional===
 At [[Allstate Arena]], [[Rosemont, Illinois]]
 
 ====Semifinals====
 *March 24
 **[[University of Illinois at Urbana–Champaign|Illinois]] (1) 77, [[University of Wisconsin–Milwaukee|Milwaukee]] (12) 63
-**:Milwaukee, who had knocked off powerhouses Alabama and Boston College in the last week, had their Cinderella run come to an abrupt end against the tournament's top-seeded team. Milwaukee stayed with Illinois for most of the first half, only trailing 29-26 with 3:38 to play in the half, but then Illinois reeled off a 7-0 run to push the lead to ten, and Milwaukee never recovered, never getting closer than seven points for the rest of the game. Following this impressive run, Milwaukee coach [[Bruce Pearl]] accepted a job as the head basketball coach at the [[University of Tennessee]].
+**:Milwaukee, who had knocked off powerhouses Alabama and Boston College in the last week, had their Cinderella run come to an abrupt end against the tournament's top-seeded team. Milwaukee stayed with Illinois for most of the first half, only trailing 29–26 with 3:38 to play in the half, but then Illinois reeled off a 7–0 run to push the lead to ten, and Milwaukee never recovered, never getting closer than seven points for the rest of the game. Following this impressive run, Milwaukee coach [[Bruce Pearl]] accepted a job as the head basketball coach at the [[University of Tennessee]].
 **[[University of Arizona|Arizona]] (3) 79, [[Oklahoma State University–Stillwater|Oklahoma State]] (2) 78
-**:In the other and more climactic Midwest Regional semifinal, Arizona squeaked by Oklahoma State when [[Salim Stoudamire]] canned a jumper with 2.8 seconds remaining. The game had been back-and-forth all night long, with Arizona leading by three at halftime but then letting up, allowing Oklahoma State to take a five-point lead at 72-67 with 4:29 remaining. Arizona and Oklahoma State then traded baskets, and Stoudamire sliced the Oklahoma State lead to 76-75 with 1:58 left on a three-pointer. After [[Joey Graham]] put Oklahoma State back up by one with eighteen seconds to play, Stoudamire nailed his game-winner to send Arizona to the Regional Finals.
+**:In the other and more climactic Midwest Regional semifinal, Arizona squeaked by Oklahoma State when [[Salim Stoudamire]] canned a jumper with 2.8 seconds remaining. The game had been back-and-forth all night long, with Arizona leading by three at halftime but then letting up, allowing Oklahoma State to take a five-point lead at 72–67 with 4:29 remaining. Arizona and Oklahoma State then traded baskets, and Stoudamire sliced the Oklahoma State lead to 76–75 with 1:58 left on a three-pointer. After [[Joey Graham]] put Oklahoma State back up by one with eighteen seconds to play, Stoudamire nailed his game-winner to send Arizona to the Regional Finals.
 
 ====Final====
 *March 26
 **[[University of Illinois at Urbana–Champaign|Illinois]] (1) 90, [[University of Arizona|Arizona]] (3) 89 (OT)
-**:In one of the most thrilling NCAA basketball games ever, Illinois pulled off an improbable comeback to break the hearts of Wildcats fans everywhere. After a close first half, Arizona came out gunning in the second half, opening up a 75-60 lead with just over four minutes left in the second half. Illinois then closed the half on a 20-5 run to force overtime using a stingy defense, layups, and three-pointers, the last of which by [[Deron Williams]] tied the game at 80-80 with 39 seconds in regulation. The run broke down Arizona completely, and Illinois opened up a 90-84 lead in overtime before Arizona scored five straight to cut the lead to one, but [[Hassan Adams]] missed a three at the buzzer to give Illinois the win and a berth in the Final Four.
+**:In one of the most thrilling NCAA basketball games ever, Illinois pulled off an improbable comeback to break the hearts of Wildcats fans everywhere. After a close first half, Arizona came out gunning in the second half, opening up a 75–60 lead with only four minutes left in the second half. Illinois then closed the half on a 20–5 run to force overtime using a stingy defense, layups, and three-pointers, the last of which by [[Deron Williams]] tied the game at 80–80 with 39 seconds in regulation. The run broke down Arizona completely, and Illinois opened up a 90–84 lead in overtime before Arizona scored five straight to cut the lead to one, but [[Hassan Adams]] missed a three at the buzzer to give Illinois the win and a berth in the Final Four.
 
 ===Albuquerque Regional===
 At [[The Pit (arena)|University Arena]], [[Albuquerque, New Mexico|Albuquerque]]
@@ -811,14 +933,14 @@ At [[The Pit (arena)|University Arena]], [[Albuquerque, New Mexico|Albuquerque]]
 ====Semifinals====
 *March 24
 **[[University of Louisville|Louisville]] (4) 93, [[University of Washington|Washington]] (1) 79
-**:Louisville dominated top-seeded Washington, using a big spurt late in the first half and then cruising from there. After an evenly matched sixteen minutes that saw Washington lead 30-29, Louisville went on an 18-5 run to close the first half, with the big shots coming from [[Francisco García (basketball)|Francisco García]], who nailed two three-pointers during that stretch to extend the lead. Washington tried a second-half comeback, cutting Louisville's lead to 67-61 with 8:41 left, but Louisville had enough to pull away.
+**:Louisville dominated top-seeded Washington, using a big spurt late in the first half and then cruising from there. After an evenly matched sixteen minutes that saw Washington lead 30–29, Louisville went on an 18–5 run to close the first half, with the big shots coming from [[Francisco García (basketball)|Francisco García]], who nailed two three-pointers during that stretch to extend the lead. Washington tried a second-half comeback, cutting Louisville's lead to 67–61 with 8:41 left, but Louisville had enough to pull away.
 **[[West Virginia University|West Virginia]] (7) 65, [[Texas Tech University|Texas Tech]] (6) 60
 **:Seventh-seeded West Virginia continued to roll onto the Regional Finals, engaging in a close battle with Texas Tech before pulling away in the second half. West Virginia took the lead for good when [[Kevin Pittsnogle]] drained a three with 6:14 to play, and held it from there, with Pittsnogle sinking two huge free throws with seventeen seconds left and West Virginia up by two to put the game out of reach.
 
 ====Final====
 *March 26
 **[[University of Louisville|Louisville]] (4) 93, [[West Virginia University|West Virginia]] (7) 85 (OT)
-**:In another Regional Final overtime game (and a preview of a future [[Big East Conference (1979–2013)|Big East]] rivalry), West Virginia opened up the game at a blistering pace, using five three-pointers to jump out to a 19-5 lead. When [[Johannes Herber|Joe Herber]] made a three, West Virginia had a 32-13 lead with 5:30 to play in the first half. West Virginia led by thirteen at halftime, but Louisville finally went to a zone defense coming out of the half, and West Virginia began to go cold. Louisville cut the lead to three nine minutes into the second half, but [[Kevin Pittsnogle]] extended the West Virginia lead to ten with six minutes to play with a three. But West Virginia missed their last four field goals and Louisville tied the game with 38 seconds to play on [[Larry O'Bannon]]'s layup. Louisville had grabbed the momentum and scored sixteen points in overtime to secure a berth in the Final Four.
+**:In another Regional Final overtime game (and a preview of a future [[Big East Conference (1979–2013)|Big East]] rivalry), West Virginia opened up the game at a blistering pace, using five three-pointers to jump out to a 19–5 lead. When [[Johannes Herber|Joe Herber]] made a three, West Virginia had a 32–13 lead with 5:30 to play in the first half. West Virginia led by thirteen at halftime, but Louisville finally went to a zone defense coming out of the half, and West Virginia began to go cold. Louisville cut the lead to three nine minutes into the second half, but [[Kevin Pittsnogle]] extended the West Virginia lead to ten with six minutes to play with a three. But West Virginia missed their last four field goals and Louisville tied the game with 38 seconds to play on [[Larry O'Bannon]]'s layup. Louisville had grabbed the momentum and scored sixteen points in overtime to secure a berth in the Final Four.
 
 ===Syracuse Regional===
 At [[Carrier Dome]], [[Syracuse, New York|Syracuse]]
@@ -826,14 +948,14 @@ At [[Carrier Dome]], [[Syracuse, New York|Syracuse]]
 ====Semifinals====
 *March 25
 **[[University of North Carolina at Chapel Hill|North Carolina]] (1) 67, [[Villanova University|Villanova]] (5) 66
-**:In a tight Sweet Sixteen contest, the top-seeded Tar Heels barely made it to the Regional Finals. The entire game was officiated closely—the first television timeout came after Villanova garnered its fifth personal foul, and two fouls led to the disqualification from the game of North Carolina star Raymond Felton with under five minutes left. Fifth-seeded Villanova stuck with UNC despite falling behind 64-54 with 3:45 left in the game. The Wildcats stormed back to cut the lead to 66-63. With eleven seconds left Allan Ray drove the lane, received contact as he made a basket, but was called for a travel on the play. On the ensuing possession, Villanova immediately fouled. Rashad McCants then made a free throw to seal the North Carolina victory.
+**:In a tight Sweet Sixteen contest, the top-seeded Tar Heels barely made it to the Regional Finals. The entire game was officiated closely—the first television timeout came after Villanova garnered its fifth personal foul, and two fouls led to the disqualification from the game of North Carolina star Raymond Felton with under five minutes left. Fifth-seeded Villanova stuck with UNC despite falling behind 64–54 with 3:45 left in the game. The Wildcats stormed back to cut the lead to 66–63. With eleven seconds left Allan Ray drove the lane, received contact as he made a basket, but was called for a travel on the play. On the ensuing possession, Villanova immediately fouled. Rashad McCants then made a free throw to seal the North Carolina victory.
 **[[University of Wisconsin–Madison|Wisconsin]] (6) 65, [[North Carolina State University|N.C. State]] (10) 56
-**:After upsetting two higher-seeded teams, including the defending national champion, N.C. State took a nine-point halftime lead against sixth-seeded Wisconsin before the Badgers woke up, using a 13-0 second-half run to turn a three-point deficit into a ten-point lead. N.C. State hung in, cutting the Wisconsin lead to 53-49 with 5:03 to play, and then only trailed 59-54 with 1:50 to play, but N.C. State ran out of miracles and energy and their Cinderella run ended, denying them a matchup with their most hated rival for a trip to St. Louis.
+**:After upsetting two higher-seeded teams, including the defending national champion, N.C. State took a nine-point halftime lead against sixth-seeded Wisconsin before the Badgers woke up, using a 13–0 second-half run to turn a three-point deficit into a ten-point lead. N.C. State hung in, cutting the Wisconsin lead to 53–49 with 5:03 to play, and then only trailed 59–54 with 1:50 to play, but N.C. State ran out of miracles and energy and their Cinderella run ended, denying them a matchup with their most hated rival for a trip to St. Louis.
 
 ====Final====
 *March 27
 **[[University of North Carolina at Chapel Hill|North Carolina]] (1) 88, [[University of Wisconsin–Madison|Wisconsin]] (6) 82
-**:The third regional final matched up the top seeded North Carolina Tar Heels and the sixth seeded Badgers from Wisconsin. The Tar Heels started off hot in this one as Sean May and Rashad McCants scored at will. When point guard Raymond Felton garnered his second foul, head coach Roy Williams decided to pull him to prevent further foul trouble. Up 11 at the time, it seemed to be the right move. Wisconsin would prove Williams wrong as they finished the half on an 11-0 run, tying the game at 44 heading into the half. The Tar Heels struggled to start the second half as hot as the first and trailed for the first time since the opening minutes of the game. Sparked by May's 29 points and 11 boards and Felton's clutch free throws, they outlasted the Badgers and won the game by six in regulation.
+**:The third regional final matched up the top seeded North Carolina Tar Heels and the sixth seeded Badgers from Wisconsin. The Tar Heels started off hot in this one as Sean May and Rashad McCants scored at will. When point guard Raymond Felton garnered his second foul, head coach Roy Williams decided to pull him to prevent further foul trouble. Up 11 at the time, it seemed to be the right move. Wisconsin would prove Williams wrong as they finished the half on an 11–0 run, tying the game at 44 heading into the half. The Tar Heels struggled to start the second half as hot as the first and trailed for the first time since the opening minutes of the game. Sparked by May's 29 points and 11 boards and Felton's clutch free throws, they outlasted the Badgers and won the game by six in regulation.
 
 ===Austin Regional===
 At [[Frank Erwin Center]], [[Austin, Texas|Austin]]
@@ -841,23 +963,23 @@ At [[Frank Erwin Center]], [[Austin, Texas|Austin]]
 ====Semifinals====
 *March 25
 **[[Michigan State University|Michigan State]] (5) 78, [[Duke University|Duke]] (1) 68
-**:The Spartans of Michigan State continued on to the Regional Finals by outplaying Duke in the second half and breaking a 32-32 halftime tie. Michigan State came out in the second half and secured the momentum in slowly, but surely, pulling away from Duke. The Spartans got out to a nine-point lead, allowed Duke to get within two, but then, scoring their last ten points of the game on free throws, moved on to the Regional Finals.
+**:The Spartans of Michigan State continued on to the Regional Finals by outplaying Duke in the second half and breaking a 32–32 halftime tie. Michigan State came out in the second half and secured the momentum in slowly, but surely, pulling away from Duke. The Spartans got out to a nine-point lead, allowed Duke to get within two, but then, scoring their last ten points of the game on free throws, moved on to the Regional Finals.
 **[[University of Kentucky|Kentucky]] (2) 62, [[University of Utah|Utah]] (6) 52
-**:After playing Kentucky well in the first half, only trailing by five at halftime, Utah ran out of steam. Utah's last chance to win the game came after [[Andrew Bogut]] missed a free throw with Utah down 38-35 with 12:17 to play. Kentucky gradually pulled away to meet Michigan State in the Regional Finals.
+**:After playing Kentucky well in the first half, only trailing by five at halftime, Utah ran out of steam. Utah's last chance to win the game came after [[Andrew Bogut]] missed a free throw with Utah down 38–35 with 12:17 to play. Kentucky gradually pulled away to meet Michigan State in the Regional Finals.
 
 ====Final====
 *March 27
 **[[Michigan State University|Michigan State]] (5) 94, [[University of Kentucky|Kentucky]] (2) 88 (2 OT)
-**:In this double-overtime thriller, Kentucky started out well and led Michigan State by four at halftime, but Michigan State caught up in the second half, actually leading 70-62 with 5:43 to play. Kentucky rallied back, however, cutting the lead to one when [[Kelenna Azubuike]] drained a three with 1:19 to play. After Patrick Sparks missed the front end of a one-and-one with 41 seconds to play, Michigan State's Shannon Brown appeared to ice the game with two free throws with 20 seconds to play. But with time expiring, Sparks put up a prayer from three, and the ball bounced around the rim four times before falling in. After the referees spent nearly ten minutes reviewing the play, they upheld that Sparks' shot was a three pointer, sending the game into overtime. In the first overtime, neither team relented, and Brown hit a key three-point basket for Michigan State to keep them in the game. Kentucky's Azubuike missed a three as time expired to send the game into double overtime. In the second overtime, Michigan State's mettle finally won the game for them, as they scored 11 of their 13 points from the free throw line to finally seal the game and send them to the Final Four for the fourth time under coach [[Tom Izzo]].
+**:In this double-overtime thriller, Kentucky started out well and led Michigan State by four at halftime, but Michigan State caught up in the second half, actually leading 70–62 with 5:43 to play. Kentucky rallied back, however, cutting the lead to one when [[Kelenna Azubuike]] drained a three with 1:19 to play. After Patrick Sparks missed the front end of a one-and-one with 41 seconds to play, Michigan State's Shannon Brown appeared to ice the game with two free throws with 20 seconds to play. But with time expiring, Sparks put up a prayer from three, and the ball bounced around the rim four times before falling in. After the referees spent nearly ten minutes reviewing the play, they upheld that Sparks' shot was a three pointer, sending the game into overtime. In the first overtime, neither team relented, and Brown hit a key three-point basket for Michigan State to keep them in the game. Kentucky's Azubuike missed a three as time expired to send the game into double overtime. In the second overtime, Michigan State's mettle finally won the game for them, as they scored 11 of their 13 points from the free throw line to finally seal the game and send them to the Final Four for the fourth time under coach [[Tom Izzo]].
 
-==Final four==
+==Final Four==
 [[File:Edward Jones Dome KM.jpg|thumb|200px|The [[Edward Jones Dome]] was host of the Final Four and National Championship in 2005.]]
 At [[Edward Jones Dome]], [[St. Louis]]
 
-===National Semifinals===
+===National semifinals===
 *April 2
 **[[University of Illinois at Urbana–Champaign|Illinois]] (Chicago 1) 72, [[University of Louisville|Louisville]] (Albuquerque 4) 57
-*:In a packed Edwards Jones Dome, the battle between Chicago Regional Champions Illinois and Albuquerque Regional Champions Louisville took place. Although nearly three fourths of the crowd were Illini fans, the fourth-seeded Louisville Cardinals were not fazed and gave the overall top-seeded Fighting Illini all they could handle, trailing only by three at halftime, but Illinois used an early second-half run to pull away from the Cardinals and earn a bid in the national championship game.
+*:In a packed Edwards Jones Dome, the battle between Chicago Regional Champions Illinois and Albuquerque Regional Champions Louisville took place. Although nearly three-fourths of the crowd were Illini fans, the fourth-seeded Louisville Cardinals were not fazed and gave the overall top-seeded Fighting Illini all they could handle, trailing only by three at halftime, but Illinois used an early second-half run to pull away from the Cardinals and earn a bid in the national championship game.
 **[[University of North Carolina at Chapel Hill|North Carolina]] (Syracuse 1) 87, [[Michigan State University|Michigan State]] (Austin 5) 71
 *:In the battle between Syracuse Regional Champions North Carolina and Austin Regional Champions Michigan State, North Carolina used a 54-point second half to erase a five-point halftime deficit and down the Spartans, who were making their fourth appearance in the Final Four under coach [[Tom Izzo]].
 
@@ -865,48 +987,61 @@ At [[Edward Jones Dome]], [[St. Louis]]
 {{main article|2005 NCAA Men's Division I Basketball Championship Game}}
 *April 4
 **[[University of North Carolina at Chapel Hill|North Carolina]] (Syracuse 1) 75, [[University of Illinois at Urbana–Champaign|Illinois]] (Chicago 1) 70
-North Carolina was playing looking for its 4th National Championship while Illinois was playing in its first National Championship. It was a tight contest for much of the first half before an 8-0 run by North Carolina allowed them to take a 35-25 lead. Eventually they would take a 40-27 lead into halftime. North Carolina increased its lead to 15 at one point in the second half. But Illinois began a furious charge. At one point, they would hit seven consecutive shots from the floor to turn a fifteen-point lead back to four. Unfazed, North Carolina would push the lead back up to ten before a 10-0 run by the Illini tied the game at 65-65. Illinois would tie the game at 70-70 on a three by Luther Head. But North Carolina would fight back as freshman Marvin Williams tapped back a Rashad McCants missed shot to put North Carolina back in front. Illinois would get several cracks to take the lead but were unable to convert. Eventually, Raymond Felton was able to steal the ball from Head forcing Deron Williams to foul. However, Felton converted on 1 of 2 free throws giving Illinois one last chance. But Luther Head's three pointer bounced high and out. Eventually it went into the hands of Felton who this time connected on both free throws to give North Carolina a 75-70 victory. For North Carolina head coach Roy Williams, it was his first national championship. Illinois was denied a chance to set the NCAA record for most wins in a season, instead tying it at 37. Sean May scored 26 points as he took the MOP of the Final Four.
+North Carolina was looking for its 4th National Championship, while Illinois was playing in its first. It was a tight contest for much of the first half before an 8–0 run by North Carolina allowed them to take a 35–25 lead. Eventually they would take a 40–27 lead into halftime. North Carolina increased its lead to 15 at one point in the second half. But Illinois began a furious charge: at one point, they would hit seven consecutive shots from the floor to turn a fifteen-point lead back to four. Unfazed, North Carolina would push the lead back up to ten before a 10–0 run by the Illini tied the game at 65-65. Illinois would tie the game at 70–70 on a three by Luther Head. But North Carolina would fight back as freshman Marvin Williams tapped back a Rashad McCants missed shot to put North Carolina back in front. Illinois would get several cracks to take the lead but were unable to convert. Eventually, Raymond Felton was able to steal the ball from Head, forcing Deron Williams to foul. However, Felton converted on 1 of 2 free throws, giving Illinois one last chance. But Luther Head's three pointer bounced high and out. Eventually it went into the hands of Felton who this time connected on both free throws to give North Carolina a 75–70 victory. For North Carolina head coach Roy Williams, it was his first national championship. Illinois was denied a chance to set the NCAA record for most wins in a season, instead tying it at 37. Sean May scored 26 points as he took the MOP of the Final Four.
 
 ==Bracket==
-Winners in '''bold'''. * next to a score indicates that the game went to overtime; multiple stars indicate multiple overtimes.
+===Opening Round game – Dayton, Ohio===
+Winner advances to Syracuse Regional vs. No. 1 North Carolina.
+
+{{2TeamBracket | RD1=Opening Round<br/>March 15
+| RD1-seed1 = 16
+| RD1-team1 ='''[[2004–05 Oakland Golden Grizzlies men's basketball team|Oakland]]'''
+| RD1-score1 ='''79'''
+| RD1-seed2 = 16
+| RD1-team2 =[[2004–05 Alabama A&M Bulldogs basketball team|Alabama A&M]]
+| RD1-score2 = 69
+}}
 
 ===Chicago Regional===
-{{16TeamBracket|
-| subgroup1='''[[RCA Dome|Indianapolis]]'''
-| subgroup2='''[[Wolstein Center|Cleveland]]'''
-| subgroup3='''[[Taco Bell Arena|Boise]]'''
-| subgroup4='''[[Chesapeake Energy Arena|Oklahoma City]]'''
-| RD1-team01 ='''[[2005 Illinois Fighting Illini men's basketball team|Illinois]]'''
+{{16TeamBracket| RD1=First round<br />March 17–18
+| RD2=Second round<br />March 19–20
+| RD3=Regional semifinals<br />March 24
+| RD4=Regional Final<br />March 26
+| subgroup1='''[[RCA Dome|Indianapolis]]''' - Thu/Sat
+| subgroup2='''[[Wolstein Center|Cleveland]]''' - Thu/Sat
+| subgroup3='''[[Taco Bell Arena|Boise]]''' - Thu/Sat
+| subgroup4='''[[Chesapeake Energy Arena|Oklahoma City]]''' - Fri/Sun
+| RD1-team01 ='''[[2004–05 Illinois Fighting Illini men's basketball team|Illinois]]'''
 | RD1-score01 ='''67'''
-| RD1-team02 =[[Fairleigh Dickinson University|Fairleigh Dickinson]]
+| RD1-team02 =[[2004–05 Fairleigh Dickinson Knights men's basketball team|Fairleigh Dickinson]]
 | RD1-score02 =55
-| RD1-team03 =[[Texas Longhorns men's basketball|Texas]]
+| RD1-team03 =[[2004–05 Texas Longhorns men's basketball team|Texas]]
 | RD1-score03 =57
-| RD1-team04 ='''[[University of Nevada, Reno|Nevada]]'''
+| RD1-team04 ='''[[2004–05 Nevada Wolf Pack men's basketball team|Nevada]]'''
 | RD1-score04 ='''61'''
-| RD1-team05 =[[Alabama Crimson Tide basketball|Alabama]]
+| RD1-team05 =[[2004–05 Alabama Crimson Tide men's basketball team|Alabama]]
 | RD1-score05 =73
-| RD1-team06 ='''[[UW–Milwaukee Panthers|UW–Milwaukee]]'''
+| RD1-team06 ='''[[2004–05 Milwaukee Panthers men's basketball team|UW–Milwaukee]]'''
 | RD1-score06 ='''83'''
-| RD1-team07 ='''[[Boston College Eagles basketball|Boston College]]'''
+| RD1-team07 ='''[[2004–05 Boston College Eagles men's basketball team|Boston College]]'''
 | RD1-score07 ='''85'''
-| RD1-team08 =[[University of Pennsylvania Basketball|Pennsylvania]]
+| RD1-team08 =[[2004–05 Penn Quakers men's basketball team|Pennsylvania]]
 | RD1-score08 =65
-| RD1-team09 =[[LSU Tigers basketball|LSU]]
+| RD1-team09 =[[2004–05 LSU Tigers basketball team|LSU]]
 | RD1-score09 =68
-| RD1-team10 ='''[[UAB Blazers|UAB]]'''
+| RD1-team10 ='''[[2004–05 UAB Blazers men's basketball team|UAB]]'''
 | RD1-score10 ='''82'''
-| RD1-team11 ='''[[Arizona Wildcats|Arizona]]'''
+| RD1-team11 ='''[[2004–05 Arizona Wildcats men's basketball team|Arizona]]'''
 | RD1-score11 ='''66'''
-| RD1-team12 =[[Utah State University|Utah State]]
+| RD1-team12 =[[2004–05 Utah State Aggies men's basketball team|Utah State]]
 | RD1-score12 =53
-| RD1-team13 ='''[[Southern Illinois University Carbondale|Southern Illinois]]'''
+| RD1-team13 ='''[[2004–05 Southern Illinois Salukis men's basketball team|Southern Illinois]]'''
 | RD1-score13 ='''65'''
-| RD1-team14 =[[St. Mary's College of California|St. Mary's]]
+| RD1-team14 =[[2004–05 Saint Mary's Gaels men's basketball team|St. Mary's]]
 | RD1-score14 =56
-| RD1-team15 ='''[[Oklahoma State Cowboys basketball|Oklahoma State]]'''
+| RD1-team15 ='''[[2004–05 Oklahoma State Cowboys basketball team|Oklahoma State]]'''
 | RD1-score15 ='''63'''
-| RD1-team16 =[[Southeastern Louisiana University|Southeastern Louisiana]]
+| RD1-team16 =[[2004–05 Southeastern Louisiana Lions basketball team|Southeastern Louisiana]]
 | RD1-score16 =50
 | RD2-seed01='''1'''
 | RD2-team01='''Illinois'''
@@ -946,122 +1081,85 @@ Winners in '''bold'''. * next to a score indicates that the game went to overtim
 | RD3-score04=78
 | RD4-seed01='''1'''
 | RD4-team01='''Illinois'''
-| RD4-score01='''90*'''
+| RD4-score01='''90<sup>OT</sup>'''
 | RD4-seed02=3
 | RD4-team02=Arizona
 | RD4-score02=89
 }}
 
-====First round summary====
+====Chicago regional final====
 {{basketballbox
  | bg = #e3e3e3
- | date = Thursday, March 17
- | time = 12:25 pm [[Eastern Time Zone|EST]]
- | report = [http://www.sports-reference.com/cbb/boxscores/2005-03-17-alabama.html box score]
- | team1 = '''#12 Wisconsin–Milwaukee Panthers'''
- | score1 = '''83'''
- | points1 =
- | rebounds1 =
- | assist1 =
- | otherstat1 =
- | team2 = #5 Alabama Crimson Tide
- | score2 = 73
- | points2 =
- | rebounds2 =
- | assist2 =
- | H1 = 45–32
- | H2 = 38–41
- | place = Wolstein Center, Cleveland, Ohio
- | attendance = 13,100
- | referee = Mike Sanzere, Mike Thibodeaux, Robert Staffen
- | TV = CBS
-}}
-{{basketballbox
- | bg = #ffdead
- | date = Thursday, March 17
- | time = 3:10 pm [[Eastern Time Zone|EST]]
- | report = [http://www.sports-reference.com/cbb/boxscores/2005-03-17-boston-college.html box score]
- | team1 = #13 Pennsylvania Quakers
- | score1 = 65
- | points1 =
- | rebounds1 =
- | assist1 =
- | otherstat1 =
- | team2 = '''#4 Boston College Eagles'''
- | score2 = '''85'''
- | points2 =
- | rebounds2 =
- | assist2 =
- | H1 = 28–48
- | H2 = 37–37
- | place = Wolstein Center, Cleveland, Ohio
- | attendance = 13,100
- | referee = Tom O'Neill, Antonio Petty, Michael J. Eggers
+ | date = March 26
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/2005-03-26-arizona.html Box score]
+ | team1 = No. 3 Arizona Wildcats
+ | score1 = 89
+ | team2 = '''No. 1 Illinois Fighting Illini'''
+ | score2 = '''90'''
+ | points1 = [[Channing Frye]], 24
+ | rebounds1 = Channing Frye, 12
+ | assist1 = [[Salim Stoudamire]], 7
+ | points2 = [[Deron Williams]], 22
+ | rebounds2 = [[James Augustine]], 6
+ | assist2 = Deron Williams, 10
+ | H1 = 36–'''38'''
+ | H2 = '''44'''–42
+ | OT = 9–'''10'''
+ | overtime = OT
+ | place = Allstate Arena – Rosemont, Illinois
+ | attendance = 16,957
+ | referee = Robert Donato, Randy McCall, Doug Shows
  | TV = CBS
 }}
 
-====Second round summary====
-{{basketballbox
- | bg = #ffdead
- | date = Saturday, March 19
- | time = 5:30 pm [[Eastern Time Zone|EST]]
- | report = [http://www.sports-reference.com/cbb/boxscores/2005-03-19-boston-college.html box score]
- | team1 = '''#12 Wisconsin–Milwaukee Panthers'''
- | score1 = '''83'''
- | points1 =
- | rebounds1 =
- | assist1 =
- | otherstat1 =
- | team2 = #4 Boston College Eagles
- | score2 = 75
- | points2 =
- | rebounds2 =
- | assist2 =
- | H1 = 41–37
- | H2 = 42–38
- | place = Wolstein Center, Cleveland, Ohio
- | attendance = 13,332
- | referee = David Libbey, Tom O'Neill, Raymond Perone
- | TV = CBS
-}}
+====Chicago regional all-tournament team====
+* [[Deron Williams]] – [[Illinois Fighting Illini men's basketball|Illinois]] (MOP)
+* [[Hassan Adams]] – [[Arizona Wildcats men's basketball|Arizona]]
+* [[Channing Frye]] – Arizona
+* [[Salim Stoudamire]] – Arizona
+* [[Luther Head]] – Illinois
 
 ===Albuquerque Regional===
-{{16TeamBracket|
-| subgroup1='''[[Taco Bell Arena|Boise]]'''
-| subgroup2='''[[Gaylord Entertainment Center|Nashville]]'''
-| subgroup3='''[[McKale Center|Tucson]]'''
-| subgroup4='''[[Wolstein Center|Cleveland]]'''
-| RD1-team01 ='''[[Washington Huskies|Washington]]'''
+{{16TeamBracket| RD1=First round<br />March 17–18
+| RD2=Second round<br />March 19–20
+| RD3=Regional semifinals<br />March 24
+| RD4=Regional Final<br />March 26
+| subgroup1='''[[Taco Bell Arena|Boise]]''' - Thu/Sat
+| subgroup2='''[[Gaylord Entertainment Center|Nashville]]''' - Fri/Sun
+| subgroup3='''[[McKale Center|Tucson]]''' - Thu/Sat
+| subgroup4='''[[Wolstein Center|Cleveland]]''' - Thu/Sat
+| RD1-team01 ='''[[2004–05 Washington Huskies men's basketball team|Washington]]'''
 | RD1-score01 ='''88'''
-| RD1-team02 =[[University of Montana-Missoula|Montana]]
+| RD1-team02 =[[2004–05 Montana Grizzlies basketball team|Montana]]
 | RD1-score02 =77
-| RD1-team03 ='''[[University of the Pacific (United States)|Pacific]]'''
+| RD1-team03 ='''[[2004–05 Pacific Tigers men's basketball team|Pacific]]'''
 | RD1-score03 ='''79'''
-| RD1-team04 =[[Pittsburgh Panthers basketball|Pittsburgh]]
+| RD1-team04 =[[2004–05 Pittsburgh Panthers men's basketball team|Pittsburgh]]
 | RD1-score04 =71
-| RD1-team05 ='''[[Georgia Tech Yellow Jackets basketball|Georgia Tech]]'''
+| RD1-team05 ='''[[2004–05 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]'''
 | RD1-score05 ='''80'''
-| RD1-team06 =[[George Washington University|George Washington]]
+| RD1-team06 =[[2004–05 George Washington Colonials men's basketball team|George Washington]]
 | RD1-score06 =68
-| RD1-team07 ='''[[Louisville Cardinals basketball|Louisville]]'''
+| RD1-team07 ='''[[2004–05 Louisville Cardinals men's basketball team|Louisville]]'''
 | RD1-score07 ='''68'''
-| RD1-team08 =[[University of Louisiana at Lafayette|Louisiana-Lafayette]]
+| RD1-team08 =[[2004–05 Louisiana–Lafayette Ragin' Cajuns men's basketball team|Louisiana-Lafayette]]
 | RD1-score08 =62
-| RD1-team09 ='''[[Texas Tech Red Raiders|Texas Tech]]'''
+| RD1-team09 ='''[[2004–05 Texas Tech Red Raiders basketball team|Texas Tech]]'''
 | RD1-score09 ='''78'''
-| RD1-team10 =[[UCLA Bruins men's basketball|UCLA]]
+| RD1-team10 =[[2004–05 UCLA Bruins men's basketball team|UCLA]]
 | RD1-score10 =66
-| RD1-team11 ='''[[Gonzaga Bulldogs|Gonzaga]]'''
+| RD1-team11 ='''[[2004–05 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''
 | RD1-score11 ='''74'''
-| RD1-team12 =[[Winthrop University|Winthrop]]
+| RD1-team12 =[[2004–05 Winthrop Eagles men's basketball team|Winthrop]]
 | RD1-score12 =64
-| RD1-team13 ='''[[West Virginia Mountaineers|West Virginia]]'''
+| RD1-team13 ='''[[2004–05 West Virginia Mountaineers men's basketball team|West Virginia]]'''
 | RD1-score13 ='''63'''
-| RD1-team14 =[[Creighton Bluejays|Creighton]]
+| RD1-team14 =[[2004–05 Creighton Bluejays men's basketball team|Creighton]]
 | RD1-score14 =61
-| RD1-team15 ='''[[Wake Forest University|Wake Forest]]'''
+| RD1-team15 ='''[[2004–05 Wake Forest Demon Deacons men's basketball team|Wake Forest]]'''
 | RD1-score15 ='''70'''
-| RD1-team16 =[[University of Tennessee at Chattanooga|UT-Chattanooga]]
+| RD1-team16 =[[2004–05 Chattanooga Mocs basketball team|UT-Chattanooga]]
 | RD1-score16 =54
 | RD2-seed01='''1'''
 | RD2-team01='''Washington'''
@@ -1083,7 +1181,7 @@ Winners in '''bold'''. * next to a score indicates that the game went to overtim
 | RD2-score06=69
 | RD2-seed07='''7'''
 | RD2-team07='''West Virginia'''&nbsp;
-| RD2-score07='''111**'''
+| RD2-score07='''111<sup>2OT</sup>'''
 | RD2-seed08=2
 | RD2-team08=Wake Forest
 | RD2-score08=105
@@ -1101,129 +1199,102 @@ Winners in '''bold'''. * next to a score indicates that the game went to overtim
 | RD3-score04='''65'''
 | RD4-seed01='''4'''
 | RD4-team01='''Louisville'''&nbsp;
-| RD4-score01='''93'''*
+| RD4-score01='''93<sup>OT</sup>'''
 | RD4-seed02=7
 | RD4-team02=West Virginia
 | RD4-score02=85
 }}
 
-====First round summary====
+====Albuquerque regional final====
 {{basketballbox
  | bg = #e3e3e3
- | date = Thursday, March 17
- | time = 7:10 pm [[Eastern Time Zone|EST]]
- | report = [http://www.sports-reference.com/cbb/boxscores/2005-03-17-chattanooga.html box score]
- | team1 = #15 Chattanooga Mocs
- | score1 = 54
- | points1 =
- | rebounds1 =
- | assist1 =
- | otherstat1 =
- | team2 = '''#2 Wake Forest Demon Deacons'''
- | score2 = '''70'''
- | points2 =
- | rebounds2 =
- | assist2 =
- | H1 = 27–24
- | H2 = 24–46
- | place = Wolstein Center, Cleveland, Ohio
- | attendance = 13,100
- | referee = David Libbey, Raymond Perone, Steve Skiles
- | TV = CBS
-}}
-{{basketballbox
- | bg = #ffdead
- | date = Thursday, March 17
- | time = 9:50 pm [[Eastern Time Zone|EST]]
- | report = [http://www.sports-reference.com/cbb/boxscores/2005-03-17-creighton.html box score]
- | team1 = #10 Creighton Blue Jays
- | score1 = 61
- | points1 =
- | rebounds1 =
- | assist1 =
- | otherstat1 =
- | team2 = '''#7 West Virginia Mountaineeers'''
- | score2 = '''63'''
- | points2 =
- | rebounds2 =
- | assist2 =
- | H1 = 31–33
- | H2 = 30–30
- | place = Wolstein Center, Cleveland, Ohio
- | attendance = 13,100
- | referee = Gerald Boudreaux, Patrick Adams, Jeffrey Nichols
+ | date = March 26
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/2005-03-26-louisville.html Box score]
+ | team1 = No. 7 West Virginia Mountaineers
+ | score1 = 85
+ | team2 = '''No. 4 Louisville Cardinals'''
+ | score2 = '''93'''
+ | points1 = [[Kevin Pittsnogle]], 25
+ | rebounds1 = Kevin Pittsnogle, 5
+ | assist1 = ''2 tied'', 5
+ | points2 = [[Larry O'Bannon]], 24
+ | rebounds2 = Ellis Myles, 7
+ | assist2 = [[Francisco García (basketball)|Francisco García]], 8
+ | H1 = '''40'''–27
+ | H2 = 37–'''50'''
+ | OT = 8–'''16'''
+ | overtime = OT
+ | place = The Pit – Albuquerque, New Mexico
+ | attendance = 15,896
+ | referee = Tim Higgins, J.D. Collins, Ed Hightower
  | TV = CBS
 }}
 
-====Second round summary====
-{{basketballbox
- | bg = #ffdead
- | date = Saturday, March 19
- | time = 8:10 pm [[Eastern Time Zone|EST]]
- | report = [http://www.sports-reference.com/cbb/boxscores/2005-03-19-wake-forest.html box score]
- | team1 = '''#7 West Virginia Mountaineers'''
- | score1 = '''111'''
- | points1 =
- | rebounds1 =
- | assist1 =
- | otherstat1 =
- | team2 = #2 Wake Forest Demon Deacons
- | score2 = 105
- | points2 =
- | rebounds2 =
- | assist2 =
- | H1 = 27–40
- | H2 = 50–37
- | OT = 16–16, 18–12
- | place = Wolstein Center, Cleveland, Ohio
- | attendance = 13,332
- | referee = Mike Sanzere, Gerald Boudreaux, Steve Skiles
- | TV = CBS
-}}
+====Albuquerque regional all-tournament team====
+* [[Larry O'Bannon]] – [[Louisville Cardinals men's basketball|Louisville]] (MOP)
+* [[Taqwa Pinero|Taquan Dean]] – Louisville
+* [[Francisco García (basketball)|Francisco García]] – Louisville
+* [[Patrick Beilein]] – [[West Virginia Mountaineers men's basketball|West Virginia]]
+* [[Kevin Pittsnogle]] – West Virginia
 
 ===Syracuse Regional===
-{|border=0 cellspacing=2 style="font-size: 90%; margin:1em 2em 1em 1em;"
-|-
-|rowspan="2"|&nbsp;||'''64'''||'''Oakland'''||'''79'''||width="15"|&nbsp;|| rowspan="2" style="vertical-align:middle;"|Oakland advances to 16 seed in Syracuse
-|-
-|65||Alabama A&M||69
-|}
-{{16TeamBracket|
-| subgroup1='''[[Charlotte Coliseum|Charlotte]]'''
-| subgroup2='''[[Gaylord Entertainment Center|Nashville]]'''
-| subgroup3='''[[Chesapeake Energy Arena|Oklahoma City]]'''
-| subgroup4='''[[DCU Center|Worcester]]'''
-| RD1-team01='''[[North Carolina Tar Heels men's basketball|North Carolina]]'''
+{{16TeamBracket
+| RD1=First round<br />March 18
+| RD2=Second round<br />March 20
+| RD3=Regional semifinals<br />March 25
+| RD4=Regional Final<br />March 27 
+| subgroup1='''[[Charlotte Coliseum|Charlotte]] - Fri/Sun'''
+| subgroup2='''[[Gaylord Entertainment Center|Nashville]] - Fri/Sun'''
+| subgroup3='''[[Chesapeake Energy Arena|Oklahoma City]] - Fri/Sun'''
+| subgroup4='''[[DCU Center|Worcester]] - Fri/Sun'''
+| RD1-seed01=1
+| RD1-team01='''[[2004–05 North Carolina Tar Heels men's basketball team|North Carolina]]'''
 | RD1-score01='''96'''
-| RD1-team02=[[Oakland Golden Grizzlies|Oakland]]
+| RD1-seed02=16
+| RD1-team02=[[2004–05 Oakland Golden Grizzlies men's basketball team|Oakland]]
 | RD1-score02=68
-| RD1-team03=[[Minnesota Golden Gophers|Minnesota]]
+| RD1-seed03=8
+| RD1-team03=[[2004–05 Minnesota Golden Gophers men's basketball team|Minnesota]]
 | RD1-score03=53
+| RD1-seed04=9
 | RD1-team04='''[[2004–05 Iowa State Cyclones men's basketball team|Iowa State]]'''
-| RD1-score04='''64'''
-| RD1-team05='''[[Villanova Wildcats|Villanova]]'''
+| RD1-score04='''64''' 
+| RD1-seed05=5
+| RD1-team05='''[[2004–05 Villanova Wildcats men's basketball team|Villanova]]'''
 | RD1-score05='''55'''
-| RD1-team06=[[New Mexico Lobos basketball|New Mexico]]
+| RD1-seed06=12
+| RD1-team06=[[2004–05 New Mexico Lobos men's basketball team|New Mexico]]
 | RD1-score06=47
-| RD1-team07='''[[Florida Gators|Florida]]'''
+| RD1-seed07=4
+| RD1-team07='''[[2004–05 Florida Gators men's basketball team|Florida]]'''
 | RD1-score07='''67'''
-| RD1-team08=[[Ohio Bobcats|Ohio]]
+| RD1-seed08=13
+| RD1-team08=[[2004–05 Ohio Bobcats men's basketball team|Ohio]]
 | RD1-score08=62
-| RD1-team09='''[[Wisconsin Badgers|Wisconsin]]'''
+| RD1-seed09=6
+| RD1-team09='''[[2004–05 Wisconsin Badgers men's basketball team|Wisconsin]]'''
 | RD1-score09='''57'''
-| RD1-team10=[[Northern Iowa Panthers|Northern Iowa]]
+| RD1-seed10=11
+| RD1-team10=[[2004–05 Northern Iowa Panthers men's basketball team|Northern Iowa]]
 | RD1-score10=52
-| RD1-team11=[[Kansas Jayhawks basketball|Kansas]]
+| RD1-seed11=3
+| RD1-team11=[[2004–05 Kansas Jayhawks men's basketball team|Kansas]]
 | RD1-score11=63
-| RD1-team12='''[[Bucknell University|Bucknell]]'''
+| RD1-seed12=14
+| RD1-team12='''[[2004–05 Bucknell Bison men's basketball team|Bucknell]]'''
 | RD1-score12='''64'''
-| RD1-team13=[[Charlotte]]
+| RD1-seed13=7
+| RD1-team13=[[2004–05 Charlotte 49ers men's basketball team|Charlotte]]
 | RD1-score13=63
-| RD1-team14='''[[NC State Wolfpack basketball|North Carolina State]]'''
+| RD1-seed14=10
+| RD1-team14='''[[2004–05 NC State Wolfpack men's basketball team|NC State]]'''
 | RD1-score14='''75'''
+| RD1-seed15=2
 | RD1-team15='''[[2004–05 Connecticut Huskies men's basketball team|Connecticut]]'''
 | RD1-score15='''77'''
-| RD1-team16=[[University of Central Florida|Central Florida]]
+| RD1-seed16=15
+| RD1-team16=[[2004–05 UCF Golden Knights men's basketball team|UCF]]
 | RD1-score16=71
 | RD2-seed01='''1'''
 | RD2-team01='''North Carolina'''
@@ -1244,7 +1315,7 @@ Winners in '''bold'''. * next to a score indicates that the game went to overtim
 | RD2-team06=Bucknell
 | RD2-score06=62
 | RD2-seed07='''10'''
-| RD2-team07='''North Carolina State'''&nbsp;
+| RD2-team07='''NC State'''
 | RD2-score07='''65'''
 | RD2-seed08=2
 | RD2-team08=Connecticut
@@ -1259,7 +1330,7 @@ Winners in '''bold'''. * next to a score indicates that the game went to overtim
 | RD3-team03='''Wisconsin'''
 | RD3-score03='''65'''
 | RD3-seed04=10
-| RD3-team04=North Carolina State&nbsp;
+| RD3-team04=NC State
 | RD3-score04=56
 | RD4-seed01='''1'''
 | RD4-team01='''North Carolina'''&nbsp;
@@ -1269,43 +1340,77 @@ Winners in '''bold'''. * next to a score indicates that the game went to overtim
 | RD4-score02=82
 }}
 
+==== Syracuse regional final ====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 27
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/2005-03-27-north-carolina.html Box score]
+ | team1 = No. 6 Wisconsin Badgers
+ | score1 = 82
+ | team2 = '''No. 1 North Carolina Tar Heels'''
+ | score2 = '''88'''
+ | points1 = [[Alando Tucker]], 25
+ | rebounds1 = [[Mike Wilkinson (basketball)|Mike Wilkinson]], 7
+ | assist1 = Mike Wilkinson, 5
+ | points2 = [[Sean May]], 29
+ | rebounds2 = Sean May, 12
+ | assist2 = [[Raymond Felton]], 7
+ | H1 = 44–44
+ | H2 = 38–'''44'''
+ | place = Carrier Dome – Syracuse, New York
+ | attendance = 30,132
+ | referee = John Cahill, Dick Cartmell, Bruce Hicks
+ | TV = CBS
+}}
+
+====Syracuse regional all-tournament team====
+* [[Sean May]] – [[North Carolina Tar Heels men's basketball|North Carolina]] (MOP)
+* [[Rashad McCants]] – North Carolina
+* [[Randy Foye]] – [[Villanova Wildcats men's basketball|Villanova]]
+* Clayton Hanson – [[Wisconsin Badgers men's basketball|Wisconsin]]
+* [[Alando Tucker]] – Wisconsin
+
 ===Austin Regional===
-{{16TeamBracket|
-| subgroup1='''[[Charlotte Coliseum|Charlotte]]'''
-| subgroup2='''[[DCU Center|Worcester]]'''
-| subgroup3='''[[McKale Center|Tucson]]'''
-| subgroup4='''[[RCA Dome|Indianapolis]]'''
-| RD1-team01='''[[Duke Blue Devils men's basketball|Duke]]'''
+{{16TeamBracket| RD1=First round<br />March 17–18
+| RD2=Second round<br />March 19–20
+| RD3=Regional semifinals<br />March 25
+| RD4=Regional Final<br />March 27 
+| subgroup1='''[[Charlotte Coliseum|Charlotte]]''' - Fri/Sun
+| subgroup2='''[[DCU Center|Worcester]]''' - Fri/Sun
+| subgroup3='''[[McKale Center|Tucson]]''' - Thu/Sat
+| subgroup4='''[[RCA Dome|Indianapolis]]''' - Thu/Sat
+| RD1-team01='''[[2004–05 Duke Blue Devils men's basketball team|Duke]]'''
 | RD1-score01='''57'''
-| RD1-team02=[[Delaware State]]
+| RD1-team02=[[2004–05 Delaware State Hornets men's basketball team|Delaware State]]
 | RD1-score02=46
-| RD1-team03=[[Stanford Cardinal|Stanford]]
+| RD1-team03=[[2004–05 Stanford Cardinal men's basketball team|Stanford]]
 | RD1-score03=70
-| RD1-team04='''[[Mississippi State]]'''
+| RD1-team04='''[[2004–05 Mississippi State Bulldogs men's basketball team|Mississippi State]]'''
 | RD1-score04='''93'''
-| RD1-team05='''[[Michigan State Spartans|Michigan State]]'''
+| RD1-team05='''[[2004–05 Michigan State Spartans men's basketball team|Michigan State]]'''
 | RD1-score05='''89'''
-| RD1-team06=[[Old Dominion University|Old Dominion]]
+| RD1-team06=[[2004–05 Old Dominion Monarchs basketball team|Old Dominion]]
 | RD1-score06=81
-| RD1-team07=[[Syracuse Orange|Syracuse]]
+| RD1-team07=[[2004–05 Syracuse Orange men's basketball team|Syracuse]]
 | RD1-score07=57
-| RD1-team08='''[[University of Vermont|Vermont]]'''
-| RD1-score08='''60*'''
-| RD1-team09='''[[Utah Utes|Utah]]'''
+| RD1-team08='''[[2004–05 Vermont Catamounts men's basketball team|Vermont]]'''
+| RD1-score08='''60<sup>OT</sup>'''
+| RD1-team09='''[[2004–05 Utah Utes men's basketball team|Utah]]'''
 | RD1-score09='''60'''
-| RD1-team10=[[UTEP]]
+| RD1-team10=[[2004–05 UTEP Miners men's basketball team|UTEP]]
 | RD1-score10=54
-| RD1-team11='''[[Oklahoma Sooners|Oklahoma]]'''
+| RD1-team11='''[[2004–05 Oklahoma Sooners men's basketball team|Oklahoma]]'''
 | RD1-score11='''84'''
-| RD1-team12=[[Niagara University|Niagara]]
+| RD1-team12=[[2004–05 Niagara Purple Eagles men's basketball team|Niagara]]
 | RD1-score12=67
-| RD1-team13='''[[Cincinnati Bearcats|Cincinnati]]'''
+| RD1-team13='''[[2004–05 Cincinnati Bearcats men's basketball team|Cincinnati]]'''
 | RD1-score13='''76'''
-| RD1-team14=[[Iowa Hawkeyes|Iowa]]
+| RD1-team14=[[2004–05 Iowa Hawkeyes men's basketball team|Iowa]]
 | RD1-score14=64
-| RD1-team15='''[[Kentucky Wildcats|Kentucky]]'''
+| RD1-team15='''[[2004–05 Kentucky Wildcats men's basketball team|Kentucky]]'''
 | RD1-score15='''72'''
-| RD1-team16=[[Eastern Kentucky University|Eastern Kentucky]]
+| RD1-team16=[[2004–05 Eastern Kentucky Colonels basketball team|Eastern Kentucky]]
 | RD1-score16=64
 | RD2-seed01='''1'''
 | RD2-team01='''Duke'''
@@ -1345,14 +1450,47 @@ Winners in '''bold'''. * next to a score indicates that the game went to overtim
 | RD3-score04='''62'''
 | RD4-seed01='''5'''
 | RD4-team01='''Michigan State'''
-| RD4-score01='''94**'''
+| RD4-score01='''94<sup>2OT</sup>'''
 | RD4-seed02=2
 | RD4-team02=Kentucky
 | RD4-score02=88
 }}
 
+====Austin regional final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 27
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/2005-03-27-kentucky.html Box score]
+ | team1 = '''No. 5 Michigan State Spartans'''
+ | score1 = '''94'''
+ | team2 = No. 2 Kentucky Wildcats
+ | score2 = 88
+ | points1 = [[Shannon Brown]], 24
+ | rebounds1 = [[Paul Davis (basketball)|Paul Davis]], 11
+ | assist1 = [[Chris Hill (basketball)|Chris Hill]], 4
+ | points2 = [[Randolph Morris]], 20
+ | rebounds2 = Ravi Moss, 6
+ | assist2 = ''4 tied'', 3
+ | H1 = 33–'''37'''
+ | H2 = '''42'''–38
+ | OT = 6–6, '''13'''–7
+ | overtime = 2OT
+ | place = Frank Erwin Center – Austin, Texas
+ | attendance = 16,239
+ | referee = Jim Burr, Mark Whitehead, John Higgins
+ | TV = CBS
+}}
+
+====Austin regional all-tournament team====
+* [[Shannon Brown]] – [[Michigan State Spartans men's basketball|Michigan State]] (MOP)
+* [[Chuck Hayes]] – [[Kentucky Wildcats men's basketball|Kentucky]]
+* [[Maurice Ager]] – Michigan State
+* [[Paul Davis (basketball)|Paul Davis]] – Michigan State
+* [[Andrew Bogut]] – [[Utah Utes men's basketball|Utah]]
+
 ===Final Four — St. Louis, Missouri===
-{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game
+{{4TeamBracket | RD1=National semifinals<br />April 2 | RD2=National Championship Game<br />April 4
 | RD1-seed1='''CH1'''
 | RD1-team1='''Illinois'''
 | RD1-score1='''72'''
@@ -1371,21 +1509,97 @@ Winners in '''bold'''. * next to a score indicates that the game went to overtim
 | RD2-seed2='''SY1'''
 | RD2-team2='''North Carolina'''
 | RD2-score2='''75'''
-
 }}
+
+====National semifinals====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = April 2
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/2005-04-02-illinois.html Box score]
+ | team1 = AL4 Louisville Cardinals
+ | score1 = 57
+ | team2 = '''CH1 Illinois Fighting Illini'''
+ | score2 = '''72'''
+ | points1 = Ellis Myles, 17
+ | rebounds1 = Ellis Myles, 7
+ | assist1 = [[Larry O'Bannon]], 4
+ | points2 = ''2 tied'', 20
+ | rebounds2 = [[James Augustine]], 11
+ | assist2 = [[Deron Williams]], 9
+ | H1 = 28−'''31'''
+ | H2 = 29−'''41'''
+ | place = Edward Jones Dome – St. Louis, Missouri
+ | attendance = 47,754
+ | referee = Jim Burr, Ed Hightower, Doug Shows
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = fff
+ | date = April 2
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/2005-04-02-michigan-state.html Box score]
+ | team1 = AU5 Michigan State Spartans
+ | score1 = 71
+ | team2 = '''SY1 North Carolina Tar Heels'''
+ | score2 = '''87'''
+ | points1 = [[Maurice Ager]], 24
+ | rebounds1 = [[Paul Davis (basketball)|Paul Davis]], 15
+ | assist1 = [[Kelvin Torbert]], 6
+ | points2 = [[Sean May]], 22
+ | rebounds2 = '''3 tied''', 8
+ | assist2 = [[Raymond Felton]], 7
+ | H1 = '''38'''−33
+ | H2 = 33−'''54'''
+ | place = Edward Jones Dome – St. Louis, Missouri
+ | attendance = 47,754
+ | referee = Robert Donato, Reggie Greenwood, Randy McCall
+ | TV = CBS
+}}
+
+====National championship====
+{{Main article|2005 NCAA Division I men's basketball championship game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = April 4
+ | time = 
+ | report = [https://www.sports-reference.com/cbb/boxscores/2005-04-04-illinois.html Box score]
+ | team1 = '''SY1 North Carolina Tar Heels'''
+ | score1 = '''75'''
+ | team2 = CH1 Illinois Fighting Illini
+ | score2 = 70
+ | H1 = '''40'''–27
+ | H2 = 35–'''43'''
+ | points1 = [[Sean May]], 26
+ | rebounds1 = Sean May, 10
+ | assist1 = [[Raymond Felton]], 7
+ | points2 = [[Luther Head]], 21
+ | rebounds2 = [[Roger Powell (basketball)|Roger Powell]], 14
+ | assist2 = ''2 tied'', 7
+ | place = Edward Jones Dome – St. Louis, Missouri
+ | attendance = 47,262
+ | referee = Ed Corbett, John Cahill, Verne Harris
+ | TV = CBS
+}}
+
+====Final Four all-tournament team====
+* [[Sean May]] – [[North Carolina Tar Heels men's basketball|North Carolina]] (MOP)
+* [[Luther Head]] – [[Illinois Fighting Illini men's basketball|Illinois]]
+* [[Deron Williams]] – Illinois
+* [[Raymond Felton]] – North Carolina
+* [[Rashad McCants]] – North Carolina
 
 ==Record by conference==
 {|class="wikitable sortable"
-|-
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|# of Bids
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Win %
-!style="background: #e3e3e3;"|R32
-!style="background: #e3e3e3;"|S16
-!style="background: #e3e3e3;"|E8
-!style="background: #e3e3e3;"|F4
-!style="background: #e3e3e3;"|CG
+!Conference
+!# of Bids
+!Record
+!Win %
+!R32
+!S16
+!E8
+!F4
+!CG
 |- style="text-align:center;"
 |align="left"| [[Big East Conference (1979–2013)|Big East]]
 | 6
@@ -1551,7 +1765,7 @@ Winners in '''bold'''. * next to a score indicates that the game went to overtim
 
 The [[Atlantic 10]], [[Atlantic Sun Conference|Atlantic Sun]], [[Big Sky Conference|Big Sky]], [[Big South Conference|Big South]], [[Colonial Athletic Association|CAA]], [[Ivy League|Ivy]], [[Metro Atlantic Athletic Conference|MAAC]], [[Mid-American Conference|MAC]], [[Mid–Eastern Athletic Conference|MEAC]], [[Northeast Conference|Northeast]], [[Ohio Valley Conference|Ohio Valley]], [[Southern Conference|SoCon]], [[Southland Conference|Southland]], [[Southwestern Athletic Conference|SWAC]], and [[Sun Belt Conference|Sun Belt]] conferences all went 0–1.
 
-The columns R32, S16, E8, F4, and CG respectively stand for the Round of 32, Sweet Sixteen, Elite Eight, Final Four, and Championship Game.
+The columns R32, S16, E8, F4, and CG respectively stand for the Round of 32, Sweet Sixteen, Elite Eight, Final Four, and championship Game.
 
 ==Television==
 [[ESPN]] carried the opening round game.
@@ -1562,10 +1776,10 @@ The columns R32, S16, E8, F4, and CG respectively stand for the Round of 32, Swe
 
 [[CBS Sports]] carried the remaining 63 games.  They were carried on a regional basis until the Elite Eight, at which point all games were shown nationally.
 
-*[[Jim Nantz]] and [[Billy Packer]] – First & Second Round at Charlotte, North Carolina; Austin Regional at Austin, Texas; Final Four at St. Louis, Missouri
-*[[Dick Enberg]] and [[Jay Bilas]] – First & Second Round at Indianapolis, Indiana; Chicago Regional at Chicago, Illinois
+*[[Jim Nantz]], [[Billy Packer]], & [[Bonnie Bernstein]] – First & Second Round at Charlotte, North Carolina; Austin Regional at Austin, Texas; Final Four at St. Louis, Missouri
+*[[Dick Enberg]], [[Jay Bilas]], & [[Armen Keteyian]] – First & Second Round at Indianapolis, Indiana; Chicago Regional at Chicago, Illinois
 *[[Verne Lundquist]] and [[Bill Raftery]] – First & Second Round at Nashville, Tennessee; Syracuse Regional at Syracuse, New York
-*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Len Elmore]] – First & Second Round at Worcester, Massachusetts; Albuquerque Regional at Albuquerque, New Mexico
+*[[Gus Johnson (sportscaster)|Gus Johnson]], [[Len Elmore]], and [[Tracy Wolfson]] – First & Second Round at Worcester, Massachusetts; Albuquerque Regional at Albuquerque, New Mexico
 *[[Kevin Harlan]] and [[Dan Bonner]] – First & Second Round at Tucson, Arizona
 *[[Ian Eagle]] and [[Jim Spanarkel]] – First & Second Round at Cleveland, Ohio
 *[[Craig Bolerjack]] and [[Bob Wenzel]] – First & Second Round at Oklahoma City, Oklahoma
@@ -1578,7 +1792,7 @@ The television rating indicated the tournament was watched by an average of 10.6
 ==Radio==
 [[Westwood One (1976–2011)|Westwood One]] had exclusive radio coverage.
 {| class="wikitable"
-|- bgcolor="#efefef"
+|- style="background:#efefef;"
 !Play-by-play announcer
 !Color analyst(s)
 !Round(s)
@@ -1596,7 +1810,7 @@ The television rating indicated the tournament was watched by an average of 10.6
 {{Unreferenced section|date=December 2016}}
 
 {| class="wikitable"
-|- bgcolor="#efefef"
+|- style="background:#efefef;"
 !Region
 !Seed
 !Teams
@@ -1676,25 +1890,31 @@ The television rating indicated the tournament was watched by an average of 10.6
 |}
 
 ==See also==
-* [[2005 NCAA Division II Men's Basketball Tournament]]
-* [[2005 NCAA Division III Men's Basketball Tournament]]
-* [[2005 NCAA Division I Women's Basketball Tournament]]
-* [[NCAA Division II Women's Basketball Tournament|2005 NCAA Division II Women's Basketball Tournament]]
-* [[NCAA Division III Women's Basketball Tournament|2005 NCAA Division III Women's Basketball Tournament]]
+* [[2005 NCAA Division II men's basketball tournament]]
+* [[2005 NCAA Division III men's basketball tournament]]
+* [[2005 NCAA Division I women's basketball tournament]]
+* [[NCAA Division II women's basketball tournament|2005 NCAA Division II women's basketball tournament]]
+* [[NCAA Division III women's basketball tournament|2005 NCAA Division III women's basketball tournament]]
 * [[2005 National Invitation Tournament]]
 * [[Women's National Invitation Tournament|2005 Women's National Invitation Tournament]]
-* [[2005 NAIA Division I Men's Basketball Tournament]]
-* [[NAIA Men's Basketball Championships#Division II|2005 NAIA Division II Men's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships|2005 NAIA Division I Women's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships#Division II|2005 NAIA Division II Women's Basketball Tournament]]
+* [[2005 NAIA Division I men's basketball tournament]]
+* [[NAIA Men's Basketball Championships#Division II|2005 NAIA Division II men's basketball tournament]]
+* [[NAIA Women's Basketball Championships|2005 NAIA Division I women's basketball tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2005 NAIA Division II women's basketball tournament]]
 
 ==References==
-{{Reflist}}
+{{reflist}}
 
-{{NCAA Men's Division I Basketball Tournament navbox}}
+{{NCAA Division I men's basketball tournament navbox}}
+{{2005 NCAA Division I men's basketball tournament navbox}}
 {{2005 North Carolina Tar Heels men's basketball navbox}}
 
-{{DEFAULTSORT:2005 Ncaa Men's Division I Basketball Tournament}}
-[[Category:NCAA Division I Men's Basketball Championship]]
+{{DEFAULTSORT:2005 NCAA Division I men's basketball tournament}}
+[[Category:NCAA Division I men's basketball tournament]]
 [[Category:2004–05 NCAA Division I men's basketball season|Ncaa]]
-[[Category:Basketball in Austin, Texas]]
+[[Category:2005 in sports in Missouri|NCAA Division I men's basketball tournament]]
+[[Category:March 2005 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:April 2005 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:Basketball competitions in Kansas City, Missouri|NCAA]]
+[[Category:College basketball tournaments in Missouri]]
+[[Category:2000s in Kansas City, Missouri]]

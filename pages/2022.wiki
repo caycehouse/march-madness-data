@@ -1,4 +1,4 @@
-{{Short description|American collegiate basketball competition}}
+{{Short description|Edition of USA college basketball tournament}}
 {{Use mdy dates|date=March 2022}}
 {{Infobox NCAA basketball tournament 
 | Year=2022	
@@ -21,8 +21,8 @@
 | Coach          = [[Bill Self]]
 | CoachCount     = 2nd
 | MOP            = [[Ochai Agbaji]]
-| MOPTeam        = [[2021–22 Kansas Jayhawks men's basketball team|Kansas]]
-| Attendance     =
+| MOPTeam        = Kansas
+| Attendance     = 684,425<ref>{{cite web |title=2022 ATTENDANCE SUMMARY |url=http://fs.ncaa.org/Docs/stats/m_basketball_RB/2023/Attend.pdf}}</ref>
 | OneTopScorer   =
 | TwoTopScorers  =
 | TopScorer      =
@@ -32,20 +32,20 @@
 | Points         =
 }}
 
-The '''2022 NCAA Division I men's basketball tournament''' involved 68 teams playing in a [[single-elimination tournament]] that determined the  [[National Collegiate Athletic Association]] (NCAA) [[NCAA Division I|Division I]] men's [[college basketball]] national champion for the [[2021–22 NCAA Division I men's basketball season|2021–22 season]]. The 83rd annual edition of [[NCAA Division I men's basketball tournament|the tournament]] began on March 15, 2022, and concluded with the [[2022 NCAA Division I Men's Basketball Championship Game|championship game]] on April 4 at the [[Caesars Superdome]] in [[New Orleans, Louisiana]], with the [[2021–22 Kansas Jayhawks men's basketball team|Kansas Jayhawks]] defeating the [[2021-22 North Carolina Tar Heels men's basketball team|North Carolina Tar Heels]], 72–69, overcoming a 16 point first half deficit (the largest deficit overcome in championship game history), to claim the school’s fourth national title. 
+The '''2022 NCAA Division I men's basketball tournament''' involved 68 teams playing in a [[single-elimination tournament]] that determined the  [[National Collegiate Athletic Association]] (NCAA) [[NCAA Division I|Division I]] men's [[college basketball]] national champion for the [[2021–22 NCAA Division I men's basketball season|2021–22 season]]. The 83rd annual edition of [[NCAA Division I men's basketball tournament|the tournament]] began on March 15, 2022, and concluded with the [[2022 NCAA Division I men's basketball championship game|championship game]] on April 4 at the [[Caesars Superdome]] in [[New Orleans, Louisiana]], with the [[2021–22 Kansas Jayhawks men's basketball team|Kansas Jayhawks]] defeating the [[2021-22 North Carolina Tar Heels men's basketball team|North Carolina Tar Heels]], 72–69, overcoming a 16-point first-half deficit (the largest deficit overcome in championship game history), to claim the school's fourth national title.
 
 [[Big South Conference]] champion [[2021–22 Longwood Lancers men's basketball team|Longwood]] and [[Northeast Conference]] (NEC) champion [[2021–22 Bryant Bulldogs men's basketball team|Bryant]] made their tournament debuts. Bryant was eliminated in the First Four by [[2021–22 Wright State Raiders men's basketball team|Wright State]], and Longwood was eliminated by [[2021–22 Tennessee Volunteers basketball team|Tennessee]] in the first round.
 
-A major upset occurred on the first full day of the tournament, when 15-seed [[2021–22 Saint Peter's Peacocks men's basketball team|Saint Peter's]] upset 2-seed [[2021–22 Kentucky Wildcats men's basketball team|Kentucky]], and subsequently became the third 15-seed to reach the Sweet 16 (the second consecutive year in which this occurred and third in the last nine years) and the first ever 15-seed to advance to the Elite Eight.<ref>{{Cite web |last=Bushnell |first=Henry |date=March 17, 2022 |title=Kentucky stunned by No. 15 seed Saint Peter's, a new March Madness low for John Calipari |url=https://sports.yahoo.com/kentucky-saint-peters-upset-march-madness-014205235.html |access-date=March 17, 2022 |website=[[Yahoo! Sports]]}}</ref> This was the tenth time a 15-seed defeated a 2-seed overall, but it was the sixth time since 2012 this occurred. The defending champions [[2021–22 Baylor Bears men's basketball team|Baylor]] were defeated by [[2021–22 North Carolina Tar Heels men's basketball team|North Carolina]] in the second round, ensuring the defending champion and at least one top seed was eliminated before the regional semifinals for the seventh consecutive tournament, and at least one double-digit seed (this year, four: 15-seed Saint Peter's, 11-seeds [[2021–22 Michigan Wolverines men's basketball team|Michigan]] and [[2021–22 Iowa State Cyclones men's basketball team|Iowa State]], and 10-seed [[2021–22 Miami Hurricanes men's basketball team|Miami]]) made the Sweet 16 for the fifth straight tournament. Also, when [[2021–22 Kansas Jayhawks men's basketball team|Kansas]] defeated [[2021–22 Providence Friars men's basketball team|Providence]] in the Sweet 16, the Jayhawks passed Kentucky for the most all time wins by a Division I program, with 2,354.
+A major upset occurred on the first full day of the tournament, when 15-seed [[2021–22 Saint Peter's Peacocks men's basketball team|Saint Peter's]] upset 2-seed [[2021–22 Kentucky Wildcats men's basketball team|Kentucky]], and subsequently became the third 15-seed to reach the Sweet 16 (the second consecutive year in which this occurred and third in the last nine years) and the first ever 15-seed to advance to the Elite Eight.<ref>{{Cite web |last=Bushnell |first=Henry |date=March 17, 2022 |title=Kentucky stunned by No. 15 seed Saint Peter's, a new March Madness low for John Calipari |url=https://sports.yahoo.com/kentucky-saint-peters-upset-march-madness-014205235.html |access-date=March 17, 2022 |website=[[Yahoo! Sports]]}}</ref> This was the tenth time a 15-seed defeated a 2-seed overall, but it was the sixth time since 2012 this occurred. The defending champions [[2021–22 Baylor Bears men's basketball team|Baylor]] were defeated by [[2021–22 North Carolina Tar Heels men's basketball team|North Carolina]] in the second round, ensuring the defending champion and at least one top seed was eliminated before the regional semifinals for the fifth consecutive tournament, and at least one double-digit seed (this year, four: 15-seed Saint Peter's, 11-seeds [[2021–22 Michigan Wolverines men's basketball team|Michigan]] and [[2021–22 Iowa State Cyclones men's basketball team|Iowa State]], and 10-seed [[2021–22 Miami Hurricanes men's basketball team|Miami]]) made the Sweet 16 for the 14th straight tournament.
 
 ==Tournament procedure==
-{{details|NCAA Division I men's basketball tournament#Current tournament format}}
+{{further|NCAA Division I men's basketball tournament#Current tournament format}}
 
 A total of 68 teams have been entered into the 2022 tournament. A total of 32 automatic bids were awarded to each program that won a [[List of NCAA conferences#Division I|conference]] tournament (with one exception, as the [[2021–22 Bellarmine Knights men's basketball team|tournament winner]] in the ASUN Conference was ineligible, due to its transition from Division II). The remaining 36 bids were issued "at-large", with selections extended by the [[NCAA basketball tournament selection process|NCAA Selection Committee]]. The Selection Committee also [[Seed (sports)|seed]]ed the entire field from 1 to 68.
  
 Eight teams (the four lowest-seeded automatic qualifiers and the four lowest-seeded at-large teams) played in the [[First Four]]. The winners of these games advanced to the main [[Bracket (tournament)|bracket]] of the tournament.
 
-The top four teams outside of the ranking (commonly known as the "first four out" in pre-tournament analyses) acted as standbys in the event a school is forced to withdraw before the start of the tournament due to COVID-19 protocols. Any recipient of an automatic bid would designate a replacement from within their own conference if they need to withdraw. Otherwise, the replacement teams were as follows, in order: 
+The top four teams outside of the ranking (commonly known as the "first four out" in pre-tournament analyses) acted as standbys in the event a school is forced to withdraw before the start of the tournament due to COVID-19 protocols. Any recipient of an automatic bid would designate a replacement from within their own conference if they need to withdraw. Otherwise, the replacement teams were as follows, in order:
 
 {|class="wikitable sortable plainrowheaders"
 |+First Four Out<ref>{{Cite web|url=https://www.espn.com/womens-college-basketball/story/_/id/33497918/|title=Dayton, Oklahoma, SMU, Texas A&M are top seeds in NIT bracket|author=Jeff Borzello|date=2022-03-13|website=ESPN.com|language=en|access-date=2022-03-13}}</ref>
@@ -106,14 +106,14 @@ The sites selected to host each round of the 2022 tournament were:<ref>{{cite we
 *March 15 and 16
 **[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
 
-'''First and Second Rounds''' (Subregionals)
+'''First and second rounds''' (Subregionals)
 *March 17 and 19
 *** [[Dickies Arena]], [[Fort Worth, Texas]] (Host: [[Texas Christian University]])
-*** [[Gainbridge Fieldhouse]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Horizon League]] and [[Indiana University–Purdue University Indianapolis|IUPUI]])<ref>{{cite web |last1=Page |first1=Fletcher |title=2022 NCAA Tournament moving away from Cincinnati, Heritage Bank Center, to Indianapolis |url=https://www.cincinnati.com/story/sports/college/university-of-cincinnati/2019/12/11/ncaa-tournament-host-sites-2022-games-leave-cincinnati-indianapolis/4398559002/ |website=cincinnati.com |publisher=Cincinnati Enquirer |access-date=9 February 2021|date=December 11, 2019}}</ref>
-*** [[KeyBank Center]], [[Buffalo, New York]] (Host: [[Metro Atlantic Athletic Conference]], [[Niagara University]] and [[Canisius College]])
+*** [[Gainbridge Fieldhouse]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Indiana University–Purdue University Indianapolis|IUPUI]], [[Horizon League]])<ref>{{cite web |last1=Page |first1=Fletcher |title=2022 NCAA Tournament moving away from Cincinnati, Heritage Bank Center, to Indianapolis |url=https://www.cincinnati.com/story/sports/college/university-of-cincinnati/2019/12/11/ncaa-tournament-host-sites-2022-games-leave-cincinnati-indianapolis/4398559002/ |website=cincinnati.com |publisher=Cincinnati Enquirer |access-date=9 February 2021|date=December 11, 2019}}</ref>
+*** [[KeyBank Center]], [[Buffalo, New York]] (Hosts: [[Canisius College]], [[Niagara University]], [[Metro Atlantic Athletic Conference]])
 *** [[Moda Center]], [[Portland, Oregon]] (Host: [[Oregon State University]])
 *March 18 and 20
-*** [[Bon Secours Wellness Arena]], [[Greenville, South Carolina]] (Hosts: [[Southern Conference]] and [[Furman University]])
+*** [[Bon Secours Wellness Arena]], [[Greenville, South Carolina]] (Hosts: [[Furman University]], [[Southern Conference]])
 *** [[Fiserv Forum]], [[Milwaukee|Milwaukee, Wisconsin]] (Host: [[Marquette University]])
 *** [[PPG Paints Arena]], [[Pittsburgh|Pittsburgh, Pennsylvania]] (Host: [[Duquesne University]])
 *** [[Viejas Arena]], [[San Diego|San Diego, California]] (Host: [[San Diego State University]])
@@ -126,11 +126,11 @@ The sites selected to host each round of the 2022 tournament were:<ref>{{cite we
 **'''East Regional''', [[Wells Fargo Center (Philadelphia)|Wells Fargo Center]], [[Philadelphia|Philadelphia, Pennsylvania]] (Host: [[University of Pennsylvania]])
 **'''Midwest Regional''', [[United Center]], [[Chicago|Chicago, Illinois]] (Host: [[Northwestern University]])
 
-'''National semifinals and championship''' (final Four and championship)
+'''National semifinals and championship''' (Final Four and Championship)
 *April 2 and 4
-** [[Caesars Superdome]], [[New Orleans|New Orleans, Louisiana]] (Hosts: [[Tulane University]] and [[University of New Orleans]]) 
+** [[Caesars Superdome]], [[New Orleans|New Orleans, Louisiana]] (Hosts: [[Tulane University]], [[University of New Orleans]])
 
-New Orleans hosted the Final Four for the sixth time, having previously hosted in [[1982 NCAA Division I men's basketball tournament|1982]], [[1987 NCAA Division I men's basketball tournament|1987]], [[1993 NCAA Division I men's basketball tournament|1993]], [[2003 NCAA Division I men's basketball tournament|2003]] and [[2012 NCAA Division I men's basketball tournament|2012]].<ref>{{cite web|url=https://www.ncaa.com/futurefinalfour|date=14 November 2014|publisher=[[NCAA]]|title=Five future Final Four sites announced|access-date=4 April 2018|archive-date=30 March 2016|archive-url=https://web.archive.org/web/20160330052800/http://www.ncaa.com/futurefinalfour|url-status=dead}}</ref>
+New Orleans hosted the Final Four for the sixth time, having previously hosted in [[2012 NCAA Division I men's basketball tournament|2012]].<ref>{{cite web|url=https://www.ncaa.com/futurefinalfour|date=14 November 2014|publisher=[[NCAA]]|title=Five future Final Four sites announced|access-date=4 April 2018|archive-date=30 March 2016|archive-url=https://web.archive.org/web/20160330052800/http://www.ncaa.com/futurefinalfour|url-status=dead}}</ref>
 
 ==Qualification and selection of teams==
 {{Further|2022 NCAA Division I men's basketball tournament qualifying teams}}
@@ -349,7 +349,7 @@ The tournament seeds and regions were determined through the [[NCAA basketball t
 |align=center|At-Large
 |-
 |align=center|5
-!scope="row" style="text-align:left"|[[2021–22 UConn Huskies men's basketball team|Connecticut]]
+!scope="row" style="text-align:left"|[[2021–22 UConn Huskies men's basketball team|UConn]]
 |[[Big East Conference|Big East]]
 |align=center|23–9
 |align=center|17
@@ -400,7 +400,7 @@ The tournament seeds and regions were determined through the [[NCAA basketball t
 !scope="row" style="text-align:left"|[[2021–22 Notre Dame Fighting Irish men's basketball team|Notre Dame]]
 |[[Atlantic Coast Conference|ACC]]
 |align=center|22–10
-|align=center|47
+|align=center|45
 |align=center|At-Large
 |-
 |align=center|12
@@ -523,20 +523,20 @@ The tournament seeds and regions were determined through the [[NCAA basketball t
 !scope="row" style="text-align:left"|[[2021–22 Virginia Tech Hokies men's basketball team|Virginia Tech]]
 |[[Atlantic Coast Conference|ACC]]
 |align=center|23–12
-|align=center|46
+|align=center|43
 |align=center|Automatic
 |-
 | rowspan="2" style="text-align:center;"|12*
 !scope="row" style="text-align:left"|[[2021–22 Wyoming Cowboys basketball team|Wyoming]]
 |[[Mountain West Conference|Mountain West]]
 |align=center|25–8
-|align=center|43
+|align=center|46
 |align=center|At-Large
 |-
 !scope="row" style="text-align:left"|[[2021–22 Indiana Hoosiers men's basketball team|Indiana]]
 |[[Big Ten Conference|Big Ten]]
 |align=center|20–13
-|align=center|45
+|align=center|47
 |align=center|At-Large
 |-
 |align=center|13
@@ -832,15 +832,12 @@ The tournament seeds and regions were determined through the [[NCAA basketball t
 
 ==Tournament bracket==
 All times are listed in [[Eastern Time Zone|Eastern Daylight Time]] ([[UTC−4:00|UTC−4]])<br>
-<nowiki>*</nowiki> denotes overtime period</onlyinclude> <br>
-<nowiki>**</nowiki> denotes double overtime period</onlyinclude>
 [[File:P.J. Henry (7097781).jpg|thumb|The first game of the tournament – a First Four matchup featuring [[Texas Southern Tigers basketball|Texas Southern]] vs. [[Texas A&M–Corpus Christi Islanders men's basketball|Texas A&M-Corpus Christi]]]]
 
 ===First Four – [[UD Arena|Dayton, OH]]===
 The [[First Four]] games involve eight teams: the four overall lowest-ranked teams and the four lowest-ranked at-large teams.
 
 {{align|left|{{2TeamBracket | RD1= March 15 – Midwest Region
-
 | RD1-seed1=16
 | RD1-team1='''[[2021–22 Texas Southern Tigers basketball team|Texas Southern]]'''
 | RD1-score1='''76'''
@@ -849,7 +846,6 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 | RD1-score2=67
 }}}}
 {{align|left|{{2TeamBracket | RD1= March 15 – East Region
-
 | RD1-seed1=12
 | RD1-team1={{nowrap|[[2021–22 Wyoming Cowboys basketball team|Wyoming]]}}
 | RD1-score1=58
@@ -858,7 +854,6 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 | RD1-score2='''66'''
 }}}}
 {{align|left|{{2TeamBracket | RD1= March 16 – South Region
-
 | RD1-seed1=16
 | RD1-team1='''[[2021–22 Wright State Raiders men's basketball team|Wright State]]'''
 | RD1-score1='''93'''
@@ -867,13 +862,12 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 | RD1-score2=82
 }}}}
 {{align|left|{{2TeamBracket | RD1= March 16 – West Region
-
 | RD1-seed1=11
 | RD1-team1={{nowrap|[[2021–22 Rutgers Scarlet Knights men's basketball team|Rutgers]]}}
 | RD1-score1=87
 | RD1-seed2=11
 | RD1-team2='''[[2021–22 Notre Dame Fighting Irish men's basketball team|Notre Dame]]'''
-| RD1-score2='''89**'''
+| RD1-score2='''89<sup>2OT</sup>'''
 }}}}
 {{clear left}}
 
@@ -905,7 +899,7 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 | RD1-score04='''64'''
 
 | RD1-seed05=5
-| RD1-team05=[[2021–22 UConn Huskies men's basketball team|Connecticut]]
+| RD1-team05=[[2021–22 UConn Huskies men's basketball team|UConn]]
 | RD1-score05=63
 | RD1-seed06=12
 | RD1-team06='''[[2021–22 New Mexico State Aggies men's basketball team|New Mexico State]]'''
@@ -1006,10 +1000,10 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
  | score1 = 69
  | team2 = '''#2 Duke Blue Devils'''
  | score2 = '''78'''
- | points1 = Jaylin Williams, 19
+ | points1 = [[Jaylin Williams (basketball, born 2002)|Jaylin Williams]], 19
  | rebounds1 = Jaylin Williams, 10
  | assist1 = [[JD Notae]], 4
- | points2 = [[AJ Griffin]], 18
+ | points2 = [[AJ Griffin (basketball)|AJ Griffin]], 18
  | rebounds2 = [[Mark Williams (basketball)|Mark Williams]], 12
  | assist2 = [[Paolo Banchero]], 3
  | H1 = 33–'''45'''
@@ -1022,7 +1016,7 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 
 ====West Regional all-tournament team====
 * [[JD Notae]] – [[Arkansas Razorbacks men's basketball|Arkansas]]
-* Jaylin Williams – Arkansas
+* [[Jaylin Williams (basketball, born 2002)|Jaylin Williams]] – Arkansas
 * [[Mark Williams (basketball)|Mark Williams]] – [[Duke Blue Devils men's basketball|Duke]]
 * [[Jeremy Roach]] – Duke
 * [[Paolo Banchero]] – Duke (MOP)
@@ -1084,7 +1078,7 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 
 | RD1-seed13=7
 | RD1-team13='''[[2021–22 Murray State Racers men's basketball team|Murray State]]'''
-| RD1-score13='''92*'''
+| RD1-score13='''92<sup>OT</sup>'''
 | RD1-seed14=10
 | RD1-team14=[[2021–22 San Francisco Dons men's basketball team|San Francisco]]
 | RD1-score14=87
@@ -1094,14 +1088,14 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 | RD1-score15=79
 | RD1-seed16=15
 | RD1-team16='''[[2021–22 Saint Peter's Peacocks basketball team|Saint Peter's]]'''
-| RD1-score16='''85*'''
+| RD1-score16='''85<sup>OT</sup>'''
 
 | RD2-seed01=1
 | RD2-team01=Baylor
 | RD2-score01=86
 | RD2-seed02=8
 | RD2-team02='''North Carolina'''
-| RD2-score02='''93*'''
+| RD2-score02='''93<sup>OT</sup>'''
 
 | RD2-seed03=5
 | RD2-team03=Saint Mary's
@@ -1248,7 +1242,7 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 
 | RD2-seed01=1
 | RD2-team01='''Arizona'''
-| RD2-score01='''85*'''
+| RD2-score01='''85<sup>OT</sup>'''
 | RD2-seed02=9
 | RD2-team02=TCU
 | RD2-score02=80
@@ -1306,11 +1300,11 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
  | score1 = 44
  | team2 = #2 '''Villanova Wildcats'''
  | score2 = '''50'''
- | points1 = Taze Moore, 15
- | rebounds1 = Taze Moore, 10
- | assist1 = Kyler Edwards, 4
- | points2 = Jermaine Samuels, 16
- | rebounds2 = Jermaine Samuels, 10
+ | points1 = [[Taze Moore]], 15
+ | rebounds1 = [[Taze Moore]], 10
+ | assist1 = [[Kyler Edwards]], 4
+ | points2 = [[Jermaine Samuels]], 16
+ | rebounds2 = [[Jermaine Samuels]], 10
  | assist2 = ''2 tied'', 2
  | H1 = 20–'''27'''
  | H2 = '''24'''–23
@@ -1325,7 +1319,7 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 * [[Collin Gillespie]] – Villanova
 * [[Caleb Daniels]] – Villanova
 * [[Justin Moore (basketball)|Justin Moore]] – Villanova
-* Jamal Shead – [[Houston Cougars men's basketball|Houston]]
+* [[Jamal Shead]] – [[Houston Cougars men's basketball|Houston]]
 
 ===Midwest Regional – [[United Center|Chicago, IL]]===
 {{16TeamBracket | nowrap = yes
@@ -1352,7 +1346,7 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 | RD1-score03=69
 | RD1-seed04=9
 | RD1-team04='''[[2021–22 Creighton Bluejays men's basketball team|Creighton]]'''
-| RD1-score04='''72*'''
+| RD1-score04='''72<sup>OT</sup>'''
 
 | RD1-seed05=5
 | RD1-team05=[[2021–22 Iowa Hawkeyes men's basketball team|Iowa]]
@@ -1473,7 +1467,7 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 ====Midwest Regional all-tournament team====
 * Al Durham, [[Providence Friars men's basketball|Providence]]
 * [[Kameron McGusty]], [[Miami Hurricanes men's basketball|Miami]]
-* [[Christian Braun (basketball)|Christian Braun]], [[Kansas Jayhawks men's basketball|Kansas]]
+* [[Christian Braun]], [[Kansas Jayhawks men's basketball|Kansas]]
 * [[David McCormack (basketball)|David McCormack]], Kansas
 * [[Remy Martin (basketball)|Remy Martin]], Kansas (MOP)
 <!--
@@ -1483,7 +1477,7 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 {{4TeamBracket | nowrap = yes
 
 | RD1=National semifinals/Final Four<br />April 2
-| RD2=National Championship Game<br />April 4
+| RD2=National championship game<br />April 4
 | score-width=25
 | team-width= 155
 
@@ -1556,7 +1550,7 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 }}
 
 ====National Championship====
-{{Main article|2022 NCAA  Division I Men's Basketball Championship Game}}
+{{Main article|2022 NCAA  Division I Men's Basketball Championship game}}
 {{basketballbox
  | bg = #e3e3e3
  | date = Monday, April 4
@@ -1590,7 +1584,7 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 
 ===Final Four – [[Caesars Superdome|New Orleans, Louisiana]]===
 {{4TeamBracket
-| RD1=National semifinals<br />Final Four<br />Saturday, April 2
+| RD1=National semifinals<br /><!--Final Four<br />-->Saturday, April 2
 | RD2=National championship game<br />Monday, April 4
 | score-width=60
 | team-width=130
@@ -1621,18 +1615,18 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 {{basketballbox
  | bg = #e3e3e3
  | date = April 2
- | time = 6:09 pm [[Eastern Daylight Time|EDT]]
+ | time = 5:09 pm [[Central Daylight Time|CDT]]
  | report = [https://www.ncaa.com/march-madness-live/game/602 Preview]
  | team1 = S2 Villanova Wildcats
  | score1 = 65
- | team2 = '''MW1 Kansas Jayhawks'''
+ | team2 = '''M<!--W-->1 Kansas Jayhawks'''
  | score2 = '''81'''
- | points1 = Collin Gillespie, 19
+ | points1 = [[Collin Gillespie]], 19
  | rebounds1 = '''3 tied''', 7
  | assist1 = '''3 tied''', 3
  | otherstat1 = 
- | points2 = David McCormack, 25
- | rebounds2 = Jalen Wilson, 11
+ | points2 = [[David McCormack (basketball)|David McCormack]], 25
+ | rebounds2 = [[Jalen Wilson]], 11
  | assist2 = '''2 tied''', 5
  | H1 = 29–'''40'''
  | H2 = 36–'''41'''
@@ -1645,7 +1639,7 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 {{basketballbox
  | bg = fff
  | date = April 2
- | time = 8:49 pm [[Eastern Daylight Time|EDT]]
+ | time = 7:49 pm [[Central Daylight Time|CDT]]
  | report = [https://www.ncaa.com/march-madness-live/game/601 Preview]
  | team1 = '''E8 North Carolina Tar Heels'''
  | score1 = '''81'''
@@ -1671,17 +1665,17 @@ The [[First Four]] games involve eight teams: the four overall lowest-ranked tea
 {{basketballbox
  | bg = #e3e3e3
  | date = April 4
- | time = 9:20 pm [[Eastern Daylight Time|EDT]]
+ | time = 8:20 pm [[Central Daylight Time|CDT]]
  | report = [https://www.ncaa.com/march-madness-live/game/701?cid=mml2022_editorial_gamecenter Preview]
  | team1 = E8 North Carolina Tar Heels
  | score1 = 69
- | team2 = '''MW1 Kansas Jayhawks'''
+ | team2 = '''M<!--W-->1 Kansas Jayhawks'''
  | score2 = '''72'''
  | points1 = [[Armando Bacot|A. Bacot]], [[R. J. Davis]] – 15
  | rebounds1 = A. Bacot – 15
  | assist1 = ''Four tied'' – 2
  | points2 = [[Jalen Wilson|J. Wilson]], [[David McCormack (basketball)|D. McCormack]] – 15
- | rebounds2 = [[Christian Braun (basketball)|C. Braun]] – 12
+ | rebounds2 = [[Christian Braun|C. Braun]] – 12
  | assist2 = [[Dajuan Harris Jr.|D. Harris]], C. Braun – 3
  | H1 ='''40'''–25
  | H2 =29–'''47''' 
@@ -1707,7 +1701,7 @@ Per the NCAA, "Upsets are defined as when the winner of the game was seeded five
 ! Round !! West !! Midwest !! South !! East
 |-
 | First round 
-| {{ubl |No. 12 [[2021-22 New Mexico State Aggies men's basketball team|New Mexico State]] defeated No. 5 [[2021-22 UConn Huskies men's basketball team|Connecticut]], 70–63 |No. 11 [[2021-22 Notre Dame Fighting Irish men's basketball team|Notre Dame]] defeated No. 6 [[2021-22 Alabama Crimson Tide men's basketball team|Alabama]], 78–64}}
+| {{ubl |No. 12 [[2021-22 New Mexico State Aggies men's basketball team|New Mexico State]] defeated No. 5 [[2021-22 UConn Huskies men's basketball team|UConn]], 70–63 |No. 11 [[2021-22 Notre Dame Fighting Irish men's basketball team|Notre Dame]] defeated No. 6 [[2021-22 Alabama Crimson Tide men's basketball team|Alabama]], 78–64}}
 | {{ubl |No. 12 [[2021–22 Richmond Spiders men's basketball team|Richmond]] defeated No. 5 [[2021–22 Iowa Hawkeyes men's basketball team|Iowa]], 67–63 |No. 11 [[2021–22 Iowa State Cyclones men's basketball team|Iowa State]] defeated No. 6 [[2021–22 LSU Tigers men's basketball team|LSU]], 59–54}}
 | <!--South-->No. 11 [[2021–22 Michigan Wolverines men's basketball team|Michigan]] defeated No. 6 [[2021–22 Colorado State Rams men's basketball team|Colorado State]], 75–63
 | No. 15 [[2021–22 Saint Peter's Peacocks basketball team|Saint Peter's]] defeated No. 2 [[2021–22 Kentucky Wildcats men's basketball team|Kentucky]], 85–79 (OT)
@@ -1734,12 +1728,15 @@ Per the NCAA, "Upsets are defined as when the winner of the game was seeded five
 |colspan="4" style="text-align:center;"|No. 8 North Carolina defeated No. 2 [[2021–22 Duke Blue Devils men's basketball team|Duke]], 81–77
 |}
 
+===Miscellaneous===
+
+* Indiana cheerleader Cassidy Cerny signed a [[student athlete compensation|name, image and likeness (NIL)]] deal after teaming with fellow cheerleader Nathan Paris to rescue a ball stuck on the backboard during the [[2021–22 Indiana Hoosiers men's basketball team|Hoosiers]]' first-round game against [[2021–22 Saint Mary's Gaels men's basketball team|Saint Mary's]].<ref>{{cite web |last1=Coons |first1=Zach |title=Indiana Cheerleader Who Rescued Stuck Ball During First Round Secures NIL Deal |url=https://www.si.com/extra-mustard/2022/03/22/indiana-cheerleader-cassidy-cerny-nil-deal-stuck-ball-st-marys |publisher=[[Sports Illustrated]] |access-date=22 March 2023 |date=22 March 2022}}</ref> The moment went [[Viral phenomenon|viral]], and Arkansas cheerleaders used the same approach when another ball was stuck on the backboard during the [[2021–22 Arkansas Razorbacks men's basketball team|Razorbacks]]' West Regional Final against [[2021–22 Duke Blue Devils men's basketball team|Duke]].<ref>{{cite web |last1=Bromberg |first1=Nick |title=NCAA tournament: Inspired by Indiana, Arkansas cheerleaders get basketball from top of backboard |url=https://sports.yahoo.com/ncaa-tournament-inspired-by-indiana-arkansas-cheerleaders-get-basketball-from-top-of-backboard-021833988.html |website=Yahoo! Sports |publisher=Yahoo! |access-date=22 March 2023 |date=26 March 2022}}</ref>
+
 ==Record by conference==
 {|class="wikitable sortable plainrowheaders" style="text-align:center;"
 |-
 !scope="col"|Conference
 !scope="col"|Bids
-!scope="col"|Members
 !scope="col"|Record
 !scope="col"|Win %
 !scope="col"|FF
@@ -1752,100 +1749,100 @@ Per the NCAA, "Upsets are defined as when the winner of the game was seeded five
 !scope="col"|NC
 |-
 !scope="row"|[[Big 12 Conference|Big 12]]
-| 6 || 10 || 13–5 || {{winpct|13|5}} || – || 6 || 6 || 3 || 1 || 1 || 1 || 1
+| 6 || 13–5 || {{winpct|13|5}} || – || 6 || 6 || 3 || 1 || 1 || 1 || 1
 |-
 !scope="row"|[[Atlantic Coast Conference|ACC]]
-| 5 || 15 || 14–5 || {{winpct|14|5}} || 1 || 5 || 4 || 3 || 3 || 2 || 1 || – 
+| 5 || 14–5 || {{winpct|14|5}} || 1 || 5 || 4 || 3 || 3 || 2 || 1 || – 
 |-
 !scope="row"|[[Big East Conference|Big East]]
-| 6 || 11 || 7–6 || {{winpct|7|6}} || – || 6 || 3 || 2 || 1 || 1 || – || – 
+| 6 || 7–6 || {{winpct|7|6}} || – || 6 || 3 || 2 || 1 || 1 || – || – 
 |-
 !scope="row"|[[Metro Atlantic Athletic Conference|MAAC]]
-| 1 || 11 || 3–1 || {{winpct|3|1}} || – || 1 || 1 || 1 || 1 || – || – || –
+| 1 || 3–1 || {{winpct|3|1}} || – || 1 || 1 || 1 || 1 || – || – || –
 |-
 !scope="row"|[[American Athletic Conference|American]]
-| 2 || 10 || 4–2 || {{winpct|4|2}} || – || 2 || 2 || 1 || 1 || – || – || –
+| 2 || 4–2 || {{winpct|4|2}} || – || 2 || 2 || 1 || 1 || – || – || –
 |-
 !scope="row"|[[Southeastern Conference|SEC]]
-| 6 || 14 || 5–6 || {{winpct|5|6}} || – || 6 || 3 || 1 || 1 || – || – || –
+| 6 || 5–6 || {{winpct|5|6}} || – || 6 || 3 || 1 || 1 || – || – || –
 |-
 !scope="row"|[[Pac-12 Conference|Pac-12]]
-| 3 || 12 || 4–3 || {{winpct|4|3}} || – || 3 || 2 || 2 || – || – || – || –
+| 3 || 4–3 || {{winpct|4|3}} || – || 3 || 2 || 2 || – || – || – || –
 |-
 !scope="row"|[[Big Ten Conference|Big Ten]]
-| 9 || 14 || 9–9 || {{winpct|9|9}} || 2 || 8 || 6 || 2 || – || – || – || –
+| 9 || 9–9 || {{winpct|9|9}} || 2 || 8 || 6 || 2 || – || – || – || –
 |-
 !scope="row"|[[West Coast Conference|WCC]]
-| 3 || 10 || 3–3 || {{winpct|3|3}} || – || 3 || 2 || 1 || – || – || – || –
+| 3 || 3–3 || {{winpct|3|3}} || – || 3 || 2 || 1 || – || – || – || –
 |-
 !scope="row"|[[Ohio Valley Conference|Ohio Valley]]
-| 1 || 10 || 1–1 || {{winpct|1|1}} || – || 1 || 1 || – || – || – || – || –
+| 1 || 1–1 || {{winpct|1|1}} || – || 1 || 1 || – || – || – || – || –
 |-
 !scope="row"|[[Western Athletic Conference|WAC]]
-| 1 || 12 || 1–1 || {{winpct|1|1}} || – || 1 || 1 || – || – || – || – || –
+| 1 || 1–1 || {{winpct|1|1}} || – || 1 || 1 || – || – || – || – || –
 |-
 !scope="row"|[[Atlantic 10 Conference|Atlantic 10]]
-| 2 || 13 || 1–2 || {{winpct|1|2}} || – || 2 || 1 || – || – || – || – || –
+| 2 || 1–2 || {{winpct|1|2}} || – || 2 || 1 || – || – || – || – || –
 |-
 !scope="row"|[[Horizon League|Horizon]]
-| 1 || 12 || 1–1 || {{winpct|1|1}} || 1 || 1 || – || – || – || – || – || –
+| 1 || 1–1 || {{winpct|1|1}} || 1 || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Southwestern Athletic Conference|SWAC]]
-| 1 || 12 || 1–1 || {{winpct|1|1}} || 1 || 1 || – || – || – || – || – || –
+| 1 || 1–1 || {{winpct|1|1}} || 1 || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Mountain West Conference|Mountain West]]
-| 4 || 11 || 0–4 || {{winpct|0|4}} || 1 || 3 || – || – || – || – || – || –
+| 4 || 0–4 || {{winpct|0|4}} || 1 || 3 || – || – || – || – || – || –
 |-
 !scope="row"|[[ASUN Conference|Atlantic Sun]]
-| 1 || 12 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[America East Conference|America East]]
-| 1 || 10 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Big Sky Conference|Big Sky]]
-| 1 || 12 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Big South Conference|Big South]]
-| 1 || 11 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Big West Conference|Big West]]
-| 1 || 11 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Conference USA|C-USA]]
-| 1 || 14 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Colonial Athletic Association|Colonial]]
-| 1 || 11 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Ivy League]]
-| 1 || 8 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Mid-American Conference|MAC]]
-| 1 || 12 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Mid-Eastern Athletic Conference|MEAC]]
-| 1 || 8 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Missouri Valley Conference|Missouri Valley]]
-| 1 || 11 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Patriot League|Patriot]]
-| 1 || 10 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Southern Conference|Southern]]
-| 1 || 10 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Summit League|Summit]]
-| 1 || 9 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Sun Belt Conference|Sun Belt]]
-| 1 || 12 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
 |-
 !scope="row"|[[Northeast Conference|Northeast]]
-| 1 || 10 || 0–1 || {{winpct|0|1}} || 1 || – || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || 1 || – || – || – || – || – || – || –
 |-
 !scope="row"|[[Southland Conference|Southland]]
-| 1 || 10 || 0–1 || {{winpct|0|1}} || 1 || – || – || – || – || – || – || –
+| 1 || 0–1 || {{winpct|0|1}} || 1 || – || – || – || – || – || – || –
 |}
 {{notelist}}
 *The FF, R64, R32, S16, E8, F4, CG, and NC columns indicate how many teams from each conference were in the first four, round of 64 (first round), round of 32 (second round), Sweet 16, Elite Eight, Final Four, championship game, and national champion, respectively.
@@ -1854,12 +1851,12 @@ Per the NCAA, "Upsets are defined as when the winner of the game was seeded five
 
 ===Television===
 {{main|NCAA March Madness (TV program)}}
-[[CBS Sports]] and [[Turner Sports]] have US television rights to the tournament.<ref name="wp-2032extend">{{cite news|last=Bonesteel|first=Matt|title=CBS and Turner Sports lock down NCAA tournament through 2032|url=https://www.washingtonpost.com/news/early-lead/wp/2016/04/12/cbs-and-turner-sports-lock-down-ncaa-tournament-through-2032/|newspaper=[[The Washington Post]]|date=April 12, 2016|access-date=April 12, 2016}}</ref><ref>{{cite web |title=CBS Sports and Turner Sports announce 2022 NCAA Division I men's basketball championship commentator teams |url=https://www.ncaa.com/news/basketball-men/article/2022-03-08/cbs-sports-and-turner-sports-announce-2022-ncaa-division-i-mens-basketball |publisher=NCAA.com |access-date=8 March 2022 |date=8 March 2022}}</ref> As part of a cycle that began in 2016, [[TBS (American TV channel)|TBS]] televised the 2022 Final Four and the national championship game.  The Final Four and title game broadcasts were the last CBS Sports assignments for longtime director Bob Fishman, who retired from CBS Sports after 47 years (and 50 with [[CBS]]) and has been a director on 39 of the 40 Final Fours CBS/Turner have carried.<ref>{{cite web|url=https://www.nexttv.com/news/cbs-sports-director-bob-fishman-retiring-after-ncaa-hoop-tournament|title=CBS Sports Director Bob Fishman Retiring After NCAA Hoop Tournament|work=Broadcasting & Cable|date=August 31, 2021|author=Lafayette, Jon}}</ref><ref>{{cite web|url=https://apnews.com/article/march-madness-bob-fishman-final-four-9fc13773bdd1c245b481ae633dda1a92|title=Last dance: Director Fishman ready for his 39th Final Four|work=Associated Press|date=April 1, 2022|author=Reedy, Joe}}</ref>
+[[CBS Sports]] and [[Turner Sports]] have US television rights to the tournament.<ref name="wp-2032extend">{{cite news|last=Bonesteel|first=Matt|title=CBS and Turner Sports lock down NCAA tournament through 2032|url=https://www.washingtonpost.com/news/early-lead/wp/2016/04/12/cbs-and-turner-sports-lock-down-ncaa-tournament-through-2032/|newspaper=[[The Washington Post]]|date=April 12, 2016|access-date=April 12, 2016}}</ref><ref>{{cite web |title=CBS Sports and Turner Sports announce 2022 NCAA Division I men's basketball championship commentator teams |url=https://www.ncaa.com/news/basketball-men/article/2022-03-08/cbs-sports-and-turner-sports-announce-2022-ncaa-division-i-mens-basketball |publisher=NCAA.com |access-date=8 March 2022 |date=8 March 2022}}</ref> As part of a cycle that began in 2016, [[TBS (American TV channel)|TBS]] televised the 2022 Final Four and the national championship game.  The Final Four and title game broadcasts were the last CBS Sports assignments for longtime director Bob Fishman, who retired from CBS Sports after 47 years (and 50 with [[CBS]]) and has been a director on 39 of the 40 Final Fours CBS/Turner have carried.<ref>{{cite web|url=https://www.nexttv.com/news/cbs-sports-director-bob-fishman-retiring-after-ncaa-hoop-tournament|title=CBS Sports Director Bob Fishman Retiring After NCAA Hoop Tournament|work=Broadcasting & Cable|date=August 31, 2021|author=Lafayette, Jon}}</ref><ref>{{cite web|url=https://apnews.com/article/march-madness-bob-fishman-final-four-9fc13773bdd1c245b481ae633dda1a92|title=Last dance: Director Fishman ready for his 39th Final Four|work=Associated Press|date=April 1, 2022|author=Reedy, Joe}}</ref>  The 2022 Tournament was [[Mark Emmert]] final season as the NCAA President  with [[Charlie Baker]] succeeding him starting in 2023.
 
 ====Television channels====
 *Selection Show – [[CBS]]
 *First Four – [[truTV]]
-*First and Second Rounds – CBS, TBS, [[TNT (American TV network)|TNT]], and truTV  
+*First and second rounds – CBS, TBS, [[TNT (American TV network)|TNT]], and truTV  
 *Regional semifinals and final (Sweet Sixteen and Elite Eight) – CBS and TBS
 *National semifinals (final Four) and championship – TBS, TNT, and truTV
 
@@ -1870,34 +1867,34 @@ Per the NCAA, "Upsets are defined as when the winner of the game was seeded five
 * TNT: 15
 
 ====Studio hosts====
-* [[Greg Gumbel]] (New York City and New Orleans) – First round, second round, Regionals, Final Four and National Championship Game
-* [[Ernie Johnson Jr.|Ernie Johnson]] (New York City, Atlanta, and New Orleans) – First round, second round, Regional Semi-finals, Final Four and National Championship Game
+* [[Greg Gumbel]] (New York City and New Orleans) – first round, second round, regionals, Final Four and national championship game
+* [[Ernie Johnson Jr.|Ernie Johnson]] (New York City, Atlanta, and New Orleans) – first round, second round, regional semi-finals, Final Four and national championship game
 * Nabil Karim (Atlanta) – First Four, first round and Second round
-* Adam Lefkoe (New York City) – First round and Second round (game breaks)
+* [[Adam Lefkoe]] (New York City) – first round and Second round (game breaks)
 
 ====Studio analysts====
-* [[Charles Barkley]] (New York City and New Orleans) – First round, second round, Regionals, Final Four and National Championship Game
-* [[Rex Chapman]] (Atlanta) – First Four, first round, second round and Regional Semi-finals
-* [[Seth Davis]] (Atlanta and New Orleans) – First Four, first round, second round, Regional Semi-finals, Final Four and National Championship Game
-* [[Scott Drew]] (Atlanta) – Regional Semi-finals
-* [[Bob Huggins]] (Atlanta) – Second Round
+* [[Charles Barkley]] (New York City and New Orleans) – first round, second round, regionals, Final Four and national championship game
+* [[Rex Chapman]] (Atlanta) – First Four, first round, second round and regional semi-finals
+* [[Seth Davis]] (Atlanta and New Orleans) – First Four, first round, second round, regional semi-finals, Final Four and national championship game
+* [[Scott Drew]] (Atlanta) – regional semi-finals
+* [[Bob Huggins]] (Atlanta) – second round
 * [[Bobby Hurley]] (New Orleans) – Final Four
-* [[Clark Kellogg]] (New York City and New Orleans) – First round, second round, Regionals, Final Four and National Championship Game
-* [[Frank Martin (basketball)|Frank Martin]] (Atlanta) – First round
-* [[Candace Parker]] (Atlanta and New Orleans) – First Four, first round, second round, Regional Semi-finals and Final Four
-* [[Kenny Smith]] (New York City and New Orleans) – First round, second round, Regionals, Final Four and National Championship Game
-* [[Gene Steratore]] (New York City and New Orleans) (Rules Analyst) – First Four, first round, second round, Regionals, Final Four and National Championship Game
-* [[Wally Szczerbiak]] (New York City) – Second Round
+* [[Clark Kellogg]] (New York City and New Orleans) – first round, second round, regionals, Final Four and national championship game
+* [[Frank Martin (basketball)|Frank Martin]] (Atlanta) – first round
+* [[Candace Parker]] (Atlanta and New Orleans) – First Four, first round, second round, regional semi-finals and Final Four
+* [[Kenny Smith]] (New York City and New Orleans) – first round, second round, regionals, Final Four and national championship game
+* [[Gene Steratore]] (New York City and New Orleans) (Rules Analyst) – First Four, first round, second round, regionals, Final Four and national championship game
+* [[Wally Szczerbiak]] (New York City) – second round
 
 ====Commentary teams====
-* [[Jim Nantz]]/[[Bill Raftery]]/[[Grant Hill]]/[[Tracy Wolfson]] – First and Second Rounds at Greenville, South Carolina; West Regional at San Francisco, California; Final Four and National Championship at New Orleans, Louisiana
-* [[Brian Anderson (broadcaster)|Brian Anderson]]/[[Jim Jackson (basketball)|Jim Jackson]]/[[Allie LaForce]] – First and Second Rounds at Fort Worth, Texas; South Regional at San Antonio, Texas
-* [[Ian Eagle]]/[[Jim Spanarkel]]/[[Jamie Erdahl]] – First and Second Rounds at Indianapolis, Indiana; East Regional at Philadelphia, Pennsylvania
-* [[Kevin Harlan]]/[[Reggie Miller]]/[[Dan Bonner]]/[[Dana Jacobson]] – First and Second Rounds at Pittsburgh, Pennsylvania; Midwest Regional at Chicago, Illinois
-* [[Brad Nessler]]/[[Brendan Haywood]]/[[Evan Washburn]] – First and Second Rounds at Buffalo, New York
-* [[Spero Dedes]]/[[Debbie Antonelli]]/[[AJ Ross]] – First and Second Rounds at Milwaukee, Wisconsin
-* [[Andrew Catalon]]/[[Steve Lappas]]/[[Andy Katz]] – First and Second Rounds at Portland, Oregon
-* [[Lisa Byington]]/[[Steve Smith (basketball)|Steve Smith]]/[[Avery Johnson]]/[[Lauren Shehadi]] – First and Second Rounds at San Diego, California
+* [[Jim Nantz]]/[[Bill Raftery]]/[[Grant Hill]]/[[Tracy Wolfson]] – first and second rounds at Greenville, South Carolina; West Regional at San Francisco, California; Final Four and National Championship at New Orleans, Louisiana
+* [[Brian Anderson (broadcaster)|Brian Anderson]]/[[Jim Jackson (basketball)|Jim Jackson]]/[[Allie LaForce]] – first and second rounds at Fort Worth, Texas; South Regional at San Antonio, Texas
+* [[Ian Eagle]]/[[Jim Spanarkel]]/[[Jamie Erdahl]] – first and second rounds at Indianapolis, Indiana; East Regional at Philadelphia, Pennsylvania
+* [[Kevin Harlan]]/[[Reggie Miller]]/[[Dan Bonner]]/[[Dana Jacobson]] – first and second rounds at Pittsburgh, Pennsylvania; Midwest Regional at Chicago, Illinois
+* [[Brad Nessler]]/[[Brendan Haywood]]/[[Evan Washburn]] – first and second rounds at Buffalo, New York
+* [[Spero Dedes]]/[[Debbie Antonelli]]/[[AJ Ross]] – first and second rounds at Milwaukee, Wisconsin
+* [[Andrew Catalon]]/[[Steve Lappas]]/[[Andy Katz]] – first and second rounds at Portland, Oregon
+* [[Lisa Byington]]/[[Steve Smith (basketball)|Steve Smith]]/[[Avery Johnson]]/[[Lauren Shehadi]] – first and second rounds at San Diego, California
 * [[Tom McCarthy (sportscaster)|Tom McCarthy]]/[[Steve Lavin]]/[[Avery Johnson]]/[[Jon Rothstein]] – First Four at Dayton, Ohio
 
 ===Radio===
@@ -1908,7 +1905,7 @@ Per the NCAA, "Upsets are defined as when the winner of the game was seeded five
 ====First Four====
 *[[Lance Medow]] (first 3 games)/[[Dan Hoard]] (last game) and [[Stephen Bardo]] – at Dayton, Ohio
 
-====First and Second Rounds====
+====First and second rounds====
 *[[Kevin Kugler]] and [[Robbie Hummel]] – Fort Worth, Texas
 *[[Brandon Gaudin]] and [[Austin Croshere]] – Indianapolis, Indiana
 *[[Scott Graham]] and [[Jon Crispin]] – Buffalo, New York
@@ -1966,6 +1963,7 @@ Live audio of games is available for streaming through the following means:
 * [[2022 College Basketball Invitational]]
 * [[2022 The Basketball Classic]]
 * [[Carolina–Duke rivalry]]
+
 ==Notes==
 {{notelist-ua}}
 

@@ -1,35 +1,33 @@
-{{Infobox NCAA Basketball Tournament |
+{{Short description|Edition of USA college basketball tournament}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox NCAA basketball tournament
 | Year=2001
 | Image=2001FinalFour.png
-| ImageSize=150px
-| Caption=2001 Final Four logo
 | Teams=65
 | FinalFourArena=[[Hubert H. Humphrey Metrodome|H.H.H. Metrodome]]
 | FinalFourCity=[[Minneapolis, Minnesota]]
-| Champions=[[2000–01 Duke Blue Devils men's basketball team|Duke]]
+| Champions=[[2000–01 Duke Blue Devils men's basketball team|Duke Blue Devils]]
 | TitleCount=3rd
 | ChampGameCount=9th
 | ChampFFCount=13th
-| RunnerUp=[[2000–01 Arizona Wildcats men's basketball team|Arizona]]
+| RunnerUp=[[2000–01 Arizona Wildcats men's basketball team|Arizona Wildcats]]
 | GameCount=2nd
 | RunnerFFCount=4th
-| Semifinal1=[[2000–01 Maryland Terrapins men's basketball team|Maryland]]
+| Semifinal1=[[2000–01 Maryland Terrapins men's basketball team|Maryland Terrapins]]
 | FinalFourCount=1st
-| Semifinal2=[[2000–01 Michigan State Spartans men's basketball team|Michigan State]]
+| Semifinal2=[[2000–01 Michigan State Spartans men's basketball team|Michigan State Spartans]]
 | FinalFourCount2=5th
 | Coach=[[Mike Krzyzewski]]
 | CoachCount=3rd
 | MOP=[[Shane Battier]]
 | MOPTeam=Duke
 | Attendance=612,089
-| OneTopScorer=*
-| TwoTopScorers=
-| TopScorer=[[Jay Williams (basketball)|Jason Williams]]
+| TopScorer=[[Jay Williams (basketball)|Jay Williams]]
 | TopScorerTeam=Duke
 | Points=154
 }}
 
-The '''2001 [[NCAA Division I Men's Basketball Tournament]]''' involved 65 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]] for the [[2000–01 NCAA Division I men's basketball season]]. It began on March 13, 2001, with the [[play-in game]], and ended with the [[2001 NCAA Men's Division I Basketball Championship Game|championship game]] on April 2 in [[Minneapolis]], at the [[Hubert H. Humphrey Metrodome|Metrodome]]. A total of 64 games were played.
+The '''2001 [[NCAA Division I men's basketball tournament]]''' involved 65 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]] for the [[2000–01 NCAA Division I men's basketball season]]. It began on March 13, 2001, with the [[play-in game]], and ended with the [[2001 NCAA Men's Division I Basketball Championship Game|championship game]] on April 2 in [[Minneapolis]], at the [[Hubert H. Humphrey Metrodome|Metrodome]]. A total of 64 games were played.
 
 This tournament is the first to feature 65 teams, due to the [[Mountain West Conference]] receiving an automatic bid for the first time. This meant that 31 conferences would have automatic bids to the tournament. The NCAA decided to maintain 34 at-large bids, which necessitated a play-in game between the #64 and #65 ranked teams, with the winner playing against a #1 seed in the first round. (Another option would have been to reduce the number of at-large bids to 33, which was the option chosen for the women's tournament.) This is also the first tournament to have been broadcast in [[high-definition television|high-definition]], being broadcast on [[CBS]].
 
@@ -37,9 +35,9 @@ This was the last tournament where the first- and second-round sites were tied t
 
 The Final Four consisted of [[Duke Blue Devils men's basketball|Duke]], making their second appearance in the Final Four in three years, [[Maryland Terrapins men's basketball|Maryland]], making their first appearance, [[Michigan State Spartans men's basketball|Michigan State]], the defending national champions, and [[Arizona Wildcats men's basketball|Arizona]], making their first appearance since winning the national championship in 1997.
 
-Duke defeated Arizona 82-72 in the national championship game to win their third national title and first since 1992. [[Shane Battier]] of Duke was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]].
+Duke defeated Arizona 82–72 in the national championship game to win their third national title and first since 1992. [[Shane Battier]] of Duke was named the tournament's [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]].
 
-==Locations==
+==Schedule and venues==
 {{Location map+|USA|width=450|float=right|caption=2001 first and second rounds (note: the play-in game was held in Dayton, Ohio)|places= 
 {{Location map~|USA|mark=green pog.svg|lat_deg=39.758948|lon_deg=-84.191607|position=bottom|background=#FFFFFF|label=Dayton|link=University of Dayton Arena}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=40.700379|lon_deg=-73.592906|position=left|background=#FFFFFF|label=Uniondale|link=Nassau Veterans Memorial Coliseum}}
@@ -59,578 +57,694 @@ Duke defeated Arizona 82-72 in the national championship game to win their third
 {{Location map~|USA|mark=red pog.svg|lat_deg=44.983334|lon_deg=-93.266670|position=left|background=#FFFFFF|label=Minneapolis|link=Hubert H. Humphrey Metrodome}}
 }}
 
-===Opening, First & Second Rounds===
-{| class="wikitable"
-! Region !! Site !! Venue 
+The following are the sites that were selected to host each round of the 2001 tournament:
+
+'''Opening Round'''
+*March 13
+**[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+
+'''First and Second Rounds'''
+*March 15 and 17
+**'''East Region'''
+*** [[Greensboro Coliseum Complex|Greensboro Coliseum]], [[Greensboro, North Carolina]] (Host: [[Atlantic Coast Conference]])
+*** [[Nassau Coliseum|Nassau Veterans Memorial Coliseum]], [[Uniondale, New York]] (Hosts: [[Hofstra University]], [[America East Conference]])
+**'''West Region'''
+*** [[ExtraMile Arena|BSU Pavilion]], [[Boise, Idaho]] (Host: [[Boise State University]])
+*** [[Viejas Arena|Cox Arena]], [[San Diego|San Diego, California]] (Host: [[San Diego State University]])
+*March 16 and 18
+**'''Midwest Region'''
+*** [[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+*** [[Hy-Vee Arena|Kemper Arena]], [[Kansas City, Missouri]] (Host: [[Big 12 Conference]])
+**'''South Region'''
+*** [[Memphis Pyramid]], [[Memphis, Tennessee]] (Host: [[University of Memphis]])
+*** [[Caesars Superdome|Louisiana Superdome]], [[New Orleans|New Orleans, Louisiana]] (Hosts: [[Sun Belt Conference]], [[University of New Orleans]])
+
+'''Regional semifinals and finals''' (Sweet Sixteen and Elite Eight)
+*March 22 and 24
+**'''East Regional''', [[Wells Fargo Center (Philadelphia)|First Union Center]], [[Philadelphia|Philadelphia, Pennsylvania]] (Host: [[Atlantic 10 Conference]])
+**'''West Regional''', [[Honda Center|Arrowhead Pond of Anaheim]], [[Anaheim, California]] (Host: [[Big West Conference]])
+*March 23 and 25
+**'''Midwest Regional''', [[Alamodome]], [[San Antonio|San Antonio, Texas]] (Host: [[University of Texas at San Antonio]])
+**'''South Regional''', [[Georgia Dome]], [[Atlanta|Atlanta, Georgia]] (Host: [[Georgia Tech]])
+
+'''National semifinals and championship''' (Final Four and championship)
+*March 31 and April 2
+**[[Hubert H. Humphrey Metrodome]], [[Minneapolis|Minneapolis, Minnesota]] (Host: [[University of Minnesota]])
+
+==Qualifying teams==
+{{further|2001 NCAA Division I men's basketball tournament qualifying teams}}
+
+===Automatic bids===
+The following teams were automatic qualifiers for the 2001 NCAA field by virtue of winning their conference's tournament (except for the Ivy League and Pac-10, whose regular-season champions received their automatic bids).
+
+{|class="wikitable sortable" style="text-align: center;"
 |-
-! rowspan="1" | Opening
-|[[Dayton, Ohio]]
-|[[UD Arena|University of Dayton Arena]]
+!Conference
+!School
+! data-sort-type="number" |Appearance
+!Last bid
 |-
-! rowspan="2" | East
-|[[Greensboro, North Carolina]]
-|[[Greensboro Coliseum Complex|Greensboro Coliseum]]
+|align=left|[[2001 ACC men's basketball tournament|ACC]]
+|align=left|[[2000–01 Duke Blue Devils men's basketball team|Duke]]
+|25th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
 |-
-|[[Uniondale, New York]]
-|[[Nassau Veterans Memorial Coliseum]]
+|align=left|[[2001 America East men's basketball tournament|America East]]
+|align=left|[[2000–01 Hofstra Pride men's basketball team|Hofstra]]
+|4th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
 |-
-! rowspan="2" | Midwest
-|Dayton, Ohio
-|University of Dayton Arena
+|align=left|[[2001 Atlantic 10 men's basketball tournament|Atlantic 10]]
+|align=left|[[2000–01 Temple Owls men's basketball team|Temple]]
+|25th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
 |-
-|[[Kansas City, Missouri]]
-|[[Kemper Arena]]
+|align=left|[[2001 Big 12 men's basketball tournament|Big 12]]
+|align=left|[[2000–01 Oklahoma Sooners men's basketball team|Oklahoma]]
+|20th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
 |-
-! rowspan="2" | South
-|[[Memphis, Tennessee]]
-|[[Memphis Pyramid]]
+|align=left|[[2001 Big East men's basketball tournament|Big East]]
+|align=left|[[2000–01 Boston College Eagles men's basketball team|Boston College]]
+|12th
+|[[1997 NCAA Division I men's basketball tournament|1997]]
 |-
-|[[New Orleans|New Orleans, Louisiana]]
-|[[Mercedes-Benz Superdome|Louisiana Superdome]]
+|align=left|[[2001 Big Sky Conference men's basketball tournament|Big Sky]]
+|align=left|[[2000–01 Cal State Northridge Matadors men's basketball team|Cal State Northridge]]
+|1st
+|Never
 |-
-! rowspan="2" | West
-|[[Boise, Idaho]]
-|[[Taco Bell Arena|BSU Pavilion]]
+|align=left|[[2001 Big South Conference men's basketball tournament|Big South]]
+|align=left|[[2000–01 Winthrop Eagles men's basketball team|Winthrop]]
+|3rd
+|[[2000 NCAA Division I men's basketball tournament|2000]]
 |-
-|[[San Diego|San Diego, California]]
-|[[Viejas Arena|Cox Arena]]
+|align=left|[[2001 Big Ten men's basketball tournament|Big Ten]]
+|align=left|[[2000–01 Iowa Hawkeyes men's basketball team|Iowa]]
+|20th
+|[[1999 NCAA Division I men's basketball tournament|1999]]
+|-
+|align=left|[[2001 Big West Conference men's basketball tournament|Big West]]
+|align=left|[[2000–01 Utah State Aggies men's basketball team|Utah State]]
+|14th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
+|-
+|align=left|[[2001 CAA men's basketball tournament|Colonial]]
+|align=left|[[2000–01 George Mason Patriots men's basketball team|George Mason]]
+|3rd
+|[[1999 NCAA Division I men's basketball tournament|1999]]
+|-
+|align=left|[[2001 Conference USA men's basketball tournament|C-USA]]
+|align=left|[[2000–01 Charlotte 49ers men's basketball team|Charlotte]]
+|8th
+|[[1999 NCAA Division I men's basketball tournament|1999]]
+|-
+|align=left|[[2000–01 Ivy League men's basketball season|Ivy League]]
+|align=left|[[2000–01 Princeton Tigers men's basketball team|Princeton]]
+|22nd
+|[[1998 NCAA Division I men's basketball tournament|1998]]
+|-
+|align=left|[[2001 MAAC men's basketball tournament|MAAC]]
+|align=left|[[2000–01 Iona Gaels men's basketball team|Iona]]
+|7th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
+|-
+|align=left|[[2001 MAC men's basketball tournament|MAC]]
+|align=left|[[2000–01 Kent State Golden Flashes men's basketball team|Kent State]]
+|2nd
+|[[1999 NCAA Division I men's basketball tournament|1999]]
+|-
+|align=left|[[2001 Midwestern Collegiate Conference men's basketball tournament|MCC]]
+|align=left|[[2000–01 Butler Bulldogs men's basketball team|Butler]]
+|5th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
+|-
+|align=left|[[2001 MEAC men's basketball tournament|MEAC]]
+|align=left|[[2000–01 Hampton Pirates men's basketball team|Hampton]]
+|1st
+|Never
+|-
+|align=left|[[2001 Mid-Continent Conference men's basketball tournament|Mid-Con]]
+|align=left|[[2000–01 Southern Utah Thunderbirds men's basketball team|Southern Utah]]
+|1st
+|Never
+|-
+|align=left|[[2001 Missouri Valley Conference men's basketball tournament|Missouri Valley]]
+|align=left|[[2000–01 Indiana State Sycamores men's basketball team|Indiana State]]
+|3rd
+|[[2000 NCAA Division I men's basketball tournament|2000]]
+|-
+|align=left|[[2001 Mountain West Conference men's basketball tournament|Mountain West]]
+|align=left|[[2000–01 BYU Cougars men's basketball team|BYU]]
+|19th
+|[[1995 NCAA Division I men's basketball tournament|1995]]
+|-
+|align=left|[[2001 Northeast Conference men's basketball tournament|Northeast]]
+|align=left|[[2000–01 Monmouth Hawks men's basketball team|Monmouth]]
+|2nd
+|[[1996 NCAA Division I men's basketball tournament|1996]]
+|-
+|align=left|[[2001 Ohio Valley Conference men's basketball tournament|Ohio Valley]]
+|align=left|[[2000–01 Eastern Illinois Panthers men's basketball team|Eastern Illinois]]
+|2nd
+|[[1992 NCAA Division I men's basketball tournament|1992]]
+|-
+|align=left|[[2000–01 Pacific-10 Conference men's basketball season|Pac-10]]
+|align=left|[[2000–01 Stanford Cardinal men's basketball team|Stanford]]
+|10th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
+|-
+|align=left|[[2001 Patriot League men's basketball tournament|Patriot]]
+|align=left|[[2000–01 Holy Cross Crusaders men's basketball team|Holy Cross]]
+|9th
+|[[1993 NCAA Division I men's basketball tournament|1993]]
+|-
+|align=left|[[2001 SEC men's basketball tournament|SEC]]
+|align=left|[[2000–01 Kentucky Wildcats men's basketball team|Kentucky]]
+|43rd
+|[[2000 NCAA Division I men's basketball tournament|2000]]
+|-
+|align=left|[[2001 Southern Conference men's basketball tournament|Southern]]
+|align=left|[[2000–01 UNC Greensboro Spartans men's basketball team|UNC Greensboro]]
+|2nd
+|[[1996 NCAA Division I men's basketball tournament|1996]]
+|-
+|align=left|[[2001 Southland Conference men's basketball tournament|Southland]]
+|align=left|[[2000–01 Northwestern State Demons basketball team|Northwestern State]]
+|1st
+|Never
+|-
+|align=left|[[2001 Sun Belt Conference men's basketball tournament|Sun Belt]]
+|align=left|[[2000–01 Western Kentucky Hilltoppers basketball team|Western Kentucky]]
+|17th
+|[[1995 NCAA Division I men's basketball tournament|1995]]
+|-
+|align=left|[[2001 SWAC men's basketball tournament|SWAC]]
+|align=left|[[2000–01 Alabama State Hornets basketball team|Alabama State]]
+|1st
+|Never
+|-
+|align=left|[[2001 TAAC men's basketball tournament|TAAC]]
+|align=left|[[2000–01 Georgia State Panthers men's basketball team|Georgia State]]
+|2nd
+|[[1991 NCAA Division I men's basketball tournament|1991]]
+|-
+|align=left|[[2001 WAC men's basketball tournament|WAC]]
+|align=left|[[2000–01 Hawaii Rainbow Warriors basketball team|Hawaii]]
+|3rd
+|[[1994 NCAA Division I men's basketball tournament|1994]]
+|-
+|align=left|[[2001 West Coast Conference men's basketball tournament|West Coast]]
+|align=left|[[2000–01 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|4th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
 |}
 
-===Regional Sites and Final Four===
+===<span class="RegionSeeds">Listed by region and seeding</span>===
+<section begin="RegionSeeds" />
+{|
+| valign=top |
 {| class="wikitable"
-! Region !! Site !! Venue 
+! colspan="5" style="background:#ffdead;" | East Regional – [[Philadelphia]]
 |-
-! rowspan="1"| '''East''' 
-|[[Philadelphia|Philadelphia, Pennsylvania]]
-|[[Wells Fargo Center (Philadelphia)|First Union Center]]
-|-
-! rowspan="1"| '''Midwest'''
-|[[San Antonio|San Antonio, Texas]]
-|[[Alamodome]]
-|-
-! rowspan="1"| '''South'''
-|[[Atlanta|Atlanta, Georgia]]
-|[[Georgia Dome]]
-|-
-! rowspan="1"| '''West'''
-|[[Anaheim, California]]
-|[[Honda Center|Arrowhead Pond of Anaheim]]
-|-
-! rowspan="1"| '''Final Four'''
-|[[Minneapolis|Minneapolis, Minnesota]]
-|[[Hubert H. Humphrey Metrodome]]
-|}
-
-For the second time, the Metrodome in Minneapolis hosted the Final Four; it was its last time hosting the event, as the building has been replaced by [[U.S. Bank Stadium]], which will host the Final Four in 2019. The Metrodome was the last of four [[Major League Baseball|MLB]] stadiums to host Final Fours, including the [[Astrodome]], the [[Kingdome]] and [[Tropicana Field]]. Three of the four regional cities were former Final Four host cities; Anaheim is within the Los Angeles metropolitan area but has not hosted itself. There were two new venues in cities that had previously hosted tournament games. The First Union Center (now Wells Fargo Center) hosted games for the first time, replacing its neighbor, The Spectrum. Cox Arena, located within the shell of the old Aztec Bowl at [[San Diego State University]], was also a new venue, hosting games in San Diego for the first time since the 1975 Final Four. This also marked the second straight year that a new on-campus venue was used for the tournament. The 2001 tournament marked the last time hosting for Nassau Coliseum and the Memphis Pyramid. The Pyramid has since been converted into a Bass Pro Shops destination store, and the Nassau Coliseum was recently renovated into a smaller arena, lessening the chances that it will return to the tournament.
-
-==Teams==
-{| class="wikitable"
-|-
-! colspan="6" style="background:#ffdead;" | East Regional – [[Philadelphia]]
-|-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Berth Type
+!Seed
+!School
+!Conference
+!Record
+!Berth Type
 |-
 |#1
 | [[2000–01 Duke Blue Devils men's basketball team|Duke]]
-| [[Mike Krzyzewski]]
 | [[Atlantic Coast Conference|ACC]]
-| 29-4
-| [[2001 ACC Men's Basketball Tournament|Tournament Champion]]
+| 29–4
+| Automatic
 |-
 |#2
 | [[2000–01 Kentucky Wildcats men's basketball team|Kentucky]]
-| [[Tubby Smith]]
 | [[Southeastern Conference|SEC]]
-| 22-9
-| [[2001 SEC Men's Basketball Tournament|Tournament Champion]]
+| 22–9
+| Automatic
 |-
 |#3
-| {{cbb link|2000|team=Boston College Eagles|school=Boston College|title=Boston College}}
-| [[Al Skinner]]
+| [[2000–01 Boston College Eagles men's basketball team|Boston College]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 26-4
-| [[2001 Big East Men's Basketball Tournament|Tournament Champion]]
+| 26–4
+| Automatic
 |-
 |#4
 | [[2000–01 UCLA Bruins men's basketball team|UCLA]]
-| [[Steve Lavin]]
 | [[Pac-12 Conference|Pac-10]]
-| 21-8
-| At-Large Bid
+| 21–8
+| At-large
 |-
 |#5
-| {{cbb link|2000|team=Ohio State Buckeyes|school=Ohio State University|title=Ohio State}}
-| [[Jim O'Brien (basketball, born 1949)|Jim O'Brien]]
+| [[2000–01 Ohio State Buckeyes men's basketball team|Ohio State]]
 | [[Big Ten Conference|Big Ten]]
-| 20-10
-| At-Large Bid
+| 20–10
+| At-large
 |-
 |#6
-| {{cbb link|2000|team=USC Trojans|school=University of Southern California|title=USC}}
-| [[Henry Bibby]]
+| [[2000–01 USC Trojans men's basketball team|USC]]
 | [[Pac-12 Conference|Pac-10]]
-| 21-9
-| At-Large Bid
+| 21–9
+| At-large
 |-
 |#7
 | [[2000–01 Iowa Hawkeyes men's basketball team|Iowa]]
-| [[Steve Alford]]
 | [[Big Ten Conference|Big Ten]]
-| 22-11
-| [[2001 Big Ten Conference Men's Basketball Tournament|Tournament Champion]]
+| 22–11
+| Automatic
 |-
 |#8
-| {{cbb link|2000|team=Georgia Bulldogs|school=University of Georgia|title=Georgia}}
-| [[Jim Harrick]]
+| [[2000–01 Georgia Bulldogs basketball team|Georgia]]
 | [[Southeastern Conference|SEC]]
-| 16-14
-| At-Large Bid
+| 16–14
+| At-large
 |-
 |#9
-| {{cbb link|2000|team=Missouri Tigers|school=University of Missouri|title=Missouri}}
-| [[Quin Snyder]]
+| [[2000–01 Missouri Tigers men's basketball team|Missouri]]
 | [[Big 12 Conference|Big 12]]
-| 19-12
-| At-Large Bid
+| 19–12
+| At-large
 |-
 |#10
-| {{cbb link|2000|team=Creighton Bluejays|school=Creighton University|title=Creighton}}
-| [[Dana Altman]]
+| [[2000–01 Creighton Bluejays men's basketball team|Creighton]]
 | [[Missouri Valley Conference|Missouri Valley]]
-| 24-7
-| At-Large Bid
+| 24–7
+| At-large
 |-
 |#11
-| {{cbb link|2000|team=Oklahoma State Cowboys|school=Oklahoma State University|title=Oklahoma State}}
-| [[Eddie Sutton]]
+| [[2000–01 Oklahoma State Cowboys basketball team|Oklahoma State]]
 | [[Big 12 Conference|Big 12]]
-| 19-8
-| At-Large Bid
+| 20–9
+| At-large
 |-
 |#12
-| {{cbb link|2000|team=Utah State Aggies|school=Utah State University|title=Utah State}}
-| [[Stew Morrill]]
+| [[2000–01 Utah State Aggies men's basketball team|Utah State]]
 | [[Big West Conference|Big West]]
-| 27-5
-| Tournament Champion
+| 27–5
+| Automatic
 |-
 |#13
 | [[2000–01 Hofstra Pride men's basketball team|Hofstra]]
-| [[Jay Wright (basketball)|Jay Wright]]
 | [[America East Conference|America East]]
-| 26-4
-| Tournament Champion
+| 26–4
+| Automatic
 |-
 |#14
-| {{cbb link|2000|team=Southern Utah Thunderbirds|school=Southern Utah University|title=Southern Utah}}
-| [[Bill Evans (basketball coach)|Bill Evans]]
+| [[2000–01 Southern Utah Thunderbirds men's basketball team|Southern Utah]]
 | [[The Summit League|Mid-Continent]]
-| 25-5
-| Tournament Champion
+| 25–5
+| Automatic
 |-
 |#15
-| {{cbb link|2000|team=Holy Cross Crusaders|school=College of the Holy Cross|title=Holy Cross}}
-| [[Ralph Willard]]
-| [[Patriot League]]
-| 22-7
-| Tournament Champion
+| [[2000–01 Holy Cross Crusaders men's basketball team|Holy Cross]]
+| [[Patriot League|Patriot]]
+| 22–7
+| Automatic
 |-
 |#16
-| {{cbb link|2000|team=Monmouth Hawks|school=Monmouth University|title=Monmouth}}
-| [[Dave Calloway]]
+| [[2000–01 Monmouth Hawks men's basketball team|Monmouth]]
 | [[Northeast Conference|NEC]]
-| 21-9
-| Tournament Champion
+| 21–9
+| Automatic
 |}
-
+| valign=top |
 {| class="wikitable"
+! colspan="5" style="background:#ffdead;" |West Regional – [[Anaheim, California|Anaheim]]
 |-
-! colspan="6" style="background:#ffdead;" | West Regional – [[Anaheim, California|Anaheim]]
-|-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Berth Type
+!Seed
+!School
+!Conference
+!Record
+!Berth Type
 |-
 |#1
 | [[2000–01 Stanford Cardinal men's basketball team|Stanford]]
-| [[Mike Montgomery]]
 | [[Pac-12 Conference|Pac-10]]
-| 28-2
-| Regular Season Champion
+| 28–2
+| Automatic
 |-
 |#2
 | [[2000–01 Iowa State Cyclones men's basketball team|Iowa State]]
-| [[Larry Eustachy]]
 | [[Big 12 Conference|Big 12]]
-| 25-5
-| At-Large Bid
+| 25–5
+| At-large
 |-
 |#3
 | [[2000–01 Maryland Terrapins men's basketball team|Maryland]]
-| [[Gary Williams (basketball)|Gary Williams]]
 | [[Atlantic Coast Conference|ACC]]
-| 21-10
-| At-Large Bid
+| 21–10
+| At-large
 |-
 |#4
 | [[2000–01 Indiana Hoosiers men's basketball team|Indiana]]
-| [[Mike Davis (basketball coach)|Mike Davis]]
 | [[Big Ten Conference|Big Ten]]
-| 21-12
-| At-Large Bid
+| 21–12
+| At-large
 |-
 |#5
-| {{cbb link|2000|team=Cincinnati Bearcats|school=University of Cincinnati|title=Cincinnati}}
-| [[Bob Huggins]]
-| [[Conference USA]]
-| 23-9
-| At-Large Bid
+| [[2000–01 Cincinnati Bearcats men's basketball team|Cincinnati]]
+| [[Conference USA|C-USA]]
+| 23–9
+| At-large
 |-
 |#6
 | [[2000–01 Wisconsin Badgers men's basketball team|Wisconsin]]
-| [[Brad Soderberg]]
 | [[Big Ten Conference|Big Ten]]
-| 18-10
-| At-Large Bid
+| 18–10
+| At-large
 |-
 |#7
 | [[2000–01 Arkansas Razorbacks men's basketball team|Arkansas]]
-| [[Nolan Richardson]]
 | [[Southeastern Conference|SEC]]
-| 20-10
-| At-Large Bid
+| 20–10
+| At-large
 |-
 |#8
-| {{cbb link|2000|team=Georgia Tech Yellow Jackets|school=Georgia Institute of Technology|title=Georgia Tech}}
-| [[Paul Hewitt]]
+| [[2000–01 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]
 | [[Atlantic Coast Conference|ACC]]
-| 17-12
-| At-Large Bid
+| 17–12
+| At-large
 |-
 |#9
-| {{cbb link|2000|team=Saint Joseph's Hawks|school=Saint Joseph's University|title=Saint Joseph's}}
-| [[Phil Martelli]]
+| [[2000–01 Saint Joseph's Hawks men's basketball team|Saint Joseph's]]
 | [[Atlantic 10 Conference|Atlantic 10]]
-| 25-6
-| At-Large Bid
+| 25–6
+| At-large
 |-
 |#10
 | [[2000–01 Georgetown Hoyas men's basketball team|Georgetown]]
-| [[Craig Esherick]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 23-7
-| At-Large Bid
+| 23–7
+| At-large
 |-
 |#11
-| {{cbb link|2000|team=Georgia State Panthers|school=Georgia State University|title=Georgia State}}
-| [[Lefty Driesell]]
-| [[Atlantic Sun Conference|TAAC]]
-| 28-4
-| Tournament Champion
+| [[2000–01 Georgia State Panthers men's basketball team|Georgia State]]
+| [[ASUN Conference|TAAC]]
+| 28–4
+| Automatic
 |-
 |#12
-| {{cbb link|2000|team=BYU Cougars|school=Brigham Young University|title=BYU}}
-| [[Steve Cleveland]]
+| [[2000–01 BYU Cougars men's basketball team|BYU]]
 | [[Mountain West Conference|Mountain West]]
-| 23-8
-| Tournament Champion
+| 24–8
+| Automatic
 |-
 |#13
-| {{cbb link|2000|team=Kent State Golden Flashes|school=Kent State University|title=Kent State}}
-| [[Gary Waters]]
+| [[2000–01 Kent State Golden Flashes men's basketball team|Kent State]]
 | [[Mid-American Conference|MAC]]
-| 23-9
-| Tournament Champion
+| 23–9
+| Automatic
 |-
 |#14
 | [[2000–01 George Mason Patriots men's basketball team|George Mason]]
-| [[Jim Larranaga]]
 | [[Colonial Athletic Association|Colonial]]
-| 18-11
-| Tournament Champion
+| 18–11
+| Automatic
 |-
 |#15
-| {{cbb link|2000|team=Hampton Pirates|school=Hampton University|title=Hampton}}
-| [[Steve Merfeld]]
+| [[2000–01 Hampton Pirates men's basketball team|Hampton]]
 | [[Mid-Eastern Athletic Conference|MEAC]]
-| 24-6
-| Tournament Champion
+| 24–6
+| Automatic
 |-
 |#16
-| {{cbb link|2000|team=UNC Greensboro Spartans|school=University of North Carolina at Greensboro|title=UNC Greensboro}}
-| [[Fran McCaffery]]
+| [[2000–01 UNC Greensboro Spartans men's basketball team|UNC Greensboro]]
 | [[Southern Conference|Southern]]
-| 19-11
-| Tournament Champion
+| 19–11
+| Automatic
 |}
-
+|-
+| valign=top |
 {| class="wikitable"
+! colspan="5" style="background:#ffdead;" | South Regional – [[Atlanta]]
 |-
-! colspan="6" style="background:#ffdead;" | South Regional – [[Atlanta]]
-|-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Berth Type
+!Seed
+!School
+!Conference
+!Record
+!Berth Type
 |-
 |#1
 | [[2000–01 Michigan State Spartans men's basketball team|Michigan State]]
-| [[Tom Izzo]]
 | [[Big Ten Conference|Big Ten]]
-| 24-4
-| At-Large Bid
+| 24–4
+| At-large
 |-
 |#2
 | [[2000–01 North Carolina Tar Heels men's basketball team|North Carolina]]
-| [[Matt Doherty (basketball)|Matt Doherty]]
 | [[Atlantic Coast Conference|ACC]]
-| 25-6
-| At-Large Bid
+| 25–6
+| At-large
 |-
 |#3
 | [[2000–01 Florida Gators men's basketball team|Florida]]
-| [[Billy Donovan]]
 | [[Southeastern Conference|SEC]]
-| 23-6
-| At-Large Bid
+| 23–6
+| At-large
 |-
 |#4
-| {{cbb link|2000|team=Oklahoma Sooners|school=University of Oklahoma|title=Oklahoma}}
-| [[Kelvin Sampson]]
+| [[2000–01 Oklahoma Sooners men's basketball team|Oklahoma]]
 | [[Big 12 Conference|Big 12]]
-| 26-6
-| [[2001 Big 12 Men's Basketball Tournament|Tournament Champion]]
+| 26–6
+| Automatic
 |-
 |#5
 | [[2000–01 Virginia Cavaliers men's basketball team|Virginia]]
-| [[Pete Gillen]]
 | [[Atlantic Coast Conference|ACC]]
-| 20-8
-| At-Large Bid
+| 20–8
+| At-large
 |-
 |#6
 | [[2000–01 Texas Longhorns men's basketball team|Texas]]
-| [[Rick Barnes]]
 | [[Big 12 Conference|Big 12]]
-| 25-8
-| At-Large Bid
+| 25–8
+| At-large
 |-
 |#7
-| {{cbb link|2000|team=Penn State Nittany Lions|school=Pennsylvania State University|title=Penn State}}
-| [[Jerry Dunn]]
+| [[2000–01 Penn State Nittany Lions basketball team|Penn State]]
 | [[Big Ten Conference|Big Ten]]
-| 19-11
-| At-Large Bid
+| 19–11
+| At-large
 |-
 |#8
-| {{cbb link|2000|team=California Golden Bears|school=University of California, Berkeley|title=California}}
-| [[Ben Braun]]
+| [[2000–01 California Golden Bears men's basketball team|California]]
 | [[Pac-12 Conference|Pac-10]]
-| 20-10
-| At-Large Bid
+| 20–10
+| At-large
 |-
 |#9
-| {{cbb link|2000|team=Fresno State Bulldogs|school=California State University, Fresno|title=Fresno State}}
-| [[Jerry Tarkanian]]
+| [[2000–01 Fresno State Bulldogs men's basketball team|Fresno State]]
 | [[Western Athletic Conference|WAC]]
-| 25-6
-| At-Large Bid
+| 25–6
+| At-large
 |-
 |#10
-| {{cbb link|2000|team=Providence Friars|school=Providence College|title=Providence}}
-| [[Tim Welsh]]
+| [[2000–01 Providence Friars men's basketball team|Providence]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 21-9
-| At-Large Bid
+| 21–9
+| At-large
 |-
 |#11
 | [[2000–01 Temple Owls men's basketball team|Temple]]
-| [[John Chaney (basketball, born 1932)|John Chaney]]
 | [[Atlantic 10 Conference|Atlantic 10]]
-| 21-12
-| Tournament Champion
+| 21–12
+| Automatic
 |-
 |#12
-| {{cbb link|2000|team=Gonzaga Bulldogs|school=Gonzaga University|title=Gonzaga}}
-| [[Mark Few]]
+| [[2000–01 Gonzaga Bulldogs men's basketball team|Gonzaga]]
 | [[West Coast Conference|WCC]]
-| 24-6
-| Tournament Champion
+| 24–6
+| Automatic
 |-
 |#13
-| {{cbb link|2000|team=Indiana State Sycamores|school=Indiana State University|title=Indiana State}}
-| [[Royce Waltman]]
+| [[2000–01 Indiana State Sycamores men's basketball team|Indiana State]]
 | [[Missouri Valley Conference|Missouri Valley]]
-| 21-11
-| Tournament Champion
+| 21–11
+| Automatic
 |-
 |#14
-| {{cbb link|2000|team=WKU Hilltoppers|school=Western Kentucky University|title=Western Kentucky}}
-| [[Dennis Felton]]
+| [[2000–01 Western Kentucky Hilltoppers basketball team|Western Kentucky]]
 | [[Sun Belt Conference|Sun Belt]]
-| 24-6
-| Tournament Champion
+| 24–6
+| Automatic
 |-
 |#15
 | [[2000–01 Princeton Tigers men's basketball team|Princeton]]
-| [[John Thompson III]]
 | [[Ivy League]]
-| 16-10
-| Regular Season Champion
+| 16–10
+| Automatic
 |-
 |#16
-| {{cbb link|2000|team=Alabama State Hornets|school=Alabama State University|title=Alabama State}}
-| [[Rob Spivery]]
+| [[2000–01 Alabama State Hornets basketball team|Alabama State]]
 | [[Southwestern Athletic Conference|SWAC]]
-| 22-8
-| Tournament Champion
+| 22–8
+| Automatic
 |}
+| valign=top |
 {| class="wikitable"
+! colspan="5" style="background:#ffdead;" | Midwest Regional – [[San Antonio]]
 |-
-! colspan="6" style="background:#ffdead;" | Midwest Regional – [[San Antonio]]
-|-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Berth Type
+!Seed
+!School
+!Conference
+!Record
+!Berth Type
 |-
 |#1
 | [[2000–01 Illinois Fighting Illini men's basketball team|Illinois]]
-| [[Bill Self]]
 | [[Big Ten Conference|Big Ten]]
-| 24-7
-| At-Large Bid
+| 24–7
+| At-large
 |-
 |#2
 | [[2000–01 Arizona Wildcats men's basketball team|Arizona]]
-| [[Lute Olson]]
 | [[Pac-12 Conference|Pac-10]]
-| 23-7
-| At-Large Bid
+| 23–7
+| At-large
 |-
 |#3
-| {{cbb link|2000|team=Ole Miss Rebels|school=University of Mississippi|title=Mississippi}}
-| [[Rod Barnes]]
+| [[2000–01 Ole Miss Rebels men's basketball team|Ole Miss]]
 | [[Southeastern Conference|SEC]]
-| 25-7
-| At-Large Bid
+| 25–7
+| At-large
 |-
 |#4
 | [[2000–01 Kansas Jayhawks men's basketball team|Kansas]]
-| [[Roy Williams (coach)|Roy Williams]]
 | [[Big 12 Conference|Big 12]]
-| 24-6
-| At-Large Bid
+| 24–6
+| At-large
 |-
 |#5
 | [[2000–01 Syracuse Orangemen men's basketball team|Syracuse]]
-| [[Jim Boeheim]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 24-8
-| At-Large Bid
+| 24–8
+| At-large
 |-
 |#6
-| {{cbb link|2000|team=Notre Dame Fighting Irish|school=University of Notre Dame|title=Notre Dame}}
-| [[Mike Brey]]
+| [[2000–01 Notre Dame Fighting Irish men's basketball team|Notre Dame]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 19-9
-| At-Large Bid
+| 19–9
+| At-large
 |-
 |#7
-| {{cbb link|2000|team=Wake Forest Demon Deacons|school=Wake Forest University|title=Wake Forest}}
-| [[Dave Odom]]
+| [[2000–01 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
 | [[Atlantic Coast Conference|ACC]]
-| 19-10
-| At-Large Bid
+| 19–10
+| At-large
 |-
 |#8
-| {{cbb link|2000|team=Tennessee Volunteers|school=University of Tennessee|title=Tennessee}}
-| [[Jerry Green (basketball coach)|Jerry Green]]
+| [[2000–01 Tennessee Volunteers basketball team|Tennessee]]
 | [[Southeastern Conference|SEC]]
-| 19-11
-| At-Large Bid
+| 19–11
+| At-Large
 |-
 |#9
-| {{cbb link|2000|team=Charlotte 49ers|school=University of North Carolina at Charlotte|title=Charlotte}}
-| [[Bobby Lutz (basketball)|Bobby Lutz]]
-| [[Conference USA]]
-| 21-10
-| Tournament Champion
+| [[2000–01 Charlotte 49ers men's basketball team|Charlotte]]
+| [[Conference USA|C-USA]]
+| 21–10
+| Automatic
 |-
 |#10
-| {{cbb link|2000|team=Butler Bulldogs|school=Butler University|title=Butler}}
-| [[Thad Matta]]
+| [[2000–01 Butler Bulldogs men's basketball team|Butler]]
 | [[Horizon League|MCC]]
-| 23-7
-| Tournament Champion
+| 23–7
+| Automatic
 |-
 |#11
-| {{cbb link|2000|team=Xavier Musketeers|school=Xavier University|title=Xavier}}
-| [[Skip Prosser]]
+| [[2000–01 Xavier Musketeers men's basketball team|Xavier]]
 | [[Atlantic 10 Conference|Atlantic 10]]
-| 21-7
-| At-Large Bid
+| 21–7
+| At-large
 |-
 |#12
-| {{cbb link|2000|team=Hawaii Warriors|school=University of Hawaii|title=Hawaii}}
-| [[Riley Wallace]]
+| [[2000–01 Hawaii Rainbow Warriors basketball team|Hawaii]]
 | [[Western Athletic Conference|WAC]]
-| 27-5
-| Tournament Champion
+| 17–13
+| Automatic
 |-
 |#13
-| {{cbb link|2000|team=Cal State Northridge Matadors|school=California State University, Northridge|title=Cal State Northridge}}
-| [[Bobby Braswell]]
+| [[2000–01 Cal State Northridge Matadors men's basketball team|Cal State Northridge]]
 | [[Big Sky Conference|Big Sky]]
-| 22-9
-| Tournament Champion
+| 22–9
+| Automatic
 |-
 |#14
-| {{cbb link|2000|team=Iona Gaels|school=Iona College|title=Iona}}
-| [[Jeff Ruland]]
+| [[2000–01 Iona Gaels men's basketball team|Iona]]
 | [[Metro Atlantic Athletic Conference|MAAC]]
-| 22-10
-| Tournament Champion
+| 22–10
+| Automatic
 |-
 |#15
-| {{cbb link|2000|team=Eastern Illinois Panthers|school=Eastern Illinois University|title=Eastern Illinois}}
-| [[Rick Samuels]]
+| [[2000–01 Eastern Illinois Panthers men's basketball team|Eastern Illinois]]
 | [[Ohio Valley Conference|Ohio Valley]]
-| 21-9
-| Tournament Champion
+| 21–9
+| Automatic
 |-
-|rowspan=2|#16
-| {{cbb link|2000|team=Northwestern State Demons|school=Northwestern State University|title=Northwestern State}}
-| [[Mike McConathy]]
+|rowspan="2"|#16
+| [[2000–01 Northwestern State Demons basketball team|Northwestern State]]
 | [[Southland Conference|Southland]]
-| 18-12
-| Tournament Champion
+| 18–12
+| Automatic
 |-
-| {{cbb link|2000|team=Winthrop Eagles|school=Winthrop University|title=Winthrop}}
-| [[Gregg Marshall]]
+| [[2000–01 Winthrop Eagles men's basketball team|Winthrop]]
 | [[Big South Conference|Big South]]
-| 18-12
-| Tournament Champion
+| 18–12
+| Automatic
+|}
+|}<section end="RegionSeeds" />
+
+=== Bids by conference ===
+{| class="wikitable"
+!Bids
+!Conference
+!Schools
+|-
+| 7
+| [[Big Ten Conference|Big Ten]]
+| Illinois, Indiana, Iowa, Michigan State, Ohio State, Penn State, Wisconsin
+|-
+| rowspan="3"| 6
+| [[Atlantic Coast Conference|ACC]]
+| Duke, Georgia Tech, Maryland, North Carolina, Virginia, Wake Forest
+|-
+| [[Big 12 Conference|Big 12]]
+| Iowa State, Kansas, Missouri, Oklahoma, Oklahoma State, Texas
+|-
+| [[Southeastern Conference|SEC]]
+| Arkansas, Florida, Georgia, Kentucky, Ole Miss, Tennessee
+|-
+| rowspan="2"| 5
+| [[Big East Conference (1979–2013)|Big East]]
+| Boston College, Georgetown, Notre Dame, Providence, Syracuse
+|-
+| [[Pac-12 Conference|Pac-10]]
+| Arizona, California, Stanford, UCLA, USC
+|-
+|3
+| [[Atlantic 10 Conference|Atlantic 10]]
+| Saint Joseph's, Temple, Xavier
+|-
+| rowspan="3"| 2
+| [[Conference USA|C-USA]]
+| Charlotte, Cincinnati
+|-
+| [[Missouri Valley Conference|Missouri Valley]]
+| Creighton, Indiana State
+|-
+| [[Western Athletic Conference|WAC]]
+| Fresno State, Hawaii
+|-
+| 1 || colspan="2"|21 other conferences
 |}
 
 ==Bids by conference==
 {| class="wikitable"
 ! colspan="5" style="background:#ffdead;" | Bids by Conference
 |-
-!style="background: #e3e3e3;"|Bids
-!style="background: #e3e3e3;"|Conference(s)
+!Bids
+!Conference(s)
 |-
 | 7
 | [[Big Ten]]
@@ -652,36 +766,52 @@ For the second time, the Metrodome in Minneapolis hosted the Final Four; it was 
 |-
 |}
 
-==Final four==
+==Final Four==
 At [[Hubert H. Humphrey Metrodome]], [[Minneapolis, Minnesota]]
 
-===National Semifinals===
+===National semifinals===
 *March 31, 2001
 **[[Duke University|Duke]] (E1) 95, [[University of Maryland, College Park|Maryland]] (W3) 84
-*:The fourth meeting of the year between ACC teams Duke and Maryland turned into a classic. Maryland jumped out of the gate to an early 39-17 lead. It appeared the Terps would eliminate Duke, led by senior [[Shane Battier]]. However, Duke was able to cut the lead at halftime to 49-38. Duke would take its first lead when [[Jay Williams (basketball)|Jason Williams]] drained a three to give Duke the lead 73-72 with 6:48 to play. Duke closed the game with a 23–12 run to stun [[Gary Williams (basketball)|Gary Williams]]' Maryland squad.<ref name="CNNSI3.31-1">{{cite web|author=[[CNN Sports Illustrated]]|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2001/03/31/dau_maj/|title=2001 NCAA National Semifinals: (E1) Duke 95, (W3) Maryland 84|accessdate=2008-03-06| archiveurl= https://web.archive.org/web/20080321045752/http://sportsillustrated.cnn.com/basketball/college/men/recaps/2001/03/31/dau_maj/| archivedate= 21 March 2008 <!--DASHBot-->| deadurl= no}}</ref> Referees: David Libbey, Mark Reischling, and Ted Hillary<ref>{{Citation|last=NCAA On Demand|title=2001 NCAA Basketball National Semi-Final - Maryland vs Duke|date=2014-02-27|url=https://www.youtube.com/watch?v=EEafHCO6NBo|accessdate=2017-09-27}}</ref>.
+*:The fourth meeting of the year between ACC rivals Duke and Maryland – both road teams won during the ACC regular season before Duke won 84–82 in the ACC Tournament semifinals in Atlanta en route to winning the tournament – turned into a classic. Maryland jumped out of the gate to an early 39–17 lead. It appeared the Terps would eliminate Duke, led by senior [[Shane Battier]]. However, Duke was able to cut the lead at halftime to 49–38. Duke would take its first lead when [[Jay Williams (basketball)|Jason Williams]] drained a three to give Duke the lead 73–72 with 6:48 to play. Duke closed the game with a 23–12 run to stun [[Gary Williams]]' Maryland squad.<ref name="CNNSI3.31-1">{{cite web|work=CNN Sports Illustrated|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2001/03/31/dau_maj/|title=2001 NCAA National semifinals: (E1) Duke 95, (W3) Maryland 84|access-date=2008-03-06| archive-url= https://web.archive.org/web/20080321045752/http://sportsillustrated.cnn.com/basketball/college/men/recaps/2001/03/31/dau_maj/| archive-date= 21 March 2008 | url-status= dead}}</ref> Referees: David Libbey, Mark Reischling, and Ted Hillary.<ref>{{Citation|last=NCAA On Demand|title=2001 NCAA Basketball National Semi-Final – Maryland vs Duke|date=2014-02-27|url=https://www.youtube.com/watch?v=EEafHCO6NBo|access-date=2017-09-27}}{{cbignore}}{{Dead YouTube link|date=February 2022}}</ref>
 **[[University of Arizona|Arizona]] (M2) 80, [[Michigan State University|Michigan State]] (S1) 61
-*: In an emotional season in which coach [[Lute Olson]] suffered the loss of his wife, he would be just 40 minutes away from a second National Championship after his Wildcats destroyed the defending national champion Michigan State Spartans. The game was close at halftime with Arizona leading by just 2. However, Arizona outscored Michigan State 48–31 in the second half en route to the 19-point victory.<ref name="CNNSI3.31-2">{{cite web|author=[[CNN Sports Illustrated]]|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2001/03/31/may_aaq/|title=2001 NCAA National Semifinals: (MW2) Kansas 80, (S4) Michigan State 61|accessdate=2008-03-06}}</ref>
+*: In an emotional season in which Arizona coach [[Lute Olson]] suffered the loss of his wife Bobbi, he would be just 40 minutes away from a second National Championship after his Wildcats destroyed the defending national champion Michigan State Spartans. The game was close at halftime with Arizona leading by just 2. However, Arizona outscored Michigan State 48–31 in the second half en route to the 19-point victory.<ref name="CNNSI3.31-2">{{cite web|work=CNN Sports Illustrated|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2001/03/31/may_aaq/|archive-url=https://web.archive.org/web/20010413173317/http://sportsillustrated.cnn.com/basketball/college/men/recaps/2001/03/31/may_aaq/|url-status=dead|archive-date=April 13, 2001|title=2001 NCAA National semifinals: (MW2) Kansas 80, (S4) Michigan State 61|access-date=2008-03-06}}</ref>
 
 ===Championship game===
-{{main article|2001 NCAA Men's Division I Basketball Championship Game}}
+{{main|2001 NCAA Men's Division I Basketball Championship Game}}
 *April 2, 2001
 **[[Duke University|Duke]] (E1) 82, [[University of Arizona|Arizona]] (M2) 72
-*:The second-ranked team coming into the NCAA Tournament would leave giving coach [[Mike Krzyzewski]] his third National Championship at Duke. Arizona cut Duke's lead to 39-37 early in the second half, but [[Mike Dunleavy Jr.]] connected on three [[three-pointers]] during an 11&ndash;2 Duke run. Dunleavy Jr. led the Duke Blue Devils with 21 points. The Arizona Wildcats would cut the gap to 3 four times, twice inside the four-minute TV timeout. However, [[Shane Battier]] proved himself too much for the Wildcats to handle as he hit two critical shots to put the Blue Devils comfortably ahead. Jason Williams, despite a poor shooting night, iced the game with a three-pointer from the top of the key with under 2 minutes to play to give Duke a three-point lead. The final score was Duke 82 – Arizona 72.
+*:The second-ranked team coming into the NCAA tournament would leave giving coach [[Mike Krzyzewski]] his third National Championship at Duke. Arizona cut Duke's lead to 39–37 early in the second half, but [[Mike Dunleavy Jr.]] connected on three [[three-pointers]] during an 11–2 Duke run. Dunleavy Jr. led the Duke Blue Devils with 21 points. The Arizona Wildcats would cut the gap to 3 four times, twice inside the four-minute TV timeout. However, [[Shane Battier]] proved himself too much for the Wildcats to handle as he hit two critical shots to put the Blue Devils comfortably ahead. Jason Williams, despite a poor shooting night, iced the game with a three-pointer from the top of the key with under 2 minutes to play to give Duke an eight-point lead. The final score was Duke 82 – Arizona 72.
 
 ==Bracket==
+===Opening Round game – Dayton, Ohio===
+Winner advances to 16th seed in Midwest Regional vs. (1) [[Illinois Fighting Illini men's basketball|Illinois]].
 
-===East Regional — Philadelphia, Pennsylvania===
+{{2TeamBracket | RD1=Opening Round game<br>March 13
+| RD1-seed1= 16
+| RD1-team1= Winthrop
+| RD1-score1= 67
+| RD1-seed2= 16
+| RD1-team2= '''Northwestern State'''
+| RD1-score2= '''71'''
+}}
 
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+===East regional — Philadelphia, Pennsylvania===
+
+{{16TeamBracket
+ | RD1=First round<br>March 15
+ | RD2=Second round<br>March 17
+ | RD3=Regional semifinals<br>March 22
+ | RD4=Regional finals<br>March 24
  | subgroup1= '''[[Greensboro Coliseum|Greensboro]]'''
  | subgroup2= '''[[Greensboro Coliseum|Greensboro]]'''
  | subgroup3= '''[[Nassau Veterans Memorial Coliseum|Uniondale]]'''
  | subgroup4= '''[[Nassau Veterans Memorial Coliseum|Uniondale]]'''
+ | RD1-seed01= 1
  | RD1-team01= '''Duke'''
  | RD1-score01= '''95'''
  | RD1-seed02= 16
  | RD1-team02= Monmouth
- | RD1-score02= 57
+ | RD1-score02= 52
  | RD1-seed03= 8
  | RD1-team03= Georgia
  | RD1-score03= 68
@@ -689,11 +819,11 @@ At [[Hubert H. Humphrey Metrodome]], [[Minneapolis, Minnesota]]
  | RD1-team04= '''Missouri'''
  | RD1-score04= '''70'''
  | RD1-seed05= 5
- | RD1-team05= Ohio State
+ | RD1-team05= {{strikethrough|Ohio State}}
  | RD1-score05= 68
  | RD1-seed06= 12
  | RD1-team06= '''Utah State'''
- | RD1-score06= '''77*'''
+ | RD1-score06= '''77<sup>OT</sup>'''
  | RD1-seed07= 4
  | RD1-team07= '''UCLA'''
  | RD1-score07= '''61'''
@@ -768,12 +898,19 @@ At [[Hubert H. Humphrey Metrodome]], [[Minneapolis, Minnesota]]
  | RD4-score02= 69
 }}
 
-===West Regional — Anaheim, California===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+Ohio State vacated all wins and its NCAA Tournament appearance from the 2000–01 season due to the [[Jim O'Brien (basketball, born 1950)#Firing controversy|Jim O’Brien scandal]].<ref>{{Cite web|url=http://www.espn.com/mens-college-basketball/news/story?id=2362496|title=OSU gets probation|date=2006-03-10|website=ESPN.com|access-date=2017-06-05}}</ref> Unlike forfeiture, a vacated game does not result in the other school being credited with a win, only with Ohio State removing the wins from its own record.
+
+===West regional — Anaheim, California===
+{{16TeamBracket
+ | RD1=First round<br>March 15
+ | RD2=Second round<br>March 17
+ | RD3=Regional semifinals<br>March 22
+ | RD4=Regional finals<br>March 24
  | subgroup1= '''[[Cox Arena|San Diego]]'''
  | subgroup2= '''[[Cox Arena|San Diego]]'''
  | subgroup3= '''[[BSU Pavilion|Boise]]'''
  | subgroup4= '''[[BSU Pavilion|Boise]]'''
+ | RD1-seed01= 1
  | RD1-team01= '''Stanford'''
  | RD1-score01= '''88'''
  | RD1-seed02= 16
@@ -861,16 +998,21 @@ At [[Hubert H. Humphrey Metrodome]], [[Minneapolis, Minnesota]]
  | RD4-team01= Stanford
  | RD4-score01= 73
  | RD4-seed02= 3
- | RD4-team02='''Maryland'''
+ | RD4-team02= '''Maryland'''
  | RD4-score02= '''87'''
 }}
 
-===South Regional — Atlanta, Georgia===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+===South regional — Atlanta, Georgia===
+{{16TeamBracket
+ | RD1=First round<br>March 16
+ | RD2=Second round<br>March 18
+ | RD3=Regional semifinals<br>March 23
+ | RD4=Regional finals<br>March 25
  | subgroup1= '''[[Pyramid Arena|Memphis]]'''
  | subgroup2= '''[[Pyramid Arena|Memphis]]'''
  | subgroup3= '''[[Louisiana Superdome|New Orleans]]'''
  | subgroup4= '''[[Louisiana Superdome|New Orleans]]'''
+ | RD1-seed01= 1
  | RD1-team01= '''Michigan State'''
  | RD1-score01= '''69'''
  | RD1-seed02= 16
@@ -893,7 +1035,7 @@ At [[Hubert H. Humphrey Metrodome]], [[Minneapolis, Minnesota]]
  | RD1-score07= 68
  | RD1-seed08= 13
  | RD1-team08= '''Indiana State'''
- | RD1-score08= '''70*'''
+ | RD1-score08= '''70<sup>OT</sup>'''
  | RD1-seed09= 6
  | RD1-team09= Texas
  | RD1-score09= 65
@@ -962,12 +1104,17 @@ At [[Hubert H. Humphrey Metrodome]], [[Minneapolis, Minnesota]]
  | RD4-score02= 62
 }}
 
-===Midwest Regional — San Antonio, Texas===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+===Midwest regional — San Antonio, Texas===
+{{16TeamBracket
+ | RD1=First round<br>March 16
+ | RD2=Second round<br>March 18
+ | RD3=Regional semifinals<br>March 23
+ | RD4=Regional finals<br>March 25
  | subgroup1= '''[[University of Dayton Arena|Dayton]]'''
  | subgroup2= '''[[University of Dayton Arena|Dayton]]'''
  | subgroup3= '''[[Kemper Arena|Kansas City]]'''
  | subgroup4= '''[[Kemper Arena|Kansas City]]'''
+ | RD1-seed01=1
  | RD1-team01= '''Illinois'''
  | RD1-score01= '''96'''
  | RD1-seed02= 16
@@ -1060,7 +1207,10 @@ At [[Hubert H. Humphrey Metrodome]], [[Minneapolis, Minnesota]]
 }}
 
 ===Final Four — Minneapolis, Minnesota===
-{{4TeamBracket | RD1=National Semifinals | RD2=National Finals | RD1-seed1=E1
+{{4TeamBracket
+ | RD1=National semifinals<br>March 31
+ | RD2=National finals<br>April 2
+ | RD1-seed1=E1
  | RD1-team1= '''Duke'''
  | RD1-score1= '''95'''
  | RD1-seed2= W3
@@ -1082,42 +1232,48 @@ At [[Hubert H. Humphrey Metrodome]], [[Minneapolis, Minnesota]]
 
 ==Upsets==
 
-This tournament featured many upsets in the first two rounds, with two #13 seeds and two #12 seeds winning in the first. The best remembered and most unexpected occurred when Hampton beat number 2 seed Iowa State 58-57 in the first round. The Pirates were down by as much as 11 in the game and outscored the Cyclones 10-0 in the final seven minutes of the game. Tarvis Williams made the winning shot with 6.9 seconds left. The video of Hampton coach Steve Merfield being lifted in the air by player David Johnson during the celebration has become a classic clip, often played by CBS and ESPN to showcase the excitement of the underdog in the NCAA Tournament.
+This tournament featured many upsets in the first two rounds, with pairs of #10, #11, #12, and #13 seeds winning in the first and a #10, #11, and #12 seeds all making it to the Sweet 16. The best remembered and most unexpected occurred when Hampton beat number 2 seed Iowa State 58–57 in the first round. The Pirates were down by as much as 11 in the game and outscored the Cyclones 10–0 in the final seven minutes of the game. Tarvis Williams made the winning shot with 6.9 seconds left. The video of Hampton coach Steve Merfield being lifted in the air by player David Johnson during the celebration has become a classic clip, often played by CBS and ESPN to showcase the excitement of the underdog in the NCAA tournament.
 
-Hampton became only the fourth #15 seed to win a game since the tournament expanded to 64 teams in [[1985 NCAA Men's Division I Basketball Tournament|1985]] and the first since [[1997 NCAA Men's Division I Basketball Tournament|1997]]. They went on to lose to Georgetown in the second round, failing to become the first seed that low to make the Round of 16.<ref>[http://sportsillustrated.cnn.com/basketball/college/2001/ncaa_tourney/west/news/2001/03/15/hampton_iowastate_ap/ 15th-seeded Pirates stun No. 2 seed Cyclones 58-57 ]</ref> The Pirates were the last #15 seed to advance in the tournament until [[2012 NCAA Men's Division I Basketball Tournament|2012]], in which two #15 seeds beat their #2-seeded opponents.
+Hampton became only the fourth #15 seed to win a game since the tournament expanded to 64 teams in [[1985 NCAA Division I men's basketball tournament|1985]] and the first since [[1997 NCAA Division I men's basketball tournament|1997]]. They went on to lose to Georgetown in the second round, failing to become the first seed that low to make the Round of 16.<ref>[https://web.archive.org/web/20060908111859/http://sportsillustrated.cnn.com/basketball/college/2001/ncaa_tourney/west/news/2001/03/15/hampton_iowastate_ap/ 15th-seeded Pirates stun No. 2 seed Cyclones 58–57 ]</ref> The Pirates were the last #15 seed to advance in the tournament until [[2012 NCAA Division I men's basketball tournament|2012]], in which two #15 seeds beat their #2-seeded opponents.
 
-#12 seeded Gonzaga also made the Sweet 16 for the third year in a row, all as a double digit seed.
+Temple became just the 3rd #11 seed to make it to the Elite Eight since the tournament had expanded, upsetting #6 Texas and #3 Florida on the way. In the same region, 12-seed Gonzaga made the Sweet 16 for the third year in a row, all as a double digit seed. Both teams would lose to defending champion #1 Michigan State who, along with #7 Penn State, were the only top seeds to make it past the second round in that region (Penn State would lose to Temple in the Sweet 16).
 
 ==Announcers==
-*[[Jim Nantz]] and [[Billy Packer]] – First & Second Round at New Orleans, Louisiana; East Regional at Philadelphia, Pennsylvania; Final Four at Minneapolis, Minnesota
-*[[Dick Enberg]] and [[Bill Walton]] – First & Second Round at San Diego, California; Midwest Regional at San Antonio, Texas
-*[[Verne Lundquist]] and [[Bill Raftery]] – First & Second Round at Kansas City, Missouri; South Regional at Atlanta, Georgia
-*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Dan Bonner]] – First & Second Round at Uniondale, New York; West Regional at Anaheim, California
-*[[Kevin Harlan]] and [[Jon Sundvold]] – First & Second Round at Greensboro, North Carolina
-*[[Ian Eagle]] and [[Jim Spanarkel]] – First & Second Round at Memphis, Tennessee
-*[[Tim Brando]] and [[Rick Pitino]] – First & Second Round at Dayton, Ohio
-*[[Craig Bolerjack]] and [[James Worthy]] – First & Second Round at Boise, Idaho
+*[[Jim Nantz]]/[[Billy Packer]]/[[Bonnie Bernstein]] – First and Second Rounds at New Orleans, Louisiana; East Regional at Philadelphia, Pennsylvania; Final Four and National Championship at Minneapolis, Minnesota
+*[[Dick Enberg]]/[[Bill Walton]]/[[Lesley Visser]] – First and Second Rounds at San Diego, California; Midwest Regional at San Antonio, Texas
+*[[Verne Lundquist]]/[[Bill Raftery]]/[[Armen Keteyian]] – First and Second Rounds at Kansas City, Missouri; South Regional at Atlanta, Georgia
+*[[Gus Johnson (sportscaster)|Gus Johnson]]/[[Dan Bonner]]/[[Dwayne Ballen]] – First and Second Rounds at Uniondale, New York; West Regional at Anaheim, California
+*[[Kevin Harlan]]/[[Jon Sundvold]]/[[Charles Davis (defensive back)|Charles Davis]] – First and Second Rounds at Greensboro, North Carolina
+*[[Ian Eagle]]/[[Jim Spanarkel]]/[[Brett Haber]] – First and Second Rounds at Memphis, Tennessee
+*[[Tim Brando]]/[[Rick Pitino]]/[[Spencer Tillman]] – Opening Round Game, First and Second Rounds at Dayton, Ohio
+*[[Craig Bolerjack]]/[[James Worthy]]/[[Bob Wenzel]] – First and Second Rounds at Boise, Idaho
+
+[[Greg Gumbel]] once again served as the studio host, joined by analyst [[Clark Kellogg]].
 
 ==See also==
-* [[2001 NCAA Division II Men's Basketball Tournament]]
-* [[2001 NCAA Division III Men's Basketball Tournament]]
-* [[2001 NCAA Division I Women's Basketball Tournament]]
-* [[NCAA Division II Women's Basketball Tournament|2001 NCAA Division II Women's Basketball Tournament]]
-* [[NCAA Division III Women's Basketball Tournament|2001 NCAA Division III Women's Basketball Tournament]]
+* [[2001 NCAA Division II men's basketball tournament]]
+* [[2001 NCAA Division III men's basketball tournament]]
+* [[2001 NCAA Division I women's basketball tournament]]
+* [[NCAA Division II women's basketball tournament|2001 NCAA Division II women's basketball tournament]]
+* [[NCAA Division III women's basketball tournament|2001 NCAA Division III women's basketball tournament]]
 * [[2001 National Invitation Tournament]]
 * [[Women's National Invitation Tournament|2001 Women's National Invitation Tournament]]
-* [[2001 NAIA Division I Men's Basketball Tournament]]
-* [[NAIA Men's Basketball Championships#Division II|2001 NAIA Division II Men's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships|2001 NAIA Division I Women's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships#Division II|2001 NAIA Division II Women's Basketball Tournament]]
+* [[2001 NAIA Division I men's basketball tournament]]
+* [[NAIA Men's Basketball Championships#Division II|2001 NAIA Division II men's basketball tournament]]
+* [[NAIA Women's Basketball Championships|2001 NAIA Division I women's basketball tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2001 NAIA Division II women's basketball tournament]]
 
 ==References==
 {{Reflist}}
 
-{{NCAA Men's Division I Basketball Tournament navbox}}
+{{NCAA Division I men's basketball tournament navbox}}
+{{2001 NCAA Division I men's basketball tournament navbox}}
 {{2001 Duke Blue Devils men's basketball navbox}}
 
-{{DEFAULTSORT:2001 Ncaa Men's Division I Basketball Tournament}}
-[[Category:NCAA Division I Men's Basketball Championship]]
+{{DEFAULTSORT:2001 NCAA Division I men's basketball tournament}}
+[[Category:NCAA Division I men's basketball tournament]]
 [[Category:2000–01 NCAA Division I men's basketball season|Ncaa]]
+[[Category:2001 in sports in Minnesota|NCAA Division I men's basketball tournament]]
+[[Category:March 2001 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:April 2001 sports events in the United States|NCAA Division I men's basketball tournament]]
 [[Category:Basketball in San Antonio]]

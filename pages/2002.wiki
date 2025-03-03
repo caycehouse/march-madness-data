@@ -1,72 +1,71 @@
-{{Infobox NCAA Basketball Tournament |
+{{Short description|Edition of USA college basketball tournament}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox NCAA basketball tournament
 | Year=2002
 | Image=2002FinalFour.png
-| ImageSize=150px
-| Caption=2002 Final Four Logo
 | Teams=65
 | FinalFourArena=[[Georgia Dome]]
-| FinalFourCity=[[Atlanta]]
-| Champions=[[2001–02 Maryland Terrapins men's basketball team|Maryland]]
+| FinalFourCity=[[Atlanta, Georgia]]
+| Champions=[[2001–02 Maryland Terrapins men's basketball team|Maryland Terrapins]]
 | TitleCount=1st
 | ChampGameCount=1st
 | ChampFFCount=2nd
-| RunnerUp=[[2001–02 Indiana Hoosiers men's basketball team|Indiana]]
+| RunnerUp=[[2001–02 Indiana Hoosiers men's basketball team|Indiana Hoosiers]]
 | GameCount=6th
 | RunnerFFCount=8th
-| Semifinal1=[[2001–02 Kansas Jayhawks men's basketball team|Kansas]]
+| Semifinal1=[[2001–02 Kansas Jayhawks men's basketball team|Kansas Jayhawks]]
 | FinalFourCount=11th
-| Semifinal2=[[2001–02 Oklahoma Sooners men's basketball team|Oklahoma]]
+| Semifinal2=[[2001–02 Oklahoma Sooners men's basketball team|Oklahoma Sooners]]
 | FinalFourCount2=4th
-| Coach=[[Gary Williams (basketball)|Gary Williams]]
+| Coach=[[Gary Williams]]
 | CoachCount=1st
 | MOP=[[Juan Dixon]]
 | MOPTeam=Maryland
 | Attendance=720,433
-| OneTopScorer=
-| TwoTopScorers=*
 | TopScorer=Juan Dixon
 | TopScorerTeam=Maryland
 | TopScorer2=[[Jared Jeffries]]
 | TopScorer2Team=Indiana
 | Points=155
 }}
-The '''2002 [[NCAA Division I Men's Basketball Tournament]]''' involved 65 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 12, 2002, and ended with the [[2002 NCAA Men's Division I Basketball Championship Game|championship game]] on April 1 in [[Atlanta]] at the [[Georgia Dome]]. A total of 64 games were played.
+
+The '''2002 [[NCAA Division I men's basketball tournament]]''' involved 65 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 12, 2002, and ended with the [[2002 NCAA Division I Men's Basketball Championship Game|championship game]] on April 1 in [[Atlanta]] at the [[Georgia Dome]]. A total of 64 games were played.
 
 This was the first year that the tournament used the so-called "pod" system, in which the eight first- and second-round sites are distributed around the four regionals. Teams were assigned to first round spots in order to minimize travel for as many teams as possible. The top seeds at each site were:
 
 *[[Sacramento, California|Sacramento]]: [[University of Oregon|Oregon]] (M2), [[University of Southern California|USC]] (S4)
 *[[Albuquerque, New Mexico|Albuquerque]]: [[University of Arizona|Arizona]] (W3), [[Ohio State University|Ohio State]] (W4)
-*[[Dallas, Texas|Dallas]]: [[University of Oklahoma|Oklahoma]] (W2), [[Mississippi State University|Mississippi State]] (M3)
-*[[St. Louis, Missouri|St. Louis]]: [[University of Kansas|Kansas]] (M1), [[University of Kentucky|Kentucky]] (E4)
-*[[Chicago]]: [[University of Georgia|Georgia]] (E3), [[University of Illinois at Urbana–Champaign|Illinois]] (M4)
-*[[Pittsburgh, Pennsylvania|Pittsburgh]]: [[University of Cincinnati|Cincinnati]] (W1), [[University of Pittsburgh|Pittsburgh]] (S3)
-*Washington, D.C.: [[University of Maryland, College Park|Maryland]] (E1), [[University of Connecticut|Connecticut]] (E2)
+*[[Dallas]]: [[University of Oklahoma|Oklahoma]] (W2), [[Mississippi State University|Mississippi State]] (M3)
+*[[St. Louis]]: [[University of Kansas|Kansas]] (M1), [[University of Kentucky|Kentucky]] (E4)
+*[[Chicago]]: [[University of Georgia|Georgia]] (E3), [[University of Illinois Urbana-Champaign|Illinois]] (M4)
+*[[Pittsburgh]]: [[University of Cincinnati|Cincinnati]] (W1), [[University of Pittsburgh|Pittsburgh]] (S3)
+*[[Washington, D.C.]]: [[University of Maryland, College Park|Maryland]] (E1), [[University of Connecticut|Connecticut]] (E2)
 *[[Greenville, South Carolina|Greenville]]: [[Duke University|Duke]] (S1), [[University of Alabama|Alabama]] (S2)
 
 The Final Four consisted of [[Maryland Terrapins men's basketball|Maryland]], making their second consecutive appearance, [[Kansas Jayhawks men's basketball|Kansas]], making their first appearance since 1993, [[Indiana Hoosiers men's basketball|Indiana]], making their first appearance since 1992, and [[Oklahoma Sooners men's basketball|Oklahoma]], making their first appearance since their national runner-up finish in 1988.
 
-Maryland defeated Indiana 64-52 in the championship game to win their first ever national championship.
+Maryland defeated Indiana 64–52 in the championship game to win their first-ever national championship. [[Juan Dixon]] of Maryland was named the tournament's [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]].
 
-[[Juan Dixon]] of Maryland was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]].
+For the second straight tournament, the Elite Eight featured at least one double-digit seed. South Region tenth-seed [[Kent State Golden Flashes men's basketball|Kent State]] and West Region twelfth-seed [[Missouri Tigers men's basketball|Missouri]] played in their respective regional finals, with Kent State losing to Indiana and Missouri losing to Oklahoma. This also marked the first time since 1987 that no team from the states of North Carolina nor Kentucky reached the Final Four.
 
-For the second straight tournament, the Elite Eight featured at least one double-digit seed. South Region tenth-seed [[Kent State Golden Flashes men's basketball|Kent State]] and West Region twelfth-seed [[Missouri Tigers men's basketball|Missouri]] played in their respective regional finals, with Kent State losing to Indiana and Missouri losing to Oklahoma.
+This tournament was the first since [[1974 NCAA Division I basketball tournament|1974]] (the last tournament which only allowed one team per conference) in which the [[North Carolina Tar Heels men's basketball|North Carolina Tar Heels]] were not a participant. The 27-year streak was, at the time, the longest appearance streak in NCAA history, having beaten [[UCLA Bruins men's basketball|UCLA]]'s 15-year streak in 1990. It has since been topped by [[Kansas Jayhawks men's basketball|Kansas]], whose 35-year streak dates back to 1990 and is still active.  (Two other active teams, [[Michigan State Spartans men's basketball|Michigan State]] and [[Gonzaga Bulldogs men's basketball|Gonzaga]], also have active 20 year streaks and could beat UNC's streak in 2026 and 2027, respectively.)
 
-This also marked the first time since 1987 that no team from the states of North Carolina nor Kentucky reached the Final Four.
+==Schedule and venues==
 
-==Locations==
-{{Location map+|USA|width=450|float=right|caption=2002 first and second rounds (note: the play-in game was held in Dayton, Ohio)|places= 
+{{Location map+|USA|width=450|float=right|caption=2002 play-in game (orange) and first and second rounds (green)|places= 
+{{Location map~|USA|mark=orange pog.svg|lat_deg=39.7404|lon_deg=-84.1792|position=left|background=#FFFFFF|label=Dayton|link=UD Arena}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=38.907192|lon_deg=-77.036871|position=bottom|background=#FFFFFF|label=Washington, D.C.|link=Capital One Arena}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=40.440625|lon_deg=-79.995886|position=top|background=#FFFFFF|label=Pittsburgh|link=Civic Arena (Pittsburgh)|Mellon Arena}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=34.852618|lon_deg=-82.394010|position=right|background=#FFFFFF|label=Greenville|link=BI-LO Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.440625|lon_deg=-79.995886|position=top|background=#FFFFFF|label=Pittsburgh|link=|Civic Arena (Pittsburgh)|Mellon Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=34.852618|lon_deg=-82.394010|position=right|background=#FFFFFF|label=Greenville|link=Bon Secours Wellness Arena}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=41.878114|lon_deg=-87.629798|position=left|background=#FFFFFF|label=Chicago|link=United Center}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=38.627003|lon_deg=-90.199404|position=bottom|background=#FFFFFF|label=St. Louis|link=Edward Jones Dome}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.627003|lon_deg=-90.199404|position=bottom|background=#FFFFFF|label=St. Louis|link=The Dome at America's Center}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=32.780262|lon_deg=-96.800978|position=left|background=#FFFFFF|label=Dallas|link=American Airlines Arena}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=35.110703|lon_deg=-106.609991|position=left|background=#FFFFFF|label=Albuquerque|link=The Pit (arena)|University Arena}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=38.581572|lon_deg=-121.494400|position=right|background=#FFFFFF|label=Sacramento|link=Sleep Train Arena|Arco Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.581572|lon_deg=-121.494400|position=right|background=#FFFFFF|label=Sacramento|link=ARCO Arena}}
 }}
 
 {{Location map+|USA|width=450|float=right|caption=2002 Regionals (blue) and Final Four (red)|places=
-{{Location map~|USA|mark=blue pog.svg|lat_deg=37.339386|lon_deg=-121.894955|position=right|background=#FFFFFF|label=San Jose|link=Compaq Center at San Jose}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=37.339386|lon_deg=-121.894955|position=right|background=#FFFFFF|label=San Jose|link=SAP Center}}
 {{Location map~|USA|mark=blue pog.svg|lat_deg=43.073052|lon_deg=-89.401230|position=bottom|background=#FFFFFF|label=Madison|link=Kohl Center}}
 {{Location map~|USA|mark=blue pog.svg|lat_deg=38.040584|lon_deg=-84.503716|position=left|background=#FFFFFF|label=Lexington|link=Rupp Arena}}
 {{Location map~|USA|mark=blue pog.svg|lat_deg=43.048122|lon_deg=-76.147424|position=left|background=#FFFFFF|label=Syracuse|link=Carrier Dome}}
@@ -75,591 +74,725 @@ This also marked the first time since 1987 that no team from the states of North
 
 The following are the sites selected to host each round of the 2002 tournament:
 
-===Opening Round===
-;March 12:
-:[[University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+'''Opening Round'''
+*March 12
+**[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
 
-===First and second rounds===
-;March 14 and 16:
-:[[Sleep Train Arena|ARCO Arena]], [[Sacramento, California]] (Host: [[University of the Pacific (United States)|University of the Pacific]])
-:[[Bon Secours Wellness Arena|BI-LO Center]], [[Greenville, South Carolina]] (Hosts: [[Southern Conference]] and [[Furman University]])
-:[[The Dome at America's Center|Edward Jones Dome]], [[St. Louis|St. Louis, Missouri]] (Host: [[Missouri Valley Conference]])
-:[[The Pit (arena)|University Arena]], [[Albuquerque, New Mexico]] (Host: [[University of New Mexico]])
+'''First and Second Rounds'''
+*March 14 and 16
+** [[ARCO Arena]], [[Sacramento, California]] (Host: [[University of the Pacific (United States)|University of the Pacific]])
+** [[Bon Secours Wellness Arena|BI-LO Center]], [[Greenville, South Carolina]] (Hosts: [[Southern Conference]], [[Furman University]])
+** [[The Dome at America's Center|Edward Jones Dome]], [[St. Louis|St. Louis, Missouri]] (Host: [[Missouri Valley Conference]])
+** [[The Pit (arena)|University Arena]], [[Albuquerque, New Mexico]] (Host: [[University of New Mexico]])
+*March 15 and 17
+** [[American Airlines Center]], [[Dallas, Texas]] (Host: [[Big 12 Conference]])
+** [[Capital One Arena|MCI Center]], [[Washington, D.C.]] (Host: [[Georgetown University]])
+** [[Civic Arena (Pittsburgh)|Mellon Arena]], [[Pittsburgh, Pennsylvania]] (Host: [[Duquesne University]])
+** [[United Center]], [[Chicago, Illinois]] (Host: [[Big Ten Conference]])
 
-;March 15 and 17:
-:[[American Airlines Center]], [[Dallas]] (Host: [[Big 12 Conference]])
-:[[Capital One Arena|MCI Center]], Washington, D.C. (Host: [[Georgetown University]])
-:[[Civic Arena (Pittsburgh)|Mellon Arena]], [[Pittsburgh]] (Host: [[Duquesne University]])
-:[[United Center]], [[Chicago]] (Host: [[Big Ten Conference]])
+'''Regional semifinals and finals''' (Sweet Sixteen and Elite Eight)
+*March 21 and 23
+** '''South Regional''' 
+*** [[Rupp Arena]], [[Lexington, Kentucky]] (Host: [[University of Kentucky]])
+** '''West Regional''' 
+*** [[SAP Center|Compaq Center at San Jose]], [[San Jose, California]] (Host: [[Santa Clara University]])
+*March 22 and 24
+** '''East Regional''' 
+*** [[Carrier Dome]], [[Syracuse, New York]] (Host: [[Syracuse University]])
+** '''Midwest Regional''' 
+*** [[Kohl Center]], [[Madison, Wisconsin]] (Host: [[University of Wisconsin–Madison]])
 
-===Regionals===
-;March 21 and 23:
-:'''South Regional''', [[Rupp Arena]], [[Lexington, Kentucky]] (Host: [[University of Kentucky]])
-:'''West Regional''', [[SAP Center|Compaq Center at San Jose]], [[San Jose, California]] (Host: [[Santa Clara University]])
-;March 22 and 24:
-:'''East Regional''', [[Carrier Dome]], [[Syracuse, New York]] (Host: [[Syracuse University]])
-:'''Midwest Regional''', [[Kohl Center]], [[Madison, Wisconsin]] (Host: [[University of Wisconsin–Madison]])
+'''National semifinals and championship''' (Final Four and championship)
+*March 30 and April 1
+**[[Georgia Dome]], [[Atlanta|Atlanta, Georgia]] (Host: [[Georgia Tech]])
 
-===Final Four===
-;March 30 and April 1:
-:[[Georgia Dome]], [[Atlanta]] (Host: [[Georgia Institute of Technology]])
+==Qualifying teams==
+{{further|2002 NCAA Division I men's basketball tournament qualifying teams}}
 
-For the second time, Atlanta was the host city of the Final Four, with the Georgia Dome becoming the 33rd host venue. The Georgia Dome also currently holds the distinction of being the most recent Final Four venue to close and be demolished, as it did so in 2017 after the opening of [[Mercedes-Benz Stadium]], which will host the Final Four in 2020. The tournament included three new venues and two new host cities. The American Airlines Center in Dallas, which opened in 2001, replaced [[Reunion Arena]] as the city's primary winter sports venue. The Kohl Center on the campus of the [[University of Wisconsin]] brought the tournament back to Wisconsin's capital city for the first time since 1969, although it has not returned since. And the city of Greenville, South Carolina's Bi-Lo Center hosted for the first time in 2002; however, due to the [[Modern display of the Confederate flag#Display at South Carolina State Capitol|Confederate flag controversy]] at the South Carolina State Capitol, the NCAA chose not to return to the arena until 2017, two years after the flag was removed. The 2002 tournament was the last time that the Pittsburgh Civic Arena (then called Mellon Arena) hosted the tournament; it closed in 2010 and games have since been played at its replacement, [[PPG Paints Arena]].
+===Automatic bids===
+The following teams were automatic qualifiers for the 2002 NCAA field by virtue of winning their conference's tournament (except for the Ivy League, whose regular-season champion received the automatic bid).
 
-==Teams==
+{|class="wikitable sortable" style="text-align: center;"
+|-
+!Conference
+!School
+! data-sort-type="number" |Appearance
+!Last bid
+|-
+|align=left|[[2002 ACC men's basketball tournament|ACC]]
+|align=left|[[2001–02 Duke Blue Devils men's basketball team|Duke]]
+|26th
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|-
+|align=left|[[2002 America East men's basketball tournament|America East]]
+|align=left|[[2001–02 Boston University Terriers men's basketball team|Boston University]]
+|6th
+|[[1997 NCAA Division I men's basketball tournament|1997]]
+|-
+|align=left|[[2002 Atlantic 10 men's basketball tournament|Atlantic 10]]
+|align=left|[[2001–02 Xavier Musketeers men's basketball team|Xavier]]
+|14th
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|-
+|align=left|[[2002 Atlantic Sun men's basketball tournament|Atlantic Sun]]
+|align=left|[[2001–02 Florida Atlantic Owls men's basketball team|Florida Atlantic]]
+|1st
+|Never
+|-
+|align=left|[[2002 Big 12 men's basketball tournament|Big 12]]
+|align=left|[[2001–02 Oklahoma Sooners men's basketball team|Oklahoma]]
+|21st
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|-
+|align=left|[[2002 Big East men's basketball tournament|Big East]]
+|align=left|[[2001–02 Connecticut Huskies men's basketball team|Connecticut]]
+|23rd
+|[[2000 NCAA Division I men's basketball tournament|2000]]
+|-
+|align=left|[[2002 Big Sky Conference men's basketball tournament|Big Sky]]
+|align=left|[[2001–02 Montana Grizzlies basketball team|Montana]]
+|5th
+|[[1997 NCAA Division I men's basketball tournament|1997]]
+|-
+|align=left|[[2002 Big South Conference men's basketball tournament|Big South]]
+|align=left|[[2001–02 Winthrop Eagles men's basketball team|Winthrop]]
+|4th
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|-
+|align=left|[[2002 Big Ten men's basketball tournament|Big Ten]]
+|align=left|[[2001–02 Ohio State Buckeyes men's basketball team|Ohio State]]
+|22nd
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|-
+|align=left|[[2002 Big West Conference men's basketball tournament|Big West]]
+|align=left|[[2001–02 UC Santa Barbara Gauchos men's basketball team|UC Santa Barbara]]
+|3rd
+|[[1990 NCAA Division I men's basketball tournament|1990]]
+|-
+|align=left|[[2002 CAA men's basketball tournament|Colonial]]
+|align=left|[[2001–02 UNC Wilmington Seahawks men's basketball team|UNC Wilmington]]
+|2nd
+|[[2000 NCAA Division I men's basketball tournament|2000]]
+|-
+|align=left|[[2002 Conference USA men's basketball tournament|C-USA]]
+|align=left|[[2001–02 Cincinnati Bearcats men's basketball team|Cincinnati]]
+|21st
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|-
+|align=left|[[2002 Horizon League men's basketball tournament|Horizon]]
+|align=left|{{cbb link|2001|team=Illinois–Chicago Flames|title=Illinois–Chicago}}
+|2nd
+|[[1998 NCAA Division I men's basketball tournament|1998]]
+|-
+|align=left|[[2001–02 Ivy League men's basketball season|Ivy League]]
+|align=left|[[2001–02 Penn Quakers men's basketball team|Penn]]
+|19th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
+|-
+|align=left|[[2002 MAAC men's basketball tournament|MAAC]]
+|align=left|[[2001–02 Siena Saints men's basketball team|Siena]]
+|3rd
+|[[1999 NCAA Division I men's basketball tournament|1999]]
+|-
+|align=left|[[2002 MAC men's basketball tournament|MAC]]
+|align=left|[[2001–02 Kent State Golden Flashes men's basketball team|Kent State]]
+|3rd
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|-
+|align=left|[[2002 MEAC men's basketball tournament|MEAC]]
+|align=left|{{cbb link|2001|team=Hampton Pirates|title=Hampton}}
+|2nd
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|-
+|align=left|[[2002 Mid-Continent Conference men's basketball tournament|Mid-Con]]
+|align=left|[[2001–02 Valparaiso Crusaders men's basketball team|Valparaiso]]
+|6th
+|[[2000 NCAA Division I men's basketball tournament|2000]]
+|-
+|align=left|[[2002 Missouri Valley Conference men's basketball tournament|Missouri Valley]]
+|align=left|[[2001–02 Creighton Bluejays men's basketball team|Creighton]]
+|13th
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|-
+|align=left|[[2002 Mountain West Conference men's basketball tournament|Mountain West]]
+|align=left|[[2001–02 San Diego State Aztecs men's basketball team|San Diego State]]
+|4th
+|[[1985 NCAA Division I men's basketball tournament|1985]]
+|-
+|align=left|[[2002 Northeast Conference men's basketball tournament|Northeast]]
+|align=left|[[2001–02 Central Connecticut Blue Devils men's basketball team|Central Connecticut State]]
+|2nd
+|[[2000 NCAA Division I men's basketball tournament|2000]]
+|-
+|align=left|[[2002 Ohio Valley Conference men's basketball tournament|Ohio Valley]]
+|align=left|[[2001–02 Murray State Racers men's basketball team|Murray State]]
+|11th
+|[[1999 NCAA Division I men's basketball tournament|1999]]
+|-
+|align=left|[[2002 Pacific-10 Conference men's basketball tournament|Pac-10]]
+|align=left|[[2001–02 Arizona Wildcats men's basketball team|Arizona]]
+|21st
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|-
+|align=left|[[2002 Patriot League men's basketball tournament|Patriot]]
+|align=left|[[2001–02 Holy Cross Crusaders men's basketball team|Holy Cross]]
+|10th
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|-
+|align=left|[[2002 SEC men's basketball tournament|SEC]]
+|align=left|[[2001–02 Mississippi State Bulldogs men's basketball team|Mississippi State]]
+|5th
+|[[1996 NCAA Division I men's basketball tournament|1996]]
+|-
+|align=left|[[2002 Southern Conference men's basketball tournament|Southern]]
+|align=left|[[2001–02 Davidson Wildcats men's basketball team|Davidson]]
+|7th
+|[[1998 NCAA Division I men's basketball tournament|1998]]
+|-
+|align=left|[[2002 Southland Conference men's basketball tournament|Southland]]
+|align=left|[[2001–02 McNeese State Cowboys basketball team|McNeese State]]
+|2nd
+|[[1989 NCAA Division I men's basketball tournament|1989]]
+|-
+|align=left|[[2002 Sun Belt Conference men's basketball tournament|Sun Belt]]
+|align=left|[[2001–02 Western Kentucky Hilltoppers basketball team|Western Kentucky]]
+|18th
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|-
+|align=left|[[2002 SWAC men's basketball tournament|SWAC]]
+|align=left|[[2001–02 Alcorn State Braves basketball team|Alcorn State]]
+|6th
+|[[1999 NCAA Division I men's basketball tournament|1999]]
+|-
+|align=left|[[2002 WAC men's basketball tournament|WAC]]
+|align=left|[[2001–02 Hawaii Rainbow Warriors basketball team|Hawaii]]
+|4th
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|-
+|align=left|[[2002 West Coast Conference men's basketball tournament|West Coast]]
+|align=left|[[2001–02 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|5th
+|[[2001 NCAA Division I men's basketball tournament|2001]]
+|}
+
+===<span class="RegionSeeds">Listed by region and seeding</span>===
+<section begin="RegionSeeds" />
+{|
+| valign=top |
 {| class="wikitable"
+! colspan="5" style="background:#ffdead;" | East Regional – [[Syracuse, New York|Syracuse]]
 |-
-! colspan="6" style="background:#ffdead;" | East Regional – [[Syracuse, New York|Syracuse]]
-|-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Bid Type
+!Seed
+!School
+!Conference
+!Record
+!Berth Type
 |-
 |#1
 | [[2001–02 Maryland Terrapins men's basketball team|Maryland]]
-| [[Gary Williams (basketball)|Gary Williams]]
 | [[Atlantic Coast Conference|ACC]]
-| 26-4
-| At-Large
+| 26–4
+| At-large
 |-
 |#2
 | [[2001–02 Connecticut Huskies men's basketball team|Connecticut]]
-| [[Jim Calhoun]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 24-6
-| [[2002 Big East Men's Basketball Tournament|Automatic]]
+| 24–6
+| Automatic
 |-
 |#3
-| {{cbb link|2001|team=Georgia Bulldogs|school=University of Georgia|title=Georgia}}
-| [[Jim Harrick]]
+| [[2001–02 Georgia Bulldogs basketball team|Georgia]]
 | [[Southeastern Conference|SEC]]
-| 21-9
-| At-Large
+| 21–9
+| At-large
 |-
 |#4
 | [[2001–02 Kentucky Wildcats men's basketball team|Kentucky]]
-| [[Tubby Smith]]
 | [[Southeastern Conference|SEC]]
-| 20-9
-| At-Large
+| 20–9
+| At-large
 |-
 |#5
-| {{cbb link|2001|team=Marquette Golden Eagles|school=Marquette University|title=Marquette}}
-| [[Tom Crean (basketball)|Tom Crean]]
-| [[Conference USA]]
-| 26-6
-| At-Large
+| [[2001–02 Marquette Golden Eagles men's basketball team|Marquette]]
+| [[Conference USA|C-USA]]
+| 26–6
+| At-large
 |-
 |#6
 | [[2001–02 Texas Tech Red Raiders basketball team|Texas Tech]]
-| [[Bob Knight]]
 | [[Big 12 Conference|Big 12]]
-| 23-8
-| At-Large
+| 23–8
+| At-large
 |-
 |#7
-| {{cbb link|2001|team=NC State Wolfpack|school=North Carolina State University|title=North Carolina State}}
-| [[Herb Sendek]]
+| [[2001–02 NC State Wolfpack men's basketball team|NC State]]
 | [[Atlantic Coast Conference|ACC]]
-| 22-10
-| At-Large
+| 22–10
+| At-large
 |-
 |#8
 | [[2001–02 Wisconsin Badgers men's basketball team|Wisconsin]]
-| [[Bo Ryan]]
 | [[Big Ten Conference|Big Ten]]
-| 18-12
-| At-Large
+| 18–12
+| At-large
 |-
 |#9
 | [[2001–02 St. John's Red Storm men's basketball team|St. John's]]
-| [[Mike Jarvis]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 20-11
-| At-Large
+| 20–11
+| At-large
 |-
 |#10
 | [[2001–02 Michigan State Spartans men's basketball team|Michigan State]]
-| [[Tom Izzo]]
 | [[Big Ten Conference|Big Ten]]
-| 19-11
-| At-Large
+| 19–11
+| At-large
 |-
 |#11
-| {{cbb link|2001|team=Southern Illinois Salukis|school=Southern Illinois University Carbondale|title=Southern Illinois}}
-| [[Bruce Weber (basketball)|Bruce Weber]]
+| [[2001–02 Southern Illinois Salukis men's basketball team|Southern Illinois]]
 | [[Missouri Valley Conference|Missouri Valley]]
-| 26-7
-| At-Large
+| 26–7
+| At-large
 |-
 |#12
-| {{cbb link|2001|team=Tulsa Golden Hurricane|school=University of Tulsa|title=Tulsa}}
-| [[John Phillips (basketball coach)|John Phillips]]
+| [[2001–02 Tulsa Golden Hurricane men's basketball team|Tulsa]]
 | [[Western Athletic Conference|WAC]]
-| 26-6
-| At-Large
+| 26–6
+| At-large
 |-
 |#13
-| {{cbb link|2001|team=Valparaiso Crusaders|school=Valparaiso University|title=Valparaiso}}
-| [[Homer Drew]]
+| [[2001–02 Valparaiso Crusaders men's basketball team|Valparaiso]]
 | [[The Summit League|Mid-Continent]]
-| 25-7
+| 25–7
 | Automatic
 |-
 |#14
-| {{cbb link|2001|team=Murray State Racers|school=Murray State University|title=Murray State}}
-| [[Tevester Anderson]]
+| [[2001–02 Murray State Racers men's basketball team|Murray State]]
 | [[Ohio Valley Conference|OVC]]
-| 19-12
+| 19–12
 | Automatic
 |-
 |#15
-| {{cbb link|2001|team=Hampton Pirates|school=Hampton University|title=Hampton}}
-| [[Steve Merfeld]]
+| {{cbb link|2001|team=Hampton Pirates|title=Hampton}}
 | [[Mid-Eastern Athletic Conference|MEAC]]
-| 26-6
+| 26–6
 | Automatic
 |-
 |rowspan=2|#16
-| {{cbb link|2001|team=Siena Saints|school=Siena College|title=Siena}}
-| [[Rob Lanier]]
+| [[2001–02 Siena Saints men's basketball team|Siena]]
 | [[Metro Atlantic Athletic Conference|MAAC]]
-| 16-18
+| 16–18
 | Automatic
 |-
-| {{cbb link|2001|team=Alcorn State Braves|school=Alcorn State University|title=Alcorn State}}
-| [[Davey Whitney]]
+| [[2001–02 Alcorn State Braves basketball team|Alcorn State]]
 | [[Southwestern Athletic Conference|SWAC]]
-| 21-9
+| 21–9
 | Automatic
 |}
-
+| valign=top |
 {| class="wikitable"
+! colspan="5" style="background:#ffdead;" |Midwest Regional – [[Madison, Wisconsin|Madison]]
 |-
-! colspan="6" style="background:#ffdead;" | Midwest Regional – [[Madison, Wisconsin|Madison]]
-|-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Bid Type
+!Seed
+!School
+!Conference
+!Record
+!Berth Type
 |-
 |#1
 | [[2001–02 Kansas Jayhawks men's basketball team|Kansas]]
-| [[Roy Williams (coach)|Roy Williams]]
 | [[Big 12 Conference|Big 12]]
-| 29-3
-| At-Large
+| 29–3
+| At-large
 |-
 |#2
 | [[2001–02 Oregon Ducks men's basketball team|Oregon]]
-| [[Ernie Kent]]
 | [[Pac-12 Conference|Pac-10]]
-| 23-8
-| At-Large
+| 23–8
+| At-large
 |-
 |#3
-| {{cbb link|2001|team=Mississippi State Bulldogs|school=Mississippi State University|title=Mississippi State}}
-| [[Rick Stansbury]]
+| [[2001–02 Mississippi State Bulldogs men's basketball team|Mississippi State]]
 | [[Southeastern Conference|SEC]]
-| 26-7
-| [[2002 SEC Men's Basketball Tournament|Automatic]]
+| 26–7
+| Automatic
 |-
 |#4
 | [[2001–02 Illinois Fighting Illini men's basketball team|Illinois]]
-| [[Bill Self]]
 | [[Big Ten Conference|Big Ten]]
-| 24-8
-| At-Large
+| 24–8
+| At-large
 |-
 |#5
 | [[2001–02 Florida Gators men's basketball team|Florida]]
-| [[Billy Donovan]]
 | [[Southeastern Conference|SEC]]
-| 22-8
-| At-Large
+| 22–8
+| At-large
 |-
 |#6
 | [[2001–02 Texas Longhorns men's basketball team|Texas]]
-| [[Rick Barnes]]
 | [[Big 12 Conference|Big 12]]
-| 20-11
-| At-Large
+| 20–11
+| At-large
 |-
 |#7
-| {{cbb link|2001|team=Wake Forest Demon Deacons|school=Wake Forest University|title=Wake Forest}}
-| [[Skip Prosser]]
+| [[2001–02 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
 | [[Atlantic Coast Conference|ACC]]
-| 20-12
-| At-Large
+| 20–12
+| At-large
 |-
 |#8
-| {{cbb link|2001|team=Stanford Cardinal|school=Stanford University|title=Stanford}}
-| [[Mike Montgomery]]
+| [[2001–02 Stanford Cardinal men's basketball team|Stanford]]
 | [[Pac-12 Conference|Pac-10]]
-| 19-9
-| At-Large
+| 19–9
+| At-large
 |-
 |#9
-| {{cbb link|2001|team=Western Kentucky Hilltoppers|school=Western Kentucky University|title=Western Kentucky}}
-| [[Dennis Felton]]
+| [[2001–02 Western Kentucky Hilltoppers basketball team|Western Kentucky]]
 | [[Sun Belt Conference|Sun Belt]]
-| 28-3
+| 28–3
 | Automatic
 |-
 |#10
-| {{cbb link|2001|team=Pepperdine Waves|school=Pepperdine University|title=Pepperdine}}
-| [[Paul Westphal]]
+| [[2001–02 Pepperdine Waves men's basketball team|Pepperdine]]
 | [[West Coast Conference|WCC]]
-| 22-8
-| At-Large
+| 22–8
+| At-large
 |-
 |#11
-| {{cbb link|2001|team=Boston College Eagles|school=Boston College|title=Boston College}}
-| [[Al Skinner]]
+| [[2001–02 Boston College Eagles men's basketball team|Boston College]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 20-11
-| At-Large
+| 20–11
+| At-large
 |-
 |#12
 | [[2001–02 Creighton Bluejays men's basketball team|Creighton]]
-| [[Dana Altman]]
 | [[Missouri Valley Conference|Missouri Valley]]
-| 22-8
+| 22–8
 | Automatic
 |-
 |#13
-| {{cbb link|2001|team=San Diego State Aztecs|school=San Diego State University|title=San Diego State}}
-| [[Steve Fisher]]
+| [[2001–02 San Diego State Aztecs men's basketball team|San Diego State]]
 | [[Mountain West Conference|Mountain West]]
-| 21-11
+| 21–11
 | Automatic
 |-
 |#14
-| {{cbb link|2001|team=McNeese State Cowboys|school=McNeese State University|title=McNeese State}}
-| [[Tic Price]]
+| [[2001–02 McNeese State Cowboys basketball team|McNeese State]]
 | [[Southland Conference|Southland]]
-| 21-8
+| 21–8
 | Automatic
 |-
 |#15
-| {{cbb link|2001|team=Montana Grizzlies|school=University of Montana|title=Montana}}
-| [[Don Holst]]
+| [[2001–02 Montana Grizzlies basketball team|Montana]]
 | [[Big Sky Conference|Big Sky]]
-| 16-14
+| 16–14
 | Automatic
 |-
 |#16
-| {{cbb link|2001|team=Holy Cross Crusaders|school=College of the Holy Cross|title=Holy Cross}}
-| [[Ralph Willard]]
+| [[2001–02 Holy Cross Crusaders men's basketball team|Holy Cross]]
 | [[Patriot League|Patriot]]
-| 18-14
+| 18–14
 | Automatic
 |}
-
+|-
+| valign=top |
 {| class="wikitable"
+! colspan="5" style="background:#ffdead;" | South Regional – [[Lexington, Kentucky|Lexington]]
 |-
-! colspan="6" style="background:#ffdead;" | South Regional – [[Lexington, Kentucky|Lexington]]
-|-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Bid Type
+!Seed
+!School
+!Conference
+!Record
+!Berth Type
 |-
 |#1
 | [[2001–02 Duke Blue Devils men's basketball team|Duke]]
-| [[Mike Krzyzewski]]
 | [[Atlantic Coast Conference|ACC]]
-| 29-3
-| [[2002 ACC Men's Basketball Tournament|Automatic]]
+| 29–3
+| Automatic
 |-
 |#2
-| {{cbb link|2001|team=Alabama Crimson Tide|school=University of Alabama|title=Alabama}}
-| [[Mark Gottfried]]
+| [[2001–02 Alabama Crimson Tide men's basketball team|Alabama]]
 | [[Southeastern Conference|SEC]]
-| 26-7
-| At-Large
+| 26–7
+| At-large
 |-
 |#3
 | [[2001–02 Pittsburgh Panthers men's basketball team|Pittsburgh]]
-| [[Ben Howland]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 27-5
-| At-Large
+| 27–5
+| At-large
 |-
 |#4
-| {{cbb link|2001|team=USC Trojans|school=University of Southern California|title=USC}}
-| [[Henry Bibby]]
+| [[2001–02 USC Trojans men's basketball team|USC]]
 | [[Pac-12 Conference|Pac-10]]
-| 22-9
-| At-Large
+| 22–9
+| At-large
 |-
 |#5
 | [[2001–02 Indiana Hoosiers men's basketball team|Indiana]]
-| [[Mike Davis (coach)|Mike Davis]]
 | [[Big Ten Conference|Big Ten]]
-| 20-11
-| At-Large
+| 20–11
+| At-large
 |-
 |#6
-| {{cbb link|2001|team=California Golden Bears|school=University of California, Berkeley|title=California}}
-| [[Ben Braun]]
+| [[2001–02 California Golden Bears men's basketball team|California]]
 | [[Pac-12 Conference|Pac-10]]
-| 22-8
-| At-Large
+| 21–8
+| At-large
 |-
 |#7
-| {{cbb link|2001|team=Oklahoma State Cowboys|school=Oklahoma State University|title=Oklahoma State}}
-| [[Eddie Sutton]]
+| [[2001–02 Oklahoma State Cowboys basketball team|Oklahoma State]]
 | [[Big 12 Conference|Big 12]]
-| 23-8
-| At-Large
+| 23–8
+| At-large
 |-
 |#8
-| {{cbb link|2001|team=Notre Dame Fighting Irish|school=University of Notre Dame|title=Notre Dame}}
-| [[Mike Brey]]
+| [[2001–02 Notre Dame Fighting Irish men's basketball team|Notre Dame]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 21-10
-| At-Large
+| 21–10
+| At-large
 |-
 |#9
-| {{cbb link|2001|team=Charlotte 49ers|school=University of North Carolina at Charlotte|title=Charlotte}}
-| [[Bobby Lutz (basketball)|Bobby Lutz]]
-| [[Conference USA]]
-| 18-11
-| At-Large
+| [[2001–02 Charlotte 49ers men's basketball team|Charlotte]]
+| [[Conference USA|C-USA]]
+| 18–11
+| At-large
 |-
 |#10
 | [[2001–02 Kent State Golden Flashes men's basketball team|Kent State]]
-| [[Stan Heath]]
 | [[Mid-American Conference|MAC]]
-| 27-5
+| 27–5
 | Automatic
 |-
 |#11
-| {{cbb link|2001|team=Penn Quakers|school=University of Pennsylvania|title=Pennsylvania}}
-| [[Fran Dunphy]]
+| [[2001–02 Penn Quakers men's basketball team|Penn]]
 | [[Ivy League]]
-| 25-6
+| 25–6
 | Automatic
 |-
 |#12
-| {{cbb link|2001|team=Utah Utes|school=University of Utah|title=Utah}}
-| [[Rick Majerus]]
+| [[2001–02 Utah Utes men's basketball team|Utah]]
 | [[Mountain West Conference|Mountain West]]
-| 21-8
-| At-Large
+| 21–8
+| At-large
 |-
 |#13
-| {{cbb link|2001|team=UNC Wilmington Seahawks|school=University of North Carolina at Wilmington|title=UNC Wilmington}}
-| [[Jerry Wainwright]]
+| [[2001–02 UNC Wilmington Seahawks men's basketball team|UNC Wilmington]]
 | [[Colonial Athletic Association|CAA]]
-| 22-9
+| 22–9
 | Automatic
 |-
 |#14
-| {{cbb link|2001|team=Central Connecticut State Blue Devils|school=Central Connecticut State University|title=Central Connecticut State}}
-| [[Howie Dickenman]]
+| {{cbb link|2001|team=Central Connecticut State Blue Devils|title=Central Connecticut State}}
 | [[Northeast Conference|NEC]]
-| 27-4
+| 27–4
 | Automatic
 |-
 |#15
-| {{cbb link|2001|team=Florida Atlantic Owls|school=Florida Atlantic University|title=Florida Atlantic}}
-| [[Sidney Green (basketball)|Sidney Green]]
+| [[2001–02 Florida Atlantic Owls men's basketball team|Florida Atlantic]]
 | [[Atlantic Sun Conference|Atlantic Sun]]
-| 19-11
+| 19–11
 | Automatic
 |-
 |#16
-| {{cbb link|2001|team=Winthrop Eagles|school=Winthrop University|title=Winthrop}}
-| [[Gregg Marshall]]
+| [[2001–02 Winthrop Eagles men's basketball team|Winthrop]]
 | [[Big South Conference|Big South]]
-| 19-11
+| 19–11
 | Automatic
 |}
+| valign=top |
 {| class="wikitable"
+! colspan="5" style="background:#ffdead;" | West Regional – [[San Jose, California|San Jose]]
 |-
-! colspan="6" style="background:#ffdead;" | West Regional – [[San Jose, California|San Jose]]
-|-
-!style="background: #e3e3e3;"|Seed
-!style="background: #e3e3e3;"|School
-!style="background: #e3e3e3;"|Coach
-!style="background: #e3e3e3;"|Conference
-!style="background: #e3e3e3;"|Record
-!style="background: #e3e3e3;"|Bid Type
+!Seed
+!School
+!Conference
+!Record
+!Berth Type
 |-
 |#1
-| {{cbb link|2001|team=Cincinnati Bearcats|school=University of Cincinnati|title=Cincinnati}}
-| [[Bob Huggins]]
-| [[Conference USA]]
-| 30-3
+| [[2001–02 Cincinnati Bearcats men's basketball team|Cincinnati]]
+| [[Conference USA|C-USA]]
+| 30–3
 | Automatic
 |-
 |#2
 | [[2001–02 Oklahoma Sooners men's basketball team|Oklahoma]]
-| [[Kelvin Sampson]]
 | [[Big 12 Conference|Big 12]]
-| 27-4
-| [[2002 Big 12 Men's Basketball Tournament|Automatic]]
+| 27–4
+| Automatic
 |-
 |#3
 | [[2001–02 Arizona Wildcats men's basketball team|Arizona]]
-| [[Lute Olson]]
 | [[Pac-12 Conference|Pac-10]]
-| 22-9
-| [[2002 Pacific-10 Conference Men's Basketball Tournament|Automatic]]
+| 22–9
+| Automatic
 |-
 |#4
-| {{cbb link|2001|team=Ohio State Buckeyes|school=Ohio State University|title=Ohio State}}
-| [[Jim O'Brien (basketball, born 1949)|Jim O'Brien]]
+| [[2001–02 Ohio State Buckeyes men's basketball team|Ohio State]]
 | [[Big Ten Conference|Big Ten]]
-| 23-7
-| [[2002 Big Ten Conference Men's Basketball Tournament|Automatic]]
+| 23–7
+| Automatic
 |-
 |#5
-| {{cbb link|2001|team=Miami Hurricanes|school=University of Miami|title=Miami (FL)}}
-| [[Perry Clark]]
+| [[2001–02 Miami Hurricanes men's basketball team|Miami (FL)]]
 | [[Big East Conference (1979–2013)|Big East]]
-| 24-7
-| At-Large
+| 24–7
+| At-large
 |-
 |#6
-| {{cbb link|2001|team=Gonzaga Bulldogs|school=Gonzaga|title=Gonzaga}}
-| [[Mark Few]]
+| [[2001–02 Gonzaga Bulldogs men's basketball team|Gonzaga]]
 | [[West Coast Conference|WCC]]
-| 29-3
+| 29–3
 | Automatic
 |-
 |#7
-| {{cbb link|2001|team=Xavier Musketeers|school=Xavier University|title=Xavier}}
-| [[Thad Matta]]
+| [[2001–02 Xavier Musketeers men's basketball team|Xavier]]
 | [[Atlantic 10 Conference|Atlantic 10]]
-| 25-5
+| 25–5
 | Automatic
 |-
 |#8
 | [[2001–02 UCLA Bruins men's basketball team|UCLA]]
-| [[Steve Lavin]]
 | [[Pac-12 Conference|Pac-10]]
-| 19-11
+| 19–11
 | At-Large
 |-
 |#9
-| {{cbb link|2001|team=Ole Miss Rebels|school=University of Mississippi|title=Ole Miss}}
-| [[Rod Barnes]]
+| [[2001–02 Ole Miss Rebels men's basketball team|Ole Miss]]
 | [[Southeastern Conference|SEC]]
-| 20-10
-| At-Large
+| 20–10
+| At-large
 |-
 |#10
-| {{cbb link|2001|team=Hawaii Warriors|school=University of Hawaii|title=Hawaii}}
-| [[Riley Wallace]]
+| [[2001–02 Hawaii Rainbow Warriors basketball team|Hawaii]]
 | [[Western Athletic Conference|WAC]]
-| 27-5
+| 27–5
 | Automatic
 |-
 |#11
-| {{cbb link|2001|team=Wyoming Cowboys|school=University of Wyoming|title=Wyoming}}
-| [[Steve McClain]]
+| [[2001–02 Wyoming Cowboys basketball team|Wyoming]]
 | [[Mountain West Conference|Mountain West]]
-| 21-8
-| At-Large
+| 21–8
+| At-large
 |-
 |#12
-| {{cbb link|2001|team=Missouri Tigers|school=University of Missouri|title=Missouri}}
-| [[Quin Snyder]]
+| [[2001–02 Missouri Tigers men's basketball team|Missouri]]
 | [[Big 12 Conference|Big 12]]
-| 21-11
-| At-Large
+| 21–11
+| At-large
 |-
 |#13
-| {{cbb link|2001|team=Davidson Wildcats|school=Davidson College|title=Davidson}}
-| [[Bob McKillop]]
+| [[2001–02 Davidson Wildcats men's basketball team|Davidson]]
 | [[Southern Conference|Southern]]
-| 21-9
+| 21–9
 | Automatic
 |-
 |#14
-| {{cbb link|2001|team=UC Santa Barbara Gauchos|school=University of California, Santa Barbara|title=UC Santa Barbara}}
-| [[Bob Williams (basketball, born 1953)|Bob Williams]]
+| [[2001–02 UC Santa Barbara Gauchos men's basketball team|UC Santa Barbara]]
 | [[Big West Conference|Big West]]
-| 20-10
+| 20–10
 | Automatic
 |-
 |#15
-| {{cbb link|2001|team=UIC Flames|school=University of Illinois at Chicago|title=Illinois-Chicago}}
-| [[Jimmy Collins (basketball)|Jimmy Collins]]
+| {{cbb link|2001|team=Illinois–Chicago Flames|title=Illinois–Chicago}}
 | [[Horizon League|Horizon]]
-| 20-13
+| 20–13
 | Automatic
 |-
 |#16
-| {{cbb link|2001|team=Boston University Terriers|school=Boston University|title=Boston University}}
-| [[Dennis Wolff]]
+| [[2001–02 Boston University Terriers men's basketball team|Boston University]]
 | [[America East Conference|America East]]
-| 22-9
+| 22–9
 | Automatic
 |}
+|}<section end="RegionSeeds" />
 
-==Bids by conference==
+=== Bids by conference ===
 {| class="wikitable"
-! colspan="5" style="background:#ffdead;" | Bids by Conference
+!Bids
+!Conference
+!Schools
 |-
-!style="background: #e3e3e3;"|Bids
-!style="background: #e3e3e3;"|Conference(s)
+| rowspan="4"| 6
+| [[Big 12 Conference|Big 12]]
+| Kansas, Missouri, Oklahoma, Oklahoma State, Texas, Texas Tech
 |-
-| 6
-| [[Big 12]], [[Big East Conference (1979–2013)|Big East]], [[Pac-10]], [[Southeastern Conference|SEC]]
+| [[Big East Conference (1979–2013)|Big East]]
+| Boston College, Connecticut, Miami (FL), Notre Dame, Pittsburgh, St. John's
+|-
+| [[Pac-12 Conference|Pac-10]]
+| Arizona, California, Oregon, Stanford, UCLA, USC
+|-
+| [[Southeastern Conference|SEC]]
+| Alabama, Florida, Georgia, Kentucky, Mississippi State, Ole Miss
 |-
 | 5
-| [[Big Ten]]
+| [[Big Ten Conference|Big Ten]]
+| Illinois, Indiana, Michigan State, Ohio State, Wisconsin
 |-
 | 4
 | [[Atlantic Coast Conference|ACC]]
+| Duke, Maryland, NC State, Wake Forest
 |-
-| 3
-| [[Conference USA|C-USA]], [[Mountain West]]
+| rowspan="2"|3
+| [[Conference USA|C-USA]]
+| Charlotte, Cincinnati, Marquette
 |-
-| 2
-| [[Missouri Valley Conference|Missouri Valley]], [[Western Athletic Conference|WAC]], [[West Coast Conference|WCC]]
+| [[Mountain West Conference|Mountain West]]
+| San Diego State, Utah, Wyoming
 |-
-| 1
-| 20 others
+| rowspan="3"| 2
+| [[Missouri Valley Conference|Missouri Valley]]
+| Creighton, Southern Illinois
 |-
+| [[Western Athletic Conference|WAC]]
+| Hawaii, Tulsa
+|-
+| [[West Coast Conference|West Coast]]
+| Gonzaga, Pepperdine
+|-
+| 1 || colspan="2"|20 other conferences
 |}
 
-==Final four==
+==Final Four==
 At [[Georgia Dome]], [[Atlanta]]
 
-===National Semifinals===
+===National semifinals===
 *March 30, 2002
 **[[University of Maryland, College Park|Maryland]] (E1) 97, [[University of Kansas|Kansas]] (M1) 88
-*:For the second straight year the [[University of Maryland, College Park|Maryland Terrapins]] earned a bid to the Final Four. This time they would take advantage of their trip. After falling behind 13-2 to the [[University of Kansas|Kansas Jayhawks]] to begin the game, Maryland stormed to a 44-37 lead at halftime. They expanded their lead to 20, 83-63, with 6:11 left in the game. [[Roy Williams (coach)|Roy Williams]]' Kansas squad did not quit and closed the gap to 4 with under a minute remaining, but the Terps survived to advance to the championship, 97-88. Maryland senior [[Juan Dixon]] led the contest in scoring with 33.<ref name="CNNSI3.30-1">{{cite web|author=[[CNN Sports Illustrated]]|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2002/03/30/maj_kaa/|title=2002 NCAA National Semifinals: (E1) Maryland 97, (MW1) Kansas 88|accessdate=2008-03-06}}</ref>
+*:For the second straight year the [[University of Maryland, College Park|Maryland Terrapins]] earned a bid to the Final Four. This time they would take advantage of their trip. After falling behind 13–2 to the [[University of Kansas|Kansas Jayhawks]] to begin the game, Maryland stormed to a 44–37 lead at halftime. They expanded their lead to 20, 83–63, with 6:11 left in the game. [[Roy Williams (coach)|Roy Williams]]' Kansas squad did not quit and closed the gap to 4 with under a minute remaining, but the Terps survived to advance to the championship, 97–88. Maryland senior [[Juan Dixon]] led the contest in scoring with 33.<ref name="CNNSI3.30-1">{{cite web|work=CNN Sports Illustrated|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2002/03/30/maj_kaa/|archive-url=https://web.archive.org/web/20020606040957/http://sportsillustrated.cnn.com/basketball/college/men/recaps/2002/03/30/maj_kaa/|url-status=dead|archive-date=June 6, 2002|title=2002 NCAA National semifinals: (E1) Maryland 97, (MW1) Kansas 88|access-date=2008-03-06}}</ref>
 **[[Indiana University Bloomington|Indiana]] (S5) 73, [[University of Oklahoma|Oklahoma]] (W2) 64
-*:[[Mike Davis (basketball coach)|Mike Davis]]'s [[Indiana University Bloomington|Indiana Hoosiers]] continued their Cinderella ride in the NCAA Tournament by defeating another higher ranked team, the [[University of Oklahoma|Oklahoma Sooners]]. Oklahoma led most of the first half, and took a 34-30 lead into halftime. However, with the score 60-60 late in the 2nd half Indiana broke ahead for good with an easy bucket from [[Jeff Newton]], who led the Hoosiers with 19 points. The Hoosiers outscored the Sooners by 13 in the 2nd half and advanced to the championship game with a 73-64 victory. Oklahoma was coached by [[Kelvin Sampson]], who later in his career would succeed Davis as IU head coach.<ref name="CNNSI3.30-2">{{cite web|author=[[CNN Sports Illustrated]]|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2002/03/30/oae_iai/|title=2002 NCAA National Semifinals: (S5) Indiana 73, (W2) Oklahoma 64|accessdate=2008-03-06}}</ref>
+*:[[Mike Davis (basketball coach)|Mike Davis]]'s [[Indiana University Bloomington|Indiana Hoosiers]] continued their Cinderella ride in the NCAA tournament by defeating another higher ranked team, the [[University of Oklahoma|Oklahoma Sooners]]. Oklahoma led most of the first half, and took a 34–30 lead into halftime. However, with the score 60–60 late in the 2nd half Indiana broke ahead for good with an easy bucket from [[Jeff Newton]], who led the Hoosiers with 19 points. The Hoosiers outscored the Sooners by 13 in the 2nd half and advanced to the championship game with a 73–64 victory. Oklahoma was coached by [[Kelvin Sampson]], who later in his career would succeed Davis as IU head coach.<ref name="CNNSI3.30-2">{{cite web|work=CNN Sports Illustrated|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2002/03/30/oae_iai/|archive-url=https://web.archive.org/web/20020401222209/http://sportsillustrated.cnn.com/basketball/college/men/recaps/2002/03/30/oae_iai/|url-status=dead|archive-date=April 1, 2002|title=2002 NCAA National semifinals: (S5) Indiana 73, (W2) Oklahoma 64|access-date=2008-03-06}}</ref>
 
-===Championship Game===
-{{main|2002 NCAA Men's Division I Basketball Championship Game}}
+===Championship game===
+{{main|2002 NCAA Division I Men's Basketball Championship Game}}
 *April 1, 2002
 **[[University of Maryland, College Park|Maryland]] (E1) 64, [[Indiana University Bloomington|Indiana]] (S5) 52
-*:The [[Maryland|Maryland Terrapins]] completed the task they set out to do one year earlier by defeating the [[Indiana|Indiana Hoosiers]] 64-52. Maryland led virtually the entire game except for a brief point with 9:52 left in the basketball game when Indiana took a 44-42 lead. Maryland answered the Hoosier run and ended the game with a 22-8 run to bring home the school's first and coach [[Gary Williams (basketball)|Gary Williams]]' only men's basketball National Championship. Senior [[Juan Dixon]] was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]] (MOP).<ref name="CNNSI4.1">{{cite web|author=[[CNN Sports Illustrated]]|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2002/04/01/maj_iai/|title=2002 NCAA National Championship: (E1) Maryland 64, (S5) Indiana 52|accessdate=2008-03-06}}</ref>
+*:The [[Maryland|Maryland Terrapins]] completed the task they set out to do one year earlier by defeating the [[Indiana|Indiana Hoosiers]] 64–52. Maryland led virtually the entire game except for a brief point with 9:52 left in the basketball game when Indiana took a 44–42 lead. Maryland answered the Hoosier run and ended the game with a 22–8 run to bring home the school's first and coach [[Gary Williams]]'s only men's basketball National Championship. Senior [[Juan Dixon]] was named the tournament's [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]] (MOP).<ref name="CNNSI4.1">{{cite web|work=CNN Sports Illustrated|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2002/04/01/maj_iai/|archive-url=https://web.archive.org/web/20020606043201/http://sportsillustrated.cnn.com/basketball/college/men/recaps/2002/04/01/maj_iai/|url-status=dead|archive-date=June 6, 2002|title=2002 NCAA national championship: (E1) Maryland 64, (S5) Indiana 52|access-date=2008-03-06}}</ref>
 
 ==Bracket==
+===Opening Round game===
+Winner advances to 16th seed in East Regional vs. (1) [[Maryland Terrapins men's basketball|Maryland]].
+
+{{2TeamBracket | RD1=Opening Round game<br />March 12
+| RD1-seed1=16a
+| RD1-team1='''[[Siena Saints men's basketball|Siena]]'''
+| RD1-score1='''81'''
+| RD1-seed2=16b
+| RD1-team2=[[Alcorn State Braves basketball|Alcorn State]]
+| RD1-score2=77
+}}
 
 ===East Regional — Syracuse, New York===
 {{16TeamBracket
- | subgroup1= '''[[MCI Center|Washington, D.C.]]'''
- | subgroup2= '''[[Edward Jones Dome|St. Louis]]'''
- | subgroup3= '''[[United Center|Chicago]]'''
- | subgroup4= '''[[MCI Center|Washington, D.C.]]'''
- | RD3=Regional Semifinals | RD4=Regional Finals
+ | subgroup1= '''[[MCI Center|Washington, D.C.]]''' - Fri/Sun
+ | subgroup2= '''[[Edward Jones Dome|St. Louis]]''' - Thu/Sat
+ | subgroup3= '''[[United Center|Chicago]]''' - Fri/Sun
+ | subgroup4= '''[[MCI Center|Washington, D.C.]]''' - Fri/Sun
+ | RD3=Regional semifinals | RD4=Regional Finals
  | RD1-seed01= 1
  | RD1-team01= '''Maryland'''
  | RD1-score01= '''85'''
@@ -668,7 +801,7 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD1-score02= 70
  | RD1-seed03= 8
  | RD1-team03= '''Wisconsin'''
- | RD1-score03= 80
+ | RD1-score03= '''80'''
  | RD1-seed04= 9
  | RD1-team04= St. John's
  | RD1-score04= 70
@@ -697,7 +830,7 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD1-team12= Murray State
  | RD1-score12= 68
  | RD1-seed13= 7
- | RD1-team13= '''North Carolina State'''
+ | RD1-team13= '''NC State'''
  | RD1-score13= '''69'''
  | RD1-seed14= 10
  | RD1-team14= Michigan State
@@ -727,7 +860,7 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD2-team06= Georgia
  | RD2-score06= 75
  | RD2-seed07= 7
- | RD2-team07= North Carolina State
+ | RD2-team07= NC State
  | RD2-score07= 74
  | RD2-seed08= 2
  | RD2-team08= '''Connecticut'''
@@ -758,32 +891,32 @@ At [[Georgia Dome]], [[Atlanta]]
  | bg = #e3e3e3
  | date = Sunday, March 24
  | time = 
- | report = [http://sportsillustrated.cnn.com/basketball/college/men/boxscores/2002/03/24/maj_cbp/ box score]
+ | report = [https://web.archive.org/web/20020921060724/http://sportsillustrated.cnn.com/basketball/college/men/boxscores/2002/03/24/maj_cbp/ box score]
  | team1 = '''#1 Maryland Terrapins'''
  | score1 =  '''90'''
- | team2 = #2 Connecticut Huskies 
+ | team2 = #2 Connecticut Huskies
  | score2 = 82
  | points1 = [[Lonny Baxter|L. Baxter]] – 29
  | rebounds1 = [[Lonny Baxter|L. Baxter]] – 9
  | assist1 = [[Steve Blake|S. Blake]] – 6
- | otherstat1 = 
  | points2 = [[Caron Butler|C. Butler]] – 33
  | rebounds2 = [[Caron Butler|C. Butler]] – 7
  | assist2 = [[Caron Butler|C. Butler]] – 4
- | otherstat2 = '''Halftime Score:''' Maryland, 44-37
- | place = Carrier Dome – Syracuse, New York
+ | H1 = 44–37
+ | H2 = 46–45
+ | place = Carrier Dome{{Snd}} Syracuse, NY
  | attendance = 29,252
- | referee = 
+ | referee = Tom Rucker, Zelton Steed, Dick Cartmell
  | TV = CBS
 }}
 
 ===Midwest Regional — Madison, Wisconsin===
 {{16TeamBracket
- | subgroup1= '''[[Edward Jones Dome|St. Louis]]'''
- | subgroup2= '''[[United Center|Chicago]]'''
- | subgroup3= '''[[American Airlines Center|Dallas]]'''
- | subgroup4= '''[[ARCO Arena|Sacramento]]'''
- | RD3=Regional Semifinals 
+ | subgroup1= '''[[Edward Jones Dome|St. Louis]]''' - Thu/Sat
+ | subgroup2= '''[[United Center|Chicago]]''' - Fri/Sun
+ | subgroup3= '''[[American Airlines Center|Dallas]]''' - Fri/Sun
+ | subgroup4= '''[[ARCO Arena|Sacramento]]''' - Thu/Sat
+ | RD3=Regional semifinals
  | RD4=Regional Finals
  | RD1-seed01= 1
  | RD1-team01= '''Kansas'''
@@ -802,7 +935,7 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD1-score05= 82
  | RD1-seed06= 12
  | RD1-team06= '''Creighton'''
- | RD1-score06= '''83**'''
+ | RD1-score06= '''83<sup>2OT</sup>'''
  | RD1-seed07= 4
  | RD1-team07= '''Illinois'''
  | RD1-score07= '''93'''
@@ -835,7 +968,7 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD1-score16= 62
  | RD2-seed01=1
  | RD2-team01= '''Kansas'''
- | RD2-score01= 86
+ | RD2-score01= '''86'''
  | RD2-seed02= 8
  | RD2-team02= Stanford
  | RD2-score02= 63
@@ -882,20 +1015,20 @@ At [[Georgia Dome]], [[Atlanta]]
  | bg = #e3e3e3
  | date = Sunday, March 24
  | time = 
- | report = [http://sportsillustrated.cnn.com/basketball/college/men/boxscores/2002/03/24/kaa_oaj/ box score]
+ | report = [https://web.archive.org/web/20020609013234/http://sportsillustrated.cnn.com/basketball/college/men/boxscores/2002/03/24/kaa_oaj/ box score]
  | team1 = '''#1 Kansas Jayhawks'''
  | score1 =  '''104'''
- | team2 = #2 Oregon Ducks 
+ | team2 = #2 Oregon Ducks
  | score2 = 86
  | points1 = [[Nick Collison|N. Collison]] – 25
  | rebounds1 = [[Drew Gooden|D. Gooden]] – 20
  | assist1 = [[Aaron Miles (basketball)|A. Miles]] – 8
- | otherstat1 = 
  | points2 = [[Fred Jones (basketball)|F. Jones]] – 32
  | rebounds2 = R. Johnson – 10
  | assist2 = [[Luke Ridnour|L. Ridnour]] – 7
- | otherstat2 = '''Halftime Score:''' Kansas, 48-42
- | place = Kohl Center – Madison, Wisconsin
+ | H1 = 48–42
+ | H2 = 56–44
+ | place = Kohl Center{{Snd}} Madison, WI
  | attendance = 16,310
  | referee = Jim Burr, Leslie Jones, Tom Lopes
  | TV = CBS
@@ -903,11 +1036,11 @@ At [[Georgia Dome]], [[Atlanta]]
 
 ===South Regional — Lexington, Kentucky===
 {{16TeamBracket
- | subgroup1= '''[[BI-LO Center|Greenville]]'''
- | subgroup2= '''[[ARCO Arena|Sacramento]]'''
- | subgroup3= '''[[Mellon Arena|Pittsburgh]]'''
- | subgroup4= '''[[BI-LO Center|Greenville]]'''
- | RD3=Regional Semifinals 
+ | subgroup1= '''[[BI-LO Center|Greenville]]''' - Thu/Sat
+ | subgroup2= '''[[ARCO Arena|Sacramento]]''' - Thu/Sat
+ | subgroup3= '''[[Mellon Arena|Pittsburgh]]''' - Fri/Sun
+ | subgroup4= '''[[BI-LO Center|Greenville]]''' - Thu/Sat
+ | RD3=Regional semifinals
  | RD4=Regional Finals
  | RD1-seed01= 1
  | RD1-team01= '''Duke'''
@@ -928,11 +1061,11 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD1-team06= Utah
  | RD1-score06= 56
  | RD1-seed07= 4
- | RD1-team07= Southern California
+ | RD1-team07= USC
  | RD1-score07= 89
  | RD1-seed08= 13
- | RD1-team08= '''UNC-Wilmington'''
- | RD1-score08= '''93*'''
+ | RD1-team08= '''UNC Wilmington'''
+ | RD1-score08= '''93<sup>OT</sup>'''
  | RD1-seed09= 6
  | RD1-team09= '''California'''
  | RD1-score09= '''82'''
@@ -967,7 +1100,7 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD2-team03= '''Indiana'''
  | RD2-score03= '''76'''
  | RD2-seed04= 13
- | RD2-team04= UNC-Wilmington
+ | RD2-team04= UNC Wilmington
  | RD2-score04= 67
  | RD2-seed05= 6
  | RD2-team05= California
@@ -992,7 +1125,7 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD3-score03= 73
  | RD3-seed04=10
  | RD3-team04= '''Kent State'''
- | RD3-score04= '''78'''
+ | RD3-score04= '''78<sup>OT</sup>'''
  | RD4-seed01= 5
  | RD4-team01= '''Indiana'''
  | RD4-score01= '''81'''
@@ -1001,84 +1134,12 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD4-score02= 69
 }}
 
-====First Round summary====
-{{basketballbox
- | bg = #e3e3e3
- | date = Thursday, March 14
- | time = 12:20&nbsp;p.m. [[Eastern Time Zone|EST]]
- | report = [http://www.sports-reference.com/cbb/boxscores/2002-03-14-kent-state.html box score]
- | team1 = '''#10 Kent State Golden Flashes'''
- | score1 = '''69'''
- | team2 = #7 Oklahoma State Cowboys
- | score2 = 61
- | points1 = D. Shaw – 21
- | rebounds1 = A. Mitchell – 8
- | assist1 = A. Mitchell – 5
- | otherstat1 =
- | points2 = F. Jonzen – 19
- | rebounds2 = [[Ivan McFarlin|I. McFarlin]] – 11
- | assist2 = C. Gadsen – 5
- | otherstat2 = '''Halftime Score:''' Kent State, 36-27
- | place = BI-LO Center – Greenville, South Carolina
- | attendance = 13,194
- | referee = Tim Higgins, Chris Rastatter, Bob Staffen
- | TV = CBS
-}}
-
-====Second Round summary====
-{{basketballbox
- | bg = #ffdead
- | date = Saturday, March 16
- | time = 3:36&nbsp;p.m. [[Eastern Time Zone|EST]]
- | report = [http://www.sports-reference.com/cbb/boxscores/2002-03-16-alabama.html box score]
- | team1 = '''#10 Kent State Golden Flashes'''
- | score1 = '''71'''
- | team2 = #2 Alabama Crimson Tide
- | score2 = 58
- | points1 = T. Huffman – 20
- | rebounds1 = [[Antonio Gates|A. Gates]] – 9
- | assist1 = T. Huffman – 5
- | otherstat1 =
- | points2 = [[Rod Grizzard|R. Grizzard]] – 17
- | rebounds2 = [[Erwin Dudley|E. Dudley]] – 10
- | assist2 = [[Mo Williams|M. Williams]] – 4
- | otherstat2 = '''Halftime Score:''' Kent State, 36-24
- | place = BI-LO Center – Greenville, South Carolina
- | attendance = 13,962
- | referee = Mark Whitehead, Reggie Greenwood, Rick Hartzell
- | TV = CBS
-}}
-
-====Regional Semifinal summary====
-{{basketballbox
- | bg = #ffdead
- | date = Thursday, March 21
- | time = 10:15&nbsp;p.m. [[Eastern Time Zone|EST]]
- | report = [http://www.sports-reference.com/cbb/boxscores/2002-03-21-kent-state.html box score]
- | team1 = '''#10 Kent State Golden Flashes'''
- | score1 = '''78'''
- | team2 = #3 Pittsburgh Panthers
- | score2 = 73 '''(OT)'''
- | points1 = [[Antonio Gates|A. Gates]] – 22
- | rebounds1 = [[Antonio Gates|A. Gates]] – 8
- | assist1 = [[Antonio Gates|A. Gates]] – 4
- | otherstat1 =
- | points2 = [[Brandin Knight|B. Knight]], J. Page – 18
- | rebounds2 = [[Jaron Brown|J. Brown]], [[Chevon Troutman|C. Troutman]] – 8
- | assist2 = [[Brandin Knight|B. Knight]] – 6
- | otherstat2 = '''Halftime Score:''' Kent State, 29-23<br>'''End of Regulation:''' 66-66
- | place = Rupp Arena – Lexington, Kentucky
- | attendance = 22,338
- | referee = Stanley Reynolds, Duke Edsall, John Higgins
- | TV = CBS
-}}
-
 ====Regional Final Summary====
 {{basketballbox
  | bg = #e3e3e3
  | date = Saturday, March 23
  | time = 7:00&nbsp;p.m. [[Eastern Time Zone|EST]]
- | report = [http://www.sports-reference.com/cbb/boxscores/2002-03-23-indiana.html box score]
+ | report = [https://www.sports-reference.com/cbb/boxscores/2002-03-23-indiana.html box score]
  | team1 = '''#5 Indiana Hoosiers'''
  | score1 =  '''81'''
  | team2 = #10 Kent State Golden Flashes
@@ -1086,12 +1147,12 @@ At [[Georgia Dome]], [[Atlanta]]
  | points1 = [[Dane Fife|D. Fife]] – 17
  | rebounds1 = [[Jared Jeffries|J. Jeffries]] – 7
  | assist1 = T. Coverdale, K. Hornsby – 7
- | otherstat1 = 
  | points2 = [[Antonio Gates|A. Gates]] – 22
  | rebounds2 = [[Antonio Gates|A. Gates]], D. Shaw – 8
  | assist2 = T. Huffman – 4
- | otherstat2 = '''Halftime Score:''' Indiana, 40-28
- | place = Rupp Arena – Lexington, Kentucky
+ | H1 = 40–28
+ | H2 = 41–41
+ | place = Rupp Arena{{Snd}} Lexington, KY
  | attendance = 22,435
  | referee =  Mark Whitehead, Scott Thornley, Tom Nunez
  | TV = CBS
@@ -1099,11 +1160,11 @@ At [[Georgia Dome]], [[Atlanta]]
 
 ===West Regional — San Jose, California===
 {{16TeamBracket
- | subgroup1= '''[[Mellon Arena|Pittsburgh]]'''
- | subgroup2= '''[[The Pit (arena)|Albuquerque]]'''
- | subgroup3= '''[[The Pit (arena)|Albuquerque]]'''
- | subgroup4= '''[[American Airlines Center|Dallas]]'''
- | RD3=Regional Semifinals 
+ | subgroup1= '''[[Mellon Arena|Pittsburgh]]''' - Fri/Sun
+ | subgroup2= '''[[The Pit (arena)|Albuquerque]]''' - Thu/Sat
+ | subgroup3= '''[[The Pit (arena)|Albuquerque]]''' - Thu/Sat
+ | subgroup4= '''[[American Airlines Center|Dallas]]''' - Fri/Sun
+ | RD3=Regional semifinals
  | RD4=Regional Finals
  | RD1-seed01= 1
  | RD1-team01= '''Cincinnati'''
@@ -1124,11 +1185,11 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD1-team06= '''Missouri'''
  | RD1-score06= '''93'''
  | RD1-seed07= 4
- | RD1-team07= '''Ohio State'''
- | RD1-score07= '''69'''
+ | RD1-team07= {{strikethrough|Ohio State}}
+ | RD1-score07= 64
  | RD1-seed08= 13
- | RD1-team08= Davidson
- | RD1-score08= 64
+ | RD1-team08= '''Davidson'''
+ | RD1-score08= '''69'''
  | RD1-seed09= 6
  | RD1-team09= Gonzaga
  | RD1-score09= 66
@@ -1142,11 +1203,11 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD1-team12= UC-Santa Barbara
  | RD1-score12= 81
  | RD1-seed13= 7
- | RD1-team13= '''Xavier'''
- | RD1-score13= '''70'''
+ | RD1-team13= Xavier
+ | RD1-score13= 44
  | RD1-seed14= 10
- | RD1-team14= Hawaii
- | RD1-score14= 58
+ | RD1-team14= '''Hawaii'''
+ | RD1-score14= '''58'''
  | RD1-seed15= 2
  | RD1-team15= '''Oklahoma'''
  | RD1-score15= '''71'''
@@ -1158,12 +1219,12 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD2-score01= 101
  | RD2-seed02= 8
  | RD2-team02= '''UCLA'''
- | RD2-score02= '''105'''
+ | RD2-score02= '''105<sup>2OT</sup>'''
  | RD2-seed03= 12
  | RD2-team03= '''Missouri'''
  | RD2-score03= '''83'''
- | RD2-seed04= 4
- | RD2-team04= Ohio State
+ | RD2-seed04= 13
+ | RD2-team04= Davidson
  | RD2-score04= 67
  | RD2-seed05= 11
  | RD2-team05= Wyoming
@@ -1171,8 +1232,8 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD2-seed06= 3
  | RD2-team06= '''Arizona'''
  | RD2-score06= '''68'''
- | RD2-seed07= 7
- | RD2-team07= Xavier
+ | RD2-seed07= 10
+ | RD2-team07= Hawaii
  | RD2-score07= 65
  | RD2-seed08= 2
  | RD2-team08= '''Oklahoma'''
@@ -1194,15 +1255,17 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD4-score01= 75
  | RD4-seed02= 2
  | RD4-team02= '''Oklahoma'''
- | RD4-score02= '''81'''
+ | RD4-score02= 81
 }}
+
+Ohio State vacated all 32 games including its NCAA Tournament appearance from the 2001–02 season due to the [[Jim O'Brien (basketball, born 1950)#Firing controversy|Jim O’Brien scandal]].<ref>{{Cite web|url=http://www.espn.com/mens-college-basketball/news/story?id=2362496|title=OSU gets probation|date=2006-03-10|website=ESPN.com|access-date=2017-06-05}}</ref> Unlike forfeiture, a vacated game does not result in the other school being credited with a win, only with Ohio State removing the wins from its own record.
 
 ====Regional Final Summary====
 {{basketballbox
  | bg = #e3e3e3
  | date = Saturday, March 23
  | time = 
- | report = [http://sportsillustrated.cnn.com/basketball/college/men/boxscores/2002/03/23/oae_mbh/ box score]
+ | report = [https://web.archive.org/web/20020619034518/http://sportsillustrated.cnn.com/basketball/college/men/boxscores/2002/03/23/oae_mbh/ box score]
  | team1 = '''#2 Oklahoma Sooners'''
  | score1 =  '''81'''
  | team2 = #12 Missouri Tigers
@@ -1210,19 +1273,19 @@ At [[Georgia Dome]], [[Atlanta]]
  | points1 = [[Hollis Price|H. Price]] – 18
  | rebounds1 = Q. White, D, Selvy – 7
  | assist1 = Q. White – 7
- | otherstat1 = 
  | points2 = [[Rickey Paulding|R. Paulding]] – 22
  | rebounds2 = [[Travon Bryant|T. Bryant]] – 9
  | assist2 = W. Stokes, [[Rickey Paulding|R. Paulding]] – 4
- | otherstat2 = '''Halftime Score:''' Oklahoma, 41-32
- | place = Compaq Center – San Jose, California
+ | H1 = 41–32
+ | H2 = 40–43
+ | place = Compaq Center{{Snd}} San Jose, CA
  | attendance = 18,040
- | referee =  
+ | referee =  John Cahill, Terry Moore, John Hughes
  | TV = CBS
 }}
 
 ===Final Four — Atlanta, Georgia===
-{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game | RD1-seed1=E1
+{{4TeamBracket | RD1=National semifinals | RD2=National Championship Game | RD1-seed1=E1
  | RD1-team1= '''Maryland'''
  | RD1-score1= '''97'''
  | RD1-seed2= M1
@@ -1236,10 +1299,10 @@ At [[Georgia Dome]], [[Atlanta]]
  | RD1-score4= 64
  | RD2-seed1= E1
  | RD2-team1= '''Maryland'''
- | RD2-score1= '''64'''
- | RD2-seed2= S5
+ | RD2-score1='''64'''
+ | RD2-seed2=S5 
  | RD2-team2= Indiana
- | RD2-score2= 52
+ | RD2-score2=52
 }}
 
 ==Broadcast information==
@@ -1248,103 +1311,31 @@ At [[Georgia Dome]], [[Atlanta]]
 [[Westwood One (1976–2011)|Westwood One]] had exclusive radio coverage.
 
 ===CBS Sports announcers===
-*[[Jim Nantz]] and [[Billy Packer]] – First & Second Round at Washington, D.C.; East Regional at Syracuse, New York; Final Four at Atlanta, Georgia
-*[[Dick Enberg]] and [[Matt Guokas]] – First & Second Round at St. Louis, Missouri; South Regional at Lexington, Kentucky
-*[[Verne Lundquist]] and [[Bill Raftery]] – First & Second Round at Pittsburgh, Pennsylvania; Midwest Regional at Madison, Wisconsin
-*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Dan Bonner]] – First & Second Round at Albuquerque, New Mexico; West Regional at San Jose, California
-*[[Kevin Harlan]] and [[Jon Sundvold]] – First & Second Round at Greenville, South Carolina
-*[[Ian Eagle]] and [[Jim Spanarkel]] – First & Second Round at Sacramento, California
-*[[Craig Bolerjack]] and [[Bob Wenzel]] – First & Second Round at Dallas, Texas
-*[[Tim Brando]] and [[Eddie Fogler]] – First & Second Round at Chicago, Illinois
+*[[Jim Nantz]]/[[Billy Packer]]/[[Bonnie Bernstein]] – First and Second Rounds at Washington, D.C.; East Regional at Syracuse, New York; Final Four and National Championship at Atlanta, Georgia
+*[[Dick Enberg]]/[[Matt Guokas]]/[[Armen Keteyian]] – First and Second Rounds at St. Louis, Missouri; South Regional at Lexington, Kentucky
+*[[Verne Lundquist]]/[[Bill Raftery]]/[[Lesley Visser]] – First and Second Rounds at Pittsburgh, Pennsylvania; Midwest Regional at Madison, Wisconsin
+*[[Gus Johnson (sportscaster)|Gus Johnson]]/[[Dan Bonner]]/[[Solomon Wilcots]] – First and Second Rounds at Albuquerque, New Mexico; West Regional at San Jose, California
+*[[Kevin Harlan]]/[[Jon Sundvold]]/[[Spencer Tillman]] – First and Second Rounds at Greenville, South Carolina
+*[[Ian Eagle]]/[[Jim Spanarkel]]/Dwayne Ballen – First and Second Rounds at Sacramento, California
+*[[Craig Bolerjack]]/[[Bob Wenzel]]/[[Brett Haber]] – First and Second Rounds at Dallas, Texas
+*[[Tim Brando]]/[[Eddie Fogler]]/[[Charles Davis (defensive back)|Charles Davis]] – First and Second Rounds at Chicago, Illinois
 
 ===Westwood One announcers===
 *[[Marty Brennaman]] and [[Larry Conley]], 1st and 2nd Rounds at Greenville, South Carolina and South Regionals at Lexington, Kentucky
 
-===Local announcers===
-{| class="wikitable"
-|- bgcolor="#efefef"
-!Region
-!Seed
-!Teams
-!Flagship station
-!Play-by-play announcer
-!Color analyst(s)
-|-align="center"
-| S
-| 1
-|-align="center"
-| S
-| 2
-|-align="center"
-| S
-| 3
-|-align="center"
-| S
-| 4
-|-align="center"
-| S
-| 5
-|-align="center"
-| S
-| 6
-|-align="center"
-| S
-| 7
-|-align="center"
-| S
-| 8
-|-align="center"
-| S
-| 9
-|-align="center"
-| S
-| 10
-| [[Kent State Golden Flashes men's basketball|Kent State]]
-| [[WNIR (FM)|WNIR]]–FM 100.1
-| Bill Needle
-|
-|-align="center"
-| S
-| 11
-|-align="center"
-| S
-| 12
-|-align="center"
-| S
-| 13
-|-align="center"
-| S
-| 14
-|-align="center"
-| S
-| 15
-|-align="center"
-| S
-| 16
-|}
-
-==See also==
-* [[2002 NCAA Division II Men's Basketball Tournament]]
-* [[2002 NCAA Division III Men's Basketball Tournament]]
-* [[2002 NCAA Division I Women's Basketball Tournament]]
-* [[NCAA Division II Women's Basketball Tournament|2002 NCAA Division II Women's Basketball Tournament]]
-* [[NCAA Division III Women's Basketball Tournament|2002 NCAA Division III Women's Basketball Tournament]]
-* [[2002 National Invitation Tournament]]
-* [[Women's National Invitation Tournament|2002 Women's National Invitation Tournament]]
-* [[2002 NAIA Division I Men's Basketball Tournament]]
-* [[NAIA Men's Basketball Championships#Division II|2002 NAIA Division II Men's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships|2002 NAIA Division I Women's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships#Division II|2002 NAIA Division II Women's Basketball Tournament]]
-
 ==References==
 {{Reflist}}
 
-{{NCAA Men's Division I Basketball Tournament navbox}}
+{{NCAA Division I men's basketball tournament navbox}}
+{{2002 NCAA Division I men's basketball tournament navbox}}
+{{2002–03 NCAA Division I men's basketball conference season navbox}}
 {{2002 Maryland Terrapins men's basketball navbox}}
 
-{{DEFAULTSORT:2002 Ncaa Men's Division I Basketball Tournament}}
-[[Category:NCAA Division I Men's Basketball Championship]]
+{{DEFAULTSORT:2002 NCAA Division I men's basketball tournament}}
+[[Category:NCAA Division I men's basketball tournament]]
 [[Category:2001–02 NCAA Division I men's basketball season|Ncaa]]
-[[Category:Sports in Madison, Wisconsin]]
+[[Category:Sports competitions in Madison, Wisconsin]]
 [[Category:Basketball in the Dallas–Fort Worth metroplex]]
-[[Category:2002 in sports in Georgia (U.S. state)]]
+[[Category:2002 in sports in Georgia (U.S. state)|NCAA Division I men's basketball tournament]]
+[[Category:March 2002 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:April 2002 sports events in the United States|NCAA Division I men's basketball tournament]]

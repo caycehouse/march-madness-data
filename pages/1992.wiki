@@ -1,268 +1,697 @@
+{{Short description|Edition of USA college basketball tournament}}
 {{see also|1992 NCAA Division I Men's Basketball Championship Game}}
-{{Infobox NCAA Basketball Tournament
+{{Use mdy dates|date=August 2023}}
+{{Infobox NCAA basketball tournament
 | Year=1992
-| Image=
+| Image=1992 Final Four logo.png
 | ImageSize=
 | Caption=
 | Teams=64
 | FinalFourArena=[[Hubert H. Humphrey Metrodome|H.H.H. Metrodome]]
 | FinalFourCity=[[Minneapolis]], [[Minnesota]]
-| Champions=[[1991–92 Duke Blue Devils men's basketball team|Duke]]
+| Champions=[[1991–92 Duke Blue Devils men's basketball team|Duke Blue Devils]]
 | TitleCount=2nd
 | ChampGameCount=6th
 | ChampFFCount=10th
-| RunnerUp=[[1991–92 Michigan Wolverines men's basketball team|Michigan]] (Vacated)
+| RunnerUp=[[1991–92 Michigan Wolverines men's basketball team|Michigan Wolverines]] (Vacated)
 | GameCount=4th
 | RunnerFFCount=5th
-| Semifinal1=[[1991-92 Cincinnati Bearcats men's basketball team|Cincinnati]]
+| Semifinal1=[[1991–92 Cincinnati Bearcats men's basketball team|Cincinnati Bearcats]]
 | FinalFourCount=6th
-| Semifinal2= [[1991-92 Indiana Hoosiers men's basketball team|Indiana]]
+| Semifinal2= [[1991–92 Indiana Hoosiers men's basketball team|Indiana Hoosiers]]
 | FinalFourCount2=7th
 | Coach=[[Mike Krzyzewski]]
 | CoachCount=2nd
 | MOP=[[Bobby Hurley]]
 | MOPTeam=Duke
 | Attendance=580,462
-| OneTopScorer=*
-| TwoTopScorers=
-| TopScorer=Christian Laettner
+| TopScorer=[[Christian Laettner]]
 | TopScorerTeam=Duke
 | Points=115
 }}
-The '''1992 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 19, 1992, and ended with the [[1992 NCAA Men's Division I Basketball Championship Game|championship game]] on April 6 in [[Minneapolis, Minnesota]]. A total of 63 games were played.
 
-[[Duke Blue Devils men's basketball|Duke]], coached by [[Mike Krzyzewski]], defeated the Michigan Wolverines, coached by [[Steve Fisher]], 71–51 to claim their second consecutive national championship.<ref>{{YouTube|rBQ4-zr22Nc|1992 NCAA Basketball National Championship Game}}</ref> [[Bobby Hurley]] of Duke was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]]. Michigan subsequently vacated its final two tournament games as part of the [[University of Michigan basketball scandal]].
+The 1992 [[NCAA Division I men's basketball tournament]] involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 19, 1992, and ended with the [[1992 NCAA Division I Men's Basketball Championship Game|championship game]] on April 6 in [[Minneapolis]]. A total of 63 games were played.
 
-This tournament is best remembered for the East regional final pitting Duke and [[University of Kentucky|Kentucky]] at [[Spectrum (arena)|The Spectrum]] in Philadelphia. With 2.1 seconds remaining in overtime, Duke trailed 103–102. [[Grant Hill]] threw a pass the length of the court to [[Christian Laettner]], who dribbled once, turned, and hit a jumper as time expired for the 104–103 win. ''[[Sports Illustrated]]'' deemed it the greatest college basketball game of all time,<ref>Matthew Waxman = [http://sportsillustrated.cnn.com/2004/sioncampus/03/10/greatest_games0311/ 16 Greatest Games] Sports Illustrated (On Campus), March 10, 2004</ref> and ESPN included it as number 17 on its list of top 100 sports moments of the past 25 years (see [[ESPN25]]). It is number one on the USA Today list of the greatest NCAA tournament games of all time.<ref>Mike Douchant – [https://www.usatoday.com/sports/college/basketball/men/02tourney/greatest-games.htm Greatest 63 games in NCAA Tournament history]. The Sports Xchange, published in USA Today, March 25, 2002</ref> This tournament also saw darkhorse [[Cincinnati Bearcats men's basketball|Cincinnati]] crash the Final Four en route to returning to national prominence.
+[[Duke Blue Devils men's basketball|Duke]], coached by [[Mike Krzyzewski]], defeated Michigan, coached by [[Steve Fisher (American basketball coach)|Steve Fisher]], 71–51 to claim their second consecutive national championship.<ref>{{YouTube|rBQ4-zr22Nc|1992 NCAA Basketball National Championship Game}}</ref> [[Bobby Hurley]] of Duke was named the tournament's [[NCAA basketball tournament Most Outstanding Player|Most Outstanding Player]]. Michigan subsequently vacated its final two tournament games due to issues with the eligibility of [[Chris Webber]] found in the [[University of Michigan basketball scandal]].
 
-==Locations==
+This tournament is best remembered for the [[The Shot (Duke–Kentucky)|East regional final]] pitting Duke and [[University of Kentucky|Kentucky]] at [[Spectrum (arena)|The Spectrum]] in Philadelphia. With 2.1 seconds remaining in overtime, Duke trailed 103–102. [[Grant Hill]] threw a pass the length of the court to [[Christian Laettner]], who dribbled once, turned, and hit a jumper as time expired for the 104–103 win. ''[[Sports Illustrated]]'' deemed it the greatest college basketball game of all time,<ref>Matthew Waxman = [https://archive.today/20120405100205/http://sportsillustrated.cnn.com/2004/sioncampus/03/10/greatest_games0311/ 16 Greatest Games] Sports Illustrated (On Campus), March 10, 2004</ref> and ESPN ranked it No. 17 among the top 100 sports moments of the past 25 years (see [[ESPN25]]). In 2002, ''USA Today'' ranked it the greatest NCAA tournament game of all time.<ref>Mike Douchant – [https://www.usatoday.com/sports/college/basketball/men/02tourney/greatest-games.htm Greatest 63 games in NCAA Tournament history]. The Sports Xchange, published in USA Today, March 25, 2002</ref>
 
-{{Location map+|USA|width=450|float=right|caption=1992 first and second rounds|places=
-{{Location map~|USA|mark=green pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=bottom|background=#FFFFFF|label=Atlanta|link=Omni Coliseum}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=43.618710|lon_deg=-116.214607|position=bottom|background=#FFFFFF|label=Boise|link=Taco Bell Arena|BSU Pavilion}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=39.103118|lon_deg=-84.512020|position=bottom|background=#FFFFFF|label=Cincinnati|link=US Bank Arena|Riverfront Coliseum}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=39.758948|lon_deg=-84.191607|position=top|background=#FFFFFF|label=Dayton|link=University of Dayton Arena}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=36.072635|lon_deg=-79.791975|position=bottom|background=#FFFFFF|label=Greensboro|link=Greensboro Coliseum}}
+The tournament also saw dark horse [[Cincinnati Bearcats men's basketball|Cincinnati]] crash the Final Four and return to national prominence.
+
+==Schedule and venues==
+{{Location map+|USA|width=450|float=right|caption=1992 first and second rounds|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=top|background=#FFFFFF|label=Atlanta|link=Omni Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=43.618710|lon_deg=-116.214607|position=bottom|background=#FFFFFF|label=Boise|link=ExtraMile Arena|BSU Pavilion}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.103118|lon_deg=-84.512020|position=left|background=#FFFFFF|label=Cincinnati|link=Heritage Bank Center|Riverfront Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.758948|lon_deg=-84.191607|position=top|background=#FFFFFF|label=Dayton|link=UD Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.072635|lon_deg=-79.791975|position=right|background=#FFFFFF|label=Greensboro|link=Greensboro Coliseum}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=43.038902|lon_deg=-87.906474|position=top|background=#FFFFFF|label=Milwaukee|link=Bradley Center}}
-{{Location map~|USA|mark=green pog.svg|lat_deg=33.425510|lon_deg=-111.940005|position=bottom|background=#FFFFFF|label=Tempe|link=Wells Fargo Arena (Tempe)|Arizona State University Activity Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.425510|lon_deg=-111.940005|position=bottom|background=#FFFFFF|label=Tempe|link=Desert Financial Arena|Arizona State University Activity Center}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=42.262593|lon_deg=-71.802293|position=top|background=#FFFFFF|label=Worcester|link=DCU Center|Worcester Centrum}}
 }}
 
 {{Location map+|USA|width=450|float=right|caption=1992 Regionals (blue) and Final Four (red)|places=
-{{Location map~|USA|mark=blue pog.svg|lat_deg=35.110703|lon_deg=-106.609991|position=right|background=#FFFFFF|label=Albuquerque|link=The Pit Arena|University Arena}}
-{{Location map~|USA|mark=blue pog.svg|lat_deg=39.099727|lon_deg=-94.578567|position=right|background=#FFFFFF|label=Kansas City|link=Kemper Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=35.110703|lon_deg=-106.609991|position=right|background=#FFFFFF|label=Albuquerque|link=The Pit (arena)|University Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.099727|lon_deg=-94.578567|position=left|background=#FFFFFF|label=Kansas City|link=Kemper Arena}}
 {{Location map~|USA|mark=blue pog.svg|lat_deg=38.040584|lon_deg=-84.503716|position=bottom|background=#FFFFFF|label=Lexington|link=Rupp Arena}}
 {{Location map~|USA|mark=blue pog.svg|lat_deg=39.952584|lon_deg=-75.165222|position=bottom|background=#FFFFFF|label=Philadelphia|link=Spectrum (arena)|Spectrum}}
 {{Location map~|USA|mark=red pog.svg|lat_deg=44.976154|lon_deg=-93.267431|position=bottom|background=#FFFFFF|label=Minneapolis|link=Hubert H. Humphrey Metrodome}}
 }}
 
-===First & Second Rounds===
-{| class="wikitable"
-! Region !! Site !! Venue
-|-
-! rowspan="2" | East
-|[[Greensboro, North Carolina]]
-|[[Greensboro Coliseum Complex|Greensboro Coliseum]]
-|-
-|[[Worcester, Massachusetts]]
-|[[DCU Center|Centrum in Worcester]]
-|-
-! rowspan="2" | Midwest
-|[[Dayton, Ohio]]
-|[[UD Arena|University of Dayton Arena]]
-|-
-|[[Milwaukee|Milwaukee, Wisconsin]]
-|[[Bradley Center]]
-|-
-! rowspan="2" | Southeast
-|[[Atlanta|Atlanta, Georgia]]
-|[[Omni Coliseum]]
-|-
-|[[Cincinnati|Cincinnati, Ohio]]
-|[[U.S. Bank Arena|Riverfront Coliseum]]
-|-
-! rowspan="2" | West
-|[[Boise, Idaho]]
-|[[Taco Bell Arena|BSU Pavilion]]
-|-
-|[[Tempe, Arizona]]
-|[[Wells Fargo Arena (Tempe, Arizona)|ASU Activity Center]]
-|}
+The following are the sites that were selected to host each round of the 1992 tournament:
 
-===Regional Sites and Final Four===
-{| class="wikitable"
-! Region !! Site !! Venue
-|-
-| '''East'''
-|[[Philadelphia|Philadelphia, Pennsylvania]]
-|[[Spectrum (arena)|Spectrum]]
-|-
-| '''Midwest'''
-|[[Kansas City, Missouri]]
-|[[Kemper Arena]]
-|-
-| '''Southeast'''
-|[[Lexington, Kentucky]]
-|[[Rupp Arena]]
-|-
-| '''West'''
-|[[Albuquerque, New Mexico]]
-|[[The Pit (arena)|University Arena ("The Pit")]]
-|-
-| '''Final Four'''
-|[[Minneapolis|Minneapolis, Minnesota]]
-|[[Hubert H. Humphrey Metrodome]]
-|}
+'''First and Second Rounds'''
+*March 19 and 21
+**'''East Region'''
+*** [[Greensboro Coliseum]], [[Greensboro, North Carolina]] (Host: [[Atlantic Coast Conference]])
+**'''Midwest Region'''
+*** [[Bradley Center]], [[Milwaukee|Milwaukee, Wisconsin]] (Hosts: [[Marquette University]], [[Great Midwest Conference]])
+**'''Southeast Region'''
+*** [[Heritage Bank Center|Riverfront Coliseum]], [[Cincinnati|Cincinnati, Ohio]] (Hosts: [[University of Cincinnati]], [[Xavier University]])
+**'''West Region'''
+*** [[ExtraMile Arena|BSU Pavilion]], [[Boise, Idaho]] (Host: [[Boise State University]])
+*March 20 and 22
+**'''East Region'''
+*** [[DCU Center|Centrum in Worcester]], [[Worcester, Massachusetts]] (Host: [[College of the Holy Cross]])
+**'''Midwest Region'''
+*** [[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+**'''Southeast Region'''
+*** [[Omni Coliseum]], [[Atlanta|Atlanta, Georgia]] (Host: [[Georgia Tech]])
+**'''West Region'''
+*** [[Desert Financial Arena|ASU Activity Center]], [[Tempe, Arizona]] (Host: [[Arizona State University]])
 
-For the first time since 1951, Minneapolis was the site of the Final Four, held at the Metrodome, the 28th venue used for the Final Four. Once again, all four arenas used for the regional rounds were former Final Four sites. For the first time, the tournament held games in Massachusetts, at the Centrum in Worcester. Additionally, the tournament came to the new Bradley Arena in Milwaukee, which replaced the MECCA Arena. This tournament would mark the final appearances of Atlanta's Omni Coliseum and the Spectrum in Philadelphia; both have since been replaced. To date, this was the most recent game played in Cincinnati; the tournament is slated to return to the Queen City in 2022.
+'''Regional semifinals and finals''' (Sweet Sixteen and Elite Eight)
+*March 26 and 28
+**'''East Regional''', [[Spectrum (arena)|Spectrum]], [[Philadelphia|Philadelphia, Pennsylvania]] (Hosts: [[Temple University]], [[Villanova University]])
+**'''West Regional''', [[The Pit (arena)|University Arena ("The Pit")]], [[Albuquerque, New Mexico]] (Host: [[University of New Mexico]])
+*March 27 and 29
+**'''Midwest Regional''', [[Kemper Arena]], [[Kansas City, Missouri]] (Host: [[Big 8 Conference]])
+**'''Southeast Regional''', [[Rupp Arena]], [[Lexington, Kentucky]] (Host: [[University of Kentucky]])
+
+'''National semifinals and championship''' (Final Four and championship)
+*April 4 and 6
+**[[Hubert H. Humphrey Metrodome]], [[Minneapolis|Minneapolis, Minnesota]] (Host: [[University of Minnesota]])
 
 ==Teams==
-{| class=wikitable
-! Region !! Seed !! Team !! Coach !! Finished !! Final opponent !! Score
-|-
-! colspan=7 | East
-|-
-| East || 1|| [[1991–92 Duke Blue Devils men's basketball team|Duke]] || [[Mike Krzyzewski]] || '''Champion'''||6 [[1991-92 Michigan Wolverines men's basketball team|Michigan]]||W 71–51
-|-
-| East || 2|| [[1991-92 Kentucky Wildcats men's basketball team|Kentucky]] || [[Rick Pitino]] || Regional Runner-up||1 [[1991–92 Duke Blue Devils men's basketball team|Duke]]||L 104–103
-|-
-| East || 3|| [[UMass Minutemen basketball|Massachusetts]] || [[John Calipari]] || Sweet Sixteen||2 [[1991-92 Kentucky Wildcats men's basketball team|Kentucky]]||L 87–77
-|-
-| East || 4|| [[Seton Hall Pirates men's basketball|Seton Hall]] || [[P.J. Carlesimo]] || Sweet Sixteen||1 [[1991–92 Duke Blue Devils men's basketball team|Duke]]||L 81–69
-|-
-| East || 5|| [[Missouri Tigers men's basketball|Missouri]] || [[Norm Stewart]] || Round of 32||4 [[Seton Hall Pirates men's basketball|Seton Hall]]||L 88–71
-|-
-| East || 6|| [[Syracuse Orange men's basketball|Syracuse]] || [[Jim Boeheim]] || Round of 32||3 [[UMass Minutemen basketball|Massachusetts]]||L 77–71
-|-
-| East || 7|| [[Charlotte 49ers men's basketball|Charlotte]] || [[Jeff Mullins (basketball)|Jeff Mullins]] || Round of 64||10 [[Iowa State Cyclones men's basketball|Iowa State]]||L 76–74
-|-
-| East || 8|| [[Texas Longhorns men's basketball|Texas]] || [[Tom Penders]] || Round of 64||9 [[1991–92 Iowa Hawkeyes men's basketball team|Iowa]]||L 98–92
-|-
-| East || 9|| [[1991–92 Iowa Hawkeyes men's basketball team|Iowa]] || [[Tom Davis (basketball, born 1938)|Tom Davis]] || Round of 32||1 [[1991–92 Duke Blue Devils men's basketball team|Duke]]||L 75–62
-|-
-| East || 10|| [[Iowa State Cyclones men's basketball|Iowa State]] || [[Johnny Orr (basketball, born 1927)|Johnny Orr]] || Round of 32||2 [[1991–92 Kentucky Wildcats men's basketball team|Kentucky]]||L 106–98
-|-
-| East || 11|| [[1991–92 Princeton Tigers men's basketball team|Princeton]] || [[Pete Carril]] || Round of 64||6 [[Syracuse Orange men's basketball|Syracuse]]||L 51–43
-|-
-| East || 12|| [[West Virginia Mountaineers men's basketball|West Virginia]] || [[Gale Catlett]] || Round of 64||5 [[Missouri Tigers men's basketball|Missouri]]||L 89–78
-|-
-| East || 13|| [[La Salle Explorers men's basketball|La Salle]] || [[Speedy Morris]] || Round of 64||4 [[Seton Hall Pirates men's basketball|Seton Hall]]||L 78–76
-|-
-| East || 14|| [[Fordham Rams men's basketball|Fordham]] || [[Nick Macarchuk]] || Round of 64||3 [[UMass Minutemen basketball|Massachusetts]]||L 85–58
-|-
-| East || 15|| [[Old Dominion Monarchs basketball|Old Dominion]] || [[Oliver Purnell]] || Round of 64||2 [[1991–92 Kentucky Wildcats men's basketball team|Kentucky]]||L 88–69
-|-
-| East || 16|| [[Campbell Fighting Camels basketball|Campbell]] || [[Billy Lee (basketball coach)|Billy Lee]] || Round of 64||1 [[1991–92 Duke Blue Devils men's basketball team|Duke]]||L 82–56
-|-
-! colspan=7 | Midwest
-|-
-| Midwest || 1|| [[1991–92 Kansas Jayhawks men's basketball team|Kansas]] || [[Roy Williams (coach)|Roy Williams]] || Round of 32||9 [[UTEP Miners men's basketball|UTEP]]||L 66–60
-|-
-| Midwest || 2|| [[USC Trojans men's basketball|USC]] || [[George Raveling]] || Round of 32||7 [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]]||L 79–78
-|-
-| Midwest || 3|| [[1991–92 Arkansas Razorbacks men's basketball team|Arkansas]] || [[Nolan Richardson]] || Round of 32||6 [[Memphis Tigers men's basketball|Memphis State]]||L 82–80
-|-
-| Midwest || 4|| [[1991–92 Cincinnati Bearcats men's basketball team|Cincinnati]] || [[Bob Huggins]] || National Semifinals||6 [[1991–92 Michigan Wolverines men's basketball team|Michigan]]||L 76–72
-|-
-| Midwest || 5|| [[1991–92 Michigan State Spartans men's basketball team|Michigan State]] || [[Jud Heathcote]] || Round of 32||4 [[1991–92 Cincinnati Bearcats men's basketball team|Cincinnati]]||L 77–65
-|-
-| Midwest || 6|| [[Memphis Tigers men's basketball|Memphis State]] || [[Larry Finch]] || Regional Runner-up||4 [[1991–92 Cincinnati Bearcats men's basketball team|Cincinnati]]||L 88–57
-|-
-| Midwest || 7|| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] || [[Bobby Cremins]] || Sweet Sixteen||6 [[Memphis Tigers men's basketball|Memphis State]]||L 83–79
-|-
-| Midwest || 8|| [[Evansville Purple Aces men's basketball|Evansville]] || [[Jim Crews]] || Round of 64||9 [[UTEP Miners men's basketball|UTEP]]||L 55–50
-|-
-| Midwest || 9|| [[UTEP Miners men's basketball|UTEP]] || [[Don Haskins]] || Sweet Sixteen||4 [[1991–92 Cincinnati Bearcats men's basketball team|Cincinnati]]||L 69–67
-|-
-| Midwest || 10|| [[Houston Cougars men's basketball|Houston]] || [[Pat Foster]] || Round of 64||7 [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]]||L 65–60
-|-
-| Midwest || 11|| [[Pepperdine Waves men's basketball|Pepperdine]] || [[Tom Asbury]] || Round of 64||6 [[Memphis Tigers men's basketball|Memphis State]]||L 80–70
-|-
-| Midwest || 12|| [[Missouri State Bears basketball|Southwest Missouri State]]<!--Didn't become "Missouri State" until 2005.--> || [[Charlie Spoonhour]] || Round of 64||5 [[1991–92 Michigan State Spartans men's basketball team|Michigan State]]||L 61–54
-|-
-| Midwest || 13|| [[Delaware Fightin' Blue Hens men's basketball|Delaware]] || [[Steve Steinwedel]] || Round of 64||4 [[1991–92 Cincinnati Bearcats men's basketball team|Cincinnati]]||L 85–47
-|-
-| Midwest || 14|| [[Murray State Racers men's basketball|Murray State]] || [[Scott Edgar (basketball coach)|Scott Edgar]] || Round of 64||3 [[1991–92 Arkansas Razorbacks men's basketball team|Arkansas]]||L 80–69
-|-
-| Midwest || 15|| [[Louisiana–Monroe Warhawks men's basketball|Northeast Louisiana]] || [[Mike Vining]] || Round of 64||2 [[USC Trojans men's basketball|USC]]||L 84–54
-|-
-| Midwest || 16|| [[Howard Bison basketball|Howard]] || [[Butch Beard]] || Round of 64||1 [[1991–92 Kansas Jayhawks men's basketball team|Kansas]]||L 100–67
-|-
-! colspan=7 | Southeast
-|-
-| Southeast || 1|| [[1991–92 Ohio State Buckeyes men's basketball team|Ohio State]] || [[Randy Ayers]] || Regional Runner-up||6 [[1991–92 Michigan Wolverines men's basketball team|Michigan]]||L 75–71
-|-
-| Southeast || 2|| [[Oklahoma State Cowboys basketball|Oklahoma State]] || [[Eddie Sutton]] || Sweet Sixteen||6 [[1991–92 Michigan Wolverines men's basketball team|Michigan]]||L 75–72
-|-
-| Southeast || 3|| [[Arizona Wildcats men's basketball|Arizona]] || [[Lute Olson]] || Round of 64||14 [[East Tennessee State Buccaneers basketball|East Tennessee State]]||L 87–80
-|-
-| Southeast || 4|| [[North Carolina Tar Heels men's basketball|North Carolina]] || [[Dean Smith]] || Sweet Sixteen||1 [[1991–92 Ohio State Buckeyes men's basketball team|Ohio State]]||L 80–73
-|-
-| Southeast || 5|| [[Alabama Crimson Tide men's basketball|Alabama]] || [[Wimp Sanderson]] || Round of 32||4 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 64–55
-|-
-| Southeast || 6|| [[1991–92 Michigan Wolverines men's basketball team|Michigan]] || [[Steve Fisher]] || Runner Up||1 [[1991–92 Duke Blue Devils men's basketball team|Duke]]||L 71–51
-|-
-| Southeast || 7|| [[1991–92 St. John's Redmen basketball team|St. John's]] || [[Lou Carnesecca]] || Round of 64||10 [[Tulane Green Wave men's basketball|Tulane]]||L 61–57
-|-
-| Southeast || 8|| [[Nebraska Cornhuskers men's basketball|Nebraska]] || [[Danny Nee]] || Round of 64||9 [[1991–92 Connecticut Huskies men's basketball team|Connecticut]]||L 86–65
-|-
-| Southeast || 9|| [[1991–92 Connecticut Huskies men's basketball team|Connecticut]] || [[Jim Calhoun]] || Round of 32||1 [[1991–92 Ohio State Buckeyes men's basketball team|Ohio State]]||L 78–55
-|-
-| Southeast || 10|| [[Tulane Green Wave men's basketball|Tulane]] || [[Perry Clark]] || Round of 32||2 [[Oklahoma State Cowboys basketball|Oklahoma State]]||L 87–71
-|-
-| Southeast || 11|| [[Temple Owls men's basketball|Temple]] || [[John Chaney (basketball coach)|John Chaney]] || Round of 64||6 [[1991–92 Michigan Wolverines men's basketball team|Michigan]]||L 73–66
-|-
-| Southeast || 12|| [[Stanford Cardinal men's basketball|Stanford]] || [[Mike Montgomery]] || Round of 64||5 [[Alabama Crimson Tide men's basketball|Alabama]]||L 80–75
-|-
-| Southeast || 13|| [[Miami RedHawks men's basketball|Miami (OH)]] || [[Joby Wright]] || Round of 64||4 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 68–63
-|-
-| Southeast || 14|| [[1991-92 East Tennessee State Buccaneers men's basketball team|East Tennessee State]] || [[Alan LeForce]] || Round of 32||6 [[1991–92 Michigan Wolverines men's basketball team|Michigan]]||L 102–90
-|-
-| Southeast || 15|| [[Georgia Southern Eagles men's basketball|Georgia Southern]] || [[Frank Kerns]] || Round of 64||2 [[Oklahoma State Cowboys basketball|Oklahoma State]]||L 100–73
-|-
-| Southeast || 16|| [[Mississippi Valley State Delta Devils basketball|Mississippi Valley State]] || [[Lafayette Stribling]] || Round of 64||1 [[1991–92 Ohio State Buckeyes men's basketball team|Ohio State]]||L 83–56
-|-
-! colspan=7 | West
-|-
-| West || 1|| [[1991–92 UCLA Bruins men's basketball team|UCLA]] || [[Jim Harrick]] || Regional Runner-up||2 [[1991–92 Indiana Hoosiers men's basketball team|Indiana]]||L 106–79
-|-
-| West || 2|| [[1991–92 Indiana Hoosiers men's basketball team|Indiana]] || [[Bob Knight]] || National Semifinals||1 [[1991–92 Duke Blue Devils men's basketball team|Duke]]||L 81-78
-|-
-| West || 3|| [[Florida State Seminoles men's basketball|Florida State]] || [[Pat Kennedy]] || Sweet Sixteen||2 [[1991–92 Indiana Hoosiers men's basketball team|Indiana]]||L 85–74
-|-
-| West || 4|| [[Oklahoma Sooners men's basketball|Oklahoma]] || [[Billy Tubbs]] || Round of 64||13 [[Louisiana–Lafayette Ragin' Cajuns men's basketball|Southwestern Louisiana]]||L 87–83
-|-
-| West || 5|| [[DePaul Blue Demons men's basketball|DePaul]] || [[Joey Meyer (basketball)|Joey Meyer]] || Round of 64||12 [[New Mexico State Aggies men's basketball|New Mexico State]]||L 81–73
-|-
-| West || 6|| [[1991–92 Georgetown Hoyas men's basketball team|Georgetown]] || [[John Thompson (basketball)|John Thompson]] || Round of 32||3 [[Florida State Seminoles men's basketball|Florida State]]||L 78–68
-|-
-| West || 7|| [[1991–92 LSU Tigers basketball team|LSU]] || [[Dale Brown (basketball)|Dale Brown]] || Round of 32||2 [[1991–92 Indiana Hoosiers men's basketball team|Indiana]]||L 89–79
-|-
-| West || 8|| [[1991–92 Louisville Cardinals men's basketball team|Louisville]] || [[Denny Crum]] || Round of 32||1 [[1991–92 UCLA Bruins men's basketball team|UCLA]]||L 85–69
-|-
-| West || 9|| [[Wake Forest Demon Deacons men's basketball|Wake Forest]] || [[Dave Odom]] || Round of 64||8 [[1991–92 Louisville Cardinals men's basketball team|Louisville]]||L 81–58
-|-
-| West || 10|| [[BYU Cougars men's basketball|BYU]] || [[Roger Reid]] || Round of 64||7 [[1991–92 LSU Tigers basketball team|LSU]]||L 94–83
-|-
-| West || 11|| [[South Florida Bulls men's basketball|South Florida]] || [[Bobby Paschal]] || Round of 64||6 [[1991–92 Georgetown Hoyas men's basketball team|Georgetown]]||L 75–60
-|-
-| West || 12|| [[New Mexico State Aggies men's basketball|New Mexico State]] || [[Neil McCarthy (basketball coach)|Neil McCarthy]] || Sweet Sixteen||1 [[1991–92 UCLA Bruins men's basketball team|UCLA]]||L 85–78
-|-
-| West || 13|| [[Louisiana–Lafayette Ragin' Cajuns men's basketball|Southwestern Louisiana]] || [[Marty Fletcher]] || Round of 32||12 [[New Mexico State Aggies men's basketball|New Mexico State]]||L 81–73
-|-
-| West || 14|| [[Montana Grizzlies basketball|Montana]] || [[Blaine Taylor]] || Round of 64||3 [[Florida State Seminoles men's basketball|Florida State]]||L 78–68
-|-
-| West || 15|| [[Eastern Illinois Panthers men's basketball|Eastern Illinois]] || [[Rick Samuels]] || Round of 64||2 [[1991–92 Indiana Hoosiers men's basketball team|Indiana]]||L 94–55
-|-
-| West || 16|| [[Robert Morris Colonials men's basketball|Robert Morris]] || [[Jarrett Durham]] || Round of 64||1 [[1991–92 UCLA Bruins men's basketball team|UCLA]]||L 73–53
-|-
+There were 30 automatic bids awarded to the tournament - of these, 27 were given to the winners of their conference's tournament, while three were awarded to the team with the best regular-season record in their conference ([[Big Ten Conference|Big Ten]], [[Ivy League]] and [[Pac-12 Conference|Pac-10]]).
+
+Three conferences, the [[East Coast Conference (Division I)|East Coast Conference]], [[Great Midwest Conference]], and [[Metro Conference]], did not receive automatic bids to the tournament. This meant that the play-in games played prior to the 1991 tournament were not necessary for the 1992 tournament.<ref>{{cite web |title=NCAA eliminates play-in for 1992 tournament |url=https://www.upi.com/Archives/1991/09/09/NCAA-eliminates-play-in-for-1992-tournament/7180684388800/ |work=United Press International |date=September 9, 1991 |access-date=May 24, 2023}}</ref>
+
+Three conference champions made their first NCAA tournament appearances: [[1991–92 Campbell Fighting Camels basketball team|Campbell]] ([[Big South Conference|Big South]]), [[1991–92 Delaware Fightin' Blue Hens men's basketball team|Delaware]] ([[America East Conference|NAC]]), and [[1991–92 Eastern Illinois Panthers men's basketball team|Eastern Illinois]] ([[Summit League|Mid-Continent]]). Additionally, [[1991–92 Tulane Green Wave men's basketball team|Tulane]] received an at-large bid for its first appearance in the NCAA tournament.
+
+===Automatic qualifiers===
+{|class="wikitable sortable plainrowheaders"
+|+Automatic qualifiers
+|-
+!scope="col"|Conference
+!scope="col"|Team
+!scope="col" data-sort-type="number"|Appearance
+!scope="col"|Last bid
+|-
+|[[1992 ACC men's basketball tournament|ACC]]
+!scope="row" style="text-align:left"|[[1991–92 Duke Blue Devils men's basketball team|Duke]]
+|align=center|17th
+|align=center|1991
+|-
+|[[1992 Atlantic 10 men's basketball tournament|Atlantic 10]]
+!scope="row" style="text-align:left"|[[1991–92 UMass Minutemen basketball team|UMass]]
+|align=center|2nd
+|align=center|1962
+|-
+|[[1992 Big East men's basketball tournament|Big East]]
+!scope="row" style="text-align:left"|[[1991–92 Syracuse Orangemen basketball team|Syracuse]]
+|align=center|20th
+|align=center|1991
+|-
+|[[1992 Big Eight Conference men's basketball tournament|Big Eight]]
+!scope="row" style="text-align:left"|[[1991–92 Kansas Jayhawks men's basketball team|Kansas]]
+|align=center|21st
+|align=center|1991
+|-
+|[[1992 Big Sky Conference men's basketball tournament|Big Sky]]
+!scope="row" style="text-align:left"|[[1991–92 Montana Grizzlies basketball team|Montana]]
+|align=center|3rd
+|align=center|1991
+|-
+|[[1992 Big South Conference men's basketball tournament|Big South]]
+!scope="row" style="text-align:left"|[[1991–92 Campbell Fighting Camels basketball team|Campbell]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|-
+|[[List of Big Ten Conference men's basketball regular season champions|Big Ten]]
+!scope="row" style="text-align:left"|[[1991–92 Ohio State Buckeyes men's basketball team|Ohio State]]
+|align=center|18th
+|align=center|1991
+|-
+|[[1992 Big West Conference men's basketball tournament|Big West]]
+!scope="row" style="text-align:left"|[[1991–92 New Mexico State Aggies basketball team|New Mexico State]] <small>(vacated)</small>
+|align=center|–
+|align=center|1991
+|-
+|[[1992 CAA men's basketball tournament|CAA]]
+!scope="row" style="text-align:left"|[[1991–92 Old Dominion Monarchs basketball team|Old Dominion]]
+|align=center|5th
+|align=center|1986
+|-
+|[[Ivy League men's basketball|Ivy League]]
+!scope="row" style="text-align:left"|[[1991–92 Princeton Tigers men's basketball team|Princeton]]
+|align=center|18th
+|align=center|1991
+|-
+|[[1992 MAAC men's basketball tournament|MAAC]]
+!scope="row" style="text-align:left"|[[1991–92 La Salle Explorers men's basketball team|La Salle]]
+|align=center|11th
+|align=center|1990
+|-
+|[[1992 MAC men's basketball tournament|MAC]]
+!scope="row" style="text-align:left"|[[1991–92 Miami Redskins men's basketball team|Miami (OH)]]
+|align=center|13th
+|align=center|1986
+|-
+|[[1992 Midwestern Collegiate Conference men's basketball tournament|MCC]]
+!scope="row" style="text-align:left"|[[1991–92 Evansville Purple Aces men's basketball team|Evansville]]
+|align=center|3rd
+|align=center|1989
+|-
+|[[1992 MEAC men's basketball tournament|MEAC]]
+!scope="row" style="text-align:left"|[[1991–92 Howard Bison men's basketball team|Howard]]
+|align=center|2nd
+|align=center|1981
+|-
+|[[1992 Mid-Continent Conference men's basketball tournament|Mid-Continent]]
+!scope="row" style="text-align:left"|[[1991–92 Eastern Illinois Panthers men's basketball team|Eastern Illinois]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|-
+|[[1992 Missouri Valley Conference men's basketball tournament|Missouri Valley]]
+!scope="row" style="text-align:left"|[[1991–92 Southwest Missouri State Bears basketball team|Southwest Missouri State]]
+|align=center|5th
+|align=center|1990
+|-
+|[[1992 North Atlantic Conference men's basketball tournament|NAC]]
+!scope="row" style="text-align:left"|[[1991–92 Delaware Fightin' Blue Hens men's basketball team|Delaware]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|-
+|[[1992 Northeast Conference men's basketball tournament|NEC]]
+!scope="row" style="text-align:left"|[[1991–92 Robert Morris Colonials men's basketball team|Robert Morris]]
+|align=center|5th
+|align=center|1990
+|-
+|[[1992 Ohio Valley Conference men's basketball tournament|Ohio Valley]]
+!scope="row" style="text-align:left"|[[1991–92 Murray State Racers men's basketball team|Murray State]]
+|align=center|6th
+|align=center|1991
+|-
+|[[Pac-12 Conference men's basketball|Pac-10]]
+!scope="row" style="text-align:left"|[[1991–92 UCLA Bruins men's basketball team|UCLA]]
+|align=center|27th
+|align=center|1991
+|-
+|[[1992 Patriot League men's basketball tournament|Patriot]]
+!scope="row" style="text-align:left"|[[1991–92 Fordham Rams men's basketball team|Fordham]]
+|align=center|4th
+|align=center|1971
+|-
+|[[1992 SEC men's basketball tournament|SEC]]
+!scope="row" style="text-align:left"|[[1991–92 Kentucky Wildcats men's basketball team|Kentucky]]
+|align=center|33rd
+|align=center|1987
+|-
+|[[1992 Southern Conference men's basketball tournament|Southern]]
+!scope="row" style="text-align:left"|[[1991–92 East Tennessee State Buccaneers men's basketball team|East Tennessee State]]
+|align=center|5th
+|align=center|1991
+|-
+|[[1992 Southland Conference men's basketball tournament|Southland]]
+!scope="row" style="text-align:left"|[[1991–92 Northeast Louisiana Indians men's basketball team|Northeast Louisiana]]
+|align=center|5th
+|align=center|1991
+|-
+|[[1992 Sun Belt Conference men's basketball tournament|Sun Belt]]
+!scope="row" style="text-align:left"|[[1991–92 Southwestern Louisiana Ragin' Cajuns men's basketball team|Southwestern Louisiana]]
+|align=center|3rd
+|align=center|1983
+|-
+|[[1992 SWAC men's basketball tournament|SWAC]]
+!scope="row" style="text-align:left"|[[1991–92 Mississippi Valley State Delta Devils basketball team|Mississippi Valley State]]
+|align=center|2nd
+|align=center|1986
+|-
+|[[1992 Southwest Conference men's basketball tournament|SWC]]
+!scope="row" style="text-align:left"|[[1991–92 Houston Cougars men's basketball team|Houston]]
+|align=center|18th
+|align=center|1990
+|-
+|[[1992 TAAC men's basketball tournament|TAAC]]
+!scope="row" style="text-align:left"|[[1991–92 Georgia Southern Eagles men's basketball team|Georgia Southern]]
+|align=center|3rd
+|align=center|1987
+|-
+|[[1992 WAC men's basketball tournament|WAC]]
+!scope="row" style="text-align:left"|[[1991–92 BYU Cougars men's basketball team|BYU]]
+|align=center|16th
+|align=center|1991
+|-
+|[[1992 West Coast Conference men's basketball tournament|West Coast]]
+!scope="row" style="text-align:left"|[[1991–92 Pepperdine Waves men's basketball team|Pepperdine]]
+|align=center|10th
+|align=center|1991
+|}
+
+===Tournament seeds===
+{|
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+East Regional – [[Spectrum (arena)|Spectrum]], [[Philadelphia|Philadelphia, Pennsylvania]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 160px;"|School
+!scope="col" style="width: 85px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[1991–92 Duke Blue Devils men's basketball team|Duke]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|28–2
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[1991–92 Kentucky Wildcats men's basketball team|Kentucky]]
+|[[Southeastern Conference|SEC]]
+|align=center|26–6
+|align=center|Automatic
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[1991–92 UMass Minutemen basketball team|UMass]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|28–4
+|align=center|Automatic
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[1991–92 Seton Hall Pirates men's basketball team|Seton Hall]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|21–8
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[1991–92 Missouri Tigers men's basketball team|Missouri]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|20–8
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[1991–92 Syracuse Orangemen basketball team|Syracuse]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|21–9
+|align=center|Automatic
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[1991–92 UNC Charlotte 49ers men's basketball team|UNC Charlotte]]
+|[[Metro Conference|Metro]]
+|align=center|23–8
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[1991–92 Texas Longhorns men's basketball team|Texas]]
+|[[Southwest Conference|SWC]]
+|align=center|23–11
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[1991–92 Iowa Hawkeyes men's basketball team|Iowa]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|18–10
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[1991–92 Iowa State Cyclones men's basketball team|Iowa State]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|20–12
+|align=center|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[1991–92 Princeton Tigers men's basketball team|Princeton]]
+|[[Ivy League]]
+|align=center|22–5
+|align=center|Automatic
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[1991–92 West Virginia Mountaineers men's basketball team|West Virginia]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|20–11
+|align=center|At-Large
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[1991–92 La Salle Explorers men's basketball team|La Salle]]
+|[[Metro Atlantic Athletic Conference|MAAC]]
+|align=center|20–10
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[1991–92 Fordham Rams men's basketball team|Fordham]]
+|[[Patriot League|Patriot]]
+|align=center|18–12
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[1991–92 Old Dominion Monarchs basketball team|Old Dominion]]
+|[[Colonial Athletic Association|CAA]]
+|align=center|15–14
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[1991–92 Campbell Fighting Camels basketball team|Campbell]]
+|[[Big South Conference|Big South]]
+|align=center|19–11
+|align=center|Automatic
+|}
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+Midwest Regional – [[Hy-Vee Arena]], [[Kansas City, Missouri]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 160px;"|School
+!scope="col" style="width: 85px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[1991–92 Kansas Jayhawks men's basketball team|Kansas]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|26–4
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[1991–92 USC Trojans men's basketball team|USC]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|23–5
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[1991–92 Arkansas Razorbacks men's basketball team|Arkansas]]
+|[[Southeastern Conference|SEC]]
+|align=center|25–7
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[1991–92 Cincinnati Bearcats men's basketball team|Cincinnati]]
+|[[Great Midwest Conference|Great Midwest]]
+|align=center|25–4
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[1991–92 Michigan State Spartans men's basketball team|Michigan State]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|21–7
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[1991–92 Memphis State Tigers men's basketball team|Memphis State]]
+|[[Great Midwest Conference|Great Midwest]]
+|align=center|20–10
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[1991–92 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|21–11
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[1991–92 Evansville Purple Aces men's basketball team|Evansville]]
+|[[Horizon League|MCC]]
+|align=center|24–5
+|align=center|Automatic
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[1991–92 UTEP Miners men's basketball team|UTEP]]
+|[[Western Athletic Conference|WAC]]
+|align=center|25–6
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[1991–92 Houston Cougars men's basketball team|Houston]]
+|[[Southwest Conference|SWC]]
+|align=center|25–5
+|align=center|Automatic
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[1991–92 Pepperdine Waves men's basketball team|Pepperdine]]
+|[[West Coast Conference|West Coast]]
+|align=center|24–6
+|align=center|Automatic
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[1991–92 Southwest Missouri State Bears basketball team|Southwest Missouri State]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|align=center|23–7
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[1991–92 Delaware Fightin' Blue Hens men's basketball team|Delaware]]
+|[[America East Conference|NAC]]
+|align=center|27–3
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[1991–92 Murray State Racers men's basketball team|Murray State]]
+|[[Ohio Valley Conference|Ohio Valley]]
+|align=center|17–12
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[1991–92 Northeast Louisiana Indians men's basketball team|Northeast Louisiana]]
+|[[Southland Conference|Southland]]
+|align=center|19–9
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[1991–92 Howard Bison men's basketball team|Howard]]
+|[[Mid-Eastern Athletic Conference|MEAC]]
+|align=center|17–13
+|align=center|Automatic
+|}
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+West Regional – [[The Pit (arena)|The Pit]], [[Albuquerque, New Mexico]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 160px;"|School
+!scope="col" style="width: 85px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[1991–92 UCLA Bruins men's basketball team|UCLA]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|25–4
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[1991–92 Indiana Hoosiers men's basketball team|Indiana]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|23–6
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[1991–92 Florida State Seminoles men's basketball team|Florida State]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|20–9
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[1991–92 Oklahoma Sooners men's basketball team|Oklahoma]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|21–8
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[1991–92 DePaul Blue Demons men's basketball team|DePaul]]
+|[[Great Midwest Conference|Great Midwest]]
+|align=center|20–8
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[1991–92 Georgetown Hoyas men's basketball team|Georgetown]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|21–9
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[1991–92 LSU Tigers basketball team|LSU]]
+|[[Southeastern Conference|SEC]]
+|align=center|20–9
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[1991–92 Louisville Cardinals men's basketball team|Louisville]]
+|[[Metro Conference|Metro]]
+|align=center|18–10
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[1991–92 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|17–11
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[1991–92 BYU Cougars men's basketball team|BYU]]
+|[[Western Athletic Conference|WAC]]
+|align=center|25–6
+|align=center|Automatic
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[1991–92 South Florida Bulls men's basketball team|South Florida]]
+|[[Metro Conference|Metro]]
+|align=center|19–9
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[1991–92 New Mexico State Aggies basketball team|New Mexico State]] <small>(vacated)</small>
+|[[Big West Conference|Big West]]
+|align=center|23–7
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[1991–92 Southwestern Louisiana Ragin' Cajuns men's basketball team|Southwestern Louisiana]]
+|[[Sun Belt Conference|Sun Belt]]
+|align=center|20–10
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[1991–92 Montana Grizzlies basketball team|Montana]]
+|[[Big Sky Conference|Big Sky]]
+|align=center|27–3
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[1991–92 Eastern Illinois Panthers men's basketball team|Eastern Illinois]]
+|[[Summit League|Mid-Continent]]
+|align=center|17–13
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[1991–92 Robert Morris Colonials men's basketball team|Robert Morris]]
+|[[Northeast|NEC]]
+|align=center|19–11
+|align=center|Automatic
+|}
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+Southeast Regional – [[Rupp Arena]], [[Lexington, Kentucky]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 160px;"|School
+!scope="col" style="width: 85px;"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[1991–92 Ohio State Buckeyes men's basketball team|Ohio State]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|23–5
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[1991–92 Oklahoma State Cowboys basketball team|Oklahoma State]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|26–7
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[1991–92 Arizona Wildcats men's basketball team|Arizona]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|24–6
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[1991–92 North Carolina Tar Heels men's basketball team|North Carolina]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|21–9
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[1991–92 Alabama Crimson Tide men's basketball team|Alabama]]
+|[[Southeastern Conference|SEC]]
+|align=center|25–8
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[1991–92 Michigan Wolverines men's basketball team|Michigan]] <small>(vacated Final Four)</small>
+|[[Big Ten Conference|Big Ten]]
+|align=center|20–8
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[1991–92 St. John's Redmen basketball team|St. John's]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|19–10
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[1991–92 Nebraska Cornhuskers men's basketball team|Nebraska]]
+|[[Big Eight Conference|Big Eight]]
+|align=center|19–9
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[1991–92 Connecticut Huskies men's basketball team|Connecticut]]
+|[[Big East Conference (1979–2013)|Big East]]
+|align=center|19–9
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[1991–92 Tulane Green Wave men's basketball team|Tulane]]
+|[[Metro Conference|Metro]]
+|align=center|21–8
+|align=center|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[1991–92 Temple Owls men's basketball team|Temple]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|17–12
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[1991–92 Stanford Cardinal men's basketball team|Stanford]]
+|[[Pac-12 Conference|Pac-10]]
+|align=center|18–10
+|align=center|At-Large
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[1991–92 Miami Redskins men's basketball team|Miami (OH)]]
+|[[Mid-American Conference|MAC]]
+|align=center|23–7
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[1991–92 East Tennessee State Buccaneers men's basketball team|East Tennessee State]]
+|[[Southern Conference|Southern]]
+|align=center|23–6
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[1991–92 Georgia Southern Eagles men's basketball team|Georgia Southern]]
+|[[ASUN Conference|TAAC]]
+|align=center|25–5
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[1991–92 Mississippi Valley State Delta Devils basketball team|Mississippi Valley State]]
+|[[Southwestern Athletic Conference|SWAC]]
+|align=center|16–13
+|align=center|Automatic
+|}
 |}
 
 ==Bracket==
-<nowiki>*</nowiki> – Denotes overtime period
-
 ===East Regional – Philadelphia, Pennsylvania===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals
  | subgroup1= '''[[Greensboro Coliseum|Greensboro]]'''
  | subgroup2= '''[[Greensboro Coliseum|Greensboro]]'''
  | subgroup3= '''[[Worcester Centrum|Worcester]]'''
@@ -332,7 +761,7 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
  | RD2-score05=71
  | RD2-seed06=3
  | RD2-team06='''Massachusetts'''
- | RD2-score06='''77'''
+ | RD2-score06='''77<sup>OT</sup>'''
  | RD2-seed07=10
  | RD2-team07=Iowa State
  | RD2-score07=98
@@ -344,7 +773,7 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
  | RD3-score01='''81'''
  | RD3-seed02=4
  | RD3-team02=Seton Hall
- | RD3-score02=69
+ | RD3-score02=68
  | RD3-seed03=3
  | RD3-team03=Massachusetts
  | RD3-score03=77
@@ -353,14 +782,14 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
  | RD3-score04='''87'''
  | RD4-seed01=1
  | RD4-team01='''Duke'''
- | RD4-score01='''104'''
+ | RD4-score01='''[[The Shot (Duke–Kentucky)|104<sup>OT</sup>]]'''
  | RD4-seed02=2
  | RD4-team02=Kentucky
- | RD4-score02=103*
+ | RD4-score02=[[The Shot (Duke–Kentucky)|103]]
 }}
 
 ===West Regional – Albuquerque, New Mexico===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
  | subgroup1= '''[[Arizona State University Activity Center|Tempe]]'''
  | subgroup2= '''[[Arizona State University Activity Center|Tempe]]'''
  | subgroup3= '''[[BSU Pavilion|Boise]]'''
@@ -380,7 +809,7 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
  | RD1-team05=DePaul
  | RD1-score05=73
  | RD1-seed06=12
- | RD1-team06='''New Mexico State'''
+ | RD1-team06='''{{strikethrough|New Mexico State}}'''
  | RD1-score06='''81'''
  | RD1-seed07=4
  | RD1-team07=Oklahoma
@@ -419,7 +848,7 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
  | RD2-team02=Louisville
  | RD2-score02=69
  | RD2-seed03=12
- | RD2-team03='''New Mexico State'''
+ | RD2-team03='''{{strikethrough|New Mexico State}}'''
  | RD2-score03='''81'''
  | RD2-seed04=13
  | RD2-team04=Southwest Louisiana
@@ -440,7 +869,7 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
  | RD3-team01='''UCLA'''
  | RD3-score01='''85'''
  | RD3-seed02=12
- | RD3-team02=New Mexico State
+ | RD3-team02={{strikethrough|New Mexico State}}
  | RD3-score02=78
  | RD3-seed03=3
  | RD3-team03=Florida State
@@ -456,13 +885,15 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
  | RD4-score02='''106'''
 }}
 
+New Mexico State vacated its appearance in the 1992 NCAA tournament due to sanctions from the [[Neil McCarthy (basketball)#Academic scandals|Neil McCarthy scandal]]. Unlike forfeiture, a vacated game does not result in the other school being credited with a win, only with New Mexico State removing the wins from its own record.
+
 ===Southeast Regional – Lexington, Kentucky===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
  | subgroup1= '''[[Riverfront Coliseum|Cincinnati]]'''
  | subgroup2= '''[[Riverfront Coliseum|Cincinnati]]'''
  | subgroup3= '''[[Omni Coliseum|Atlanta]]'''
  | subgroup4= '''[[Omni Coliseum|Atlanta]]'''
-| RD1-team01='''Ohio St '''
+| RD1-team01='''Ohio State'''
  | RD1-score01='''83'''
  | RD1-seed02=16
  | RD1-team02=Mississippi Valley State
@@ -550,11 +981,11 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
  | RD4-score01=71
  | RD4-seed02=6
  | RD4-team02='''Michigan '''
- | RD4-score02='''75'''
+ | RD4-score02='''75<sup>OT</sup>'''
 }}
 
 ===Midwest Regional – Kansas City, Missouri===
-{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+{{16TeamBracket | RD3=Regional semifinals | RD4=Regional Finals | RD1-seed01=1
  | subgroup1= '''[[University of Dayton Arena|Dayton]]'''
  | subgroup2= '''[[University of Dayton Arena|Dayton]]'''
  | subgroup3= '''[[Bradley Center|Milwaukee]]'''
@@ -638,7 +1069,7 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
  | RD3-score02='''69'''
  | RD3-seed03=6
  | RD3-team03='''Memphis State'''
- | RD3-score03='''83'''
+ | RD3-score03='''83<sup>OT</sup>'''
  | RD3-seed04=7
  | RD3-team04=Georgia Tech
  | RD3-score04=79
@@ -650,33 +1081,34 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
  | RD4-score02=57
 }}
 
-===Final Four @ Minneapolis, Minnesota===
-{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game
+===Final Four – Minneapolis, Minnesota===
+{{main|1992 NCAA Division I men's basketball championship game}}
+{{4TeamBracket | RD1=National semifinals | RD2=National Championship Game
  | RD1-seed1=E1
  | RD1-team1='''Duke'''
  | RD1-score1='''81'''
  | RD1-seed2=W2
  | RD1-team2=Indiana
  | RD1-score2=78
- | RD1-seed3=S6
- | RD1-team3='''Michigan'''
+ | RD1-seed3=SE6
+ | RD1-team3='''{{strikethrough|Michigan}}'''
  | RD1-score3='''76'''
- | RD1-seed4=M4
+ | RD1-seed4=MW4
  | RD1-team4=Cincinnati
  | RD1-score4=72
  | RD2-seed1=E1
  | RD2-team1='''Duke'''
  | RD2-score1='''71'''
- | RD2-seed2=S6
- | RD2-team2=Michigan
+ | RD2-seed2=SE6
+ | RD2-team2={{strikethrough|Michigan}}
  | RD2-score2=51
 }}
 
-'''#''' signifies Michigan's final two games, in the 1992 Final Four, were vacated on November 7, 2002, as part of the settlement of the [[University of Michigan basketball scandal]].  Unlike forfeiture, a vacated game does not result in the other school being credited with a win, only with the removal of any Michigan wins from all records.
+Michigan's final two games in the 1992 Final Four were vacated on November 7, 2002, as part of the settlement of the [[University of Michigan basketball scandal]] due to [[Chris Webber]]’s ineligibility. Unlike forfeiture, a vacated game does not result in the other school being credited with a win, only with the removal of any Michigan wins from all records.
 
 ==Announcers==
-*[[Jim Nantz]] and [[Billy Packer]] – Southeast Regional at Lexington, Kentucky; Final Four at Minneapolis, Minnesota
-*[[Dick Stockton]] and [[Al McGuire]]/ [[Greg Kelser]] (afternoon session of first round only) – First & Second Round at Milwaukee, Wisconsin; Midwest Regional at Kansas City, Missouri
+*[[Jim Nantz]]/[[Billy Packer]]/Curry Kirkpatrick – Southeast Regional at Lexington, Kentucky; Final Four at Minneapolis, Minnesota
+*[[Dick Stockton]] and [[Al McGuire]]/[[Greg Kelser]] (afternoon session of first round only) – First & Second Round at Milwaukee, Wisconsin; Midwest Regional at Kansas City, Missouri
 *[[Verne Lundquist]] and [[Len Elmore]] – First & Second Round at Cincinnati; East Regional at Philadelphia, Pennsylvania
 *[[Greg Gumbel]] and [[Quinn Buckner]] – First & Second Round at Atlanta, Georgia; West Regional at Albuquerque, New Mexico
 *[[James Brown (television)|James Brown]] and [[Bill Raftery]] – First & Second Round at Worcester, Massachusetts
@@ -686,24 +1118,28 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
 *[[Mel Proctor]] and [[Dan Bonner]] – First & Second Round at Greensboro, North Carolina
 
 ==See also==
-* [[1992 NCAA Division II Men's Basketball Tournament]]
-* [[1992 NCAA Division III Men's Basketball Tournament]]
-* [[1992 NCAA Division I Women's Basketball Tournament]]
-* [[NCAA Division II Women's Basketball Tournament|1992 NCAA Division II Women's Basketball Tournament]]
-* [[NCAA Division III Women's Basketball Tournament|1992 NCAA Division III Women's Basketball Tournament]]
+* [[1992 NCAA Division II men's basketball tournament]]
+* [[1992 NCAA Division III men's basketball tournament]]
+* [[1992 NCAA Division I women's basketball tournament]]
+* [[NCAA Division II women's basketball tournament|1992 NCAA Division II women's basketball tournament]]
+* [[NCAA Division III women's basketball tournament|1992 NCAA Division III women's basketball tournament]]
 * [[1992 National Invitation Tournament]]
 * [[National Women's Invitation Tournament|1992 National Women's Invitation Tournament]]
-* [[1992 NAIA Division I Men's Basketball Tournament]]
-* [[NAIA Men's Basketball Championships#Division II|1992 NAIA Division II Men's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships|1992 NAIA Division I Women's Basketball Tournament]]
-* [[NAIA Women's Basketball Championships#Division II|1992 NAIA Division II Women's Basketball Tournament]]
+* [[1992 NAIA Division I men's basketball tournament]]
+* [[NAIA Men's Basketball Championships#Division II|1992 NAIA Division II men's basketball tournament]]
+* [[NAIA Women's Basketball Championships|1992 NAIA Division I women's basketball tournament]]
+* [[NAIA Women's Basketball Championships#Division II|1992 NAIA Division II women's basketball tournament]]
 
 ==References==
 {{reflist}}
 
-{{NCAA Men's Division I Basketball Tournament navbox}}
+{{NCAA Division I men's basketball tournament navbox}}
+{{1992 NCAA Division I men's basketball tournament navbox}}
 {{1992 Duke Blue Devils men's basketball navbox}}
 {{Sports Emmy Award for Outstanding Live Sports Series}}
 
-[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:NCAA Division I men's basketball tournament]]
 [[Category:1991–92 NCAA Division I men's basketball season|Ncaa]]
+[[Category:1992 in sports in Minnesota|NCAA Men's Division I Basketball Championship]]
+[[Category:March 1992 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:April 1992 sports events in the United States|NCAA Division I men's basketball tournament]]
